@@ -1,0 +1,65 @@
+# Fitness Hub: systemd *user* service. Installed by deploy/install.sh into
+# ~/.config/systemd/user/fitness-hub.service (re-running install.sh refreshes it).
+#
+# The hub listens on a Unix socket ONLY: /run/user/<uid>/fitness-hub/hub.sock (%t below), mode
+# 0600 in a 0700 folder that systemd creates for this user. It has no TCP port at all, so other
+# accounts on this server can't reach it either. Reach it from your PC through an SSH tunnel to
+# that socket (deploy/connect_from_pc.sh or .bat). Don't add FITNESS_HUB_HOST or a TCP port here.
+# The only other way in is the opt-in phone access, and only when the user explicitly asks for it:
+# the drop-in deploy/tailscale.conf.example (CODEX_HOSTING_GUIDE.md, section 14) adds a second Unix
+# socket for Tailscale Serve, gated by Tailscale identity. Still AF_UNIX only; never Funnel.
+
+[Unit]
+Description=Fitness Hub (Unix socket only: %t/fitness-hub/hub.sock)
+Documentation=file://%h/fitness-hub/deploy/CODEX_HOSTING_GUIDE.md
+# Give up after 10 failed starts in 5 minutes instead of retrying forever (see Restart=).
+StartLimitIntervalSec=300
+StartLimitBurst=10
+
+[Service]
+Type=notify
+NotifyAccess=main
+WorkingDirectory=%h/fitness-hub
+# -I: isolated mode (ignores PYTHON* variables, user site-packages and the script folder on sys.path)
+ExecStart=/usr/bin/python3 -I -u %h/fitness-hub/server.py
+# %t is this user's runtime folder (/run/user/<uid>). systemd creates fitness-hub/ there (0700)
+# when the hub starts and removes it when the hub stops.
+RuntimeDirectory=fitness-hub
+RuntimeDirectoryMode=0700
+Environment=FITNESS_HUB_SOCKET=%t/fitness-hub/hub.sock
+# The port that the tunnel's Host header names (127.0.0.1:8642 on the PC). Nothing listens on it here.
+Environment=FITNESS_HUB_PORT=8642
+Restart=on-failure
+RestartSec=5
+# Exit code 2 = refused configuration or an unsafe socket folder: don't retry.
+RestartPreventExitStatus=2
+TimeoutStartSec=30
+TimeoutStopSec=15
+
+# Hardening that works in a user unit without privileges (seccomp, no-new-privileges, umask).
+UMask=0077
+NoNewPrivileges=yes
+LockPersonality=yes
+RestrictRealtime=yes
+RestrictSUIDSGID=yes
+RestrictNamespaces=yes
+MemoryDenyWriteExecute=yes
+# Unix sockets only: the hub cannot open any TCP or UDP socket, in or out.
+RestrictAddressFamilies=AF_UNIX
+SystemCallArchitectures=native
+SystemCallFilter=@system-service
+SystemCallFilter=~@privileged
+SystemCallErrorNumber=EPERM
+# Resource caps (applied where the user manager has the controllers; ignored otherwise).
+MemoryMax=512M
+TasksMax=128
+
+# Deliberately NOT used: PrivateTmp=, ProtectSystem=, ProtectHome=, ReadWritePaths=,
+# PrivateDevices=, ProtectKernelModules=, ProtectKernelLogs= and similar. In a user service
+# they need a user namespace with capabilities, which stock Ubuntu 22.04/24.04 doesn't give:
+# the mount-based ones are then silently skipped (no protection), and the ones that shrink
+# the capability bounding set stop the unit with status=218/CAPABILITIES. Don't add them
+# in a drop-in either. The hub's real boundary is the private Unix socket.
+
+[Install]
+WantedBy=default.target

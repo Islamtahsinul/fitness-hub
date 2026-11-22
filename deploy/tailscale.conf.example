@@ -1,0 +1,39 @@
+# Fitness Hub: OPT-IN phone access over Tailscale. Use it only when the user has explicitly asked
+# for phone access (CODEX_HOSTING_GUIDE.md, section 14). Without this file the hub is reachable only
+# through the SSH tunnel, exactly as before.
+#
+# What it does
+#   The hub opens a SECOND Unix socket, %t/fitness-hub/ts.sock (that is /run/user/<uid>/fitness-hub/),
+#   mode 600 in the same private 700 folder as hub.sock. Only you and root (Tailscale's tailscaled,
+#   which runs Tailscale Serve) can open it. Every request on it needs the Tailscale-User-Login that
+#   Serve adds, for one of the logins below, X-Forwarded-Host equal to the name below, and
+#   X-Forwarded-Proto: https; anything else gets 403, with no fallback. Saves also need
+#   Origin https://<that name>.
+#   No TCP port is opened: RestrictAddressFamilies=AF_UNIX in the service stays as it is. The main
+#   socket and its SSH tunnel are unchanged, and they still refuse any request with Tailscale or
+#   proxy headers.
+#
+# Install (as the user, never as root; the guide has the full steps and the expected output)
+#   mkdir -p -m 700 ~/.config/systemd/user/fitness-hub.service.d
+#   install -m 600 ~/fitness-hub/deploy/tailscale.conf.example ~/.config/systemd/user/fitness-hub.service.d/tailscale.conf
+#   Replace the two placeholders in angle brackets below. The hub refuses to start until you do.
+#   systemctl --user daemon-reload && systemctl --user restart fitness-hub
+#   Then the root-only Serve command (guide, section 14), then: bash ~/fitness-hub/deploy/verify.sh
+#
+# The values (no spaces, no quotes)
+#   FITNESS_HUB_TS_HOST   this server's exact MagicDNS name, such as homeserver.tail1234.ts.net
+#                         (Self.DNSName in `tailscale status --json`, without the final dot).
+#                         No https://, no port, no wildcard.
+#   FITNESS_HUB_TS_USERS  the Tailscale login(s) allowed in, exactly as Tailscale shows them (such as
+#                         you@example.com or you@github), comma-separated, compared ignoring case.
+#                         No wildcards, no bare domains. Devices signed in as these logins get full
+#                         read and write access to the hub's data.
+#
+# Turn phone access off: remove the Serve config (guide, section 14), delete this file, then
+#   systemctl --user daemon-reload && systemctl --user restart fitness-hub
+# Put nothing else in this file: no FITNESS_HUB_HOST, no ports, no sandboxing or address-family changes.
+
+[Service]
+Environment=FITNESS_HUB_TS_SOCKET=%t/fitness-hub/ts.sock
+Environment=FITNESS_HUB_TS_HOST=<machine>.<tailnet>.ts.net
+Environment=FITNESS_HUB_TS_USERS=<your-tailscale-login>

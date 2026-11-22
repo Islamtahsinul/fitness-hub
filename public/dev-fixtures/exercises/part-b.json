@@ -1,0 +1,209 @@
+[
+ {
+  "id": "goblet-squat",
+  "name": "Goblet squat",
+  "category": "squat",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "dumbbell"
+  ],
+  "muscles": [
+   "quads",
+   "glutes"
+  ],
+  "why": "Goblet squat builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [
+   "box-squat-bw"
+  ],
+  "progressions": [],
+  "dose": "3 × 8–10",
+  "video": "https://www.youtube.com/results?search_query=goblet+squat+form"
+ },
+ {
+  "id": "farmer-carry",
+  "name": "Farmer carry",
+  "category": "carry",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "dumbbells"
+  ],
+  "muscles": [
+   "grip",
+   "traps",
+   "core"
+  ],
+  "why": "Farmer carry builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "",
+  "regressions": [
+   "glute-bridge"
+  ],
+  "progressions": [],
+  "dose": "4 × 30 m",
+  "video": "https://www.youtube.com/results?search_query=farmer+carry+form"
+ },
+ {
+  "id": "db-rdl",
+  "name": "Dumbbell Romanian deadlift",
+  "category": "hinge",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "dumbbells"
+  ],
+  "muscles": [
+   "hamstrings",
+   "glutes"
+  ],
+  "why": "Dumbbell Romanian deadlift builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 8–10",
+  "video": "https://www.youtube.com/results?search_query=dumbbell+romanian+deadlift+form"
+ },
+ {
+  "id": "lat-pulldown",
+  "name": "Lat pulldown",
+  "category": "pull",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "lat pulldown machine"
+  ],
+  "muscles": [
+   "lats"
+  ],
+  "why": "Lat pulldown builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 8–12",
+  "video": "https://www.youtube.com/results?search_query=lat+pulldown+form"
+ },
+ {
+  "id": "push-up",
+  "name": "Push-up",
+  "category": "push",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "mat"
+  ],
+  "muscles": [
+   "chest",
+   "triceps"
+  ],
+  "why": "Push-up builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × AMRAP",
+  "video": "https://www.youtube.com/results?search_query=push-up+form"
+ },
+ {
+  "id": "plank",
+  "name": "Plank",
+  "category": "core",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "mat"
+  ],
+  "muscles": [
+   "core"
+  ],
+  "why": "Plank builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 30 s",
+  "video": "https://www.youtube.com/results?search_query=plank+form"
+ }
+]

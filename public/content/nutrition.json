@@ -1,0 +1,1174 @@
+{
+ "foods": [
+  {
+   "name": "Milk, semi-skimmed",
+   "category": "dairy",
+   "serving": "250 ml glass",
+   "kcal": 120,
+   "protein_g": 9,
+   "calcium_mg": 300,
+   "notes": "The cheapest dairy protein: about 40p per 20 g of protein at 4-pint prices. The easiest calcium you can get."
+  },
+  {
+   "name": "Milk, whole",
+   "category": "dairy",
+   "serving": "250 ml glass",
+   "kcal": 165,
+   "protein_g": 8.5,
+   "calcium_mg": 300,
+   "notes": "About 45 kcal more per glass than semi-skimmed. Use it in shakes on step-up days."
+  },
+  {
+   "name": "Fat-free Greek-style yoghurt (own brand)",
+   "category": "dairy",
+   "serving": "150 g",
+   "kcal": 90,
+   "protein_g": 10,
+   "calcium_mg": 260,
+   "notes": "About 6–7 g protein per 100 g, so less per pot than strained Greek yoghurt but more per pound: about 50–60p per 20 g from a 1 kg tub. Plain yoghurt rarely contains gelatine, but check the label."
+  },
+  {
+   "name": "Greek yoghurt, strained (0% fat)",
+   "category": "dairy",
+   "serving": "170 g pot",
+   "kcal": 100,
+   "protein_g": 17,
+   "calcium_mg": 190,
+   "notes": "About 10 g protein per 100 g. Dearer than own-brand Greek-style yoghurt."
+  },
+  {
+   "name": "Skyr, natural",
+   "category": "dairy",
+   "serving": "150 g",
+   "kcal": 95,
+   "protein_g": 16,
+   "calcium_mg": 150,
+   "notes": "About 10–11 g protein per 100 g. Some skyr is made with rennet: check the label if that matters to you."
+  },
+  {
+   "name": "Quark, fat-free",
+   "category": "dairy",
+   "serving": "100 g",
+   "kcal": 65,
+   "protein_g": 12,
+   "calcium_mg": 120,
+   "notes": "Very lean and thick. Stir it into porridge or a curry. Check the label for rennet if you avoid it."
+  },
+  {
+   "name": "Natural yoghurt, low fat",
+   "category": "dairy",
+   "serving": "150 g",
+   "kcal": 85,
+   "protein_g": 7,
+   "calcium_mg": 240,
+   "notes": "Cheap raita base, and more calcium per pot than strained yoghurt."
+  },
+  {
+   "name": "Cottage cheese, reduced fat",
+   "category": "dairy",
+   "serving": "150 g (half a 300 g tub)",
+   "kcal": 100,
+   "protein_g": 16,
+   "calcium_mg": 190,
+   "notes": "Budget brands were about 30–55p per 100 g. Some cottage cheese uses rennet: look for 'suitable for vegetarians' if you avoid animal rennet."
+  },
+  {
+   "name": "Cheddar",
+   "category": "dairy",
+   "serving": "30 g (matchbox size)",
+   "kcal": 125,
+   "protein_g": 7.5,
+   "calcium_mg": 220,
+   "notes": "Energy-dense and rich in calcium. If you avoid animal rennet, 'suitable for vegetarians' cheddar uses non-animal rennet."
+  },
+  {
+   "name": "Paneer",
+   "category": "dairy",
+   "serving": "80 g",
+   "kcal": 260,
+   "protein_g": 21,
+   "calcium_mg": 430,
+   "notes": "Usually set with acid such as lemon juice or citric acid rather than rennet (check the label). CoFID value; supermarket paneer often has less protein."
+  },
+  {
+   "name": "Halloumi",
+   "category": "dairy",
+   "serving": "80 g (about a third of a block)",
+   "kcal": 250,
+   "protein_g": 19,
+   "calcium_mg": 635,
+   "notes": "Very high in calcium but salty. Rennet varies by brand: check the label."
+  },
+  {
+   "name": "Soya drink, unsweetened, calcium-fortified",
+   "category": "dairy-alternative",
+   "serving": "250 ml glass",
+   "kcal": 85,
+   "protein_g": 8,
+   "calcium_mg": 300,
+   "notes": "The only plant drink close to milk for protein. Organic versions are usually not fortified."
+  },
+  {
+   "name": "Eggs",
+   "category": "eggs",
+   "serving": "2 medium",
+   "kcal": 135,
+   "protein_g": 13,
+   "calcium_mg": 45,
+   "notes": "About 19–25p an egg, or 60–80p per 20 g of protein. Batch-boil 6 at a time."
+  },
+  {
+   "name": "Egg whites, liquid (carton)",
+   "category": "eggs",
+   "serving": "150 g",
+   "kcal": 70,
+   "protein_g": 16,
+   "calcium_mg": 10,
+   "notes": "Pour and cook: no egg-cracking with one hand."
+  },
+  {
+   "name": "Chicken breast, skinless (fresh or frozen)",
+   "category": "meat",
+   "serving": "150 g raw (about 110 g cooked)",
+   "kcal": 160,
+   "protein_g": 36,
+   "calcium_mg": 10,
+   "notes": "Halal fillets were about £7–10 per kg in supermarkets (60–95p per 20 g of protein); butchers' bulk boxes, halal ones included, are often cheaper. Frozen packs can contain added water, so check the % chicken."
+  },
+  {
+   "name": "Chicken thigh fillets, skinless",
+   "category": "meat",
+   "serving": "150 g raw",
+   "kcal": 210,
+   "protein_g": 28,
+   "calcium_mg": 15,
+   "notes": "Usually cheaper than breast and hard to dry out. The fat varies with trimming. Buy halal if you eat halal."
+  },
+  {
+   "name": "Beef mince, lean 5% fat",
+   "category": "meat",
+   "serving": "125 g raw",
+   "kcal": 165,
+   "protein_g": 27,
+   "calcium_mg": 12,
+   "notes": "Rich in zinc and iron. Ask your butcher for lean mince (halal if you eat halal)."
+  },
+  {
+   "name": "Lamb or beef mince, standard",
+   "category": "meat",
+   "serving": "125 g raw",
+   "kcal": 265,
+   "protein_g": 24,
+   "calcium_mg": 15,
+   "notes": "About 15–20% fat. Cheaper than lean mince, often cheapest at a butcher's: stretch it with red lentils or soya mince."
+  },
+  {
+   "name": "Cooked chicken pieces, ready to eat",
+   "category": "meat",
+   "serving": "100 g pack",
+   "kcal": 150,
+   "protein_g": 30,
+   "calcium_mg": 7,
+   "notes": "No-cook protein for one-handed lunches, but dear per gram. Check for a halal logo if you eat halal."
+  },
+  {
+   "name": "Beef jerky",
+   "category": "meat",
+   "serving": "30 g bag",
+   "kcal": 90,
+   "protein_g": 13,
+   "calcium_mg": 5,
+   "notes": "Light hike protein. Salty and dear. Look for a halal logo if you eat halal."
+  },
+  {
+   "name": "Tuna, tinned in brine (drained)",
+   "category": "fish",
+   "serving": "1 tin (145 g, about 100 g drained)",
+   "kcal": 110,
+   "protein_g": 25,
+   "calcium_mg": 10,
+   "notes": "Own-brand tins were about 60p: roughly 50p per 20 g of protein. Lean, but not an oily fish."
+  },
+  {
+   "name": "Sardines in tomato sauce, tinned (with bones)",
+   "category": "fish",
+   "serving": "1 tin (120 g)",
+   "kcal": 210,
+   "protein_g": 22,
+   "calcium_mg": 545,
+   "notes": "About 60–75p a tin. Eat the soft bones: one of the best calcium foods there is. Counts as an oily fish."
+  },
+  {
+   "name": "Mackerel fillets in tomato sauce, tinned",
+   "category": "fish",
+   "serving": "1 tin (125 g)",
+   "kcal": 225,
+   "protein_g": 17.5,
+   "calcium_mg": 25,
+   "notes": "Oily fish, but dearer per gram of protein than sardines (about £1.20–1.50 a tin). Typical label values."
+  },
+  {
+   "name": "Soya mince or chunks, dried (TVP)",
+   "category": "plant-protein",
+   "serving": "40 g dry (about 120 g soaked)",
+   "kcal": 140,
+   "protein_g": 21,
+   "calcium_mg": 135,
+   "notes": "The cheapest protein here: about 20–35p per 20 g. Plant-only, so it suits vegetarian and halal diets. Simmer it straight in a sauce with extra water, so there's nothing to drain or squeeze. Typical label values; brands vary."
+  },
+  {
+   "name": "Red lentils, dried",
+   "category": "plant-protein",
+   "serving": "60 g dry (about 150 g cooked)",
+   "kcal": 185,
+   "protein_g": 15,
+   "calcium_mg": 20,
+   "notes": "About 15–35p per 20 g of protein. Cooks in 15–20 minutes with no soaking: the base of dal."
+  },
+  {
+   "name": "Chana dal (split chickpeas), dried",
+   "category": "plant-protein",
+   "serving": "60 g dry",
+   "kcal": 195,
+   "protein_g": 13.5,
+   "calcium_mg": 30,
+   "notes": "About £2–3 per kg from Asian grocers and big supermarkets. Soak, then simmer until soft (40–60 minutes)."
+  },
+  {
+   "name": "Green lentils, tinned (drained)",
+   "category": "plant-protein",
+   "serving": "half a tin (130 g)",
+   "kcal": 120,
+   "protein_g": 10,
+   "calcium_mg": 25,
+   "notes": "Ready to use. Rinse first."
+  },
+  {
+   "name": "Chickpeas, tinned (drained)",
+   "category": "plant-protein",
+   "serving": "half a tin (120 g)",
+   "kcal": 155,
+   "protein_g": 10,
+   "calcium_mg": 60,
+   "notes": "Own-brand tins were about 37–45p: about 40–45p per 20 g of protein."
+  },
+  {
+   "name": "Kidney beans, tinned (drained)",
+   "category": "plant-protein",
+   "serving": "half a tin (120 g)",
+   "kcal": 120,
+   "protein_g": 10,
+   "calcium_mg": 45,
+   "notes": "A chilli staple. High in fibre."
+  },
+  {
+   "name": "Baked beans",
+   "category": "plant-protein",
+   "serving": "half a 415 g tin",
+   "kcal": 170,
+   "protein_g": 10,
+   "calcium_mg": 85,
+   "notes": "Cheap and quick. Plain baked beans are meat-free; avoid the 'with sausages' kind."
+  },
+  {
+   "name": "Tofu, firm, calcium-set",
+   "category": "plant-protein",
+   "serving": "100 g (about a third of a block)",
+   "kcal": 125,
+   "protein_g": 13,
+   "calcium_mg": 300,
+   "notes": "Calcium only counts if it's set with calcium sulphate (E516) or calcium chloride (E509)."
+  },
+  {
+   "name": "Hummus",
+   "category": "plant-protein",
+   "serving": "50 g (2 heaped tbsp)",
+   "kcal": 155,
+   "protein_g": 3.5,
+   "calcium_mg": 20,
+   "notes": "Mostly fat. A calorie booster, not a protein source."
+  },
+  {
+   "name": "Peanut butter (100% peanuts)",
+   "category": "nuts-seeds",
+   "serving": "1 heaped tbsp (20 g)",
+   "kcal": 120,
+   "protein_g": 4.5,
+   "calcium_mg": 7,
+   "notes": "A 1 kg tub works out at about 35–50p per 20 g of protein, but that's over 500 kcal: treat it as a calorie food."
+  },
+  {
+   "name": "Peanuts, plain or dry-roasted",
+   "category": "nuts-seeds",
+   "serving": "small handful (30 g)",
+   "kcal": 170,
+   "protein_g": 7.5,
+   "calcium_mg": 18,
+   "notes": "Cheaper than almonds, and an easy 170 kcal."
+  },
+  {
+   "name": "Tahini",
+   "category": "nuts-seeds",
+   "serving": "1 tbsp (15 g)",
+   "kcal": 90,
+   "protein_g": 3,
+   "calcium_mg": 100,
+   "notes": "Calcium varies: unhulled tahini has more."
+  },
+  {
+   "name": "Whey protein powder",
+   "category": "protein-powder",
+   "serving": "1 scoop (30 g)",
+   "kcal": 115,
+   "protein_g": 23,
+   "calcium_mg": 120,
+   "notes": "A convenience food: about 80p–£1.20 per 20 g of protein at supermarket prices for halal-certified tubs (bulk online offers can be cheaper), more than milk, yoghurt, tuna or soya mince. If you eat halal, look for a halal logo and the certifier's name: whey comes from cheese-making, so rennet and flavourings matter."
+  },
+  {
+   "name": "Vegan protein powder (pea or soya)",
+   "category": "protein-powder",
+   "serving": "1 scoop (30 g)",
+   "kcal": 115,
+   "protein_g": 21,
+   "calcium_mg": 50,
+   "notes": "Plant-only, so it suits vegetarian, vegan and halal diets with no rennet question. Check the flavourings."
+  },
+  {
+   "name": "Porridge oats",
+   "category": "grains",
+   "serving": "50 g dry",
+   "kcal": 190,
+   "protein_g": 5.5,
+   "calcium_mg": 25,
+   "notes": "Own-brand oats were 9–14p per 100 g. The standard day uses 80 g."
+  },
+  {
+   "name": "Wheat biscuits (Weetabix-type)",
+   "category": "grains",
+   "serving": "2 biscuits (37.5 g)",
+   "kcal": 135,
+   "protein_g": 4.5,
+   "calcium_mg": 15,
+   "notes": "Fortified with iron and B vitamins. Good with milk before bed."
+  },
+  {
+   "name": "Granola",
+   "category": "grains",
+   "serving": "50 g",
+   "kcal": 220,
+   "protein_g": 4.5,
+   "calcium_mg": 25,
+   "notes": "Energy-dense, which helps when you're gaining. Check the sugar."
+  },
+  {
+   "name": "Wholemeal bread",
+   "category": "grains",
+   "serving": "2 medium slices (80 g)",
+   "kcal": 175,
+   "protein_g": 7.5,
+   "calcium_mg": 85,
+   "notes": "UK law adds calcium to white and brown flour but not wholemeal, so white bread has a little more calcium."
+  },
+  {
+   "name": "Chapati, shop-bought",
+   "category": "grains",
+   "serving": "1 medium (45 g)",
+   "kcal": 140,
+   "protein_g": 3.5,
+   "calcium_mg": 25,
+   "notes": "Typical label values. Cheaper by the pack from Asian grocers. Check the label if you avoid ghee or milk."
+  },
+  {
+   "name": "Tortilla wrap, plain",
+   "category": "grains",
+   "serving": "1 wrap (62 g)",
+   "kcal": 175,
+   "protein_g": 5,
+   "calcium_mg": 90,
+   "notes": "The easiest one-handed lunch base."
+  },
+  {
+   "name": "Basmati rice, cooked",
+   "category": "grains",
+   "serving": "180 g cooked (about 60 g dry)",
+   "kcal": 210,
+   "protein_g": 5,
+   "calcium_mg": 25,
+   "notes": "Batch-cook it, then chill it within an hour, eat it within 24 hours and reheat it only once, until steaming hot (FSA)."
+  },
+  {
+   "name": "Microwave rice pouch",
+   "category": "grains",
+   "serving": "1 pouch (250 g)",
+   "kcal": 380,
+   "protein_g": 8,
+   "calcium_mg": 20,
+   "notes": "No-prep carbs, but dearer than a bag of rice."
+  },
+  {
+   "name": "Pasta, dried",
+   "category": "grains",
+   "serving": "75 g dry (about 180 g cooked)",
+   "kcal": 255,
+   "protein_g": 8.5,
+   "calcium_mg": 20,
+   "notes": "Lift it out with a slotted spoon: never tip a pan of boiling water one-handed."
+  },
+  {
+   "name": "Potato, baked with skin",
+   "category": "grains",
+   "serving": "1 medium (200 g cooked)",
+   "kcal": 195,
+   "protein_g": 5,
+   "calcium_mg": 20,
+   "notes": "Keep the skin on for fibre. Microwave for 8 to 10 minutes."
+  },
+  {
+   "name": "Malt loaf",
+   "category": "grains",
+   "serving": "2 slices (45 g)",
+   "kcal": 130,
+   "protein_g": 3.5,
+   "calcium_mg": 40,
+   "notes": "Classic hill snack: hard to squash and low in fat."
+  },
+  {
+   "name": "Banana",
+   "category": "fruit",
+   "serving": "1 medium (120 g peeled)",
+   "kcal": 100,
+   "protein_g": 1.5,
+   "calcium_mg": 7,
+   "notes": "The easiest pre-gym fuel."
+  },
+  {
+   "name": "Apple",
+   "category": "fruit",
+   "serving": "1 medium",
+   "kcal": 70,
+   "protein_g": 0.5,
+   "calcium_mg": 7,
+   "notes": "Cheap, portable fibre."
+  },
+  {
+   "name": "Orange",
+   "category": "fruit",
+   "serving": "1 medium",
+   "kcal": 60,
+   "protein_g": 1.5,
+   "calcium_mg": 40,
+   "notes": "About 80 mg of vitamin C, twice the daily need."
+  },
+  {
+   "name": "Mixed berries (frozen)",
+   "category": "fruit",
+   "serving": "80 g (one of your 5 a day)",
+   "kcal": 25,
+   "protein_g": 0.5,
+   "calcium_mg": 12,
+   "notes": "Cheaper frozen. Stir them into porridge or yoghurt."
+  },
+  {
+   "name": "Dates, dried",
+   "category": "fruit",
+   "serving": "40 g (about 5)",
+   "kcal": 95,
+   "protein_g": 1,
+   "calcium_mg": 25,
+   "notes": "Compact carbs before the gym and on long hikes."
+  },
+  {
+   "name": "Raisins",
+   "category": "fruit",
+   "serving": "30 g (a small handful)",
+   "kcal": 75,
+   "protein_g": 1,
+   "calcium_mg": 17,
+   "notes": "One of your 5 a day. Sweetens porridge for pennies."
+  },
+  {
+   "name": "Peas, frozen",
+   "category": "vegetables",
+   "serving": "80 g portion",
+   "kcal": 55,
+   "protein_g": 4.5,
+   "calcium_mg": 30,
+   "notes": "One of the higher-protein vegetables."
+  },
+  {
+   "name": "Spinach, frozen (cooked)",
+   "category": "vegetables",
+   "serving": "80 g portion",
+   "kcal": 15,
+   "protein_g": 2.5,
+   "calcium_mg": 120,
+   "notes": "Its calcium is poorly absorbed, so don't count it towards the 700 mg (NHS, BDA). Great for vitamin K."
+  },
+  {
+   "name": "Curly kale, cooked",
+   "category": "vegetables",
+   "serving": "80 g portion",
+   "kcal": 20,
+   "protein_g": 2,
+   "calcium_mg": 185,
+   "notes": "Calcium your body can absorb, unlike spinach."
+  },
+  {
+   "name": "Broccoli",
+   "category": "vegetables",
+   "serving": "80 g portion",
+   "kcal": 25,
+   "protein_g": 2.5,
+   "calcium_mg": 30,
+   "notes": "Vitamin C and vitamin K."
+  },
+  {
+   "name": "Chopped tomatoes, tinned",
+   "category": "vegetables",
+   "serving": "half a 400 g tin",
+   "kcal": 40,
+   "protein_g": 2,
+   "calcium_mg": 20,
+   "notes": "The base of every batch curry, keema, dal and chilli in chapter 15."
+  },
+  {
+   "name": "Frozen mixed vegetables or stir-fry mix",
+   "category": "vegetables",
+   "serving": "80 g portion",
+   "kcal": 40,
+   "protein_g": 2,
+   "calcium_mg": 20,
+   "notes": "Already chopped, so no knife is needed."
+  },
+  {
+   "name": "Red pepper",
+   "category": "vegetables",
+   "serving": "half a pepper (80 g)",
+   "kcal": 25,
+   "protein_g": 1,
+   "calcium_mg": 5,
+   "notes": "Eaten raw, about 100 mg of vitamin C."
+  },
+  {
+   "name": "Rapeseed, sunflower or olive oil",
+   "category": "fats",
+   "serving": "1 tbsp (15 ml)",
+   "kcal": 120,
+   "protein_g": 0,
+   "calcium_mg": 0,
+   "notes": "The cheapest 120 kcal you can add to any meal."
+  },
+  {
+   "name": "Butter",
+   "category": "fats",
+   "serving": "10 g (a thin spread)",
+   "kcal": 75,
+   "protein_g": 0,
+   "calcium_mg": 2,
+   "notes": "Mostly saturated fat. Keep it to small amounts."
+  },
+  {
+   "name": "Protein bar",
+   "category": "snacks",
+   "serving": "1 bar (60 g)",
+   "kcal": 210,
+   "protein_g": 20,
+   "calcium_mg": 100,
+   "notes": "Convenient but dear per gram of protein. Some contain collagen or gelatine: check the label, or look for a vegan or halal logo if you avoid it."
+  },
+  {
+   "name": "Flapjack",
+   "category": "snacks",
+   "serving": "1 bar (60 g)",
+   "kcal": 260,
+   "protein_g": 3,
+   "calcium_mg": 30,
+   "notes": "Dense hike fuel."
+  },
+  {
+   "name": "Dark chocolate (70%)",
+   "category": "snacks",
+   "serving": "4 squares (20 g)",
+   "kcal": 115,
+   "protein_g": 1.5,
+   "calcium_mg": 15,
+   "notes": "A treat that fits."
+  },
+  {
+   "name": "Jelly sweets (gelatine-free)",
+   "category": "snacks",
+   "serving": "50 g",
+   "kcal": 160,
+   "protein_g": 0,
+   "calcium_mg": 3,
+   "notes": "Fast carbs for long hikes (about 40 g). Ordinary jelly sweets usually contain pork or beef gelatine, so if you avoid it, buy versions labelled vegan or halal."
+  }
+ ],
+ "meal_templates": [
+  {
+   "id": "day-3000",
+   "name": "3,000 kcal: standard training day (budget, halal-friendly)",
+   "kcal": 3015,
+   "protein_g": 149,
+   "notes": "The default day when your target is nearest 3,000 kcal: for the example profile (a 30-year-old, 80 kg, 180 cm man) the target is about 3,060. Protein is 149 g, about 1.9 g/kg at 80 kg. Halal-friendly: everything except the chicken needs no certificate, so buy halal chicken if you eat halal, and check yoghurt labels for gelatine. Vegetarian: use the soya curry in chapter 15 (the day becomes about 3,050 kcal and 146 g protein). Calcium is about 1,500 mg (target 700 mg). Roughly £5 a day at own-brand prices (approximate). Batch-cook the curry and the keema (chapter 15). Swap lunch for sardines on toast twice a week for your oily fish. On rest days eat the same and drop the dates. Typical values: check labels.",
+   "meals": [
+    {
+     "time": "05:30 pre-gym",
+     "name": "Banana and 2 dates",
+     "items": [
+      "1 banana",
+      "2 dates",
+      "water, plus black coffee or tea if you like"
+     ],
+     "kcal": 170,
+     "protein_g": 2
+    },
+    {
+     "time": "07:45 breakfast (post-gym)",
+     "name": "Peanut butter porridge",
+     "items": [
+      "80 g porridge oats cooked in 350 ml semi-skimmed milk (microwave, in a big jug)",
+      "20 g peanut butter (1 heaped tbsp)",
+      "30 g raisins",
+      "1 tsp honey",
+      "your vitamin D tablet, plus 3–5 g creatine stirred in if you take it (chapter 16)"
+     ],
+     "kcal": 690,
+     "protein_g": 27
+    },
+    {
+     "time": "10:30 snack",
+     "name": "Peanuts and an apple",
+     "items": [
+      "30 g peanuts",
+      "1 apple"
+     ],
+     "kcal": 240,
+     "protein_g": 9
+    },
+    {
+     "time": "12:30 lunch",
+     "name": "Chicken, chickpea and spinach curry with rice (batch-cooked)",
+     "items": [
+      "1 portion of the batch curry: 100 g chicken breast (halal if you eat halal; vegetarian: 40 g dried soya chunks), half a tin of chickpeas, half a tin of chopped tomatoes, 75 g frozen onion, 80 g frozen spinach, 1 tbsp oil, garlic-ginger paste and spices",
+      "225 g cooked basmati rice (about 75 g dry)"
+     ],
+     "kcal": 740,
+     "protein_g": 46
+    },
+    {
+     "time": "15:30 snack",
+     "name": "Boiled eggs and toast",
+     "items": [
+      "2 boiled eggs (batch-boiled)",
+      "1 slice wholemeal toast"
+     ],
+     "kcal": 225,
+     "protein_g": 17
+    },
+    {
+     "time": "18:30 dinner",
+     "name": "Soya keema with peas, chapatis and raita (batch-cooked)",
+     "items": [
+      "1 portion of the batch keema: 25 g dried soya mince, 75 g frozen onion, half a tin of chopped tomatoes, 80 g frozen peas, 1 tbsp oil, garlic-ginger paste and garam masala",
+      "2 shop-bought chapatis",
+      "100 g low-fat natural yoghurt as raita"
+     ],
+     "kcal": 675,
+     "protein_g": 33
+    },
+    {
+     "time": "20:45 pre-bed",
+     "name": "Milk and wheat biscuits",
+     "items": [
+      "300 ml semi-skimmed milk",
+      "2 wheat biscuits"
+     ],
+     "kcal": 275,
+     "protein_g": 15
+    }
+   ]
+  },
+  {
+   "id": "day-3000-no-meat",
+   "name": "3,000 kcal: no-meat day (fish, eggs, dairy and pulses)",
+   "kcal": 3015,
+   "protein_g": 143,
+   "notes": "Same calories as the standard day, for days without meat (or when halal meat isn't to hand) or when money is tight. Protein is 143 g. The sardines are the oily fish and give about 550 mg of calcium from the soft bones; the day totals about 2,000 mg. Vegetarian: swap the sardines for beans and cheese on toast (chapter 15; the day becomes about 3,030 kcal and 139 g protein). Make the overnight oats the night before, so there's no cooking straight after training. Roughly £4.50 a day (approximate). Typical values: check labels.",
+   "meals": [
+    {
+     "time": "05:30 pre-gym",
+     "name": "Banana and 2 dates",
+     "items": [
+      "1 banana",
+      "2 dates",
+      "water, plus black coffee or tea if you like"
+     ],
+     "kcal": 170,
+     "protein_g": 2
+    },
+    {
+     "time": "07:45 breakfast (post-gym)",
+     "name": "Overnight oats (made the night before)",
+     "items": [
+      "80 g porridge oats",
+      "250 ml semi-skimmed milk",
+      "150 g fat-free Greek-style yoghurt",
+      "20 g peanut butter",
+      "30 g raisins",
+      "1 tsp honey",
+      "your vitamin D tablet, plus 3–5 g creatine stirred in if you take it (chapter 16)"
+     ],
+     "kcal": 730,
+     "protein_g": 33
+    },
+    {
+     "time": "10:30 snack",
+     "name": "Boiled eggs and toast",
+     "items": [
+      "2 boiled eggs (batch-boiled)",
+      "1 slice wholemeal toast"
+     ],
+     "kcal": 225,
+     "protein_g": 17
+    },
+    {
+     "time": "12:30 lunch",
+     "name": "Sardines on toast and an orange",
+     "items": [
+      "1 tin sardines in tomato sauce (120 g), soft bones and all",
+      "2 slices wholemeal toast",
+      "10 g butter",
+      "1 orange"
+     ],
+     "kcal": 515,
+     "protein_g": 31
+    },
+    {
+     "time": "15:30 snack",
+     "name": "Peanuts and a banana",
+     "items": [
+      "30 g peanuts",
+      "1 banana"
+     ],
+     "kcal": 265,
+     "protein_g": 9
+    },
+    {
+     "time": "18:30 dinner",
+     "name": "Red lentil and soya dal with rice (batch-cooked)",
+     "items": [
+      "1 portion of the batch dal: 50 g red lentils and 20 g soya mince (dry weights), 75 g frozen onion, half a tin of chopped tomatoes, 80 g frozen spinach, 1 tbsp oil plus 2 tsp for the tarka, garlic-ginger paste and spices",
+      "270 g cooked basmati rice (about 90 g dry)"
+     ],
+     "kcal": 835,
+     "protein_g": 36
+    },
+    {
+     "time": "20:45 pre-bed",
+     "name": "Milk and wheat biscuits",
+     "items": [
+      "300 ml semi-skimmed milk",
+      "2 wheat biscuits"
+     ],
+     "kcal": 275,
+     "protein_g": 15
+    }
+   ]
+  },
+  {
+   "id": "day-2700",
+   "name": "2,700 kcal: step down (a lower target, or gaining faster than your band)",
+   "kcal": 2715,
+   "protein_g": 131,
+   "notes": "Use this if your target is nearest 2,700 kcal (for the example profile, a 30-year-old, 80 kg, 180 cm woman's target is about 2,800), or if the hub's fortnightly weight verdict says you're above your band twice in a row (chapter 14 has the bands). It's the standard day without the dates and the afternoon eggs. Check it against the maintenance figure on your Nutrition page first: it must never be a diet. If your maintenance is higher than about 2,700 kcal (the male example's is about 2,760), take 100–150 kcal off your current day instead of stepping down, and if your weight trend goes flat or drops, go straight back up. If you fast, the sample fasting day in chapter 15 has almost the same totals, so log it against this template. Protein 131 g. Typical values: check labels.",
+   "meals": [
+    {
+     "time": "05:30 pre-gym",
+     "name": "Banana",
+     "items": [
+      "1 banana",
+      "water, plus black coffee or tea if you like"
+     ],
+     "kcal": 95,
+     "protein_g": 1
+    },
+    {
+     "time": "07:45 breakfast (post-gym)",
+     "name": "Peanut butter porridge",
+     "items": [
+      "80 g porridge oats cooked in 350 ml semi-skimmed milk (microwave, in a big jug)",
+      "20 g peanut butter (1 heaped tbsp)",
+      "30 g raisins",
+      "1 tsp honey",
+      "your vitamin D tablet, plus 3–5 g creatine stirred in if you take it (chapter 16)"
+     ],
+     "kcal": 690,
+     "protein_g": 27
+    },
+    {
+     "time": "10:30 snack",
+     "name": "Peanuts and an apple",
+     "items": [
+      "30 g peanuts",
+      "1 apple"
+     ],
+     "kcal": 240,
+     "protein_g": 9
+    },
+    {
+     "time": "12:30 lunch",
+     "name": "Chicken, chickpea and spinach curry with rice (batch-cooked)",
+     "items": [
+      "1 portion of the batch curry: 100 g chicken breast (halal if you eat halal; vegetarian: 40 g dried soya chunks), half a tin of chickpeas, half a tin of chopped tomatoes, 75 g frozen onion, 80 g frozen spinach, 1 tbsp oil, garlic-ginger paste and spices",
+      "225 g cooked basmati rice (about 75 g dry)"
+     ],
+     "kcal": 740,
+     "protein_g": 46
+    },
+    {
+     "time": "18:30 dinner",
+     "name": "Soya keema with peas, chapatis and raita (batch-cooked)",
+     "items": [
+      "1 portion of the batch keema: 25 g dried soya mince, 75 g frozen onion, half a tin of chopped tomatoes, 80 g frozen peas, 1 tbsp oil, garlic-ginger paste and garam masala",
+      "2 shop-bought chapatis",
+      "100 g low-fat natural yoghurt as raita"
+     ],
+     "kcal": 675,
+     "protein_g": 33
+    },
+    {
+     "time": "20:45 pre-bed",
+     "name": "Milk and wheat biscuits",
+     "items": [
+      "300 ml semi-skimmed milk",
+      "2 wheat biscuits"
+     ],
+     "kcal": 275,
+     "protein_g": 15
+    }
+   ]
+  },
+  {
+   "id": "day-3300",
+   "name": "3,300 kcal: step up (a higher target, gaining slower than your band, or long-walk days)",
+   "kcal": 3320,
+   "protein_g": 152,
+   "notes": "Use this if your target is nearest 3,300 kcal (for the example profile, a 30-year-old, 80 kg, 180 cm man at the highest activity setting, 1.725, it's about 3,370), if the hub's fortnightly weight verdict says you're below your band twice in a row (chapter 14 has the bands), or on long-walk and hike days. Fuel the walk itself by the long-walk rule in chapter 14: start eating at about 60 minutes. It's the standard day with a home-made milkshake instead of the afternoon eggs: about 55p, far cheaper than a 'mass gainer'. Protein 152 g. Typical values: check labels.",
+   "meals": [
+    {
+     "time": "05:30 pre-gym",
+     "name": "Banana and 2 dates",
+     "items": [
+      "1 banana",
+      "2 dates",
+      "water, plus black coffee or tea if you like"
+     ],
+     "kcal": 170,
+     "protein_g": 2
+    },
+    {
+     "time": "07:45 breakfast (post-gym)",
+     "name": "Peanut butter porridge",
+     "items": [
+      "80 g porridge oats cooked in 350 ml semi-skimmed milk (microwave, in a big jug)",
+      "20 g peanut butter (1 heaped tbsp)",
+      "30 g raisins",
+      "1 tsp honey",
+      "your vitamin D tablet, plus 3–5 g creatine stirred in if you take it (chapter 16)"
+     ],
+     "kcal": 690,
+     "protein_g": 27
+    },
+    {
+     "time": "10:30 snack",
+     "name": "Peanuts and an apple",
+     "items": [
+      "30 g peanuts",
+      "1 apple"
+     ],
+     "kcal": 240,
+     "protein_g": 9
+    },
+    {
+     "time": "12:30 lunch",
+     "name": "Chicken, chickpea and spinach curry with rice (batch-cooked)",
+     "items": [
+      "1 portion of the batch curry: 100 g chicken breast (halal if you eat halal; vegetarian: 40 g dried soya chunks), half a tin of chickpeas, half a tin of chopped tomatoes, 75 g frozen onion, 80 g frozen spinach, 1 tbsp oil, garlic-ginger paste and spices",
+      "225 g cooked basmati rice (about 75 g dry)"
+     ],
+     "kcal": 740,
+     "protein_g": 46
+    },
+    {
+     "time": "15:30 snack",
+     "name": "Banana and peanut butter milkshake",
+     "items": [
+      "300 ml whole milk",
+      "1 banana",
+      "20 g peanut butter",
+      "30 g porridge oats",
+      "blitzed in a one-button blender"
+     ],
+     "kcal": 530,
+     "protein_g": 20
+    },
+    {
+     "time": "18:30 dinner",
+     "name": "Soya keema with peas, chapatis and raita (batch-cooked)",
+     "items": [
+      "1 portion of the batch keema: 25 g dried soya mince, 75 g frozen onion, half a tin of chopped tomatoes, 80 g frozen peas, 1 tbsp oil, garlic-ginger paste and garam masala",
+      "2 shop-bought chapatis",
+      "100 g low-fat natural yoghurt as raita"
+     ],
+     "kcal": 675,
+     "protein_g": 33
+    },
+    {
+     "time": "20:45 pre-bed",
+     "name": "Milk and wheat biscuits",
+     "items": [
+      "300 ml semi-skimmed milk",
+      "2 wheat biscuits"
+     ],
+     "kcal": 275,
+     "protein_g": 15
+    }
+   ]
+  }
+ ],
+ "supplements": [
+  {
+   "name": "Creatine monohydrate (plain powder)",
+   "dose": "3–5 g a day (no loading needed). Optional. If you used it before the injury, simply restart at this dose",
+   "timing": "Optional, and fine to start now unless you have any kidney concerns or take regular medication: then ask your GP first (chapter 16 decides). Any time of day, every day, including rest days. Stir it into your breakfast so you don't forget, and tick it in your check-in. During a fasting period, take it with a meal in your eating window.",
+   "evidence": "strong",
+   "why": "The best-researched supplement for strength and muscle gain alongside training. It may also help a limb keep and regain muscle during immobilisation and rehab, though those results are mixed. It's made from simple chemicals in a factory, not from animals, so plain powder suits halal and vegetarian diets. Cost: roughly £2–7 a month, depending on your dose and the tub size.",
+   "cautions": "Ask your GP before starting if you have any kidney concerns (a past kidney problem, or a blood or urine test that flagged your kidneys) or take any regular medication, including regular painkillers or a long course of antibiotics. Buy plain powder, not capsules or tablets: they cost more, and capsule shells may be gelatine. Expect up to about 1 kg of extra water weight in the first weeks. Tell any doctor you take it before a blood test, because it can raise creatinine."
+  },
+  {
+   "name": "Vitamin D3, 10 µg (400 IU)",
+   "dose": "10 µg a day",
+   "timing": "Daily from October to March, with a meal. The NHS advises considering it all year if you're rarely outdoors or have dark skin.",
+   "evidence": "strong",
+   "why": "UK sunlight is too weak to make vitamin D from about October to early March, and you need it to absorb calcium. It's a public-health baseline, not a healing booster. Cost: well under £1 a month for own-brand 10 µg tablets; vegan D3 costs a little more.",
+   "cautions": "If you avoid gelatine (for example for halal or vegetarian reasons): softgel capsules are usually gelatine, so choose tablets, a vegan D3 or a halal-certified product, and read the label (some vitamin D3 is of animal origin). Don't take more than 100 µg (4,000 IU) a day unless a doctor prescribes it. In a small wrist-fracture trial, extra vitamin D didn't speed healing."
+  },
+  {
+   "name": "Protein powder (whey, or a pea or soya powder)",
+   "dose": "1 scoop (20–30 g protein), only when food falls short",
+   "timing": "Whenever it helps you reach your daily target, for example shaken into milk after training.",
+   "evidence": "strong",
+   "why": "Extra protein helps muscle gain when it lifts your daily total towards about 1.6 g/kg (128 g for the 80 kg example profile) or more. A powder is just a convenient food, and shaking a bottle one-handed beats cooking. Cost: about 80p–£1.20 per 20 g of protein at supermarket prices, or roughly £25–40 a month for a scoop a day, which is more than milk, yoghurt, tinned tuna or soya mince, so it's optional on a budget.",
+   "cautions": "Whey is a by-product of cheese-making, so if you eat halal it raises the same rennet question as cheese, plus flavourings: a halal logo with the certifier's name answers those questions. Pea or soya powders avoid the rennet question. No benefit if your food already covers your target. Concentrate contains some lactose; isolate contains very little. Batch-tested (Informed Sport) products cost more and matter most if you're ever drug-tested."
+  },
+  {
+   "name": "Caffeine",
+   "dose": "About 2–3 mg/kg: roughly 160–240 mg for the 80 kg example profile (one or two coffees), with no single dose above 200 mg",
+   "timing": "30–60 minutes before your morning session. Have your last caffeine about 8 hours before bed (by 13:00–13:30 for a 21:15 lights out).",
+   "evidence": "strong",
+   "why": "Reliably improves exercise performance and helps with an early start. A coffee or tea made at home costs pennies; a pre-workout product adds nothing you need.",
+   "cautions": "Keep to 400 mg a day or less, and single doses to 200 mg or less (EFSA). Skip it if it makes you anxious or jittery. Late caffeine cuts sleep even when you don't notice it. Check the caffeine on any pre-workout or energy-drink label."
+  },
+  {
+   "name": "Omega-3 (fish oil capsules)",
+   "dose": "Not needed if you eat oily fish every week",
+   "timing": "With a meal, and only if you eat no oily fish.",
+   "evidence": "weak",
+   "why": "The NHS advises at least 2 portions of fish a week, including 1 oily. A tin of sardines (about 60–75p) does that job better and cheaper. In young adults, capsules haven't clearly improved muscle growth or soreness.",
+   "cautions": "Most capsules are gelatine; if you don't eat fish or avoid gelatine, an algae-oil capsule with a vegetarian shell is the option. Avoid fish-liver oils (cod liver oil), which add vitamin A. Check with your GP if you take blood thinners."
+  },
+  {
+   "name": "Gelatine or collagen + vitamin C (before rehab, later)",
+   "dose": "About 15 g with about 50 mg vitamin C",
+   "timing": "30–60 minutes before physio or rehab loading, and only once rehab has started and your physio agrees. Until then, it's for later.",
+   "evidence": "weak",
+   "why": "An emerging idea from Keith Baar's lab. Small studies show more collagen-building signals, and tendon studies are promising. There's no evidence yet that it speeds fracture healing. Treat it as an optional experiment.",
+   "cautions": "Most gelatine is from pork or beef: if you eat halal, look for halal-certified bovine or fish gelatine or collagen. There's no vegetarian version with the same evidence. It's an incomplete protein, so don't count it towards your target. Skip it if money is tight."
+  },
+  {
+   "name": "Calcium supplement",
+   "dose": "Not needed on these meal plans",
+   "timing": "With a meal, only if your diet changes and falls short of 700 mg a day.",
+   "evidence": "weak",
+   "why": "Food first. The meal plans give about 1,400–2,000 mg a day from milk, yoghurt, sardines and bread.",
+   "cautions": "Up to 1,500 mg a day is unlikely to harm, but more can cause stomach pain. Talk to a pharmacist or GP before adding more than 500 mg (BDA)."
+  },
+  {
+   "name": "Multivitamin and mineral (A–Z type)",
+   "dose": "Not needed on these meal plans",
+   "timing": "With breakfast, if you ever take one.",
+   "evidence": "weak",
+   "why": "Optional insurance if your diet becomes limited. It won't build muscle or speed healing, so skip it and save the money.",
+   "cautions": "Avoid high-dose vitamin A. Check it doesn't double up your vitamin D or zinc (keep zinc supplements to 25 mg a day or less). Capsules may be gelatine; tablets usually aren't."
+  },
+  {
+   "name": "Electrolytes (long or hot hikes)",
+   "dose": "Salty snacks, or a drink with about 200–400 mg sodium",
+   "timing": "On hikes longer than about 2–3 hours, or in heat when you sweat a lot. This is about salt: carbohydrate on walks follows the long-walk rule in chapter 14.",
+   "evidence": "moderate",
+   "why": "Replaces salt lost in sweat and helps you drink enough. Salted peanuts or crisps do the same job as branded tablets for far less.",
+   "cautions": "Don't force down large amounts of plain water; drink regularly to stay just ahead of thirst. Check with your GP if you have high blood pressure or a heart or kidney condition."
+  },
+  {
+   "name": "Sleep supplements (magnesium, theanine, apigenin)",
+   "dose": "Not recommended",
+   "timing": "Fix your schedule, light and caffeine first.",
+   "evidence": "weak",
+   "why": "Popular from the Huberman Lab, but the human evidence is thin. Money spent here is better spent on food.",
+   "cautions": "About 5% of people get an upset stomach from magnesium. Melatonin is prescription-only in the UK."
+  },
+  {
+   "name": "Testosterone boosters",
+   "dose": "Don't take",
+   "timing": "",
+   "evidence": "avoid",
+   "why": "In one analysis, only about a quarter of products had any data behind their claims, about 10% contained ingredients that may lower testosterone, and some exceeded safe upper limits for zinc, vitamin B3 or magnesium.",
+   "cautions": "Possible contamination with banned or unlisted substances. Save your money for food."
+  },
+  {
+   "name": "BCAAs and EAA drinks",
+   "dose": "Don't take (your protein is adequate)",
+   "timing": "",
+   "evidence": "avoid",
+   "why": "Building muscle needs all the essential amino acids. Whole protein from food or powder already contains BCAAs, so separate drinks add nothing.",
+   "cautions": "Expensive flavoured water."
+  },
+  {
+   "name": "Mass gainers",
+   "dose": "Don't buy",
+   "timing": "",
+   "evidence": "avoid",
+   "why": "Mostly sugar plus some protein at a premium price. Your home-made milkshake (whole milk, banana, peanut butter and oats) gives about 530 kcal and 20 g protein for roughly 55p.",
+   "cautions": "If you eat halal, check the halal status of any powder you do buy."
+  },
+  {
+   "name": "'Bone healing' or 'joint' blends",
+   "dose": "Don't take",
+   "timing": "",
+   "evidence": "avoid",
+   "why": "No good human evidence that they speed fracture healing. They often stack calcium, vitamin D, vitamin K and zinc at doses you may already get from food.",
+   "cautions": "Doubling up risks excess. Vitamin K affects blood thinners. Ask your fracture clinic before taking any 'healing' product."
+  },
+  {
+   "name": "Megadoses of vitamin D (over 100 µg a day)",
+   "dose": "Don't take unless a doctor prescribes it",
+   "timing": "",
+   "evidence": "avoid",
+   "why": "Too much vitamin D over a long time makes calcium build up, which can weaken bones and harm the kidneys and heart (NHS). In a small wrist-fracture trial, the higher dose may have hindered healing.",
+   "cautions": "10 µg a day is the UK advice. Check combined products so you don't double up."
+  },
+  {
+   "name": "Fat burners and high-stimulant pre-workouts",
+   "dose": "Don't take",
+   "timing": "",
+   "evidence": "avoid",
+   "why": "You're eating for a surplus, not cutting. Big stimulant doses harm sleep, and complex blends carry a higher contamination risk (UKAD).",
+   "cautions": "A coffee before training does the job. If you use a pre-workout, check its caffeine against your daily limit."
+  },
+  {
+   "name": "High-dose vitamin A (including fish-liver oils)",
+   "dose": "Don't take",
+   "timing": "",
+   "evidence": "avoid",
+   "why": "Long-term vitamin A intake above 1.5 mg a day may weaken bones, the opposite of what you want.",
+   "cautions": "Check multivitamin and cod liver oil labels. Eat liver or pâté no more than once a week (NHS)."
+  }
+ ],
+ "shopping_list": [
+  {
+   "category": "Getting it home (the carrying rule, chapter 18)",
+   "items": [
+    "Get the big shop delivered: three 4-pint milks alone weigh about 7 kg",
+    "Until your arm reaches “Light use / rehab started”: nothing in your injured hand or on that shoulder",
+    "Top-up shops: a light bag (3 kg or less) on your uninjured shoulder, or a waist pack, put on and taken off with your uninjured hand"
+   ]
+  },
+  {
+   "category": "Cheapest protein (buy these first)",
+   "items": [
+    "Dried soya mince or chunks (250–500 g; big supermarkets and Asian grocers)",
+    "Red lentils or chana dal (1 kg bag)",
+    "Semi-skimmed milk (3 × 4-pint bottles)",
+    "Fat-free Greek-style yoghurt (1 kg tub) and low-fat natural yoghurt (500 g)",
+    "Eggs (15)",
+    "Tuna in brine (2–3 tins) and sardines in tomato sauce (2 tins)"
+   ]
+  },
+  {
+   "category": "Meat (halal if you eat halal)",
+   "items": [
+    "Chicken breast or thigh fillets (about 500 g a week; a butcher's bulk box frozen in 100 g portions is often cheaper)",
+    "Lamb or beef mince (500 g), if you make the chilli",
+    "If you buy halal, ask your butcher which body certifies the meat, and check the certificate is current",
+    "Vegetarian: skip this group and buy about 200 g more dried soya mince or chunks (chapter 15 has the swaps)"
+   ]
+  },
+  {
+   "category": "Tins and jars",
+   "items": [
+    "Chopped tomatoes (4–6 tins)",
+    "Chickpeas (2 tins) and kidney beans (1 tin)",
+    "Peanut butter (1 kg tub, 100% peanuts)",
+    "Garlic and ginger paste",
+    "Vegetable stock cubes (meat stock cubes are never vegetarian and rarely halal-certified: check the label)"
+   ]
+  },
+  {
+   "category": "Carbs",
+   "items": [
+    "Porridge oats (1 kg)",
+    "Basmati rice (2 kg bag)",
+    "Chapatis (2 packs) or tortilla wraps",
+    "Wholemeal bread (1 loaf; freeze half)",
+    "Wheat biscuits (1 box)"
+   ]
+  },
+  {
+   "category": "Fruit and veg",
+   "items": [
+    "Bananas (10), apples (7) and oranges (2–3)",
+    "Dates and raisins (1 bag each)",
+    "Frozen peas, frozen spinach and frozen diced onion (1 bag each)",
+    "Frozen mixed vegetables or stir-fry mix"
+   ]
+  },
+  {
+   "category": "Spices, fats and snacks",
+   "items": [
+    "Cumin, turmeric, garam masala and chilli powder (cheapest in big bags from Asian grocers)",
+    "Rapeseed or sunflower oil, and butter or spread",
+    "Peanuts (500 g)"
+   ]
+  },
+  {
+   "category": "Supplements (see chapter 16)",
+   "items": [
+    "Creatine monohydrate, plain powder (optional: chapter 16 says when to start)",
+    "Vitamin D 10 µg tablets (gelatine-free; vegan or halal-certified if you prefer)",
+    "Whey, or a pea or soya protein powder (optional; halal-certified whey if you eat halal)"
+   ]
+  },
+  {
+   "category": "Long walks (start eating at about 60 minutes: chapter 14)",
+   "items": [
+    "Malt loaf or flapjacks, and dates",
+    "Jelly sweets (gelatine-free: labelled vegan or halal, if you avoid gelatine)",
+    "Jerky or salted peanuts"
+   ]
+  },
+  {
+   "category": "One-handed kitchen helpers",
+   "items": [
+    "Non-slip mat or damp tea towel under bowls and boards",
+    "Electric or one-touch tin opener (or buy ring-pull tins)",
+    "Jar opener grip",
+    "Kitchen scissors instead of a knife",
+    "Microwave-safe jug for porridge, and a rice cooker or microwave rice steamer",
+    "One-button blender with a click-on lid",
+    "Freezer bags and labelled tubs for batch portions"
+   ]
+  }
+ ],
+ "foods_note": "Typical values from UK food tables (CoFID) or typical UK labels. Prices are approximate UK prices, as checked in November 2026. Check the label of the product you buy."
+}

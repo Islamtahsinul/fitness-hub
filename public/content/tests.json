@@ -1,0 +1,163 @@
+[
+ {
+  "id": "sit-to-stand-30s",
+  "name": "30-second sit-to-stand",
+  "category": "strength",
+  "unit": "reps",
+  "higher_is_better": true,
+  "gate": "none",
+  "every_weeks": 4,
+  "baseline_day": 1,
+  "how": [
+   "Baseline: Re-entry Week day 1 (Monday), straight after the bike warm-up.",
+   "A firm bench or chair about 43–45 cm high, backed against a wall so it can't slide; the same shoes every time.",
+   "Sit in the middle, feet flat and hip-width, arms crossed: injured arm across your stomach, uninjured hand on the opposite shoulder, so neither hand can push.",
+   "One practice rep. Then, on 'go', stand fully up (hips and knees straight) and sit fully down (bottom touches) as many times as you can in 30 seconds.",
+   "Count full stands; a stand more than halfway up at 30 s counts. One attempt."
+  ],
+  "equipment": "Firm bench or chair (about 43–45 cm) backed against a wall, stopwatch",
+  "norms": "Published norms are mainly for adults over 60, so compare with your own baseline and aim to beat it at every retest.",
+  "safety": "No pushing off with either hand, and no breath-holding: breathe out as you stand. Bench against a wall. Stop if you feel dizzy or get knee pain."
+ },
+ {
+  "id": "knee-to-wall",
+  "name": "Knee-to-wall ankle test (weaker side)",
+  "category": "mobility",
+  "unit": "cm",
+  "higher_is_better": true,
+  "gate": "none",
+  "every_weeks": 4,
+  "baseline_day": 1,
+  "how": [
+   "Baseline: Re-entry Week day 1 (Monday), in the warm-up's standing block.",
+   "Barefoot, facing a wall in a short lunge, uninjured hand flat on the wall at chest height, injured arm across your stomach.",
+   "Keeping the front heel down and the knee in line with your second toe, bend the knee to touch the wall. Move the foot back until you can only just touch it.",
+   "Measure from the tip of your big toe to the wall.",
+   "Best of 3 per side. Record the weaker side; note both sides."
+  ],
+  "equipment": "Wall, tape measure",
+  "norms": "Compare with yourself and side to side. Coaches often look for about 10 cm or more, and less than about 2 cm between sides (expert opinion).",
+  "safety": "Uninjured hand on the wall for balance, never the injured one. Smooth movement, no bouncing; back off if you feel a pinch at the front of the ankle."
+ },
+ {
+  "id": "balance-eyes-open",
+  "name": "Single-leg balance, eyes open (weaker side)",
+  "category": "balance",
+  "unit": "s",
+  "higher_is_better": true,
+  "gate": "none",
+  "every_weeks": 4,
+  "baseline_day": 1,
+  "how": [
+   "Baseline: Re-entry Week day 1 (Monday), in the warm-up's standing block.",
+   "Stand right next to a rack or wall so your uninjured hand can touch it instantly; injured arm across your stomach. Barefoot, or the same shoes every time, on a flat, firm floor.",
+   "Lift one foot just off the floor without hooking it round the standing leg, eyes on a spot ahead, and start the timer.",
+   "Stop when the lifted foot touches down, the standing foot shifts, or you touch the support.",
+   "Best of 2 tries per side, capped at 60 s. Record your weaker side; put both sides in the notes."
+  ],
+  "equipment": "A rack or wall to touch, stopwatch, flat firm floor",
+  "norms": "Normal values fall with age (Springer et al., 2007), so compare with yourself. For a fit younger adult, 60 s each side (the cap) is a realistic target; 45 s is one of your Phase 1 exit criteria. Harder balance work arrives after full clearance (chapter 06).",
+  "safety": "Always next to a support your good hand can touch. No wobble boards, cushions or foam."
+ },
+ {
+  "id": "walk-1mile",
+  "name": "1-mile (1.6 km) brisk walk test",
+  "category": "engine",
+  "unit": "min",
+  "higher_is_better": false,
+  "gate": "none",
+  "every_weeks": 4,
+  "baseline_day": 2,
+  "how": [
+   "Baseline: Re-entry Week day 2 (Tuesday), as the first part of that morning's session, fresh.",
+   "Until full clearance, always on the treadmill at 1% incline: safety key clipped on, uninjured hand lightly on the rail, injured arm across your stomach, and the belt started while you're standing on it. After full clearance you may switch to a flat, dry, measured route in daylight; note the change.",
+   "Walk 5 minutes easy to warm up.",
+   "Then walk 1.6 km as fast as you can without jogging (one foot always on the belt), adjusting the speed as you go.",
+   "Record your time in decimal minutes (for example 14.5) and put your finishing heart rate in the notes. Walk 3–5 minutes easy before you stop the belt."
+  ],
+  "equipment": "Treadmill (or, after full clearance, a measured flat route), heart-rate monitor or watch",
+  "norms": "A faster time at the same or a lower finishing heart rate means you're fitter. Kline et al. (1987) give an equation that estimates VO2max from walk time, finishing heart rate, age, sex and weight; the hub doesn't calculate it, so treat your time and heart rate as the result.",
+  "safety": "Walking only. Until full clearance: safety key on, a light touch with your uninjured hand on the rail, and never step onto a moving belt. Stop for dizziness, chest pain or unusual breathlessness (999 for chest pain)."
+ },
+ {
+  "id": "heel-raise-single",
+  "name": "Single-leg heel raise to fatigue (weaker side)",
+  "category": "endurance",
+  "unit": "reps",
+  "higher_is_better": true,
+  "gate": "none",
+  "every_weeks": 4,
+  "baseline_day": 3,
+  "how": [
+   "Baseline: Re-entry Week day 3 (Wednesday), straight after the bike warm-up; never within 48 hours of a long or hilly walk.",
+   "Same trainers (or barefoot) every time, on one leg on the flat floor, facing a wall with the fingertips of your uninjured hand on it at shoulder height; injured arm across your stomach.",
+   "Rise as high as you can and lower fully at about one rep every 2 seconds (a metronome app at 60 beats a minute: up on one beat, down on the next).",
+   "Count full-height reps. Stop when you can't reach full height, lose the rhythm, lean on the wall or bend the knee.",
+   "One try per leg, 2 minutes apart. Record your weaker side and put both in the notes."
+  ],
+  "equipment": "Wall, metronome app",
+  "norms": "In 566 healthy adults tested on a 10° incline board, men managed a median of 24 single-leg heel rises, with younger, more active men doing the most, and between-day differences of up to about 6 reps were normal noise (Hébert-Losier et al., 2017). Your flat-floor version won't match those numbers exactly, so compare with yourself. A gap of more than about 10% between legs is worth evening out (coaching rule of thumb).",
+  "safety": "Fingertips on the wall for balance only; no wobble boards or steps for the test. Stop for sharp Achilles or calf pain (a burning calf is fine)."
+ },
+ {
+  "id": "hollow-hold",
+  "name": "Hollow hold, knees tucked (max hold)",
+  "category": "endurance",
+  "unit": "s",
+  "higher_is_better": true,
+  "gate": "none",
+  "every_weeks": 4,
+  "baseline_day": 3,
+  "how": [
+   "Baseline: Re-entry Week day 3 (Wednesday). Do it straight after the warm-up's 90/90 breathing, while you're already on the mat, so it costs no extra trip to the floor.",
+   "Lie on your back with your knees bent and pulled in over your hips (hips past 90°), lower back pressed into the mat, chin tucked, head and shoulder blades just off the mat.",
+   "Arms long by your sides a few centimetres above the mat; the injured arm just rests along your body (or across your stomach) and never presses.",
+   "Start the timer. Breathe in short, steady breaths behind a moderate brace and count out loud.",
+   "Stop when your lower back starts to lift off the mat, your shoulders sink back down, or you have to hold your breath. One attempt, capped at 90 s. Then get up via your uninjured side and the bench."
+  ],
+  "equipment": "Mat, a bench beside it for getting down and up, stopwatch",
+  "norms": "There are no good published norms for this tucked version, so compare with yourself. Rough coaching benchmarks: 30 s of perfect form is a solid start and 60 s is strong (expert opinion). Reaching the 90-s cap twice? Keep the test as it is and make the training version harder (straighten one leg).",
+  "safety": "Your injured arm takes no weight and never pushes into the floor. Moderate brace and keep breathing (count out loud): no breath-hold straining. Stop for back pain. Get down and up via a bench with your uninjured hand."
+ },
+ {
+  "id": "farmer-carry-test",
+  "name": "Farmer's carry: time with 25% of body weight per hand",
+  "category": "grip",
+  "unit": "s",
+  "higher_is_better": true,
+  "gate": "full_clearance",
+  "every_weeks": 4,
+  "first_phase": "p4a",
+  "first_week": 4,
+  "how": [
+   "First test in Phase 4a week 4 (the hub shows it as due then), once your physio has measured your grip at 90% of your uninjured hand or OK'd that step; then every 4 weeks.",
+   "Two dumbbells or farmer's handles, each 25% of your current body weight rounded down to the nearest dumbbell (20 kg each for the 80 kg example profile); put the kg in the notes.",
+   "Pick them up with a flat back, deadlift-style, and stand tall.",
+   "Walk steady 10–20 m shuttles on a clear, dry floor, turning slowly and wide.",
+   "Stop when your grip starts to go, your posture breaks, or at 90 s. Set the weights down under control, never dropped, and record the seconds."
+  ],
+  "equipment": "Two dumbbells or farmer's handles, a clear 10–20 m lane, stopwatch, chalk if your gym allows it",
+  "norms": "Chapter 09's standards are the benchmark: 'Solid' is a quarter of your body weight per hand for 60 s, and 'Strong' is half your body weight per hand for 30–50 m (coaching benchmarks, expert opinion).",
+  "safety": "Full clearance and the 90% grip rung, measured by your physio or with their OK (this is a heavy carry). Chalk, not straps. Set the weights down the moment your grip starts to fail. Moderate brace, short steady breaths. Arm pain rule: follow your physio's limit; if you weren't given one, pain at 2/10 or below during the test and back to your usual level by the next morning. Never push through pain that's increasing."
+ },
+ {
+  "id": "dead-hang",
+  "name": "Dead hang",
+  "category": "grip",
+  "unit": "s",
+  "higher_is_better": true,
+  "gate": "full_clearance",
+  "every_weeks": 4,
+  "first_phase": "p4a",
+  "first_week": 4,
+  "how": [
+   "First test in Phase 4a week 4 (the hub shows it as due then), after feet-supported and short dead hangs have felt fine and once your physio has measured (or OK'd) the 90% grip rung; then every 4 weeks.",
+   "Overhand, shoulder-width grip on a pull-up bar you can reach from a step or box, thumbs round the bar.",
+   "Step off into a hang with straight arms, shoulders gently engaged, feet just above the box. Start the timer as your feet leave it.",
+   "Stop as soon as your grip starts to slip, and step back down onto the box: never drop. One attempt, capped at 120 s."
+  ],
+  "equipment": "Pull-up bar, step or box right under it, stopwatch",
+  "norms": "Chapter 09's standards: 'Solid' is 60 s and 'Strong' is 90–120 s (coaching benchmarks, expert opinion).",
+  "safety": "Full clearance and the 90% grip rung, after feet-supported hangs have been comfortable (Phase 4a). Keep the box right under you. Arm pain rule: follow your physio's limit; if you weren't given one, pain at 2/10 or below during the test and back to your usual level by the next morning. Never push through pain that's increasing."
+ }
+]

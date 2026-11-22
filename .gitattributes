@@ -1,0 +1,8 @@
+# Store text with LF line endings so the shell scripts run on Linux whatever the cloner's settings.
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.png binary
+*.ico binary
+*.jpg binary
+*.woff2 binary

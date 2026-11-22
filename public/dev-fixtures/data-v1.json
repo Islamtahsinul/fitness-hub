@@ -1,0 +1,90 @@
+{
+ "schema_version": 1,
+ "profile": {
+  "name": "",
+  "sex": "male",
+  "birth_year": 1996,
+  "height_cm": 180,
+  "injured_arm": "right",
+  "dominant_hand": "right",
+  "program_start": "2026-11-30",
+  "activity_factor": 1.55,
+  "surplus_kcal": 300,
+  "protein_g_per_kg": 1.8,
+  "hrmax_override": null,
+  "rhr_baseline": null,
+  "diet_notes": "Budget-friendly protein.",
+  "clearances": {
+   "good_arm_ok": null,
+   "clinic_light": null,
+   "grip_cleared": null,
+   "full_clearance": null
+  }
+ },
+ "checkins": [
+  {
+   "date": "2026-11-21",
+   "weight_kg": 80.0,
+   "rhr": null,
+   "hrv": null,
+   "sleep_h": null,
+   "sleep_q": null,
+   "energy": null,
+   "soreness": null,
+   "mood": null,
+   "stress": null,
+   "arm_pain": null,
+   "arm_flags": [],
+   "steps": null,
+   "protein_g": null,
+   "calories": null,
+   "water_l": null,
+   "creatine": false,
+   "notes": "Starting weight."
+  }
+ ],
+ "workouts": [],
+ "hikes": [],
+ "tests": [],
+ "measurements": [],
+ "arm": {
+  "appointments": [
+   {
+    "date": "2026-12-08",
+    "type": "Fracture clinic",
+    "notes": "Bring the questions list.",
+    "outcome": ""
+   }
+  ],
+  "logs": [],
+  "physio_exercises": []
+ },
+ "weekly_reviews": [],
+ "kit_owned": {
+  "Walking boots or trail shoes": true
+ },
+ "ui": {
+  "onboarding": {
+   "version": 1,
+   "skipped_at": "2026-11-21T09:00:00Z"
+  },
+  "plates_kg": [
+   20,
+   10,
+   5,
+   2.5
+  ]
+ },
+ "goals": {
+  "zone2_min_week": 150,
+  "focus": ""
+ },
+ "future_key": {
+  "kept": true,
+  "list": [
+   1,
+   2,
+   3
+  ]
+ }
+}

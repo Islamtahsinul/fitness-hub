@@ -1,0 +1,1084 @@
+{
+ "ladder": [
+  {
+   "level": 1,
+   "name": "Level 1 — 30–45 min local flat walk",
+   "description": "Your current walks, done with purpose: 30–45 minutes on pavements, tarmac paths or firm, level gravel at an easy Zone 1–2 effort. Keep your hands free, with water and a layer in a waist pack (2 kg or less), and walk in daylight and dry conditions. No grass, mud, slopes or steps. Build to most days of the week. This is where your daily step count grows towards 8,000–10,000.",
+   "gate": "none",
+   "criteria": {
+    "distance_km": 3,
+    "ascent_m": 0,
+    "pack_kg": 0,
+    "terrain": "pavements, tarmac paths or firm, level gravel; flat, dry, daylight, stile-free"
+   },
+   "examples": [
+    {
+     "name": "Dunmore Trail, Faskally (Pitlochry)",
+     "region": "Highland Perthshire",
+     "distance_km": 1.2,
+     "ascent_m": null,
+     "terrain": "Firm, largely smooth gravel throughout; graded Easy (most accessible); allow ½ hour",
+     "url": "https://forestryandland.gov.scot/visit/destinations/faskally/trails"
+    },
+    {
+     "name": "Taff Trail through Bute Park (Cardiff)",
+     "region": "Cardiff",
+     "distance_km": 14.5,
+     "ascent_m": null,
+     "terrain": "The Taff Trail's Cardiff to Castell Coch route begins at Bute Park and follows the River Taff through the heart of the city: 95.7% asphalt and 80.2% traffic-free. For this level, walk about 1.5 km out along the river from Bute Park, then back, keeping to the tarmac. Shared with cyclists. Bute Park has set opening hours, so check them before you go.",
+     "url": "https://www.walkwheelcycletrust.org.uk/find-a-route-on-the-national-cycle-network/cardiff-to-castell-coch/"
+    }
+   ]
+  },
+  {
+   "level": 2,
+   "name": "Level 2 — 60–90 min flat trail walk",
+   "description": "An hour to an hour and a half on tarmac or firm, level gravel, such as park paths, riverside walkways and old railway lines. Skip anything muddy, rooty, rocky, stepped or steep, because that ground waits for Full clearance. Carry water and a layer in a waist pack (2 kg or less), not a rucksack. Stay at Zone 2 throughout and finish feeling you could do it again. Up to 80 minutes fits the programme's Saturday long walk.",
+   "gate": "none",
+   "criteria": {
+    "distance_km": 6,
+    "ascent_m": 0,
+    "pack_kg": 0,
+    "terrain": "tarmac or firm, level gravel; flat, dry, stile-free"
+   },
+   "examples": [
+    {
+     "name": "Fallowfield Loop (short out-and-back section)",
+     "region": "Manchester",
+     "distance_km": 8.7,
+     "ascent_m": null,
+     "terrain": "A former railway line from Chorlton-cum-Hardy to Fairfield: 100% asphalt and 97.1% traffic-free. For this level, walk 3 km out and back from any access point. Shared with cyclists. Sections sometimes close for works, so check the route page for closures before you go.",
+     "url": "https://www.walkwheelcycletrust.org.uk/find-a-route-on-the-national-cycle-network/fallowfield-loop/"
+    },
+    {
+     "name": "Bristol & Bath Railway Path (short out-and-back section)",
+     "region": "Bristol and Bath",
+     "distance_km": 23.3,
+     "ascent_m": null,
+     "terrain": "'Almost entirely flat' on a disused railway line between the two cities: 99.7% asphalt and 97.6% traffic-free. For this level, walk 3 km out and back from an access point away from the Bath end, where the route uses a busy industrial estate and a residential road. Shared with cyclists.",
+     "url": "https://www.walkwheelcycletrust.org.uk/find-a-route-on-the-national-cycle-network/bristol-and-bath-railway-path/"
+    },
+    {
+     "name": "Mawddach Trail (short out-and-back section from Dolgellau)",
+     "region": "Eryri (Snowdonia)",
+     "distance_km": 15,
+     "ascent_m": null,
+     "terrain": "Graded 'Access for All' on the old railway trackbed between Dolgellau and Barmouth: largely flat, even surfaces with no steps or steep sections. The trail is 15 km one way. For this level, walk 3 km out and back from the Dolgellau end.",
+     "url": "https://eryri.gov.wales/walk/mawddach-trail/"
+    },
+    {
+     "name": "Keswick Railway Path (short out-and-back section)",
+     "region": "Lake District",
+     "distance_km": 5.6,
+     "ascent_m": null,
+     "terrain": "A 'Miles without Stiles' route graded 'For all' (gradient no more than 1:10, tarmac or smooth compacted stone) on the old railway from Keswick towards Threlkeld, over Victorian railway bridges. For this level, walk 3 km out and back from the Keswick end.",
+     "url": "https://lakedistrict.gov.uk/route/keswick-railway-path/"
+    }
+   ]
+  },
+  {
+   "level": 3,
+   "name": "Level 3 — Half-day trail walk (2–3 h)",
+   "description": "8–10 km, about two hours or a little more, on tarmac or firm, level gravel, still with a waist pack only (2 kg or less). That's longer than the programme's 80-minute Saturday walk, so Level 3 is an optional extra for a free weekend: do it in place of that week's long walk, on a GREEN day, never in a deload week, and only after Level 2 has felt easy twice. Fuel it by the long-walk rule in chapter 14, and turn back if the surface turns muddy, loose or steep.",
+   "gate": "none",
+   "criteria": {
+    "distance_km": 8,
+    "ascent_m": 0,
+    "pack_kg": 0,
+    "terrain": "tarmac or firm, level gravel trails; flat, dry, stile-free"
+   },
+   "examples": [
+    {
+     "name": "Fallowfield Loop end to end (Chorlton-cum-Hardy to Fairfield)",
+     "region": "Manchester",
+     "distance_km": 8.7,
+     "ascent_m": null,
+     "terrain": "5.4 miles on a former railway line: 100% asphalt and 97.1% traffic-free. It's one way, so plan how you'll get back, or walk 4–5 km out and back instead. Shared with cyclists. Check the route page for closures before you go.",
+     "url": "https://www.walkwheelcycletrust.org.uk/find-a-route-on-the-national-cycle-network/fallowfield-loop/"
+    },
+    {
+     "name": "Loch Leven Heritage Trail (out-and-back section from Kinross)",
+     "region": "Perth and Kinross",
+     "distance_km": 21,
+     "ascent_m": null,
+     "terrain": "A traffic-free, well-signposted circuit of Loch Leven. Perth and Kinross Countryside Trust calls it 'level and barrier-free for most of its length' and suitable for walkers, cyclists and wheelchair users, but doesn't describe the surface, so turn back if it turns loose or muddy. Start at Kinross Pier: the trail leaflet says access at Vane Farm is by a flight of steps, and at Findatie by a long 1:12 slope. For this level, walk 4–5 km out, then back.",
+     "url": "https://www.pkct.org/loch-leven-heritage-trail"
+    },
+    {
+     "name": "Keswick Railway Path (Keswick to Threlkeld and back)",
+     "region": "Lake District",
+     "distance_km": 5.6,
+     "ascent_m": null,
+     "terrain": "Graded 'For all': designed for all levels of mobility on a tarmac path, crossing the River Greta on old railway bridges. The route details give 5.6 km and the heading says about 5 km each way, so out and back is roughly 10–11 km. Allow about 2.5 hours.",
+     "url": "https://lakedistrict.gov.uk/route/keswick-railway-path/"
+    },
+    {
+     "name": "Monsal Trail (out-and-back section)",
+     "region": "Peak District",
+     "distance_km": 13.7,
+     "ascent_m": null,
+     "terrain": "Traffic-free former railway line, 8.5 miles end to end, for walkers, cyclists, horse riders and wheelchair users. Its four tunnels, about 400 m long, are lit during normal daylight hours. For this level, walk 4–5 km out, then back (8–10 km in all).",
+     "url": "https://visitpeakdistrict.com/trails/monsal-trail"
+    }
+   ]
+  },
+  {
+   "level": 4,
+   "name": "Level 4 — Light-pack day walk (3–4 h)",
+   "description": "Your first rucksack walks, with a light day pack (ruck-light), on firm, level surfaced trails such as old railway lines and riverside walkways: no mud, rock, steep or exposed sections. Start with 2–4 kg and add about 1 kg every 2–3 weeks if the walk and the next morning feel fine. Put the pack on sitting down, uninjured arm first, and fasten the hip belt (the carrying rule is in chapter 18). A Level 4 day is longer than the programme's 80-minute long walk, so like Level 3 it's an optional extra for a free weekend, on a GREEN day.",
+   "gate": "clinic_light",
+   "criteria": {
+    "distance_km": 13,
+    "ascent_m": 0,
+    "pack_kg": 4,
+    "terrain": "firm, level surfaced trails (old railway lines, riverside walkways); no mud, rock, steep or exposed sections"
+   },
+   "examples": [
+    {
+     "name": "Bristol & Bath Railway Path with a light pack",
+     "region": "Bristol and Bath",
+     "distance_km": 23.3,
+     "ascent_m": null,
+     "terrain": "13.9 miles, 'almost entirely flat' on a disused railway line: 99.7% asphalt and 97.6% traffic-free. For this level, walk 13–14 km of it one way and plan your transport back, or about 7 km out and back. In Bath the route uses a busy industrial estate and a residential road, so take care at that end. Shared with cyclists.",
+     "url": "https://www.walkwheelcycletrust.org.uk/find-a-route-on-the-national-cycle-network/bristol-and-bath-railway-path/"
+    },
+    {
+     "name": "Camel Trail (Padstow to Bodmin)",
+     "region": "Cornwall",
+     "distance_km": 19.5,
+     "ascent_m": null,
+     "terrain": "12 miles on an old railway line, 'fairly level all the way': 80.1% asphalt, 17.1% firm unsealed and 2.8% loose surface, and 91.7% traffic-free. Take extra care on the on-road sections through Wadebridge and into Bodmin town centre. Shared with cyclists and horse riders. For this level, walk about 7 km out, then back (13–14 km in all).",
+     "url": "https://www.walkwheelcycletrust.org.uk/find-a-route-on-the-national-cycle-network/camel-trail/"
+    },
+    {
+     "name": "Cuckoo Trail (Polegate to Heathfield)",
+     "region": "East Sussex",
+     "distance_km": 17.5,
+     "ascent_m": 122,
+     "terrain": "Old railway line: 99.9% asphalt and 96.1% traffic-free, with a 'gentle 122m (400ft) climb' over 11 miles from Polegate to Heathfield. Wealden District Council says its slight gradients suit most wheelchairs and mobility scooters. It includes 300 m on a minor residential road in Hailsham, and horses use some rural sections. Buses link Heathfield, or turn round after 7 km for a 14 km day.",
+     "url": "https://www.walkwheelcycletrust.org.uk/find-a-route-on-the-national-cycle-network/cuckoo-trail/"
+    },
+    {
+     "name": "Mawddach Trail end to end (Dolgellau to Barmouth)",
+     "region": "Eryri (Snowdonia)",
+     "distance_km": 15,
+     "ascent_m": null,
+     "terrain": "Graded 'Access for All' on the old railway trackbed: largely flat, even surfaces with no steps or steep sections. Wind-blown sand after Barmouth Bridge can make the surface slippery, so go on a calm day and take that stretch slowly. Walk it one way with a light day pack and check transport back.",
+     "url": "https://eryri.gov.wales/walk/mawddach-trail/"
+    },
+    {
+     "name": "Monsal Trail end to end",
+     "region": "Peak District",
+     "distance_km": 13.7,
+     "ascent_m": null,
+     "terrain": "8.5 miles of traffic-free former railway line from Blackwell Mill to Coombs Road, Bakewell, for walkers, cyclists, horse riders and wheelchair users. Lit tunnels. Keep to one side for cyclists.",
+     "url": "https://visitpeakdistrict.com/trails/monsal-trail"
+    }
+   ]
+  },
+  {
+   "level": 5,
+   "name": "Level 5 — Long day on well-made hill paths (5–6 h, poles)",
+   "description": "Your first hill days after full clearance: five to six hours on well-made hill paths and tracks with steady climbs and descents, with two trekking poles. Carry a 5–8 kg day pack. Go in dry conditions and light winds only (gusts under 30 mph). This rung builds the time on your feet and the downhill control that mountain days need, before rocky ground.",
+   "gate": "full_clearance",
+   "criteria": {
+    "distance_km": 18,
+    "ascent_m": 600,
+    "pack_kg": 6,
+    "terrain": "well-made hill paths and tracks with steady climbs and descents; dry; poles"
+   },
+   "examples": [
+    {
+     "name": "North Downs Way over Box Hill (Dorking to Merstham)",
+     "region": "Surrey",
+     "distance_km": 16,
+     "ascent_m": null,
+     "terrain": "The trail's 10-mile Dorking to Merstham section: 'Cross the stepping stones over the River Mole and scale the steep scarp of Box Hill', then on past the viewing platforms on Colley Hill and Reigate Hill. The trail calls Guildford to Reigate its 'more challenging' stretch, and some sections get muddy in wet weather. It's one way, so plan your transport at both ends.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/north-downs-way/route/"
+    },
+    {
+     "name": "Ridgeway: Wendover to Ivinghoe Beacon",
+     "region": "Buckinghamshire and Hertfordshire",
+     "distance_km": 18.8,
+     "ascent_m": null,
+     "terrain": "The Ridgeway's last 11.8 miles, through the Chilterns. Its final miles undulate on springy turf before the last climb to Ivinghoe Beacon, where the trail ends. The Beacon is a hilltop, so plan your way back before you set off.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/the-ridgeway/route/"
+    },
+    {
+     "name": "Eastbourne and Beachy Head circular",
+     "region": "East Sussex",
+     "distance_km": 8.1,
+     "ascent_m": null,
+     "terrain": "Downland to Beachy Head, which the trail page calls Britain's highest chalk cliff; about 3.5 hours. A short first hill day: keep well back from the cliff edge.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/short-routes/eastbourne-beachy-head-circular-walk/"
+    },
+    {
+     "name": "Lewes and Kingston circular (South Downs)",
+     "region": "East Sussex",
+     "distance_km": 22,
+     "ascent_m": null,
+     "terrain": "A 14-mile downland circuit from Lewes, with 'some steep climbs, especially above Kingston'. Allow 6–7 hours. The page doesn't give a start point, so check it before you go.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/short-routes/lewes-kingston-circular/"
+    },
+    {
+     "name": "Amberley and Bignor Hill circular (South Downs)",
+     "region": "West Sussex",
+     "distance_km": 17.7,
+     "ascent_m": null,
+     "terrain": "An 11.5-mile circuit on the South Downs Way between Amberley and Bignor Hill, plus part of the National Trust's Slindon Estate and the Monarch's Way. Allow 5–6 hours. Check the start point before you go.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/short-routes/amberley-bignor-hill-circular/"
+    },
+    {
+     "name": "North Downs Way: Otford towards Wrotham",
+     "region": "Kent",
+     "distance_km": null,
+     "ascent_m": null,
+     "terrain": "A quieter Kent option past Kemsing Down, part of the trail's 24.1 km Otford to Cuxton section. The surface isn't described and the distance isn't verified, so check both before you go.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/north-downs-way/route/"
+    },
+    {
+     "name": "South Downs Way: Alfriston to Eastbourne via the Seven Sisters",
+     "region": "East Sussex (South Downs)",
+     "distance_km": 16.9,
+     "ascent_m": null,
+     "terrain": "Footpath over chalk downland, with steep climbs and descents from Cuckmere Haven to Beachy Head. The cliffs are unprotected and in places undercut, so keep well back from the edge. Dry conditions and poles. It's one way, so plan your transport at both ends.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/south-downs-way/route/"
+    },
+    {
+     "name": "The Ridgeway (a day section west of the Thames)",
+     "region": "Wiltshire, Berkshire and Oxfordshire",
+     "distance_km": 140,
+     "ascent_m": null,
+     "terrain": "The whole trail is 87 miles: a broad chalk track west of the Thames and wooded hills to the east. Pick an 18–20 km day section on the chalk track.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/the-ridgeway/"
+    },
+    {
+     "name": "Yorkshire Wolds Way (a day section)",
+     "region": "East and North Yorkshire",
+     "distance_km": 127,
+     "ascent_m": null,
+     "terrain": "79 miles of rolling chalk wolds with, in the trail's words, no 'serious' hills, with a few exceptions. Pick a 15–20 km day section.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/yorkshire-wolds-way/"
+    },
+    {
+     "name": "Monmouthshire & Brecon Canal towpath (a day section)",
+     "region": "Bannau Brycheiniog (Brecon Beacons)",
+     "distance_km": 50,
+     "ascent_m": null,
+     "terrain": "50 km from Brecon to Cwmbran: a long, flat day on mixed surfaces with some muddy patches, which is why it waits for full clearance. Pick a day section and keep to the inside of the towpath, away from the water.",
+     "url": "https://bannaubrycheiniog.org/walks/monmouthshire-and-brecon-canal-towpath/"
+    }
+   ]
+  },
+  {
+   "level": 6,
+   "name": "Level 6 — Steep made paths and first mountains",
+   "description": "Steep, stepped and stone-pitched paths, and your first summits by well-built mountain paths: rock steps, big descents and real mountain weather. Choose a clear, calm day in May–September. Set a turn-around time, and carry full hill kit plus a map and compass you can use. Walk with someone, or with a qualified leader, the first time.",
+   "gate": "full_clearance",
+   "criteria": {
+    "distance_km": 12,
+    "ascent_m": 800,
+    "pack_kg": 6,
+    "terrain": "stone-pitched mountain paths, rock steps, steep descents; summit weather"
+   },
+   "examples": [
+    {
+     "name": "Pen-y-ghent from Horton-in-Ribblesdale",
+     "region": "Yorkshire Dales",
+     "distance_km": 9.4,
+     "ascent_m": null,
+     "terrain": "Graded 'Challenge': a high-level circular walk with a steep ascent on clear paths. Take care at Hull Pot. About 2.5 hours. From far away, plan an overnight.",
+     "url": "https://www.yorkshiredales.org.uk/routes/pen-y-ghent"
+    },
+    {
+     "name": "Castleton, Mam Tor and the Great Ridge",
+     "region": "Peak District",
+     "distance_km": 10.5,
+     "ascent_m": null,
+     "terrain": "6.5 miles, extendable to 8: a stepped path up Mam Tor, a short steep slope to Back Tor, then stony paths, steps and stiles.",
+     "url": "https://visitpeakdistrict.com/trails/castleton-mam-tor-the-great-ridge-walk"
+    },
+    {
+     "name": "Yr Wyddfa (Snowdon) by the Llanberis Path",
+     "region": "Eryri (Snowdonia)",
+     "distance_km": 14.5,
+     "ascent_m": 975,
+     "terrain": "Graded Hard/Strenuous, like all six main Yr Wyddfa paths. There and back from Victoria Terrace, Llanberis; allow about 7 hours. Keep off the railway track.",
+     "url": "https://eryri.gov.wales/walk/llanberis-path/"
+    },
+    {
+     "name": "Yr Wyddfa by the Snowdon Ranger Path",
+     "region": "Eryri (Snowdonia)",
+     "distance_km": 13,
+     "ascent_m": 936,
+     "terrain": "Graded Hard/Strenuous. There and back from the Llyn Cwellyn car park; allow about 6 hours.",
+     "url": "https://eryri.gov.wales/walk/snowdon-ranger/"
+    },
+    {
+     "name": "Pen y Fan",
+     "region": "Bannau Brycheiniog (Brecon Beacons)",
+     "distance_km": null,
+     "ascent_m": null,
+     "terrain": "At 886 m, 'the highest peak in southern Britain'. Distance and time for the popular route from Pont ar Daf are not verified here, so check the National Trust or National Park page before you go."
+    },
+    {
+     "name": "Ben Lomond from Rowardennan",
+     "region": "Loch Lomond & The Trossachs",
+     "distance_km": null,
+     "ascent_m": null,
+     "terrain": "By the 'well-laid \"tourist\" trail' from Rowardennan to the 974 m summit.",
+     "url": "https://www.lochlomond-trossachs.org/things-to-do/walking/hillwalking/ben-lomond/"
+    },
+    {
+     "name": "Conic Hill above Balmaha",
+     "region": "Loch Lomond & The Trossachs",
+     "distance_km": null,
+     "ascent_m": null,
+     "terrain": "'A short but fairly stiff climb' to 361 m. Dogs are barred from the Conic Hill fields from mid-April to the end of May, during lambing.",
+     "url": "https://www.lochlomond-trossachs.org/things-to-do/walking/hillwalking/conic-hill/"
+    },
+    {
+     "name": "Ingleton Waterfalls Trail",
+     "region": "Yorkshire Dales",
+     "distance_km": 7.2,
+     "ascent_m": null,
+     "terrain": "4.5 miles. Its own site calls it 'strenuous' with 'a large number of steps', and the path is 'uneven and can be slippery'.",
+     "url": "https://www.ingletonwaterfallstrail.co.uk/plan-your-visit/"
+    },
+    {
+     "name": "Four Falls Trail (Waterfall Country)",
+     "region": "Bannau Brycheiniog (Brecon Beacons)",
+     "distance_km": null,
+     "ascent_m": null,
+     "terrain": "Steps that are 'steep, uneven, and often slippery'. People have been hurt or killed here by falls and drowning, so go in dry weather and keep back from the water.",
+     "url": "https://bannaubrycheiniog.org/waterfalls/"
+    }
+   ]
+  },
+  {
+   "level": 7,
+   "name": "Level 7 — Rough-terrain hill day (all terrains)",
+   "description": "The all-terrain rung: rough, rocky, boggy and sometimes pathless ground, where navigation matters. Expect stone and boulder fields, peat bog, wet grass and stream crossings. Build this level slowly, one new terrain at a time, ideally after Mountain Training's Hill Skills or Mountain Skills course.",
+   "gate": "full_clearance",
+   "criteria": {
+    "distance_km": 16,
+    "ascent_m": 900,
+    "pack_kg": 7,
+    "terrain": "rough, rocky, boggy and pathless ground; navigation needed"
+   },
+   "examples": [
+    {
+     "name": "Kinder Scout circular from Edale",
+     "region": "Peak District",
+     "distance_km": 17.3,
+     "ascent_m": null,
+     "terrain": "A 10.75-mile circuit across the famous peat of the Kinder plateau: boggy moorland where navigation matters. The Edale routes are 'steep and very rocky in parts, often without clear paths'. From far away, it's best as an overnight.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/short-routes/walk-way-day-walk-50-kinder-scout-edale/"
+    },
+    {
+     "name": "Helvellyn from Thirlmere",
+     "region": "Lake District",
+     "distance_km": 15,
+     "ascent_m": 819,
+     "terrain": "Graded Intermediate: steep, stony fellside, a summit ridge and scree. About 5 hours.",
+     "url": "https://www.visitlakedistrict.com/things-to-do/helvellyn-from-thirlmere-p1221511"
+    },
+    {
+     "name": "Yr Wyddfa by the Pyg Track",
+     "region": "Eryri (Snowdonia)",
+     "distance_km": 11,
+     "ascent_m": 895,
+     "terrain": "A rocky and difficult path with several steep climbs, there and back from Pen-y-Pass; about 6 hours. Crib Goch, a knife-edge ridge with no escape route, is not part of this walk and is not for novices.",
+     "url": "https://eryri.gov.wales/walk/pyg-track/"
+    },
+    {
+     "name": "Cwm Idwal circuit",
+     "region": "Eryri (Snowdonia)",
+     "distance_km": 5,
+     "ascent_m": 140,
+     "terrain": "A short first taste of rough ground. Graded Moderate, with loose rock, large boulders and a steep section towards Twll Du (a shorter option avoids it). From the Ogwen Centre; about 2 hours.",
+     "url": "https://eryri.gov.wales/walk/cwm-idwal/"
+    },
+    {
+     "name": "Schiehallion",
+     "region": "Highland Perthshire",
+     "distance_km": null,
+     "ascent_m": null,
+     "terrain": "A good Scottish Level 7. The John Muir Trust warns there are 'no waymarkers on the hill', and that above the built path you face 'a walk across rocks and boulders'.",
+     "url": "https://www.johnmuirtrust.org/about-us/where-we-work/east-schiehallion"
+    },
+    {
+     "name": "Scafell Pike",
+     "region": "Lake District",
+     "distance_km": null,
+     "ascent_m": null,
+     "terrain": "England's highest mountain at 978 m, and a Level 7–8 day. The National Park says visitors 'must be prepared and have significant mountaineering experience'.",
+     "url": "https://lakedistrict.gov.uk/explore/things-to-do/walking/walking-routes/scafell-pike/"
+    }
+   ]
+  },
+  {
+   "level": 8,
+   "name": "Level 8 — Big mountain or challenge day",
+   "description": "A long, committing day: 8–12 hours, 1,000–1,600 m of ascent, mixed mountain terrain and a big descent at the end. Prepare with the 12-week 'first big hike' block, then taper. Start early, eat 30–60 g of carbohydrate an hour, and turn back if the weather or your legs say no.",
+   "gate": "full_clearance",
+   "criteria": {
+    "distance_km": 25,
+    "ascent_m": 1300,
+    "pack_kg": 7,
+    "terrain": "long day on mixed mountain terrain, rocky paths and big descents"
+   },
+   "examples": [
+    {
+     "name": "Yorkshire Three Peaks",
+     "region": "Yorkshire Dales",
+     "distance_km": 38.6,
+     "ascent_m": 1600,
+     "terrain": "24 miles and about 1,600 m of ascent, traditionally from Horton-in-Ribblesdale. Carry OS Explorer OL2 and don't rely on mobile phones. Walk in daylight, spring to early autumn, and avoid bank holidays and Saturdays, or consider doing it over two days, as the National Park suggests.",
+     "url": "https://www.yorkshiredales.org.uk/visit/walking-in-the-dales/yorkshire-three-peaks/walking-the-three-peaks"
+    },
+    {
+     "name": "Helvellyn via Striding Edge and Swirral Edge",
+     "region": "Lake District",
+     "distance_km": 12.4,
+     "ascent_m": 820,
+     "terrain": "Strenuous, with a Grade 1 scramble: easy but exposed scrambling, and very steep, partly loose ground beside Swirral Edge. From Glenridding; 5–6 hours. Do it after a scrambling or Mountain Skills course.",
+     "url": "https://www.visitlakedistrict.com/things-to-do/helvellyn-via-striding-edge-and-swirral-edge-p1222031"
+    },
+    {
+     "name": "Ben Nevis — Mountain Track from Glen Nevis",
+     "region": "Lochaber, Scottish Highlands",
+     "distance_km": 17,
+     "ascent_m": 1350,
+     "terrain": "Stony, zig-zagging mountain track to the UK's highest summit; Mountaineering Scotland gives 6–9 hours. Rocky ground and lying snow above Halfway Lochan can make it hard to follow, and snow can lie into early summer. In mist the summit plateau is the danger: Mountaineering Scotland gives a two-bearing route off the top (150 m on 231°, then 282°) to avoid the Gardyloo and Five Finger gullies, so learn to follow bearings on a navigation course first. Distance and ascent are not verified.",
+     "url": "https://www.mountaineering.scot/activities/hillwalking/ben-nevis"
+    }
+   ]
+  },
+  {
+   "level": 9,
+   "name": "Level 9 — Multi-day trail, supported",
+   "description": "Several consecutive days of 15–25 km on a waymarked long-distance trail, carrying a day pack while a baggage-transfer service moves your main bag. Rehearse with 2–3 back-to-back days 4–6 weeks before. Book accommodation early, and plan for blisters, weather and rest.",
+   "gate": "full_clearance",
+   "criteria": {
+    "distance_km": 20,
+    "ascent_m": 600,
+    "pack_kg": 7,
+    "terrain": "waymarked trails on mixed terrain, some rough and rocky sections, on consecutive days"
+   },
+   "examples": [
+    {
+     "name": "Thames Path in stages (source to the Thames Barrier)",
+     "region": "Gloucestershire to London",
+     "distance_km": 298,
+     "ascent_m": null,
+     "terrain": "185 miles in 15 sections of 8.8–26.2 km, mostly flat, gentle and well waymarked; the trail page gives 14 days. The lower river is tidal, and some riverside paths there flood at high spring tides, so check the tide times for those stages.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/thames-path/route/"
+    },
+    {
+     "name": "South Downs Way (Winchester to Eastbourne)",
+     "region": "Hampshire and Sussex",
+     "distance_km": 160,
+     "ascent_m": null,
+     "terrain": "100 miles of undulating chalk downland over about 9 days, mostly on an open ridgeline. Walkable any time of year; busy at weekends May–September. You can walk it in weekend stages first. The Trail Officer suggests west to east, with the wind behind you.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/south-downs-way/"
+    },
+    {
+     "name": "North Downs Way (Farnham to Dover)",
+     "region": "Surrey and Kent",
+     "distance_km": 245,
+     "ascent_m": null,
+     "terrain": "153 miles along the North Downs. Much of it is relatively level, but it goes up and down the scarp several times, with 'steep ascents and descents in places', and some sections get muddy in wet weather. The trail suggests twelve days at about 13 miles a day.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/north-downs-way/trail-information/"
+    },
+    {
+     "name": "The Ridgeway end to end (Overton Hill to Ivinghoe Beacon)",
+     "region": "Wiltshire to Buckinghamshire",
+     "distance_km": 139,
+     "ascent_m": null,
+     "terrain": "87 miles in six sections of 9.3–17.4 miles. West of the Thames it is a broad chalk track, mostly with a natural surface. Watlington to Wendover is 'the most undulating with several climbs in and out of valleys'. Check your transport to Overton Hill.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/the-ridgeway/route/"
+    },
+    {
+     "name": "West Highland Way (Milngavie to Fort William)",
+     "region": "Scottish Highlands",
+     "distance_km": 154,
+     "ascent_m": null,
+     "terrain": "96 miles over 6–7 days in 8 stages of about 14.5–24 km. Mostly good tracks, but the east shore of Loch Lomond is rough, rocky and boulder-strewn. Highest point about 550 m at the top of the Devil's Staircase. Baggage-transfer services are available.",
+     "url": "https://www.westhighlandway.org/the-route/"
+    },
+    {
+     "name": "Great Glen Way (Fort William to Inverness)",
+     "region": "Scottish Highlands",
+     "distance_km": 120,
+     "ascent_m": null,
+     "terrain": "Low-level route on canal towpaths, forest tracks and roads, with some challenging sections; 4–7 days",
+     "url": "https://www.greatglenway.com/info/3/"
+    },
+    {
+     "name": "Hadrian's Wall Path",
+     "region": "Northumberland and Cumbria",
+     "distance_km": 135,
+     "ascent_m": null,
+     "terrain": "84 miles over about 7 days. Described as relatively easy, though the 23-mile (37 km) Chollerford–Birdoswald section is the hardest. Highest point Windshields Crags (345 m). Best May–October; it can get muddy, and the Solway sections can flood at high tide.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/hadrians-wall-path/"
+    },
+    {
+     "name": "Speyside Way (Buckie to Aviemore)",
+     "region": "Scottish Highlands",
+     "distance_km": 105,
+     "ascent_m": null,
+     "terrain": "About 65 miles over 5–6 days along the Spey valley. Local taxi firms move your bags.",
+     "url": "https://www.speysideway.org/"
+    },
+    {
+     "name": "Cleveland Way",
+     "region": "North York Moors and the Yorkshire coast",
+     "distance_km": 175,
+     "ascent_m": null,
+     "terrain": "109 miles over about 9 days, 'challenging in places', especially the Cleveland Hills and the coast. A Level 9–10 trail.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/cleveland-way/"
+    },
+    {
+     "name": "Cotswold Way",
+     "region": "Cotswolds",
+     "distance_km": 164,
+     "ascent_m": null,
+     "terrain": "102 miles over about 10 days, with frequent steep climbs. The trail's own page says wild camping is not legal there.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/cotswold-way/"
+    },
+    {
+     "name": "Pembrokeshire Coast Path",
+     "region": "Pembrokeshire",
+     "distance_km": 299,
+     "ascent_m": null,
+     "terrain": "186 miles of rugged cliff tops over about 12 days; a Level 9–10 trail. Book summer accommodation well ahead.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/pembrokeshire-coast-path/"
+    },
+    {
+     "name": "Glyndŵr's Way",
+     "region": "Mid Wales",
+     "distance_km": 217,
+     "ascent_m": null,
+     "terrain": "135 miles, described as 'very hilly'.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/glyndwrs-way/"
+    }
+   ]
+  },
+  {
+   "level": 10,
+   "name": "Level 10 — Multi-day long-distance trail with full pack",
+   "description": "The goal: a long, self-supported trail over all terrains, carrying everything you need (10–15 kg) day after day. Expect remote moorland, bog, rocky ground, river crossings and navigation in poor visibility. Arrive with Levels 7–9 behind you, a pack you have trained with, and the skills to look after yourself.",
+   "gate": "full_clearance",
+   "criteria": {
+    "distance_km": 25,
+    "ascent_m": 900,
+    "pack_kg": 12,
+    "terrain": "all terrains: remote moorland, bog, rock, rivers and poor visibility, on many consecutive days"
+   },
+   "examples": [
+    {
+     "name": "Pennine Way (Edale to Kirk Yetholm)",
+     "region": "Peak District to the Scottish Borders",
+     "distance_km": 431,
+     "ascent_m": null,
+     "terrain": "268 miles, hilly and often remote, with smooth, firm paths in places and narrow, uneven or boggy stretches in others; 'arguably the most challenging' National Trail in England. The trail's stats panel gives 19 days. Best mid-May to September; expect snow on the northern sections in winter.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/pennine-way/"
+    },
+    {
+     "name": "Coast to Coast Path (St Bees to Robin Hood's Bay)",
+     "region": "Lake District, Yorkshire Dales and North York Moors",
+     "distance_km": 306,
+     "ascent_m": null,
+     "terrain": "190 miles across upland fells, moorland and the Vale of York: 'a challenging route through remote and beautiful landscapes'. Now an official National Trail.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/coast-to-coast/"
+    },
+    {
+     "name": "Offa's Dyke Path",
+     "region": "Wales–England border",
+     "distance_km": 285,
+     "ascent_m": null,
+     "terrain": "177 miles. The uplands can be hard going in poor weather or visibility. Most people walk it April–October, over a couple of weeks or more.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/offas-dyke-path/"
+    },
+    {
+     "name": "South West Coast Path (in sections)",
+     "region": "Somerset, Devon, Cornwall and Dorset",
+     "distance_km": 1014,
+     "ascent_m": null,
+     "terrain": "630 miles over about 52 days, with over 115,000 feet of ascent and descent. A Level 10 trail, walked in sections.",
+     "url": "https://www.nationaltrail.co.uk/en_GB/trails/south-west-coast-path/"
+    }
+   ]
+  }
+ ],
+ "weekend_plan": [
+  {
+   "program_week": 1,
+   "name": "A flat 3 km park loop or firm towpath near you",
+   "minutes": 40,
+   "level": 1,
+   "notes": "Re-entry week: 20 minutes out, then back, all in easy Zone 2. Pavements or tarmac park paths are ideal. Use a towpath only if it's surfaced, wide and dry, and keep to the inside, away from the water. Frost, ice, wet leaves or rain: do the minutes on the treadmill instead."
+  },
+  {
+   "program_week": 2,
+   "name": "A flat 3–4 km route on pavements or a paved riverside path",
+   "minutes": 45,
+   "level": 1,
+   "notes": "Go early, before the crowds, and keep your injured side away from people and bikes. Pack by the carrying rule for your current gate (chapter 18); the route stays flat and paved whatever the clinic said."
+  },
+  {
+   "program_week": 3,
+   "name": "Loops of a large park on its tarmac paths",
+   "minutes": 60,
+   "level": 2,
+   "notes": "Keep to the tarmac, not the grass. Check the opening times, and where the toilets are, before you go."
+  },
+  {
+   "program_week": 4,
+   "name": "A longer loop on hard, step-free paths in a country park or along a river",
+   "minutes": 70,
+   "level": 2,
+   "notes": "Look for paths the park itself describes as surfaced or step-free. Turn back if the surface turns to grass, mud or loose stones."
+  },
+  {
+   "program_week": 5,
+   "name": "A full flat loop of about 6–7 km on tarmac or firm gravel",
+   "minutes": 80,
+   "level": 2,
+   "notes": "Your longest walk so far: steady Zone 2, with water and a layer in your waist pack. Finish feeling you could do it again."
+  },
+  {
+   "program_week": 6,
+   "name": "A shorter flat route of about 4 km at an easy pace",
+   "minutes": 56,
+   "level": 1,
+   "notes": "A deload week on the standard schedule: a shorter walk at an easy pace. If the hub's long walk shows a different time this week, follow the hub."
+  },
+  {
+   "program_week": 7,
+   "name": "A surfaced, stile-free trail a short journey from home",
+   "minutes": 80,
+   "level": 2,
+   "notes": "Your first walk further afield: choose a route graded for all abilities, surfaced, level and stile-free, such as a country-park trail or a 'Miles without Stiles'-type route. Plan the journey so you finish an hour before sunset."
+  },
+  {
+   "program_week": 8,
+   "name": "An old railway path or firm towpath: 40 minutes out, 40 back",
+   "minutes": 80,
+   "level": 2,
+   "notes": "Old railway lines turned into walking and cycling paths are ideal: flat, firm and often traffic-free. They're shared with cyclists, so keep your injured side away from passing bikes, and check how you get from the car park, station or bus stop to the path."
+  }
+ ],
+ "kit": [
+  {
+   "item": "Walking or trail shoes with deep, grippy lugs",
+   "category": "footwear",
+   "essential": true,
+   "notes": "Your footwear now, on tarmac and firm, level gravel. Grip is the safety feature, so replace anything with a smooth, worn sole. Try shoes on late in the day, wearing your hiking socks."
+  },
+  {
+   "item": "Walking boots (mid-cut, waterproof)",
+   "category": "footwear",
+   "essential": false,
+   "notes": "For rough, wet and rocky ground after Full clearance. Break them in over 3–4 short walks and a half-day before any long day. Never wear new boots on a big day."
+  },
+  {
+   "item": "Merino or synthetic walking socks (2–3 pairs)",
+   "category": "footwear",
+   "essential": true,
+   "notes": "Never cotton. Change them if your feet get sweaty, and carry a spare pair on long days."
+  },
+  {
+   "item": "Liner socks",
+   "category": "footwear",
+   "essential": false,
+   "notes": "A thin inner sock that helps some people with blisters."
+  },
+  {
+   "item": "Easy-lace system (elastic or lock laces)",
+   "category": "footwear",
+   "essential": false,
+   "notes": "Makes lacing possible one-handed. Never walk with loose laces."
+  },
+  {
+   "item": "Gaiters",
+   "category": "footwear",
+   "essential": false,
+   "notes": "Keep mud, bog water and snow out of your boots on the rough terrain that opens at Full clearance."
+  },
+  {
+   "item": "Microspikes",
+   "category": "footwear",
+   "essential": false,
+   "notes": "Slip-on spikes for icy paths, after Full clearance only. They are not a substitute for crampons and an ice axe on steep snow."
+  },
+  {
+   "item": "Breathable base layer (synthetic or merino)",
+   "category": "clothing",
+   "essential": true,
+   "notes": "Avoid cotton t-shirts. They hold sweat and chill you when you stop."
+  },
+  {
+   "item": "Fleece or soft-shell mid layer",
+   "category": "clothing",
+   "essential": true,
+   "notes": "On and off as the weather and gradient change, so you don't sweat and then freeze."
+  },
+  {
+   "item": "Insulated jacket (synthetic or down)",
+   "category": "clothing",
+   "essential": true,
+   "notes": "For stops, summits and emergencies. Synthetic insulation stays warmer when damp."
+  },
+  {
+   "item": "Waterproof jacket with a good hood",
+   "category": "clothing",
+   "essential": true,
+   "notes": "Don't leave home without it. Loose sleeves fit over a splint or brace, and big zip pulls are easier one-handed. Injured arm in first, out last."
+  },
+  {
+   "item": "Waterproof over-trousers with long side zips",
+   "category": "clothing",
+   "essential": true,
+   "notes": "Long side zips let them go on over boots. Put them on sitting down, never hopping on one leg."
+  },
+  {
+   "item": "Quick-drying walking trousers",
+   "category": "clothing",
+   "essential": true,
+   "notes": "Avoid denim, which is cold and heavy when wet."
+  },
+  {
+   "item": "Warm hat",
+   "category": "clothing",
+   "essential": true,
+   "notes": "Carry one all year on the hills. Summits are much colder and windier than car parks."
+  },
+  {
+   "item": "Gloves, plus an easy-on mitt for the injured hand",
+   "category": "clothing",
+   "essential": true,
+   "notes": "Cold often makes a healing arm ache, so keep it warm. A loose mitt is easiest to pull on over a stiff hand."
+  },
+  {
+   "item": "Buff or neck gaiter",
+   "category": "clothing",
+   "essential": false,
+   "notes": "For warmth and sun, and it doubles as an improvised arm sling in an emergency."
+  },
+  {
+   "item": "Sun hat and sunglasses",
+   "category": "clothing",
+   "essential": false,
+   "notes": "Seasonal. Snow glare in winter is real."
+  },
+  {
+   "item": "Waist pack (hip pack)",
+   "category": "pack",
+   "essential": true,
+   "notes": "Your pack on walks until Light use / rehab started: water, phone, snack and a light layer, 2 kg or less. It keeps both hands free and has no shoulder straps. Put it on and take it off with your uninjured hand."
+  },
+  {
+   "item": "20–30 litre day pack with a padded hip belt",
+   "category": "pack",
+   "essential": true,
+   "notes": "From Light use / rehab started onwards (the light ruck in the library); until then use the waist pack. Start at 2–4 kg and add about 1 kg every 2–3 weeks if the walk and the next morning feel fine. Put it on sitting down, uninjured arm first, and fasten the hip belt so it carries most of the weight (chapter 18 has the carrying rule)."
+  },
+  {
+   "item": "Dry bag or pack liner",
+   "category": "pack",
+   "essential": true,
+   "notes": "Rucksacks aren't waterproof at the seams. Keep spare layers, phone and power bank dry."
+  },
+  {
+   "item": "Trekking poles (pair)",
+   "category": "pack",
+   "essential": false,
+   "notes": "From Grip cleared, once your injured hand's grip is at least 70% of your good hand's and your physio agrees. Until Full clearance, use them only on the tarmac or firm, level trails you're already allowed. Take your hands out of the wrist straps on rough ground, and never use the strap on your injured side."
+  },
+  {
+   "item": "Multi-day pack (40–60 litres)",
+   "category": "pack",
+   "essential": false,
+   "notes": "For self-supported trails (Level 10). Have it fitted to your back length in a shop and train with it loaded."
+  },
+  {
+   "item": "Sit mat",
+   "category": "pack",
+   "essential": false,
+   "notes": "A light foam pad for warm, dry stops."
+  },
+  {
+   "item": "OS Explorer map (1:25,000) in a map case",
+   "category": "navigation",
+   "essential": true,
+   "notes": "4 cm on the map is 1 km, and the grid squares are 1 km across. Carry it even if you use GPS."
+  },
+  {
+   "item": "Baseplate compass",
+   "category": "navigation",
+   "essential": true,
+   "notes": "Learn to set the map and take a bearing, for example on Mountain Training's Hill Skills or an NNAS Bronze course."
+  },
+  {
+   "item": "Phone with offline OS or Harvey maps",
+   "category": "navigation",
+   "essential": true,
+   "notes": "Download the maps before you go. Flight mode saves battery. Keep the phone in an inside pocket and a waterproof case."
+  },
+  {
+   "item": "Power bank and cable",
+   "category": "navigation",
+   "essential": true,
+   "notes": "Keep it in a dry bag and charge everything the night before. Many accidents happen late in the day, when you and your phone are both low on energy."
+  },
+  {
+   "item": "Watch",
+   "category": "navigation",
+   "essential": true,
+   "notes": "For timing legs and turn-around times. Wear it, or a heart-rate watch, on the good wrist."
+  },
+  {
+   "item": "Head torch, plus a spare or spare batteries",
+   "category": "safety",
+   "essential": true,
+   "notes": "On every walk, all year. Charge it before you set off."
+  },
+  {
+   "item": "Whistle",
+   "category": "safety",
+   "essential": true,
+   "notes": "The distress signal is six long blasts in a minute, a minute's pause, then repeat."
+  },
+  {
+   "item": "First aid kit, including personal medication",
+   "category": "safety",
+   "essential": true,
+   "notes": "Plasters, dressings, a triangular bandage or buff for a sling, and any medicines you take, with spares."
+  },
+  {
+   "item": "Blister kit (hydrocolloid dressings and paper tape)",
+   "category": "safety",
+   "essential": true,
+   "notes": "Stop at the first hot spot. Don't burst blisters. Cover them with a soft plaster or hydrocolloid dressing."
+  },
+  {
+   "item": "Survival bag or group shelter",
+   "category": "safety",
+   "essential": true,
+   "notes": "Light, cheap and life-saving if you're stuck or injured while you wait for help."
+  },
+  {
+   "item": "Emergency contacts and emergencySMS registration",
+   "category": "safety",
+   "essential": true,
+   "notes": "Register before you need it: text 'register' to 999 and follow the instructions. Add an ICE contact to your phone."
+  },
+  {
+   "item": "Route card left with someone",
+   "category": "safety",
+   "essential": true,
+   "notes": "Route, start and finish, expected return time, where you parked, what you're wearing and your mobile number. Agree what they do if you don't check in."
+  },
+  {
+   "item": "Arm protection advised by your clinic (splint, brace or sling)",
+   "category": "safety",
+   "essential": true,
+   "notes": "Only if your clinic has given you one for outdoor use. Don't strap anything tight around the injured forearm without their OK."
+  },
+  {
+   "item": "Sun cream",
+   "category": "safety",
+   "essential": false,
+   "notes": "Seasonal, but UK summits burn on cloudy days too."
+  },
+  {
+   "item": "Water (1–2 litres)",
+   "category": "food-water",
+   "essential": true,
+   "notes": "More in heat. Weigh yourself before and after training walks to learn your sweat rate, and avoid losing more than 2% of your body weight."
+  },
+  {
+   "item": "Snacks giving 30–60 g of carbohydrate per hour",
+   "category": "food-water",
+   "essential": true,
+   "notes": "Bananas, bars, jelly sweets, malt loaf. Little and often. Practise your hike food in training."
+  },
+  {
+   "item": "Packed lunch",
+   "category": "food-water",
+   "essential": true,
+   "notes": "Real food for long days. You're not dieting while the bone heals."
+  },
+  {
+   "item": "Flask of hot drink",
+   "category": "food-water",
+   "essential": false,
+   "notes": "A big morale and warmth boost in winter."
+  },
+  {
+   "item": "Electrolyte tablets or salty snacks",
+   "category": "food-water",
+   "essential": false,
+   "notes": "Useful on long, hot days. Drink to thirst rather than forcing fluid."
+  },
+  {
+   "item": "Water filter or purification tablets",
+   "category": "food-water",
+   "essential": false,
+   "notes": "Only if you plan to refill from streams, which may be contaminated by livestock."
+  },
+  {
+   "item": "Heart-rate monitor (chest strap or watch)",
+   "category": "other",
+   "essential": false,
+   "notes": "Helps keep most of a hike in Zone 1–2. Wear any watch on the good wrist."
+  },
+  {
+   "item": "Rubbish bag",
+   "category": "other",
+   "essential": true,
+   "notes": "Countryside Code: take your litter home, including food waste."
+  },
+  {
+   "item": "Spare clothes and shoes in the car",
+   "category": "other",
+   "essential": false,
+   "notes": "Dry socks, a warm top and spare shoes for the journey home after a wet day. On public transport, pack them in a dry bag instead."
+  }
+ ],
+ "terrain_skills": [
+  {
+   "terrain": "Tarmac and firm, level gravel paths",
+   "gate": "none",
+   "technique": [
+    "Keep your eyes 2–3 steps ahead. Stop to look at the view instead of gazing while you walk.",
+    "Take short steps over kerbs, ramps and any slight slope, and land with the whole foot.",
+    "Watch for the slippery four: wet leaves, mossy boardwalks, metal grates and ice. Slow right down or walk round them.",
+    "Keep both hands free (waist pack, hands out of pockets) and your injured side away from passing bikes and dogs.",
+    "Gates and kissing gates: push with your body or the good hand.",
+    "Turn back if the surface turns to mud, loose stones, steps or a steep slope, or if there's frost, ice or flooding. That ground waits for Full clearance."
+   ]
+  },
+  {
+   "terrain": "Well-made hill paths (dry, moderate gradients)",
+   "gate": "full_clearance",
+   "technique": [
+    "Uphill: shorten your stride and let the pace drop to stay in Zone 2. Don't chase faster walkers.",
+    "Downhill: shorter steps, soft knees and your weight over your feet. Plant your poles slightly ahead.",
+    "Use two poles, and take your hands out of the wrist straps if the ground gets rough.",
+    "Go only in dry conditions and light winds (gusts under 30 mph).",
+    "Plan the last 30–60 minutes to be easy, because most slips happen late in the day and on the way down."
+   ]
+  },
+  {
+   "terrain": "Stiles and walls",
+   "gate": "full_clearance",
+   "technique": [
+    "Until Full clearance, choose stile-free routes, such as accessible 'Miles without Stiles'-type routes, or turn back.",
+    "Climb with three points of contact: two feet and a hand, or one foot and two hands.",
+    "Test wet wooden steps first. They are often slick.",
+    "On ladder stiles, face the ladder going down as well as going up.",
+    "If a stile is awkward with a pack, take the pack off and pass it over rather than swinging over in a hurry."
+   ]
+  },
+  {
+   "terrain": "Wet grass and muddy slopes",
+   "gate": "full_clearance",
+   "technique": [
+    "Place the whole sole flat. Don't strike with your heel.",
+    "Zig-zag across steep slopes instead of going straight down the fall line.",
+    "Walk on the rougher edges of the path, where there's more grip, not the polished line.",
+    "Take small steps with your poles planted ahead on the way down.",
+    "If your feet go, sit down rather than reaching out with a hand."
+   ]
+  },
+  {
+   "terrain": "Mud, bog and peat moorland",
+   "gate": "full_clearance",
+   "technique": [
+    "Read the ground. Bright green moss, rushes and cotton grass mean wet. Heather and rock are firmer.",
+    "Probe doubtful ground with a pole before you step.",
+    "Use tussocks and stones only if they're stable, and never leap between them.",
+    "Wear gaiters and waterproof boots, expect wet feet on long moorland days, and change your socks at lunch.",
+    "Stay on slabbed paths where they exist, because they protect the bog, but treat wet slabs as slippery."
+   ]
+  },
+  {
+   "terrain": "Stone-pitched paths and rock steps",
+   "gate": "full_clearance",
+   "technique": [
+    "Step on the tops of the stones, not into the gaps between them.",
+    "On big steps down, turn slightly sideways and lower yourself under control, using your poles.",
+    "Wet rock is slippery, and wet, polished limestone extremely so. Slow down.",
+    "Follow the 'staircase' of flat-topped stones rather than the eroded edges.",
+    "Shorten your stride on long descents to spare your knees."
+   ]
+  },
+  {
+   "terrain": "Boulders, rocky ground and limestone pavement",
+   "gate": "full_clearance",
+   "technique": [
+    "Keep three points of contact on awkward moves, and never jump from boulder to boulder.",
+    "Test each foothold. Rock that rocks will roll.",
+    "On limestone pavement, step on the solid blocks and never into the deep cracks between them.",
+    "Slow down in the wet and when you're tired. This is where ankles turn."
+   ]
+  },
+  {
+   "terrain": "Scree",
+   "gate": "full_clearance",
+   "technique": [
+    "Avoid scree where a path exists. Scree paths erode and loosen quickly.",
+    "Going up, stay at the edges near solid ground and kick small steps.",
+    "Going down, take short, controlled steps with soft knees and your weight over your feet. Don't 'scree run'.",
+    "Keep your spacing in a group, and never stand below someone on loose ground."
+   ]
+  },
+  {
+   "terrain": "Scrambling (UK Grades 1–3)",
+   "gate": "full_clearance",
+   "technique": [
+    "Learn on a course first. Mountain Training's Mountain Skills, for example, includes simple scrambling.",
+    "Face in on steep sections and keep three points of contact.",
+    "Test every hold, and trust your feet more than your hands.",
+    "Check the grade and the exposure, and know your escape routes before you start.",
+    "Avoid it in wet or windy weather while you're learning. You need two hands you trust completely."
+   ]
+  },
+  {
+   "terrain": "Streams and river crossings",
+   "gate": "full_clearance",
+   "technique": [
+    "Avoidance is the key. Plan routes with bridges, and remember that a bridge on the map may not exist.",
+    "After heavy rain, wait (levels drop quickly once the rain stops) or choose another route.",
+    "If you must cross, pick a wide, slow section, face upstream, use a pole as a third point of contact and unclip your hip belt.",
+    "Don't hop across slippery stepping stones. Wading carefully is often safer.",
+    "In a group, cross in a line, one behind the other."
+   ]
+  },
+  {
+   "terrain": "Snow and ice",
+   "gate": "full_clearance",
+   "technique": [
+    "Do a winter skills course (ice axe, crampons, self-arrest, avalanche awareness) before winter hill walking.",
+    "Check the mountain forecast and, in Scotland, the SAIS avalanche forecast.",
+    "Microspikes are for icy paths. Steep snow needs crampons and an ice axe.",
+    "Days are short, so carry a head torch and set an early turn-around time.",
+    "Self-arrest loads both wrists hard. Wait for full clearance and your physio's OK."
+   ]
+  },
+  {
+   "terrain": "Steep descents and exposed ridges",
+   "gate": "full_clearance",
+   "technique": [
+    "Take short steps with soft knees and your weight over your feet. Zig-zag on steep grass.",
+    "Face in and use your hands on steep rock steps, and sit and slide off awkward ones.",
+    "Wind over 30 mph affects your balance on ridges. Above 40 mph, choose a lower route.",
+    "Slow down in the last hour of the day, when tiredness causes most slips.",
+    "Turn back early if the conditions or your legs aren't right."
+   ]
+  }
+ ]
+}

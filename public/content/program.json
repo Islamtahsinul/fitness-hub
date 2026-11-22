@@ -1,0 +1,3419 @@
+{
+ "version": 1,
+ "default_start_date": null,
+ "gates": [
+  {
+   "id": "none",
+   "label": "Now",
+   "description": "Available from day one: legs, engine, arm-free core, and balance next to a support. Your injured arm does nothing (no gripping, holding, pushing, pulling, bracing or weight-bearing), nothing needs two hands, and you get into and out of machines and up from the floor without it."
+  },
+  {
+   "id": "good_arm_ok",
+   "label": "Good arm OK",
+   "description": "Your clinic or physio has said you may train your uninjured arm. Unlocks the seated good-arm cross-education add-on (Mon/Wed/Fri) for Phases 0–1, grip readings for your uninjured hand on the Your arm page, and loading leg-press plates of 10 kg or less with that hand."
+  },
+  {
+   "id": "clinic_light",
+   "label": "Light use / rehab started",
+   "description": "Cleared for light use of the injured arm and/or physio rehab has started. Unlocks the daily rehab slot (your physio's programme exactly as prescribed; it appears once you've entered their exercises on the Your arm page), a light day pack (2–4 kg to start) on walks, and the couch stretch. Gates are cumulative, so it also unlocks everything under Good arm OK (weights for your uninjured arm and the good-arm sessions): set it only if your clinic has also said yes to training your uninjured arm (chapter 18)."
+  },
+  {
+   "id": "grip_cleared",
+   "label": "Grip cleared",
+   "description": "Your physio has cleared gripping and holding weights, light to moderate. Unlocks Phase 2a (machines and cables for two weeks), then Phases 2–3 (free weights; free-bar squats, deadlifts and bench wait for full clearance). Carries follow the grip ladder, and each rung counts only when your physio has measured it or OK'd the step: light holds and carries from 70% of your good hand, moderate farmer's carries from 80%. Steady Zone 2 on the rower or ski erg becomes an optional swap with your physio's OK (the plan itself schedules them after full clearance). Still no weight-bearing through the wrist, no hanging, no sled pushing, no impact, no rough terrain."
+  },
+  {
+   "id": "full_clearance",
+   "label": "Full clearance",
+   "description": "Fully cleared for heavy loading, carrying, hanging, weight-bearing on the hands, impact and jumping. Unlocks Phase 4a (a 4-week bridge that brings each skill in gradually, including free-bar squats), then Phases 4–5. Heavy carries and hanging also need grip at least 90% of your good hand, measured or OK'd by your physio."
+  }
+ ],
+ "phases": [
+  {
+   "id": "p0",
+   "name": "Phase 0 — Re-entry Week",
+   "short": "Re-entry Week",
+   "entry_gate": "none",
+   "weeks": 1,
+   "repeat_from_week": null,
+   "goal": "Your first week back after the layoff. Six mornings to set up each machine one-handed, get the leg press's dead-start stops set by staff, find your working loads and your Zone 2 (60–70% of your max heart rate; Settings shows your range), and take your baseline tests on days 1–3. On every main lift: 2 sets at 3–4 reps in reserve, then one calibration set at 2 in reserve. Start around a load you could do for 15, then let double progression find your level within 2 sessions. You know how to train; this week the arm and the layoff set the pace.",
+   "focus": [
+    "Set up each machine one-handed and note every seat, pad and stop setting",
+    "Find working loads: 2 sets at RIR 3–4, then one calibration set at RIR 2",
+    "Finding Zone 2 (talk test plus heart rate)",
+    "Baseline tests on days 1–3",
+    "Daily 10-minute mobility"
+   ],
+   "exit_criteria": [
+    "PAR-Q+ done before your first session (a 'yes' to the bone question is expected; do what it advises)",
+    "Staff have set the leg press's bottom stops for your dead start (hole number in your notes)",
+    "You can set up every Phase 1 machine without using your injured arm",
+    "A working load for every Phase 1 lift, from your calibration sets",
+    "Baseline tests logged on days 1–3; Monday's leg-press calibration set is your re-entry baseline",
+    "At least 5 of 6 sessions done, with arm pain no worse than before you started"
+   ],
+   "week_template": {
+    "mon": "str-a",
+    "tue": "engine-z2-intro",
+    "wed": "str-b",
+    "thu": "engine-z2-intro",
+    "fri": "str-c-learn",
+    "sat": "long-walk-intro",
+    "sun": "rest"
+   },
+   "week_overrides": [
+    {
+     "week": 1,
+     "label": "Re-entry — find your loads",
+     "sets_max": 3,
+     "rir": "3-4",
+     "notes": "Re-entry checklist. 1) PAR-Q+ before your first session. 2) Ask staff to set the leg press's bottom stops for your dead start and note the hole. 3) Baseline tests on days 1–3: Monday the sit-to-stand, knee-to-wall and single-leg balance; Tuesday the 1-mile walk; Wednesday heel raises and the hollow hold (Progress → Tests). 4) Every exercise with 3 or more sets: 2 sets at 3–4 reps in reserve, then the third as a calibration set at 2 in reserve; log the RIR you actually had. Two-set armour work stays easy. Start around a load you could do for 15, then let double progression find your level within 2 sessions. Monday's leg-press calibration set is your re-entry baseline. 5) Note every seat, pad and stop setting. Your first week back after the layoff: some soreness is normal, but dark (cola-coloured) urine with severe muscle pain or swelling after training is not: get same-day medical advice (possible rhabdomyolysis)."
+    }
+   ],
+   "weekly_targets": {
+    "zone2_min": 90,
+    "strength_sessions": 3,
+    "steps_avg": 7000,
+    "long_session_min": 40
+   }
+  },
+  {
+   "id": "p1",
+   "name": "Phase 1 — Foundation",
+   "short": "Foundation",
+   "entry_gate": "none",
+   "weeks": 8,
+   "min_weeks": 4,
+   "repeat_from_week": 4,
+   "goal": "Rebuild the legs, engine and core that long hikes need while your arm heals, with the injured arm doing nothing. Three strength days (squat and knee; hinge and posterior chain; single leg plus an arm-free circuit) of no more than six exercises each, at full sets from week 1: about 10–14 hard sets a week for quads and glutes and 8–10 for hamstrings and calves, each trained twice. Two hiking-engine days and a long walk on good paths. Muscle memory is on your side, so expect loads to climb quickly. One thing changes at a time: a steeper incline in week 3, machine leg work to 1–2 reps in reserve from week 4, a deload in week 5, hard bike efforts in week 6. Phase 2a can start after week 4 if gripping is already cleared; if it isn't cleared by the end of week 8, the hub repeats weeks 4–8 (the deload included) and you keep adding load.",
+   "focus": [
+    "Leg strength and size: dead-start leg press, single-leg press, rear-foot-elevated split squats, single-leg hip thrusts, leg extensions and hamstring curls",
+    "Hiking engine: 150+ minutes of Zone 2 a week",
+    "Arm-free core: dead bugs, hollow holds, 90/90 breathing",
+    "Balance, knee, ankle and side-hip armour, always next to a support",
+    "One change a week: a steeper incline (week 3), machine leg work to RIR 1–2 (week 4), hard bike efforts (week 6)"
+   ],
+   "exit_criteria": [
+    "Leg press: estimated 1RM (Progress) at least 30% above your Re-entry Week calibration set",
+    "Stair climber: 25 minutes continuous in Zone 2",
+    "80-minute brisk walk on good paths with no aches the next day",
+    "Single-leg balance at least 45 s each side, eyes open, next to a support",
+    "Your physio has cleared gripping and holding weights: this is what actually unlocks Phase 2a"
+   ],
+   "week_template": {
+    "mon": "str-a",
+    "tue": "engine-z2",
+    "wed": "str-b",
+    "thu": "engine-intervals",
+    "fri": "str-c",
+    "sat": "long-walk",
+    "sun": "rest"
+   },
+   "week_overrides": [
+    {
+     "week": 1,
+     "label": "Full sets",
+     "rir": "2-3",
+     "zone_cap": "Z3",
+     "notes": "Full sets from this week: 3 of every main lift (4 for calves), stopping 2–3 reps short; the hub shows RIR 2–3 on everything until week 4. Incline walking at 3–6%. Thursday's bike efforts are a Zone 3 primer (comfortably hard, 6/10); the hub shows Zone 3 until week 6. Your second week back after the layoff: more soreness for a day or two is normal, but dark (cola-coloured) urine with severe muscle pain or swelling after training is not: get same-day medical advice (possible rhabdomyolysis). Fracture-clinic appointment coming up? Take the questions from the Your arm page, and enter any clearance the same day (Good arm OK unlocks the good-arm add-on; Light use / rehab started unlocks your physio's slot)."
+    },
+    {
+     "week": 2,
+     "label": "Build",
+     "rir": "2-3",
+     "zone_cap": "Z3",
+     "notes": "Same sets at 2–3 reps in reserve. Muscle memory works fast: wherever every set reached the top of the range last week, the hub suggests the next step. Incline still 3–6%, bike efforts still a Zone 3 primer."
+    },
+    {
+     "week": 3,
+     "label": "Steeper incline",
+     "rir": "2-3",
+     "zone_cap": "Z3",
+     "notes": "One change: Tuesday's and Thursday's incline can rise to 6–12%, at a speed that keeps you in Zone 2. Sets and bike efforts as last week."
+    },
+    {
+     "week": 4,
+     "label": "Machines to RIR 1–2",
+     "zone_cap": "Z3",
+     "notes": "From this week the leg press, leg extension and hamstring curl go to 1–2 reps in reserve (the hub shows it): they're stable, and the leg press's stops catch the sled. The single-leg press and everything free-standing (split squats, single-leg RDLs, Patrick steps, calf raises) stay at 2–3: one leg can fail suddenly, and a wobble near failure is a fall risk. Gym shut for a holiday? Do the 'Gym closed?' session or the long walk."
+    },
+    {
+     "week": 5,
+     "label": "Deload",
+     "deload": true,
+     "rir": "3-4",
+     "zone_cap": "Z2",
+     "circuit_minutes": 5,
+     "notes": "Same exercises and loads (hold, don't add); the hub halves your sets and Thursday's efforts and keeps everything in Zone 2. Friday's circuit: 5 easy minutes. Stop 3–4 reps short. Waiting for grip clearance? The hub repeats weeks 4–8, so this deload comes round every 5 weeks."
+    },
+    {
+     "week": 6,
+     "label": "Hard efforts",
+     "notes": "One change: Thursday's 30-s bike efforts are now hard (8/10), fast cadence against real resistance. Sets are back to full: aim to beat week 4 by a rep or a load step on your main lifts."
+    },
+    {
+     "week": 8,
+     "label": "Consolidate & check the gate",
+     "notes": "Retests are due around now (Progress → Tests). Ask your physio about gripping: once they clear it, set Grip cleared in the hub and Phase 2a starts the following Monday. Not yet? The hub repeats weeks 4–8 (the week-5 deload included); keep beating your logbook."
+    }
+   ],
+   "weekly_targets": {
+    "zone2_min": 150,
+    "strength_sessions": 3,
+    "steps_avg": 8000,
+    "long_session_min": 80
+   }
+  },
+  {
+   "id": "p2a",
+   "name": "Phase 2a — Rebuild: Machines First",
+   "short": "Machines First",
+   "entry_gate": "grip_cleared",
+   "weeks": 2,
+   "repeat_from_week": null,
+   "goal": "Your first two weeks with both hands: upper-body work on machines and cables only (chest press, pulldown, cable and machine rows, face pulls, Pallof press, light woodchops), light and within the arm pain rule, while your legs keep progressing. No dumbbells, barbells or carries yet.",
+   "focus": [
+    "Machines and cables only for the upper body",
+    "Light: a weight you could lift 20 times, for 10–12 reps",
+    "Legs keep progressing",
+    "VO2max 4 × 4 starts",
+    "Light-pack walks on good paths"
+   ],
+   "exit_criteria": [
+    "Two weeks of machine and cable work within the arm pain rule",
+    "Physio happy for you to start light dumbbells"
+   ],
+   "week_template": {
+    "mon": "p2a-a",
+    "tue": "engine-z2-p2a",
+    "wed": "p2a-b",
+    "thu": "vo2-4x4",
+    "fri": "p2a-c",
+    "sat": "long-ruck-p2",
+    "sun": "rest"
+   },
+   "week_overrides": [
+    {
+     "week": 1,
+     "label": "Intro — both hands back (machines and cables)",
+     "sets_max": 2,
+     "rir": "3",
+     "notes": "Two sets of everything. Every upper-body exercise: a weight you could lift 20 times, for 10–12 reps. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing. Thursday's first 4 × 4: ride the reps at 7/10, finishing around 85% of your max heart rate (Settings shows your zones); the hub shows Zone 4 this week. Ask your physio to measure grip in both hands this fortnight (Your arm page).",
+     "zone_cap": "Z4"
+    },
+    {
+     "week": 2,
+     "label": "Build",
+     "rir": "2-3",
+     "notes": "Full sets. Add upper-body load only after a week in which the arm has stayed quiet. The 4 × 4 reps go to 8/10."
+    }
+   ],
+   "weekly_targets": {
+    "zone2_min": 140,
+    "strength_sessions": 3,
+    "steps_avg": 8500,
+    "long_session_min": 80
+   }
+  },
+  {
+   "id": "p2",
+   "name": "Phase 2 — Rebuild",
+   "short": "Rebuild",
+   "entry_gate": "grip_cleared",
+   "weeks": 6,
+   "repeat_from_week": 2,
+   "goal": "Free weights come in, carefully: light dumbbells, a goblet squat, Pavel's two-handed kettlebell deadlift and barbell hip thrusts, alongside the machines. Suitcase carries begin once your injured-hand grip is at least 70% of your good hand and your physio agrees. Legs keep progressing; they are still your main muscle-builder. Still no hanging, weight-bearing through the wrist, impact or rough terrain.",
+   "focus": [
+    "Light dumbbells and kettlebell deadlifts",
+    "First suitcase carries (70% grip ladder plus physio OK)",
+    "Anti-rotation core (Pallof press) and McGill curl-ups",
+    "VO2max 4 × 4 once a week",
+    "Light-pack walks on good paths"
+   ],
+   "exit_criteria": [
+    "Six weeks of free-weight work within the arm pain rule",
+    "Injured-hand grip at least 70% of the good hand, measured by your physio",
+    "Suitcase carry 4 × 30 s each side with 10 kg or more, pain-free",
+    "Zone 2 at least 150 minutes a week for 4 weeks"
+   ],
+   "week_template": {
+    "mon": "p2-a",
+    "tue": "engine-z2-b",
+    "wed": "p2-b",
+    "thu": "vo2-4x4",
+    "fri": "p2-c",
+    "sat": "long-ruck-p2",
+    "sun": "rest"
+   },
+   "week_overrides": [
+    {
+     "week": 1,
+     "label": "Free weights in",
+     "rir": "3",
+     "notes": "Dumbbells, the goblet squat, kettlebell deadlift and barbell hip thrust come in this week: light, 3+ reps in reserve, so your forearm meets each new hold gradually. Suitcase carries only once your physio has measured (or OK'd) the 70% rung. In a fasting period? Keep to the machines you know and start the new lifts after it ends."
+    },
+    {
+     "week": 2,
+     "label": "Build",
+     "rir": "2-3",
+     "notes": "Normal effort. Upper body stays at 2–3 reps in reserve throughout Phases 2–3."
+    },
+    {
+     "week": 3,
+     "label": "Deload",
+     "deload": true,
+     "rir": "3-4",
+     "notes": "Same exercises and loads; the hub halves your sets and Thursday's reps and keeps everything in Zone 2. Friday's circuit: 6 easy minutes.",
+     "zone_cap": "Z2",
+     "circuit_minutes": 6
+    },
+    {
+     "week": 6,
+     "label": "Retest",
+     "notes": "Ask your physio to re-measure grip in both hands (Your arm page). In Phase 3, light farmer's carries start at the 70% rung and moderate ones at 80%."
+    }
+   ],
+   "weekly_targets": {
+    "zone2_min": 150,
+    "strength_sessions": 3,
+    "steps_avg": 8500,
+    "long_session_min": 80
+   }
+  },
+  {
+   "id": "p3",
+   "name": "Phase 3 — Build",
+   "short": "Build",
+   "entry_gate": "grip_cleared",
+   "weeks": 12,
+   "repeat_from_week": 7,
+   "goal": "Your main muscle-building block: heavier Smith squats, barbell RDLs and hip thrusts, about 13–16 hard sets a week for quads and glutes and 6–9 for chest, back and shoulders (at 2–3 reps in reserve as the arm allows), farmer's carries by the grip ladder, rope pulls, circuits with rotation, a 5 × 4 VO2max session and pack walks with more climbing. Still no hanging, wrist weight-bearing, sled pushing, impact, rough terrain or free-bar squats, deadlifts and bench until full clearance; the hub repeats weeks 7–12 (with the week-9 deload) until then.",
+   "focus": [
+    "Hypertrophy: about 13–16 hard sets a week for quads and glutes, 6–9 for chest, back and shoulders",
+    "Heavier compound lifts: Smith squat, barbell RDL, barbell hip thrust",
+    "Farmer's carries and plate pinches by the grip ladder",
+    "Circuits that squat, pull, carry and rotate",
+    "VO2max 5 × 4 and pack walks with 200–400 m of climbing"
+   ],
+   "exit_criteria": [
+    "Injured-hand grip at least 80% of the good hand, measured by your physio (moderate farmer's carries)",
+    "Farmer's carry 4 × 30 s with about 15% of body weight per hand, within the arm pain rule",
+    "Body-weight trend inside your weekly band from chapter 14 (the hub's fortnightly verdict) with the waist roughly stable",
+    "Full clearance from the fracture clinic — this is what unlocks Phase 4a"
+   ],
+   "week_template": {
+    "mon": "p3-a",
+    "tue": "engine-z2-c",
+    "wed": "p3-b",
+    "thu": "vo2-5x4",
+    "fri": "p3-c",
+    "sat": "long-ruck-p3",
+    "sun": "rest"
+   },
+   "week_overrides": [
+    {
+     "week": 1,
+     "label": "New lifts",
+     "rir": "3",
+     "notes": "The Smith squat, barbell RDL, Bulgarian split squat and sled rope pull come in this week: start them light (3+ reps in reserve) so your forearm meets each new hold gradually, and note your set-ups. Thursday stays at 4 × 4 this week (the hub shows it); the fifth rep comes in week 2.",
+     "rounds": 4
+    },
+    {
+     "week": 2,
+     "label": "Build",
+     "notes": "One more hard 4-min rep on Thursday (5 × 4). Upper body stays at 2–3 reps in reserve."
+    },
+    {
+     "week": 3,
+     "label": "Deload",
+     "deload": true,
+     "rir": "3-4",
+     "notes": "Same loads; the hub halves your sets and Thursday's reps and keeps everything in Zone 2. Friday's circuit: 6 easy minutes.",
+     "zone_cap": "Z2",
+     "circuit_minutes": 6
+    },
+    {
+     "week": 9,
+     "label": "Deload",
+     "deload": true,
+     "rir": "3-4",
+     "notes": "Same loads; the hub halves your sets and Thursday's reps and keeps everything in Zone 2. Friday's circuit: 6 easy minutes.",
+     "zone_cap": "Z2",
+     "circuit_minutes": 6
+    },
+    {
+     "week": 12,
+     "label": "Gate check & retests",
+     "notes": "Retests are due around now (Progress → Tests). Ask your clinic about full clearance (hanging, push-ups, impact, heavy carries, rough terrain). Once it's set in the hub, Phase 4a starts the following Monday; otherwise weeks 7–12 repeat, with the week-9 deload in each repeat."
+    }
+   ],
+   "weekly_targets": {
+    "zone2_min": 160,
+    "strength_sessions": 3,
+    "steps_avg": 9000,
+    "long_session_min": 80
+   }
+  },
+  {
+   "id": "p4a",
+   "name": "Phase 4a — Bridge to Forge",
+   "short": "Bridge",
+   "entry_gate": "full_clearance",
+   "weeks": 4,
+   "repeat_from_week": null,
+   "goal": "Four weeks to bring in full-clearance skills in the order the exercise library sets out: feet-supported hangs before short dead hangs, incline push-ups before push-ups, kettlebell deadlifts before two-hand swings (no more than 50 a session, reached in week 4), light sandbag carries, your first light sled pushes, short planks, free-bar squats, and rougher terrain on your walks. No jumps or slams until Phase 4.",
+   "focus": [
+    "Hanging: feet-supported, then short dead hangs (grip at least 90%)",
+    "Wrist weight-bearing: incline push-ups and short planks",
+    "Hinge to swing: kettlebell deadlifts, then up to 50 two-hand swings",
+    "Light sandbag carries and light sled pushes",
+    "Rougher terrain, one step at a time"
+   ],
+   "exit_criteria": [
+    "Feet-supported hangs 30 s and dead hangs 3 × 10 s, pain-free",
+    "Incline push-ups 3 × 12 at a low incline, pain-free",
+    "50 crisp two-hand swings in a session",
+    "Two rough-terrain walks with no problems"
+   ],
+   "week_template": {
+    "mon": "p4a-a",
+    "tue": "engine-z2-p4a",
+    "wed": "p4a-b",
+    "thu": "vo2-p4a",
+    "fri": "p4a-c",
+    "sat": "long-hike-p4a",
+    "sun": "rest"
+   },
+   "week_overrides": [
+    {
+     "week": 1,
+     "label": "Intro — fully cleared",
+     "sets_max": 2,
+     "rir": "3-4",
+     "notes": "Every full-clearance skill starts here, small: 2 sets of everything (20 swings), feet-supported hangs, incline push-ups high, short planks, and a 6-minute circuit with your first light sled pushes. First rough-terrain sections on Saturday.",
+     "circuit_minutes": 6
+    },
+    {
+     "week": 2,
+     "label": "Build",
+     "sets_max": 3,
+     "rir": "3",
+     "notes": "Up to 3 sets (30 swings) and an 8-minute circuit. Short dead hangs on Wednesday only if Monday's feet-supported hangs felt fine and your physio has measured (or OK'd) your grip at 90% or more.",
+     "circuit_minutes": 8
+    },
+    {
+     "week": 3,
+     "label": "Build",
+     "sets_max": 4,
+     "rir": "2-3",
+     "notes": "Up to 4 sets (40 swings) and a 10-minute circuit. Saturday: hills.",
+     "circuit_minutes": 10
+    },
+    {
+     "week": 4,
+     "label": "Ready for Forge",
+     "rir": "2-3",
+     "notes": "Full sets: 5 × 10 swings (50, the cap) and the full 12-minute circuit. Saturday: hills with rough descents. This week: your first farmer's-carry and dead-hang tests (Progress → Tests). Phase 4 starts next Monday, with Monday as your new rest day."
+    }
+   ],
+   "weekly_targets": {
+    "zone2_min": 140,
+    "strength_sessions": 3,
+    "steps_avg": 9000,
+    "long_session_min": 80
+   }
+  },
+  {
+   "id": "p4",
+   "name": "Phase 4 — Forge",
+   "short": "Forge",
+   "entry_gate": "full_clearance",
+   "weeks": 16,
+   "repeat_from_week": 6,
+   "goal": "Forge durable strength and an all-terrain engine. Barbell squats, deadlifts and bench, pull-ups and push-ups, Pavel's swings and get-ups (Simple & Sinister style), odd-object circuits with jumps and slams, heavier carries by the grip ladder, uphill VO2max, and back-to-back weekend hikes on real terrain with a loaded pack. Monday becomes your rest day so Saturday and Sunday can be your long days.",
+   "focus": [
+    "Barbell strength: squat, deadlift, bench, pull-ups",
+    "Simple & Sinister-style swings and get-ups",
+    "Heavy carries: farmer's walk and sandbag (grip at least 90%)",
+    "Uphill VO2max and back-to-back weekend hikes on rough terrain with a pack",
+    "Landing and jumping skills for uneven ground"
+   ],
+   "exit_criteria": [
+    "Farmer's carry: a quarter of your body weight per hand for 60 s (chapter 09's 'Solid' standard)",
+    "Dead hang 60 s and at least 10 good push-ups",
+    "Back-to-back weekend: about 5 h with a 10 kg pack, then 1½–2 h the next day, feeling fine on Tuesday",
+    "Body-weight trend still up slowly with the waist roughly stable (see chapter 08)"
+   ],
+   "week_template": {
+    "mon": "rest",
+    "tue": "p4-a",
+    "wed": "p4-engine",
+    "thu": "p4-b",
+    "fri": "p4-c",
+    "sat": "p4-long",
+    "sun": "p4-hike2"
+   },
+   "week_overrides": [
+    {
+     "week": 1,
+     "label": "Forge — new skills",
+     "sets_max": 3,
+     "rir": "3",
+     "notes": "New this week: full push-ups, pull-ups, one-arm swings, get-ups, low box jumps, slams, sandbag to shoulder, sled pushes and battle ropes. Up to 3 sets of anything (30 one-arm swings), 3 uphill 4-min reps on Wednesday and a 6-minute circuit on Friday (the hub shows it). Monday is now your rest day.",
+     "rounds": 3,
+     "circuit_minutes": 6
+    },
+    {
+     "week": 2,
+     "label": "Build",
+     "sets_max": 5,
+     "notes": "Up to 5 sets (50 one-arm swings), the full 4 × 4 and a 9-minute circuit. Full volume from week 3.",
+     "circuit_minutes": 9
+    },
+    {
+     "week": 5,
+     "label": "Deload",
+     "deload": true,
+     "rir": "3-4",
+     "notes": "Half the sets and half the interval reps (the hub does this), everything in Zone 2, a 6-minute easy circuit and shorter hikes.",
+     "zone_cap": "Z2",
+     "circuit_minutes": 6
+    },
+    {
+     "week": 10,
+     "label": "Deload",
+     "deload": true,
+     "rir": "3-4",
+     "notes": "Half the sets and half the interval reps (the hub does this), everything in Zone 2, a 6-minute easy circuit and shorter hikes.",
+     "zone_cap": "Z2",
+     "circuit_minutes": 6
+    },
+    {
+     "week": 15,
+     "label": "Deload",
+     "deload": true,
+     "rir": "3-4",
+     "notes": "Recover before benchmark week: half the sets and interval reps, everything in Zone 2, a 6-minute easy circuit and shorter hikes.",
+     "zone_cap": "Z2",
+     "circuit_minutes": 6
+    },
+    {
+     "week": 16,
+     "label": "Benchmark week",
+     "sets_max": 2,
+     "rir": "3",
+     "notes": "Light gym: 2 sets of everything, 2 hard uphill reps on Wednesday and a 6-minute circuit on Friday. Saturday: a benchmark hike from your Hikes ladder. Retests: dead hang and farmer's carry (Progress → Tests); your best push-up set from the log; grip on the Your arm page.",
+     "rounds": 2,
+     "circuit_minutes": 6
+    }
+   ],
+   "weekly_targets": {
+    "zone2_min": 240,
+    "strength_sessions": 3,
+    "steps_avg": 10000,
+    "long_session_min": 180
+   }
+  },
+  {
+   "id": "p5",
+   "name": "Phase 5 — Mission",
+   "short": "Mission",
+   "entry_gate": "full_clearance",
+   "weeks": 10,
+   "repeat_from_week": 1,
+   "goal": "Mission mode: a repeating 10-week cycle that peaks for a big hike or multi-day trip. Strength is maintained with crisp, lower-volume lifting; the weekend back-to-backs grow, then a taper week and a Mission week (your trip or a benchmark route). Then raise one variable — distance, ascent, pack weight or terrain — and go again.",
+   "focus": [
+    "Peak for a big hike or multi-day trip every 10 weeks",
+    "Maintain strength with crisp, lower-volume lifting",
+    "Back-to-back weekend days on mixed terrain with a loaded pack",
+    "Taper, then recover"
+   ],
+   "exit_criteria": [
+    "Ongoing: each loop, complete the Mission week and raise one target (distance, ascent, pack weight or terrain)"
+   ],
+   "week_template": {
+    "mon": "rest",
+    "tue": "p5-a",
+    "wed": "p5-engine",
+    "thu": "p5-b",
+    "fri": "p5-c",
+    "sat": "p5-long",
+    "sun": "p5-hike2"
+   },
+   "week_overrides": [
+    {
+     "week": 5,
+     "label": "Deload",
+     "deload": true,
+     "rir": "3-4",
+     "notes": "Half the sets and interval reps, everything in Zone 2, a 6-minute easy circuit and a shorter weekend.",
+     "zone_cap": "Z2",
+     "circuit_minutes": 6
+    },
+    {
+     "week": 9,
+     "label": "Taper",
+     "deload": true,
+     "rir": "3",
+     "notes": "Half the sets and interval reps, everything in Zone 2 and a 6-minute easy circuit (the hub does this), roughly half the hiking, lots of sleep, kit checked. No trip planned? Treat it as a deload.",
+     "zone_cap": "Z2",
+     "circuit_minutes": 6
+    },
+    {
+     "week": 10,
+     "label": "Mission week",
+     "deload": true,
+     "rir": "3",
+     "notes": "Your trip or benchmark route: Saturday and Sunday are the big days (or a two-day route). The gym is light: half the sets, easy Zone 2 intervals and a 6-minute easy circuit. Short winter days? Pick a lower-level route that fits the daylight; winter hills need winter skills and kit (chapter 12). Then the 10-week loop restarts: raise one target.",
+     "zone_cap": "Z2",
+     "circuit_minutes": 6
+    }
+   ],
+   "weekly_targets": {
+    "zone2_min": 240,
+    "strength_sessions": 3,
+    "steps_avg": 10000,
+    "long_session_min": 240
+   }
+  }
+ ],
+ "addons": [
+  {
+   "id": "crossed",
+   "name": "Good-arm cross-education",
+   "gate": "good_arm_ok",
+   "until_gate": null,
+   "phases": [
+    "p0",
+    "p1"
+   ],
+   "days": [
+    "mon",
+    "wed",
+    "fri"
+   ],
+   "session": "addon-crossed"
+  },
+  {
+   "id": "rehab",
+   "name": "Arm rehab (your physio's programme)",
+   "gate": "clinic_light",
+   "until_gate": "full_clearance",
+   "days": [
+    "mon",
+    "tue",
+    "wed",
+    "thu",
+    "fri",
+    "sat",
+    "sun"
+   ],
+   "session": "addon-rehab"
+  }
+ ],
+ "alternates": {
+  "short": "alt-short",
+  "travel": "alt-travel"
+ },
+ "sessions": {
+  "str-a": {
+   "name": "Strength A — Squat & Knee",
+   "type": "strength",
+   "duration_min": 70,
+   "summary": "The dead-start leg press (your main muscle-builder, ramped up with 10 easy box squats), rear-foot-elevated split squats and Patrick steps for long descents, single-leg calf raises and tibialis raises, then one trip to the floor for an arm-free dead bug.",
+   "warmup": "warmup-strength",
+   "blocks": [
+    {
+     "exercise": "leg-press",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 150,
+     "tempo": "3-1-1-0",
+     "rir": "1-2",
+     "load": "double-progression",
+     "notes": "Dead start, every set: on a plate-loaded 45° press the sled rests on the bottom stops, never the catches. Once: ask staff to set the stops at your bottom position (knees about 90°, lower back flat on the pad; note the hole) and leave the catches released. Plates: staff load and unload them until Good arm OK is set; after that your uninjured hand may load plates of 10 kg or less, one at a time and close to your body, and staff do anything heavier. Sit in using your legs only, injured arm across your stomach: never hands on your thighs, a handle or a catch. Press from the stops, lower for 3 s until the sled just touches them, pause 1 s without relaxing, press again; finish the set back on the stops. To get out: feet down one at a time, then stand with your uninjured hand on the side handle. Ramp-up (plates stay as they are): 10 easy box squats to a bench. Breathe out on every press. Effort: 2–3 reps in reserve in weeks 1–3, then 1–2 from week 4 (the stops catch the sled). Stops can't be set like this? Do 3 × 15 box squats with a 4-s lowering and a 2-s pause instead."
+    },
+    {
+     "exercise": "rfe-split-squat-bw",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 90,
+     "tempo": "3-1-1-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Bench behind you and a rack upright on your uninjured side: uninjured hand on the upright before you lift the back foot onto the bench, and for the whole set (a touch, not a pull). Face the same way for both legs. Lower for 3 s, pause 1 s, drive up through the front foot and breathe out. It's free-standing, so it stays at 2–3 reps in reserve: a wobble near failure is a fall risk. 3 × 15 with 2 in reserve? Slow the lowering to 4 s and pause 2 s at the bottom, then (from Light use / rehab started) wear your day pack. Unsteady lifting the back foot up? Do split squats, back foot on the floor, instead."
+    },
+    {
+     "exercise": "patrick-step",
+     "sets": 2,
+     "reps": "12-15",
+     "rest_s": 45,
+     "tempo": "2-1-1-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Downhill knee armour. Stand on the aerobic step at its lowest height (about 15 cm) beside the rack, uninjured hand by the upright; face the same way for both legs. Push the standing knee forward over the toes until the other heel taps the floor, slowly; let the knee travel less far at first. A muscle burn above the knee is normal; sharp pain is not. 2 × 15 easy? Raise the step one notch (25 cm at most) or take 3 s down. No aerobic step? 2 × 15 slow tempo squats instead."
+    },
+    {
+     "exercise": "calf-raise-single-bw",
+     "sets": 4,
+     "reps": "12-20",
+     "rest_s": 45,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Uninjured hand flat on the wall; on the aerobic step beside the wall (heel over the edge) for the full range, otherwise the flat floor. 1-s pause in the bottom stretch and at the top. 4 × 20 with 2 in reserve? Lower for 3 s, then (from Light use / rehab started) wear your day pack with 2–4 kg."
+    },
+    {
+     "exercise": "tibialis-raise-wall",
+     "sets": 2,
+     "reps": "15-25",
+     "rest_s": 45,
+     "tempo": "2-0-1-1",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "notes": "Back and bottom against the wall, heels 30–40 cm out. Lift your toes as high as you can, pause 1 s, lower for 2 s. Walk your feet further out to make it harder. Shin armour for long descents and rocky paths."
+    },
+    {
+     "exercise": "dead-bug-legs",
+     "sets": 3,
+     "reps": "6-8",
+     "rest_s": 45,
+     "tempo": "3-0-3-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Your one trip to the floor this session. Down via a bench with your uninjured hand; to get up, roll onto your uninjured side. Injured arm resting across your stomach. Low back gently heavy on the mat; reach one heel out for 3 s as you breathe out fully, bring it back for 3 s, then switch. 3 × 8 easy? Reach the leg out straighter and hold the far position for 2 s."
+    }
+   ]
+  },
+  "str-b": {
+   "name": "Strength B — Hinge & Posterior Chain",
+   "type": "strength",
+   "duration_min": 65,
+   "summary": "Hamstring curls, single-leg RDLs and single-leg bent-knee calf raises for the climbs, then one trip to the floor for side-hip work, single-leg hip thrusts and an arm-free hollow hold.",
+   "warmup": "warmup-strength",
+   "blocks": [
+    {
+     "exercise": "hamstring-curl",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "3-0-1-1",
+     "rir": "1-2",
+     "load": "double-progression",
+     "notes": "Seated curl if your gym has one: set the pads and pin with your uninjured hand, injured arm across your stomach. Lying curl: kneel on from the foot end and slide off backwards, feet first, never pressing up through your injured arm. Ramp-up: about 50% × 8, then 75% × 4. Effort: 2–3 reps in reserve in weeks 1–3, then 1–2 from week 4."
+    },
+    {
+     "exercise": "single-leg-rdl-bw",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 60,
+     "tempo": "3-1-1-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Side-on to a rack, fingertips of your uninjured hand on the upright; face the same way for both legs. Soft standing knee, hips square, back leg long; lower for 3 s to a deep hamstring stretch and pause 1 s. Wobbly? Kickstand version, back toes touching down. 3 × 12 easy? Take 4 s down, then (from Light use / rehab started) wear your day pack."
+    },
+    {
+     "exercise": "bent-knee-calf-raise",
+     "sets": 4,
+     "reps": "12-20",
+     "rest_s": 45,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "One leg at a time, facing the wall with your uninjured hand flat on it. Bend the knee about 30–45° and keep that angle; rise, pause 1 s, lower for 2 s. It works the soleus, the deep calf muscle that does much of the work on long climbs. 4 × 20 with 2 in reserve? Stand on the aerobic step beside the wall for a bigger range."
+    },
+    {
+     "exercise": "side-lying-hip-abduction",
+     "sets": 2,
+     "reps": "15-20",
+     "rest_s": 45,
+     "tempo": "2-0-1-2",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "The leg on your uninjured side first, standing: face the rack, uninjured hand on the upright, and lift the leg out slowly with a 2-s hold (15–20 reps). Then your one trip to the floor: down via a bench with your uninjured hand, and lie on your uninjured side for the other leg, head on a folded towel, injured arm resting along your body (on your injured side only if your clinic is happy with it: the upper arm takes the contact, forearm on a towel in front of you). Lead with the heel, toes forward. Stay down for the hip thrusts and hollow holds."
+    },
+    {
+     "exercise": "hip-thrust-single-leg",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 75,
+     "tempo": "2-0-1-2",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Still on the floor: sit with your upper back against the edge of a bench backed against a rack, one foot planted and the other knee pulled in, and drive your hips up without using your arms. Ribs down, chin tucked, 2-s squeeze at the top; lower to the floor between sets. Hips dropping or twisting? Two-leg hip thrusts until they don't. 3 × 15 with 2 in reserve? Hold 3 s at the top and take 3 s down."
+    },
+    {
+     "exercise": "hollow-hold-tuck",
+     "sets": 3,
+     "seconds": 30,
+     "rest_s": 45,
+     "notes": "Last on the floor: knees tucked, low back pressed down, arms long by your sides with the injured arm just resting. Short breaths behind a moderate brace; count out loud. 3 × 40 s steady? Straighten one leg, then the other. Then roll onto your uninjured side and get up once, via the bench."
+    }
+   ]
+  },
+  "str-c-learn": {
+   "name": "Strength C — Single-Leg & Circuit (re-entry week)",
+   "type": "strength",
+   "duration_min": 60,
+   "summary": "Single-leg strength for hiking (the dead-start single-leg press), leg extensions, a second hamstring session, the adductor-squeeze bridge and your first two easy rounds of the arm-free circuit.",
+   "warmup": "warmup-strength",
+   "blocks": [
+    {
+     "exercise": "leg-press-single",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 60,
+     "tempo": "2-1-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Dead start, as on Monday: same stops, one foot in the middle of the platform, the other resting on the frame. Load about 40–50% of your two-leg working load: staff until Good arm OK, then your uninjured hand for plates of 10 kg or less. Injured arm across your stomach; uninjured hand on the side handle when you stand up. Weaker leg first, about 30 s between legs. Ramp-up: 5 easy reps per leg. Unlike the two-leg press, this stays at 2–3 reps in reserve: one leg can fail suddenly."
+    },
+    {
+     "exercise": "leg-extension",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 75,
+     "tempo": "2-0-1-1",
+     "rir": "1-2",
+     "load": "double-progression",
+     "notes": "Knee armour for long descents. Set the seat, shin pad and pin with your uninjured hand; injured arm across your stomach. 1-s squeeze at the top, 2-s lowering. Effort: 2–3 reps in reserve in weeks 1–3, then 1–2 from week 4."
+    },
+    {
+     "exercise": "hamstring-curl",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 60,
+     "tempo": "3-0-1-1",
+     "rir": "1-2",
+     "load": "double-progression",
+     "notes": "Your second hamstring session: about 10% below Wednesday's load, for 10–15 reps. Same set-up. Effort: 2–3 reps in reserve in weeks 1–3, then 1–2 from week 4."
+    },
+    {
+     "exercise": "glute-bridge",
+     "sets": 3,
+     "reps": "12-15",
+     "rest_s": 60,
+     "tempo": "2-0-1-3",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "notes": "Your one trip to the floor today. Adductor-squeeze bridge: a rolled mat or folded towel between your knees, squeeze it hard as you lift and hold 3 s at the top. Inner thighs steady your knees on side-slopes and rough ground. Down and up via a bench with your uninjured hand. 3 × 15 easy? Hold 5 s at the top."
+    },
+    {
+     "circuit": {
+      "minutes": null,
+      "rounds": 2,
+      "items": [
+       {
+        "exercise": "tempo-squat-bw",
+        "dose": "12 reps, 3 s down, box behind you"
+       },
+       {
+        "exercise": "step-up-bw",
+        "dose": "8 / side, aerobic step"
+       }
+      ]
+     },
+     "zone": "Z2",
+     "notes": "Re-entry rounds: 2 easy rounds in Zone 2, walking between the box and the step. Set up both stations; from next week it becomes a 10-minute circuit."
+    }
+   ]
+  },
+  "str-c": {
+   "name": "Strength C — Single-Leg & Circuit",
+   "type": "strength",
+   "duration_min": 60,
+   "summary": "Single-leg strength for hiking (the dead-start single-leg press), leg extensions for the knees, a second hamstring session and the adductor-squeeze bridge, then a 10-minute arm-free circuit of tempo squats and step-ups as 'strength as cardio'.",
+   "warmup": "warmup-strength",
+   "blocks": [
+    {
+     "exercise": "leg-press-single",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 60,
+     "tempo": "2-1-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Dead start, as on Monday: same stops, one foot in the middle of the platform, the other resting on the frame. Load about 40–50% of your two-leg working load: staff until Good arm OK, then your uninjured hand for plates of 10 kg or less. Injured arm across your stomach; uninjured hand on the side handle when you stand up. Weaker leg first, about 30 s between legs. Ramp-up: 5 easy reps per leg. Unlike the two-leg press, this stays at 2–3 reps in reserve: one leg can fail suddenly."
+    },
+    {
+     "exercise": "leg-extension",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 75,
+     "tempo": "2-0-1-1",
+     "rir": "1-2",
+     "load": "double-progression",
+     "notes": "Knee armour for long descents. Set the seat, shin pad and pin with your uninjured hand; injured arm across your stomach. 1-s squeeze at the top, 2-s lowering. Effort: 2–3 reps in reserve in weeks 1–3, then 1–2 from week 4."
+    },
+    {
+     "exercise": "hamstring-curl",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 60,
+     "tempo": "3-0-1-1",
+     "rir": "1-2",
+     "load": "double-progression",
+     "notes": "Your second hamstring session: about 10% below Wednesday's load, for 10–15 reps. Same set-up. Effort: 2–3 reps in reserve in weeks 1–3, then 1–2 from week 4."
+    },
+    {
+     "exercise": "glute-bridge",
+     "sets": 3,
+     "reps": "12-15",
+     "rest_s": 60,
+     "tempo": "2-0-1-3",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "notes": "Your one trip to the floor today. Adductor-squeeze bridge: a rolled mat or folded towel between your knees, squeeze it hard as you lift and hold 3 s at the top. Inner thighs steady your knees on side-slopes and rough ground. Down and up via a bench with your uninjured hand. 3 × 15 easy? Hold 5 s at the top."
+    },
+    {
+     "circuit": {
+      "minutes": 10,
+      "rounds": null,
+      "items": [
+       {
+        "exercise": "tempo-squat-bw",
+        "dose": "12 reps, 3 s down, box behind you"
+       },
+       {
+        "exercise": "step-up-bw",
+        "dose": "8 / side, aerobic step"
+       }
+      ]
+     },
+     "zone": "Z2-Z3",
+     "notes": "Arm-free strength as conditioning: tempo squats and step-ups in steady rounds for the time shown, quality reps, walking between the box and the step, in Zone 2–3 (breathing harder but in control by the last round). Deload week: 5 easy minutes in Zone 2 (the hub shows it). Tempo squats stand in for the backward sled drag, because many gyms have no sled belt. If yours has one, or you buy a dip belt (about £15–25) to clip to the sled strap, swap the drag in for the tempo squats in any circuit (20 m walking backwards, staff load the sled)."
+    }
+   ]
+  },
+  "engine-z2-intro": {
+   "name": "Hiking Engine — Zone 2 (re-entry week)",
+   "type": "cardio",
+   "duration_min": 45,
+   "summary": "Short Zone 2 stair-climber and gentle incline walking, then mobility. Set up the machines one-handed and find your Zone 2 by feel and by heart rate.",
+   "warmup": "warmup-cardio",
+   "blocks": [
+    {
+     "exercise": "stair-climber",
+     "minutes": 8,
+     "zone": "Z2",
+     "notes": "Uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety clip on; step on and off only when the stairs have stopped. Whole foot on each step, slow cadence, first 3 min easy. Zone 2 (60–70% of your max heart rate; Settings shows your bpm): full sentences possible, but you'd rather not talk."
+    },
+    {
+     "exercise": "incline-walk",
+     "minutes": 24,
+     "zone": "Z2",
+     "notes": "Gentle incline only: 3–6% this week, at a speed that keeps you in Zone 2 (often 4–5 km/h). Uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety key clipped on. Start the belt while you're standing on it; never step onto a moving belt. Raise incline before speed."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "engine-z2": {
+   "name": "Hiking Engine — Zone 2",
+   "type": "cardio",
+   "duration_min": 70,
+   "summary": "Your aerobic base for long hikes: stair climber then incline walking, all in Zone 2, finished with the daily mobility routine.",
+   "warmup": "warmup-cardio",
+   "blocks": [
+    {
+     "exercise": "stair-climber",
+     "minutes": 25,
+     "zone": "Z2",
+     "minutes_by_week": [
+      9,
+      14,
+      18,
+      20,
+      14,
+      22,
+      24,
+      25
+     ],
+     "notes": "Uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety clip on; step on and off only when the stairs have stopped. Whole foot on each step, slow cadence, first 3 min easy. Zone 2 (60–70% of your max heart rate; Settings shows your bpm): full sentences possible, but you'd rather not talk."
+    },
+    {
+     "exercise": "incline-walk",
+     "minutes": 30,
+     "zone": "Z2",
+     "minutes_by_week": [
+      27,
+      30,
+      30,
+      30,
+      21,
+      30,
+      30,
+      30
+     ],
+     "notes": "Weeks 1–2: 3–6% incline. From week 3: 6–12%, at a speed that keeps you in Zone 2. Uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety key clipped on. Start the belt while you're standing on it; never step onto a moving belt. Raise incline before speed."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "engine-intervals": {
+   "name": "Engine — Bike Intervals + Zone 2",
+   "type": "intervals",
+   "duration_min": 60,
+   "summary": "Short bike efforts that build top-end fitness and prepare you for VO2max work (a Zone 3 primer until week 6, then hard), then Zone 2 incline walking.",
+   "blocks": [
+    {
+     "exercise": "bike-upright",
+     "warmup_min": 8,
+     "cooldown_min": 5,
+     "intervals": {
+      "work_s": 30,
+      "rest_s": 90,
+      "rounds": 6,
+      "work_zone": "Z4-Z5",
+      "rest_zone": "Z1"
+     },
+     "notes": "Weeks 1–4 are a primer: ride the 30-s efforts at Zone 3, comfortably hard (6/10); the hub shows Zone 3. Week 5 (deload): half the efforts, all in Zone 2. From week 6: hard (8/10), fast cadence against real resistance, smooth, not an all-out sprint. Heart rate lags over 30 s, so go by feel. Seated, injured arm across your stomach, uninjured hand light on the bars. Progress by raising the resistance, not the rounds. AMBER day: ride it all in Zone 2."
+    },
+    {
+     "exercise": "incline-walk",
+     "minutes": 25,
+     "zone": "Z2",
+     "minutes_by_week": [
+      18,
+      20,
+      22,
+      22,
+      15,
+      25,
+      25,
+      25
+     ],
+     "notes": "Straight off the bike, Zone 2. Weeks 1–2: 3–6% incline; from week 3: 6–12%. Uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety key clipped on. Start the belt while you're standing on it; never step onto a moving belt."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "long-walk-intro": {
+   "name": "Long Walk — Zone 2 (re-entry week)",
+   "type": "hike",
+   "duration_min": 50,
+   "summary": "A 40-minute brisk walk on safe surfaces, then the mobility routine.",
+   "blocks": [
+    {
+     "exercise": "walk-outdoor",
+     "minutes": 40,
+     "zone": "Z2",
+     "notes": "First 5–10 min easy, then brisk Zone 2. Flat, well-surfaced, stile-free paths only (tarmac, firm gravel, park paths), in daylight, until full clearance: a fall onto that arm is your biggest risk. Ice, frost, wet leaves, mud or darkness: do it on the treadmill (3–8% incline) instead. Good shoes and a waist pack (2 kg or less) for your phone and water, so your uninjured hand stays free; nothing in your injured hand or on that side's shoulder. From Light use / rehab started, a light day pack is fine: 2–4 kg to start, hip belt fastened, put on seated, uninjured arm first; add about 1 kg every 2–3 weeks if the walk and the next morning feel fine. Free weekend and feeling good? Walk longer on good paths and log it on the Hikes page."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "long-walk": {
+   "name": "Long Walk — Zone 2 (good paths)",
+   "type": "hike",
+   "duration_min": 90,
+   "summary": "Your weekly long session: time on your feet in Zone 2, building to 80 minutes plus the 10-minute mobility routine, on safe surfaces only.",
+   "blocks": [
+    {
+     "exercise": "walk-outdoor",
+     "minutes": 80,
+     "zone": "Z2",
+     "minutes_by_week": [
+      45,
+      60,
+      70,
+      80,
+      56,
+      80,
+      80,
+      80
+     ],
+     "notes": "First 5–10 min easy, then brisk Zone 2. Flat, well-surfaced, stile-free paths only (tarmac, firm gravel, park paths), in daylight, until full clearance: a fall onto that arm is your biggest risk. Ice, frost, wet leaves, mud or darkness: do it on the treadmill (3–8% incline) instead. Good shoes and a waist pack (2 kg or less) for your phone and water, so your uninjured hand stays free; nothing in your injured hand or on that side's shoulder. From Light use / rehab started, a light day pack is fine: 2–4 kg to start, hip belt fastened, put on seated, uninjured arm first; add about 1 kg every 2–3 weeks if the walk and the next morning feel fine. Free weekend and feeling good? Walk longer on good paths and log it on the Hikes page."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "rest": {
+   "name": "Rest Day — Easy Walk & Mobility",
+   "type": "rest",
+   "duration_min": 40,
+   "summary": "Recovery is where you adapt. An optional easy stroll and the 10-minute mobility routine — nothing more.",
+   "blocks": [
+    {
+     "exercise": "walk-outdoor",
+     "minutes": 30,
+     "zone": "Z1",
+     "notes": "Optional and easy: a stroll, not training. Get outside in daylight if you can. Tired or sore? Skip it and just do the mobility."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "addon-crossed": {
+   "name": "Good-Arm Cross-Education",
+   "type": "strength",
+   "duration_min": 20,
+   "summary": "Seated, one-arm training for your uninjured side at a moderate effort, in alternating pairs to fit about 20 minutes. Training one arm can help the other hold on to strength (cross-education). The carry-over seems strongest for the same movement, so every session finishes with wrist and grip work.",
+   "blocks": [
+    {
+     "exercise": "ga-chest-press-machine",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 45,
+     "tempo": "2-1-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Uninjured arm only, seated; injured arm across your stomach, hand relaxed and well clear of the other handle. One light warm-up set first. Pair with the row: press, rest about 45 s, row, rest 45 s. Breathe out as you press."
+    },
+    {
+     "exercise": "ga-cable-row",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 45,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Seated, feet braced; pull with the uninjured arm only and keep your trunk still (no twisting). Alternates with the chest press."
+    },
+    {
+     "exercise": "ga-db-curl-seated",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 45,
+     "tempo": "3-0-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Seated, back supported; take the dumbbell from a hip-height rack. A thumb-up (hammer) grip trains the forearm too."
+    },
+    {
+     "exercise": "ga-wrist-curl",
+     "sets": 3,
+     "reps": "12-15",
+     "rest_s": 30,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Seated, uninjured forearm on your thigh, palm up, wrist just past the knee. Pair with the grip squeeze."
+    },
+    {
+     "exercise": "ga-grip-squeeze",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 30,
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Hand gripper (about £5–10; log its rating as the load) or a tightly rolled towel: a hard 3-s squeeze each rep, breathing out. Your injured hand stays open and relaxed; don't let it copy."
+    }
+   ]
+  },
+  "addon-rehab": {
+   "name": "Arm Rehab — Your Physio's Programme",
+   "type": "rehab",
+   "duration_min": 15,
+   "summary": "One slot for your physio's programme, done exactly as prescribed (often little and often, at home).",
+   "blocks": [
+    {
+     "exercise": "x-physio-programme",
+     "sets": 1,
+     "seconds": 900,
+     "rest_s": 0,
+     "notes": "Your physio's programme exactly as prescribed. Enter their exercises and log them on the Your arm page; this slot appears once they're entered. Don't add anything they haven't given you."
+    }
+   ]
+  },
+  "p2a-a": {
+   "name": "Rebuild A — Squat & Machine Push (machines first)",
+   "type": "strength",
+   "duration_min": 75,
+   "summary": "Legs keep progressing while both hands come back on machines and cables only: chest press, pulldown and Pallof press, plus split squats and calves.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "leg-press",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 120,
+     "tempo": "3-1-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Dead start, as in Phase 1: stops at your bottom position, catches released. Injured arm across your stomach until full clearance, never hands on your thighs; uninjured hand on the side handle to stand up. Your uninjured hand loads plates of 10 kg or less (staff do heavier ones), so ramp up on the press itself: about 50% × 8, then 75% × 4."
+    },
+    {
+     "exercise": "split-squat-bw",
+     "sets": 3,
+     "reps": "12-20",
+     "rest_s": 75,
+     "tempo": "3-0-1-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Side-on to the rack, uninjured hand on the upright, injured arm across your stomach, 3-s lowering: no weight goes through the injured wrist until full clearance."
+    },
+    {
+     "exercise": "chest-press-machine",
+     "sets": 3,
+     "reps": "10-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "First session: a weight you could lift 20 times, for 10–12 reps. Neutral grip if the machine has one; wrists straight. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "lat-pulldown",
+     "sets": 3,
+     "reps": "10-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "First session: a weight you could lift 20 times, for 10–12 reps. Neutral or shoulder-width grip; elbows down to your ribs. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "calf-raise-single-bw",
+     "sets": 2,
+     "reps": "12-20",
+     "rest_s": 45,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Uninjured hand on the wall. Add load with your day pack (2–4 kg to start, building to 5–10 kg) when every set reaches 20; a dumbbell in your injured hand only from the 70% grip rung, measured or OK'd by your physio. Log the added kg."
+    },
+    {
+     "exercise": "pallof-press",
+     "sets": 2,
+     "reps": "8",
+     "rest_s": 60,
+     "tempo": "2-2-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Side-on to the cable, handle at your chest in both hands: press out, hold 2 s without letting it turn you, bring it back. Light: this is control. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    }
+   ]
+  },
+  "p2a-b": {
+   "name": "Rebuild B — Hinge & Machine Pull (machines first)",
+   "type": "strength",
+   "duration_min": 85,
+   "summary": "Hamstring curls and single-leg RDLs, cable rows and face pulls for the upper back, then one trip to the floor for side-lying hip work, hip thrusts and McGill curl-ups.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "hamstring-curl",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "3-0-1-1",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Both hands may steady you on the handles now. Ramp-up: about 50% × 8, then 75% × 4."
+    },
+    {
+     "exercise": "single-leg-rdl-bw",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 60,
+     "tempo": "3-1-1-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Fingertips of your uninjured hand on the upright, hips square, 3 s down to a deep hamstring stretch."
+    },
+    {
+     "exercise": "seated-cable-row",
+     "sets": 3,
+     "reps": "10-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "First session: a weight you could lift 20 times, for 10–12 reps. Neutral handle, chest tall, no leaning back. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "face-pull",
+     "sets": 2,
+     "reps": "12-15",
+     "rest_s": 60,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Rope at face height, light, elbows high; pull the rope apart past your ears. Shoulder health for the pressing to come. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "tibialis-raise-wall",
+     "sets": 2,
+     "reps": "15-20",
+     "rest_s": 45,
+     "tempo": "2-0-1-1",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "notes": "Back against the wall, heels 30–40 cm out; lift your toes high, pause 1 s, lower for 2 s. Shin armour for descents."
+    },
+    {
+     "exercise": "side-lying-hip-abduction",
+     "sets": 2,
+     "reps": "15-20",
+     "rest_s": 45,
+     "tempo": "2-0-1-2",
+     "rir": "2",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "As in Phase 1: the leg on your uninjured side standing at the rack first, then one trip to the floor: lie on your uninjured side for the other leg (or on your injured side only if your clinic is happy with it). Stay down for the hip thrusts and curl-ups."
+    },
+    {
+     "exercise": "hip-thrust-single-leg",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 75,
+     "tempo": "2-0-1-2",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "From the floor, as in Phase 1: upper back against the bench edge, one foot planted and the other knee pulled in, 2-s squeeze at the top; lower to the floor between sets. The barbell hip thrust comes in Phase 2."
+    },
+    {
+     "exercise": "curl-up-mcgill",
+     "sets": 3,
+     "reps": "5",
+     "rest_s": 45,
+     "rir": "3",
+     "load": "bodyweight",
+     "notes": "Last on the floor: one knee bent, uninjured hand under your low back, injured arm across your chest. Lift head and shoulders a few centimetres and hold 8–10 s per rep. Moderate brace, no breath-hold. Then roll onto your uninjured side and get up once, via the bench."
+    }
+   ]
+  },
+  "p2a-c": {
+   "name": "Rebuild C — Single-Leg, Row & Circuit (machines first)",
+   "type": "strength",
+   "duration_min": 85,
+   "summary": "Rear-foot-elevated split squats, the single-leg press, a second hamstring session, the row machine and light woodchops, the adductor-squeeze bridge, then a 12-minute arm-free circuit.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "rfe-split-squat-bw",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 90,
+     "tempo": "3-0-1-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Rear foot on a bench beside the rack, uninjured hand on the upright; get in and out slowly. Ramp-up: one easy set of 5 per leg."
+    },
+    {
+     "exercise": "leg-press-single",
+     "sets": 3,
+     "reps": "10-12",
+     "rest_s": 60,
+     "tempo": "2-1-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Dead start, same stops. One foot mid-platform, weaker leg first; injured arm across your stomach. Load plates of 10 kg or less with your uninjured hand; staff do heavier ones."
+    },
+    {
+     "exercise": "hamstring-curl",
+     "sets": 2,
+     "reps": "10-15",
+     "rest_s": 60,
+     "tempo": "3-0-1-1",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Your lighter, second hamstring session of the week: higher reps, about 10% below Wednesday's load."
+    },
+    {
+     "exercise": "row-machine",
+     "sets": 3,
+     "reps": "10-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "First session: a weight you could lift 20 times, for 10–12 reps. Chest pad on, neutral handles. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "cable-woodchop",
+     "sets": 2,
+     "reps": "8",
+     "rest_s": 60,
+     "tempo": "2-0-1-0",
+     "rir": "3",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Very light: turn through your hips and upper back together, arms long, lower back quiet. Control, not effort. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "glute-bridge",
+     "sets": 2,
+     "reps": "12-15",
+     "rest_s": 60,
+     "tempo": "2-0-1-3",
+     "rir": "2",
+     "load": "bodyweight",
+     "notes": "Adductor-squeeze bridge, as in Phase 1, and your one trip to the floor today: squeeze the rolled mat hard, 3-s hold at the top."
+    },
+    {
+     "circuit": {
+      "minutes": 12,
+      "rounds": null,
+      "items": [
+       {
+        "exercise": "tempo-squat-bw",
+        "dose": "10 reps, 3 s down"
+       },
+       {
+        "exercise": "lateral-step-up-bw",
+        "dose": "8 / side, aerobic step, uninjured hand on the wall"
+       },
+       {
+        "exercise": "step-down-eccentric",
+        "dose": "6 / side, aerobic step, 3 s down"
+       },
+       {
+        "exercise": "bent-knee-calf-raise",
+        "dose": "15"
+       },
+       {
+        "exercise": "tibialis-raise-wall",
+        "dose": "15"
+       }
+      ]
+     },
+     "zone": "Z2-Z3",
+     "notes": "Arm-free strength as conditioning for your knees and lower legs: steady Zone 2–3 rounds for 12 minutes, walking between stations. Steps: the aerobic step (15–25 cm), uninjured hand on the wall; lower for 3 s on the step-downs."
+    }
+   ]
+  },
+  "engine-z2-p2a": {
+   "name": "Hiking Engine — Zone 2 (Rebuild)",
+   "type": "cardio",
+   "duration_min": 70,
+   "summary": "Longer stair-climber work and incline walking, all Zone 2.",
+   "warmup": "warmup-cardio",
+   "blocks": [
+    {
+     "exercise": "stair-climber",
+     "minutes": 28,
+     "zone": "Z2",
+     "minutes_by_week": [
+      25,
+      28
+     ],
+     "notes": "Until full clearance: uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety clip on; step on and off only when the stairs have stopped. Whole foot on each step, first 3 min easy. Zone 2 (60–70% of your max heart rate; Settings shows your bpm): full sentences possible, but you'd rather not talk. Once the minutes plateau, raise the level at the same heart rate."
+    },
+    {
+     "exercise": "incline-walk",
+     "minutes": 25,
+     "zone": "Z2",
+     "minutes_by_week": [
+      25,
+      25
+     ],
+     "notes": "6–15% incline at Zone 2. Until full clearance: uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety key clipped on. Start the belt while you're standing on it; never step onto a moving belt. Raise incline before speed."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "p2-a": {
+   "name": "Full Body A — Squat & Push (Rebuild)",
+   "type": "strength",
+   "duration_min": 85,
+   "summary": "Leg press, your first goblet squats, chest press and pulldown, calves, Pallof press and face pulls.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "leg-press",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 120,
+     "tempo": "3-1-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Dead start as always, injured arm across your stomach and uninjured hand on the side handle to stand; ramp up on the press (about 50% × 8, then 75% × 4). Plates of 10 kg or less with your uninjured hand, heavier ones by staff. Keep adding load."
+    },
+    {
+     "exercise": "goblet-squat",
+     "sets": 3,
+     "reps": "8",
+     "rest_s": 90,
+     "tempo": "3-1-1-0",
+     "rir": "3",
+     "load": "double-progression",
+     "notes": "New pattern: a light dumbbell held vertically at your chest in both palms (start 6–10 kg): a counterweight, not a load. Sit between your heels to a box. Pick it up from a bench, never the floor. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "chest-press-machine",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "lat-pulldown",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "calf-raise-single-bw",
+     "sets": 3,
+     "reps": "12-20",
+     "rest_s": 45,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Uninjured hand on the wall. Add load with your day pack (2–4 kg to start, building to 5–10 kg) when every set reaches 20; a dumbbell in your injured hand only from the 70% grip rung, measured or OK'd by your physio. Log the added kg."
+    },
+    {
+     "exercise": "pallof-press",
+     "sets": 2,
+     "reps": "8-10",
+     "rest_s": 60,
+     "tempo": "2-2-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Press out, hold 2 s, don't let the cable turn you."
+    },
+    {
+     "exercise": "face-pull",
+     "sets": 2,
+     "reps": "12-15",
+     "rest_s": 60,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Light, elbows high, rope apart past your ears."
+    }
+   ]
+  },
+  "p2-b": {
+   "name": "Full Body B — Hinge, Pull & Carry (Rebuild)",
+   "type": "strength",
+   "duration_min": 85,
+   "summary": "Pavel's two-handed kettlebell deadlift, hamstring curls, cable rows, a light press and your first suitcase carries, then one trip to the floor for barbell hip thrusts and McGill curl-ups.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "kb-deadlift",
+     "sets": 3,
+     "reps": "8",
+     "rest_s": 90,
+     "tempo": "3-1-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Pavel's starting point for the swing, and your first lift today (ramp-up: about 50% × 8, then 75% × 4): one bell between your feet, both hands sharing the handle, hips back, flat back, stand tall. No kettlebells? A dumbbell held vertically by one end. Light: grip and wrist set the limit. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "hamstring-curl",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "3-0-1-1",
+     "rir": "2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "seated-cable-row",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "db-shoulder-press",
+     "sets": 2,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-0-1-0",
+     "rir": "3",
+     "load": "double-progression",
+     "notes": "Seated, back supported, light (4–8 kg each); kick the dumbbells up from your thighs. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "suitcase-carry",
+     "sets": 4,
+     "seconds": 30,
+     "rest_s": 60,
+     "per_side": true,
+     "notes": "Grip ladder: only once your physio has measured your injured hand at 70% or more of your uninjured hand, or OK'd that step; not there yet? Skip this block. One light dumbbell (start 6–10 kg), walk tall for 30 s on a clear floor, swap hands; same weight both sides, set by your injured hand."
+    },
+    {
+     "exercise": "tibialis-raise-wall",
+     "sets": 2,
+     "reps": "15-20",
+     "rest_s": 45,
+     "tempo": "2-0-1-1",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "notes": "Back against the wall, heels 30–40 cm out; lift your toes high, pause 1 s, lower for 2 s. Shin armour for descents."
+    },
+    {
+     "exercise": "barbell-hip-thrust",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 120,
+     "tempo": "2-0-1-2",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Your glute builder, done at the end so you only get down to the floor once. Pad on the bar; sit on the floor, roll it over your hips (start with the empty bar or light plates loaded by your uninjured hand), upper back on the bench; hands only steady the bar. Ramp-up: one set of 8 at about 50%."
+    },
+    {
+     "exercise": "curl-up-mcgill",
+     "sets": 3,
+     "reps": "5",
+     "rest_s": 45,
+     "rir": "3",
+     "load": "bodyweight",
+     "notes": "Straight after the hip thrusts, while you're on the floor: 8–10-s holds, uninjured hand under your low back, moderate brace, no breath-hold. Then get up once, via your uninjured side and the bench."
+    }
+   ]
+  },
+  "p2-c": {
+   "name": "Full Body C — Single-Leg, Push/Pull & Circuit (Rebuild)",
+   "type": "strength",
+   "duration_min": 85,
+   "summary": "Rear-foot-elevated split squats and the single-leg press, dumbbell bench and chest-supported rows, the adductor-squeeze bridge, then a squat, carry, step and woodchop circuit.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "rfe-split-squat-bw",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 90,
+     "tempo": "3-0-1-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Uninjured hand on the upright. 3 × 15 easy? Hold one light dumbbell in your injured hand (the 70% rung, measured or OK'd by your physio); your uninjured hand stays on the rack until full clearance."
+    },
+    {
+     "exercise": "leg-press-single",
+     "sets": 3,
+     "reps": "10-12",
+     "rest_s": 60,
+     "tempo": "2-1-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Dead start, same stops. One foot mid-platform, weaker leg first; injured arm across your stomach. Load plates of 10 kg or less with your uninjured hand; staff do heavier ones."
+    },
+    {
+     "exercise": "hamstring-curl",
+     "sets": 2,
+     "reps": "10-15",
+     "rest_s": 60,
+     "tempo": "3-0-1-1",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Your lighter, second hamstring session of the week: higher reps, about 10% below Wednesday's load."
+    },
+    {
+     "exercise": "db-bench-press",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Light dumbbells, neutral grip if comfortable. Sit on the end of the bench with the dumbbells on your thighs, lie back together, and reverse it to finish. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "chest-supported-db-row",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 75,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Chest on an incline bench; set the dumbbells beside the bench before you lie on it. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "glute-bridge",
+     "sets": 2,
+     "reps": "12-15",
+     "rest_s": 60,
+     "tempo": "2-0-1-3",
+     "rir": "2",
+     "load": "bodyweight",
+     "notes": "Adductor-squeeze bridge, your one trip to the floor today: squeeze hard, 3-s hold at the top."
+    },
+    {
+     "circuit": {
+      "minutes": 12,
+      "rounds": null,
+      "items": [
+       {
+        "exercise": "tempo-squat-bw",
+        "dose": "10 reps, 3 s down"
+       },
+       {
+        "exercise": "suitcase-carry",
+        "dose": "20 m / side (light)"
+       },
+       {
+        "exercise": "step-up-bw",
+        "dose": "6 / side, aerobic step"
+       },
+       {
+        "exercise": "bent-knee-calf-raise",
+        "dose": "15"
+       },
+       {
+        "exercise": "cable-woodchop",
+        "dose": "6 / side (light)"
+       }
+      ]
+     },
+     "zone": "Z2-Z3",
+     "notes": "Squat, carry, step, calves, rotate: steady Zone 2–3 for 12 minutes. Suitcase carries only at the 70% rung with your physio's OK; otherwise an extra set of step-ups in that slot. Deload week: 6 easy minutes in Zone 2 (the hub shows it)."
+    }
+   ]
+  },
+  "engine-z2-b": {
+   "name": "Hiking Engine — Zone 2 (Rebuild)",
+   "type": "cardio",
+   "duration_min": 70,
+   "summary": "Stair climber and incline walking, all Zone 2.",
+   "warmup": "warmup-cardio",
+   "blocks": [
+    {
+     "exercise": "stair-climber",
+     "minutes": 30,
+     "zone": "Z2",
+     "minutes_by_week": [
+      30,
+      30,
+      21,
+      30,
+      30,
+      30
+     ],
+     "notes": "Until full clearance: uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety clip on; step on and off only when the stairs have stopped. Whole foot on each step, first 3 min easy. Zone 2 (60–70% of your max heart rate; Settings shows your bpm): full sentences possible, but you'd rather not talk. Once the minutes plateau, raise the level at the same heart rate."
+    },
+    {
+     "exercise": "incline-walk",
+     "minutes": 25,
+     "zone": "Z2",
+     "minutes_by_week": [
+      25,
+      25,
+      18,
+      25,
+      25,
+      25
+     ],
+     "notes": "6–15% incline at Zone 2. Until full clearance: uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety key clipped on. Start the belt while you're standing on it; never step onto a moving belt. Raise incline before speed."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "vo2-4x4": {
+   "name": "VO2max — 4 × 4 min (bike)",
+   "type": "intervals",
+   "duration_min": 70,
+   "summary": "The Norwegian 4 × 4: four hard 4-minute efforts with 3 minutes easy between, then a Zone 2 flush.",
+   "blocks": [
+    {
+     "exercise": "bike-upright",
+     "warmup_min": 10,
+     "cooldown_min": 5,
+     "intervals": {
+      "work_s": 240,
+      "rest_s": 180,
+      "rounds": 4,
+      "work_zone": "Z4-Z5",
+      "rest_zone": "Z2"
+     },
+     "notes": "Each 4-min rep should end around 85–95% of your max heart rate (Settings shows your bpm): hard (8/10) but even, rep 4 at the same power as rep 1. Spin easy between. Seated, both hands light on the bars, wrists straight. AMBER day: all Zone 2. Deload week: half the reps, all in Zone 2 (the hub shows it)."
+    },
+    {
+     "exercise": "incline-walk",
+     "minutes": 15,
+     "zone": "Z2",
+     "minutes_by_week": [
+      15,
+      15,
+      10,
+      15,
+      15,
+      15
+     ],
+     "notes": "Easy Zone 2 flush on the treadmill. Until full clearance: uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety key clipped on. Start the belt while you're standing on it; never step onto a moving belt."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "long-ruck-p2": {
+   "name": "Long Walk with a Light Pack (Rebuild)",
+   "type": "hike",
+   "duration_min": 90,
+   "summary": "Your long session with a light day pack: 80 minutes of Zone 2 on good paths, then mobility.",
+   "blocks": [
+    {
+     "exercise": "ruck-light",
+     "minutes": 80,
+     "zone": "Z2",
+     "minutes_by_week": [
+      80,
+      80,
+      56,
+      80,
+      80,
+      80
+     ],
+     "notes": "First 10 min easy. Pack: carry on from your Phase 1 weight, or start at 2–4 kg (hip belt fastened, put on seated, uninjured arm first), and add about 1 kg every 2–3 weeks if the walk and the next morning feel fine, up to about 10% of your body weight until full clearance. Good paths only until full clearance: no rough, rocky, muddy or icy ground, and no stiles. Walking poles only once light holds are allowed (the 70% rung, measured or OK'd by your physio); don't use the wrist strap on your injured side. Bad weather or dark: treadmill with the pack, uninjured hand lightly on the rail, injured arm across your stomach, safety key on. Have more time? Walk longer on good paths and log it on the Hikes page."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "p3-a": {
+   "name": "Full Body A — Squat & Push (Build)",
+   "type": "strength",
+   "duration_min": 85,
+   "summary": "Heavier Smith squats, high-rep dead-start leg press, dumbbell bench, pulldowns, loaded single-leg calf raises and cable woodchops.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "smith-squat",
+     "sets": 4,
+     "reps": "5-8",
+     "rest_s": 150,
+     "tempo": "3-1-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Your main squat now. Bar on your upper back, hands only steadying it, wrists as straight as you can; feet slightly in front of the bar line. Safety stops just below your bottom position, every time. Crisp, never grinding. Ramp-up: empty bar × 8, 50% × 5, 75% × 3."
+    },
+    {
+     "exercise": "leg-press",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 120,
+     "tempo": "3-0-1-0",
+     "rir": "1-2",
+     "load": "double-progression",
+     "notes": "Dead start as always, injured arm across your stomach until full clearance. Higher reps for size after your squats; RIR 1–2 is fine here because the stops catch the sled. Plates over 10 kg: staff. Ramp-up: one set of 8 at about 60%."
+    },
+    {
+     "exercise": "db-bench-press",
+     "sets": 3,
+     "reps": "6-10",
+     "rest_s": 120,
+     "tempo": "2-1-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "lat-pulldown",
+     "sets": 3,
+     "reps": "6-10",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "calf-raise-single-bw",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 45,
+     "tempo": "2-1-1-1",
+     "rir": "1-2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Stable and supported, so RIR 1–2 is fine. Uninjured hand on the wall. Add load with your day pack (2–4 kg to start, building to 5–10 kg) when every set reaches 15; a dumbbell in your injured hand only from the 70% grip rung, measured or OK'd by your physio. Log the added kg."
+    },
+    {
+     "exercise": "cable-woodchop",
+     "sets": 3,
+     "reps": "8",
+     "rest_s": 60,
+     "tempo": "2-0-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Transverse-plane strength: high-to-low one set, low-to-high the next. Hips and upper back turn together, arms long."
+    }
+   ]
+  },
+  "p3-b": {
+   "name": "Full Body B — Hinge, Pull & Carry (Build)",
+   "type": "strength",
+   "duration_min": 85,
+   "summary": "Barbell RDLs and hip thrusts, hamstring curls, rows and presses, farmer's carries and plate pinches by the grip ladder.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "barbell-rdl",
+     "sets": 3,
+     "reps": "6-8",
+     "rest_s": 150,
+     "tempo": "3-1-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Bar from the rack at mid-thigh, double-overhand grip, no straps (they load the wrist). Hips back, neutral spine, bar close. If your grip limits the load, stay there and add reps. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing. Ramp-up: about 50% × 8, then 75% × 4."
+    },
+    {
+     "exercise": "barbell-hip-thrust",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 120,
+     "tempo": "2-0-1-2",
+     "rir": "1-2",
+     "load": "double-progression",
+     "notes": "Stable and supported, so RIR 1–2 is fine. Your one trip to the floor today: sit down beside the bench with your uninjured hand on it, and get up the same way."
+    },
+    {
+     "exercise": "hamstring-curl",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 75,
+     "tempo": "3-0-1-1",
+     "rir": "1-2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "seated-cable-row",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "db-shoulder-press",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-0-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "farmer-carry",
+     "sets": 4,
+     "seconds": 30,
+     "rest_s": 75,
+     "notes": "Grip ladder (your physio measures the rung or OKs the step): light farmer's carries (about 10% of your body weight per hand: 8 kg for the 80 kg example profile) from 70%; moderate ones, building towards about 15% per hand (12 kg for the example profile), from 80%. Heavier waits for 90% and full clearance. Tall, short quick steps, shoulders down. Below 70%? Skip."
+    },
+    {
+     "exercise": "plate-pinch",
+     "sets": 3,
+     "seconds": 20,
+     "rest_s": 45,
+     "per_side": true,
+     "notes": "Pinch two smooth plates together, smooth sides out, one hand at a time; same plates both hands, set by your injured hand. Needs the 70% rung, measured or OK'd by your physio."
+    }
+   ]
+  },
+  "p3-c": {
+   "name": "Full Body C — Single-Leg, Arms & Circuit (Build)",
+   "type": "strength",
+   "duration_min": 85,
+   "summary": "Loaded Bulgarian split squats and step-ups, machine press and row, arms, then a squat, rope-pull, carry, lateral-step and shin circuit.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "db-bulgarian-split-squat",
+     "sets": 3,
+     "reps": "8-10",
+     "rest_s": 120,
+     "tempo": "3-0-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Rear foot on a bench beside the rack. Until full clearance: one dumbbell in your injured hand (the grip ladder sets the weight) and your uninjured hand on the upright. Ramp-up: one easy set per leg."
+    },
+    {
+     "exercise": "db-step-up",
+     "sets": 3,
+     "reps": "8",
+     "rest_s": 90,
+     "tempo": "3-0-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Until full clearance: the aerobic step (15–25 cm) or the bottom stair beside the rack, never a bench; uninjured hand on or near the upright. Load: your day pack (hands free) or one dumbbell in your injured hand (the grip ladder sets the weight). Step down slowly."
+    },
+    {
+     "exercise": "chest-press-machine",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "row-machine",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "triceps-rope-pushdown",
+     "sets": 2,
+     "reps": "10-15",
+     "rest_s": 60,
+     "tempo": "2-0-1-1",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Elbows by your sides, wrists straight."
+    },
+    {
+     "exercise": "db-curl",
+     "sets": 2,
+     "reps": "10-15",
+     "rest_s": 60,
+     "tempo": "3-0-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Hammer grip first: easiest on the forearm. Arm pain rule: your physio's limit, or 2/10 or below during the set and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "circuit": {
+      "minutes": 12,
+      "rounds": null,
+      "items": [
+       {
+        "exercise": "tempo-squat-bw",
+        "dose": "10 reps, 3 s down (wear your pack)"
+       },
+       {
+        "exercise": "sled-rope-pull",
+        "dose": "20 m"
+       },
+       {
+        "exercise": "suitcase-carry",
+        "dose": "20 m / side"
+       },
+       {
+        "exercise": "lateral-step-up-bw",
+        "dose": "8 / side, aerobic step"
+       },
+       {
+        "exercise": "tibialis-raise-wall",
+        "dose": "15"
+       }
+      ]
+     },
+     "zone": "Z3",
+     "notes": "Squat, pull, carry, step sideways, shin armour: steady Zone 3 for 12 minutes. Rope pull only once pulling is pain-free and your physio agrees (otherwise an extra set of lateral step-ups). Sled pushing waits for full clearance. Deload week: 6 easy minutes in Zone 2 (the hub shows it)."
+    }
+   ]
+  },
+  "engine-z2-c": {
+   "name": "Hiking Engine — Zone 2 with Pack (Build)",
+   "type": "cardio",
+   "duration_min": 75,
+   "summary": "Long stair-climber work, then incline walking with your day pack.",
+   "warmup": "warmup-cardio",
+   "blocks": [
+    {
+     "exercise": "stair-climber",
+     "minutes": 35,
+     "zone": "Z2",
+     "minutes_by_week": [
+      30,
+      32,
+      24,
+      35,
+      35,
+      35,
+      35,
+      35,
+      24,
+      35,
+      35,
+      35
+     ],
+     "notes": "Until full clearance: uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety clip on; step on and off only when the stairs have stopped. Whole foot on each step, first 3 min easy. Zone 2 (60–70% of your max heart rate; Settings shows your bpm): full sentences possible, but you'd rather not talk. Once the minutes plateau, raise the level at the same heart rate."
+    },
+    {
+     "exercise": "ruck-light",
+     "minutes": 25,
+     "zone": "Z2",
+     "minutes_by_week": [
+      25,
+      25,
+      18,
+      25,
+      25,
+      25,
+      25,
+      25,
+      18,
+      25,
+      25,
+      25
+     ],
+     "notes": "On the treadmill at 8–15% incline with your day pack, Zone 2. Until full clearance: uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety key clipped on. Start the belt while you're standing on it; never step onto a moving belt."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "vo2-5x4": {
+   "name": "VO2max — 5 × 4 min (bike)",
+   "type": "intervals",
+   "duration_min": 80,
+   "summary": "One more hard 4-minute rep than Phase 2, then a longer Zone 2 flush.",
+   "blocks": [
+    {
+     "exercise": "bike-upright",
+     "warmup_min": 10,
+     "cooldown_min": 5,
+     "intervals": {
+      "work_s": 240,
+      "rest_s": 180,
+      "rounds": 5,
+      "work_zone": "Z4-Z5",
+      "rest_zone": "Z2"
+     },
+     "notes": "Same rules: even pacing, 85–95% of max heart rate (Settings shows your bpm) by the end of each rep, easy spinning between. Week 1 stays at 4 reps (the hub shows it); 5 from week 2. AMBER day: all Zone 2. Deload week: half the reps, all in Zone 2 (the hub shows it)."
+    },
+    {
+     "exercise": "incline-walk",
+     "minutes": 20,
+     "zone": "Z2",
+     "minutes_by_week": [
+      20,
+      20,
+      14,
+      20,
+      20,
+      20,
+      20,
+      20,
+      14,
+      20,
+      20,
+      20
+     ],
+     "notes": "Zone 2 flush. Until full clearance: uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety key clipped on. Start the belt while you're standing on it; never step onto a moving belt."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "long-ruck-p3": {
+   "name": "Long Walk with a Pack — More Climbing (Build)",
+   "type": "hike",
+   "duration_min": 90,
+   "summary": "80 minutes of Zone 2 with a slightly heavier pack and more ascent, still on good paths, then mobility.",
+   "blocks": [
+    {
+     "exercise": "ruck-light",
+     "minutes": 80,
+     "zone": "Z2",
+     "minutes_by_week": [
+      80,
+      80,
+      56,
+      80,
+      80,
+      80,
+      80,
+      80,
+      56,
+      80,
+      80,
+      80
+     ],
+     "notes": "First 10 min easy. Pack 5–8 kg (no more than about 10% of your body weight until full clearance); choose good-path routes with more climbing (200–400 m of ascent in 80 min). Good paths only until full clearance: no rough, rocky, muddy or icy ground, and no stiles. Hip belt done up so the pack sits on your hips; on and off seated, uninjured arm first. Walking poles only from the 70% rung (measured or OK'd by your physio); don't use the wrist strap on your injured side. Bad weather or dark: treadmill with the pack, uninjured hand lightly on the rail, injured arm across your stomach, safety key on. Have more time? Walk longer on good paths and log it on the Hikes page."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "p4a-a": {
+   "name": "Bridge A — Squat, Incline Push-Up & First Hangs",
+   "type": "strength",
+   "duration_min": 80,
+   "summary": "Your first free-bar squats, incline push-ups and feet-supported hangs, plus the leg press, pulldowns, short planks and calves.",
+   "warmup": "warmup-strength",
+   "blocks": [
+    {
+     "exercise": "back-squat",
+     "sets": 3,
+     "reps": "5",
+     "rest_s": 150,
+     "tempo": "2-1-1-0",
+     "rir": "3",
+     "load": "double-progression",
+     "notes": "First free-bar squats: light, crisp, safety pins set in the rack. Use the grip width that keeps your wrists comfortable; the Smith squat stays your backup. Ramp-up first: 2 lighter sets (about 50% × 8, then 75% × 4) — they don't count as work sets."
+    },
+    {
+     "exercise": "leg-press",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 120,
+     "tempo": "3-0-1-0",
+     "rir": "1-2",
+     "load": "double-progression",
+     "notes": "Dead start as always; hands on the side handles now. Higher reps for size after your squats; RIR 1–2 is fine here because the stops catch the sled. Ramp-up: one set of 8 at about 60%."
+    },
+    {
+     "exercise": "incline-push-up",
+     "sets": 3,
+     "reps": "6-12",
+     "rest_s": 90,
+     "tempo": "2-0-1-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "notes": "Your first weight-bearing through the wrists: hands on a bench or a Smith bar at hip height, body straight. Lower the bar a notch only when 3 × 12 is easy and pain-free. Full push-ups come in Phase 4. Arm pain rule: follow your physio's limit; if you weren't given one, pain at 2/10 or below during the exercise and back to your usual level by the next morning. Never train through pain that's increasing."
+    },
+    {
+     "exercise": "lat-pulldown",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "dead-hang-feet-supported",
+     "sets": 3,
+     "seconds": 20,
+     "rest_s": 60,
+     "notes": "First hangs: bar at shoulder height, feet stay on the floor, sink part of your weight into your hands. Heavy carries and hanging need at least 90% of your good hand (and full clearance). Not there yet, or no physio OK? Skip it. Build to 30 s."
+    },
+    {
+     "exercise": "plank",
+     "sets": 3,
+     "seconds": 20,
+     "rest_s": 45,
+     "notes": "Forearms on the floor, ribs down, glutes tight, breathe. Build to 30 s this phase."
+    },
+    {
+     "exercise": "calf-raise-single-bw",
+     "sets": 2,
+     "reps": "12-20",
+     "rest_s": 60,
+     "tempo": "2-2-1-1",
+     "rir": "1-2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Hold a dumbbell in the hand on the working side, other hand on the wall."
+    }
+   ],
+   "cooldown": "cooldown-strength"
+  },
+  "p4a-b": {
+   "name": "Bridge B — Hinge, First Swings & Carry",
+   "type": "strength",
+   "duration_min": 80,
+   "summary": "Kettlebell deadlifts lead into your first two-hand swings (capped at 50 a session by week 4), then RDLs, hamstring curls, rows, farmer's carries and short dead hangs.",
+   "warmup": "warmup-strength",
+   "blocks": [
+    {
+     "exercise": "kb-deadlift",
+     "sets": 2,
+     "reps": "8",
+     "rest_s": 60,
+     "tempo": "2-1-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Swing primer: groove the hip hinge before every swing session."
+    },
+    {
+     "exercise": "kb-swing-two-hand",
+     "sets": 5,
+     "reps": "10",
+     "rest_s": 60,
+     "rir": "3",
+     "load": "double-progression",
+     "notes": "Hike the bell back, snap the hips, let it float to chest height, sharp exhale at the top. The week caps keep this gradual: 2 sets in week 1, 3 in week 2, 4 in week 3, 5 in week 4 (50 swings, the maximum). No kettlebells? A dumbbell held vertically by the handle."
+    },
+    {
+     "exercise": "barbell-rdl",
+     "sets": 3,
+     "reps": "6-8",
+     "rest_s": 150,
+     "tempo": "3-1-1-0",
+     "rir": "2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "hamstring-curl",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "3-0-1-1",
+     "rir": "1-2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "seated-cable-row",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "farmer-carry",
+     "sets": 4,
+     "seconds": 30,
+     "rest_s": 90,
+     "notes": "Heavy carries and hanging need at least 90% of your good hand (and full clearance). Below 90%, keep to moderate loads (about 15% of body weight per hand)."
+    },
+    {
+     "exercise": "dead-hang",
+     "sets": 3,
+     "seconds": 10,
+     "rest_s": 60,
+     "notes": "Short dead hangs, only if Monday's feet-supported hangs felt fine and your grip is at least 90% of your good hand. Step up and down from a box — never drop. Otherwise repeat feet-supported hangs."
+    }
+   ],
+   "cooldown": "cooldown-strength"
+  },
+  "p4a-c": {
+   "name": "Bridge C — Single-Leg, Light Sandbag & Circuit",
+   "type": "strength",
+   "duration_min": 80,
+   "summary": "Bulgarian split squats and step-ups, dumbbell bench and machine rows, your first light sandbag carries, then a circuit with your first light sled pushes.",
+   "warmup": "warmup-strength",
+   "blocks": [
+    {
+     "exercise": "db-bulgarian-split-squat",
+     "sets": 3,
+     "reps": "8-10",
+     "rest_s": 120,
+     "tempo": "3-0-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "A dumbbell in each hand is allowed now; start lighter than your one-dumbbell load and keep a rack within reach. Ramp-up: one easy set per leg."
+    },
+    {
+     "exercise": "db-step-up",
+     "sets": 3,
+     "reps": "8",
+     "rest_s": 90,
+     "tempo": "2-0-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "A dumbbell in each hand or your pack. Step down slowly."
+    },
+    {
+     "exercise": "db-bench-press",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-0",
+     "rir": "2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "row-machine",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "sandbag-bear-hug-carry",
+     "sets": 3,
+     "seconds": 30,
+     "rest_s": 90,
+     "notes": "First sandbag work: a light bag (start about 15–20% of body weight) hugged high against your chest, elbows tucked; walk tall and breathe. Lift it from a bench at first rather than the floor."
+    },
+    {
+     "circuit": {
+      "minutes": 12,
+      "rounds": null,
+      "items": [
+       {
+        "exercise": "sled-push",
+        "dose": "20 m (light)"
+       },
+       {
+        "exercise": "sled-rope-pull",
+        "dose": "20 m"
+       },
+       {
+        "exercise": "suitcase-carry",
+        "dose": "20 m / side"
+       },
+       {
+        "exercise": "lateral-step-up-bw",
+        "dose": "8 / side"
+       },
+       {
+        "exercise": "cable-woodchop",
+        "dose": "6 / side"
+       }
+      ]
+     },
+     "zone": "Z3",
+     "notes": "Your first sled pushes: light, arms straight-ish, wrists neutral. The circuit builds over the phase: 6 minutes in week 1, 8 in week 2, 10 in week 3 and 12 in week 4 (the hub shows it). No jumps or slams until Phase 4. Steady Zone 3."
+    }
+   ],
+   "cooldown": "cooldown-strength"
+  },
+  "engine-z2-p4a": {
+   "name": "Hiking Engine — Zone 2 + First Ski Erg (Bridge)",
+   "type": "cardio",
+   "duration_min": 60,
+   "summary": "Stair climber, then easy full-body Zone 2 on the ski erg now that both arms are cleared.",
+   "warmup": "warmup-cardio",
+   "blocks": [
+    {
+     "exercise": "stair-climber",
+     "minutes": 30,
+     "zone": "Z2",
+     "minutes_by_week": [
+      30,
+      30,
+      30,
+      30
+     ],
+     "notes": "Hands off the rails now if you feel steady; Zone 2."
+    },
+    {
+     "exercise": "ski-erg",
+     "minutes": 15,
+     "zone": "Z2",
+     "minutes_by_week": [
+      10,
+      10,
+      15,
+      15
+     ],
+     "notes": "New: smooth, easy technique, Zone 2. Stop if the forearm aches."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "vo2-p4a": {
+   "name": "VO2max — 5 × 4 min (Bridge)",
+   "type": "intervals",
+   "duration_min": 80,
+   "summary": "The 5 × 4 bike session continues while everything else is new.",
+   "blocks": [
+    {
+     "exercise": "bike-upright",
+     "warmup_min": 10,
+     "cooldown_min": 5,
+     "intervals": {
+      "work_s": 240,
+      "rest_s": 180,
+      "rounds": 5,
+      "work_zone": "Z4-Z5",
+      "rest_zone": "Z2"
+     },
+     "notes": "Even pacing, 85–95% of max heart rate by the end of each rep. AMBER day: all Zone 2."
+    },
+    {
+     "exercise": "incline-walk",
+     "minutes": 20,
+     "zone": "Z2",
+     "minutes_by_week": [
+      20,
+      20,
+      20,
+      20
+     ],
+     "notes": "Zone 2 flush."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "long-hike-p4a": {
+   "name": "First Rough-Terrain Hikes (Bridge)",
+   "type": "hike",
+   "duration_min": 90,
+   "summary": "80 minutes in Zone 2 with a light pack, stepping up the terrain each week, then mobility.",
+   "blocks": [
+    {
+     "exercise": "ruck-light",
+     "minutes": 80,
+     "zone": "Z2",
+     "minutes_by_week": [
+      80,
+      80,
+      80,
+      80
+     ],
+     "notes": "Week 1: good paths with short rough sections. Week 2: rough paths. Week 3: hills. Week 4: hills with rough descents. Poles recommended; pack 5–8 kg. Slow down on wet rock, roots and scree — your arm is cleared but your balance on rough ground is new."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "p4-a": {
+   "name": "Strength A — Squat, Push & Spring (Forge)",
+   "type": "strength",
+   "duration_min": 90,
+   "summary": "Low box jumps for landing skill, Pavel-style heavy-ish back squats, bench press, pull-ups, walking lunges, Nordic curls and calves.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "box-jump-low",
+     "sets": 3,
+     "reps": "3",
+     "rest_s": 90,
+     "load": "bodyweight",
+     "notes": "Power and landing skill for rough ground. Low box (30–40 cm): jump up, land softly and quietly, then STEP down. No low box? Pogo hops 3 × 10."
+    },
+    {
+     "exercise": "back-squat",
+     "sets": 4,
+     "reps": "4-6",
+     "rest_s": 180,
+     "tempo": "2-1-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Crisp, heavy-ish practice, never grinding. Safety pins set. Ramp-up: empty bar × 8, about 50% × 5, 75% × 3."
+    },
+    {
+     "exercise": "bench-press",
+     "sets": 3,
+     "reps": "6-8",
+     "rest_s": 150,
+     "tempo": "2-1-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Barbell now, with safety arms or a spotter. Wrists stacked over the elbows."
+    },
+    {
+     "exercise": "pull-up",
+     "sets": 3,
+     "reps": "3-6",
+     "rest_s": 120,
+     "tempo": "2-0-1-1",
+     "rir": "2",
+     "load": "bodyweight",
+     "notes": "Needs grip at least 90% of your uninjured hand. Fewer than 3? Band-assisted pull-ups (if your gym has bands) or the lat pulldown."
+    },
+    {
+     "exercise": "db-walking-lunge",
+     "sets": 2,
+     "reps": "10",
+     "rest_s": 90,
+     "tempo": "2-0-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Clear floor, light dumbbells at first."
+    },
+    {
+     "exercise": "nordic-curl-assisted",
+     "sets": 2,
+     "reps": "4-6",
+     "rest_s": 120,
+     "tempo": "4-0-1-0",
+     "rir": "2",
+     "load": "bodyweight",
+     "notes": "Heels anchored, lower as slowly as you can, catch yourself with your hands, push back up. Hamstring armour for long descents."
+    },
+    {
+     "exercise": "calf-raise-single-bw",
+     "sets": 2,
+     "reps": "12-20",
+     "rest_s": 60,
+     "tempo": "2-1-1-1",
+     "rir": "2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "On a step edge; a dumbbell in the working-side hand once 20 is easy."
+    }
+   ]
+  },
+  "p4-b": {
+   "name": "Strength B — Hinge, Pull & Carry (Forge)",
+   "type": "strength",
+   "duration_min": 85,
+   "summary": "Pavel-style deadlifts, Bulgarian split squats, rows, push-ups, heavier farmer's carries, sled pushes and hanging knee raises.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "barbell-deadlift",
+     "sets": 3,
+     "reps": "5",
+     "rest_s": 180,
+     "tempo": "1-0-1-1",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Power to the People flavour: perfect fives, the last set 1–2 reps short. Double-overhand with chalk; if the bar outweighs your grip, stay there and add reps. Ramp-up: about 50% × 5, 70% × 3, 85% × 1."
+    },
+    {
+     "exercise": "db-bulgarian-split-squat",
+     "sets": 3,
+     "reps": "8-10",
+     "rest_s": 120,
+     "tempo": "3-0-1-0",
+     "rir": "1-2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "A dumbbell in each hand."
+    },
+    {
+     "exercise": "chest-supported-db-row",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "1-2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "push-up",
+     "sets": 3,
+     "reps": "6-12",
+     "rest_s": 90,
+     "tempo": "2-0-1-0",
+     "rir": "2",
+     "load": "bodyweight",
+     "notes": "Hands under shoulders, body in one line. Too hard? Back to incline push-ups for a while."
+    },
+    {
+     "exercise": "farmer-carry",
+     "sets": 4,
+     "seconds": 40,
+     "rest_s": 75,
+     "notes": "Heavy carries need full clearance and grip at least 90% of your uninjured hand, measured or OK'd by your physio. Build towards a quarter of your body weight per hand: chapter 09's 'Solid' standard is 60 s, and these training sets are 40 s."
+    },
+    {
+     "exercise": "sled-push",
+     "sets": 4,
+     "seconds": 20,
+     "rest_s": 60,
+     "notes": "About 20 m per push at a strong walking pace, arms straight-ish, wrists neutral. Hiking-specific leg drive with almost no soreness."
+    },
+    {
+     "exercise": "hanging-knee-raise",
+     "sets": 3,
+     "reps": "6-10",
+     "rest_s": 60,
+     "tempo": "2-0-1-1",
+     "rir": "2",
+     "load": "bodyweight",
+     "notes": "Dead hang (grip at least 90%), lift the knees without swinging."
+    }
+   ]
+  },
+  "p4-c": {
+   "name": "Strength C — Simple & Sinister + Circuit (Forge)",
+   "type": "strength",
+   "duration_min": 75,
+   "summary": "Pavel's Simple & Sinister pairing (one-arm swings and get-ups), an upper-body-biased odd-object circuit that keeps your legs fresh for the weekend, a press, planks and Copenhagen planks.",
+   "warmup": "warmup-strength",
+   "cooldown": "cooldown-strength",
+   "blocks": [
+    {
+     "exercise": "kb-swing-one-hand",
+     "sets": 10,
+     "reps": "10",
+     "rest_s": 45,
+     "rir": "3",
+     "load": "double-progression",
+     "notes": "Simple & Sinister style: up to 10 sets of 10, alternating hands each set, crisp reps. The week caps start you at 3 sets in week 1 and 5 in week 2. No kettlebells? Two-hand dumbbell swings."
+    },
+    {
+     "exercise": "turkish-get-up",
+     "sets": 5,
+     "reps": "1",
+     "rest_s": 60,
+     "rir": "3",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Slow and deliberate; start with no weight (a shoe balanced on your fist), then a light kettlebell or dumbbell."
+    },
+    {
+     "circuit": {
+      "minutes": 12,
+      "rounds": null,
+      "items": [
+       {
+        "exercise": "sandbag-to-shoulder",
+        "dose": "3 / side"
+       },
+       {
+        "exercise": "sled-rope-pull",
+        "dose": "20 m"
+       },
+       {
+        "exercise": "battle-ropes",
+        "dose": "20 s"
+       },
+       {
+        "exercise": "med-ball-slam",
+        "dose": "6"
+       },
+       {
+        "exercise": "sandbag-bear-hug-carry",
+        "dose": "20 m"
+       }
+      ]
+     },
+     "zone": "Z3-Z4",
+     "notes": "Odd-object circuit: move well, then move fast; 12 minutes (6 in week 1 and 9 in week 2: the hub shows it). Upper-body-biased on purpose, so your legs stay fresh for Saturday. Rest 60–90 s between rounds if form slips. Deload week: 6 easy minutes in Zone 2."
+    },
+    {
+     "exercise": "db-shoulder-press",
+     "sets": 3,
+     "reps": "8-10",
+     "rest_s": 90,
+     "tempo": "2-0-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Overhead strength for lifting packs and bags."
+    },
+    {
+     "exercise": "plank",
+     "sets": 3,
+     "seconds": 40,
+     "rest_s": 45,
+     "notes": "Forearms on the floor, ribs down, glutes tight, breathe. Build to 60 s."
+    },
+    {
+     "exercise": "copenhagen-plank-short",
+     "sets": 2,
+     "seconds": 15,
+     "rest_s": 45,
+     "per_side": true,
+     "notes": "Short lever (knee on the bench). Inner-thigh armour for uneven ground."
+    }
+   ]
+  },
+  "p4-engine": {
+   "name": "Engine — Uphill VO2max + Zone 2 (Forge)",
+   "type": "intervals",
+   "duration_min": 70,
+   "summary": "Hiking-specific 4 × 4 on the stair climber (or a steep treadmill), then full-body Zone 2 on the ski erg or rower.",
+   "warmup": "warmup-cardio",
+   "blocks": [
+    {
+     "exercise": "stair-climber",
+     "warmup_min": 10,
+     "cooldown_min": 5,
+     "intervals": {
+      "work_s": 240,
+      "rest_s": 180,
+      "rounds": 4,
+      "work_zone": "Z4-Z5",
+      "rest_zone": "Z2"
+     },
+     "notes": "Uphill-specific 4 × 4 (3 reps in week 1 and 2 in benchmark week: the hub shows it): quick, light steps, hands off the rails, or a treadmill at 12–15% incline, fast walk. Even pacing. Deload weeks: half the reps, all in Zone 2 (the hub does this); the shorter cardio minutes are already in the plan."
+    },
+    {
+     "exercise": "ski-erg",
+     "minutes": 15,
+     "zone": "Z2",
+     "minutes_by_week": [
+      15,
+      15,
+      15,
+      15,
+      10,
+      15,
+      15,
+      15,
+      15,
+      10,
+      15,
+      15,
+      15,
+      15,
+      10,
+      15
+     ],
+     "notes": "Full-body Zone 2 — or the rower."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "p4-long": {
+   "name": "Long Hike with Pack (Forge)",
+   "type": "hike",
+   "duration_min": 310,
+   "summary": "The weekend long day on real terrain with a loaded pack, building from under 2 to 5 hours.",
+   "blocks": [
+    {
+     "exercise": "ruck-loaded",
+     "minutes": 300,
+     "zone": "Z2",
+     "minutes_by_week": [
+      100,
+      120,
+      135,
+      150,
+      105,
+      165,
+      180,
+      195,
+      210,
+      150,
+      225,
+      240,
+      255,
+      270,
+      190,
+      300
+     ],
+     "notes": "First 15 min easy. Pack: start at 6–8 kg and add 1–2 kg every 2 weeks if the hike and the next 48 h feel fine, towards 10–15 kg for multi-day goals. All terrains now: build from rough paths and hills towards scree, bog and scrambles (see the Hikes ladder). Poles recommended on descents. Fuel, water, map and safety kit as in chapter 12. This weekend long day is the one session allowed past 90 minutes; short of time, do 90 minutes with a steeper route or heavier pack."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "p4-hike2": {
+   "name": "Back-to-Back Hike (Forge)",
+   "type": "hike",
+   "duration_min": 145,
+   "summary": "Day two on tired legs: the most hiking-specific training there is.",
+   "blocks": [
+    {
+     "exercise": "hike-outdoor",
+     "minutes": 135,
+     "zone": "Z2",
+     "minutes_by_week": [
+      45,
+      60,
+      60,
+      75,
+      50,
+      90,
+      90,
+      105,
+      105,
+      70,
+      120,
+      120,
+      135,
+      135,
+      90,
+      90
+     ],
+     "notes": "Lighter pack or none, easy pace (mostly Zone 1–2), mixed terrain; first 10 min very easy. Soreness above 4/10 or a niggle? Swap for a flat walk. Monday is your rest day."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "p5-a": {
+   "name": "Strength A — Squat & Step (Mission)",
+   "type": "strength",
+   "duration_min": 80,
+   "summary": "Maintain and nudge strength with crisp, lower-volume work: back squat, loaded high step-ups, bench, pull-ups, Nordic curls and calves.",
+   "warmup": "warmup-strength",
+   "blocks": [
+    {
+     "exercise": "back-squat",
+     "sets": 3,
+     "reps": "4-6",
+     "rest_s": 180,
+     "tempo": "2-1-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Crisp, never grinding. Ramp-up first: 2 lighter sets (about 50% × 8, then 75% × 4) — they don't count as work sets."
+    },
+    {
+     "exercise": "db-step-up",
+     "sets": 3,
+     "reps": "6-8",
+     "rest_s": 120,
+     "tempo": "2-0-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "High box or bench with heavier dumbbells or your loaded pack: mountain legs."
+    },
+    {
+     "exercise": "bench-press",
+     "sets": 3,
+     "reps": "5-8",
+     "rest_s": 150,
+     "tempo": "2-1-1-0",
+     "rir": "2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "pull-up",
+     "sets": 3,
+     "reps": "4-8",
+     "rest_s": 120,
+     "tempo": "2-0-1-1",
+     "rir": "2",
+     "load": "bodyweight"
+    },
+    {
+     "exercise": "nordic-curl-assisted",
+     "sets": 2,
+     "reps": "4-6",
+     "rest_s": 120,
+     "tempo": "4-0-1-0",
+     "rir": "2",
+     "load": "bodyweight",
+     "notes": "Hamstring armour for long descents."
+    },
+    {
+     "exercise": "calf-raise-single-bw",
+     "sets": 2,
+     "reps": "12-20",
+     "rest_s": 60,
+     "tempo": "2-1-1-1",
+     "rir": "2",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Hold a dumbbell once 20 is easy."
+    }
+   ],
+   "cooldown": "cooldown-strength"
+  },
+  "p5-b": {
+   "name": "Strength B — Hinge & Carry (Mission)",
+   "type": "strength",
+   "duration_min": 85,
+   "summary": "Deadlifts, walking lunges, rows and presses, then heavy farmer's and sandbag carries and hanging knee raises.",
+   "warmup": "warmup-strength",
+   "blocks": [
+    {
+     "exercise": "barbell-deadlift",
+     "sets": 3,
+     "reps": "3-5",
+     "rest_s": 180,
+     "tempo": "1-0-1-1",
+     "rir": "2",
+     "load": "double-progression",
+     "notes": "Crisp triples to fives, last set 1–2 reps short. Ramp-up first: 2 lighter sets (about 50% × 8, then 75% × 4) — they don't count as work sets."
+    },
+    {
+     "exercise": "db-walking-lunge",
+     "sets": 2,
+     "reps": "10",
+     "rest_s": 90,
+     "tempo": "2-0-1-0",
+     "rir": "2",
+     "load": "double-progression",
+     "per_side": true
+    },
+    {
+     "exercise": "seated-cable-row",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "2-1-1-1",
+     "rir": "1-2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "db-shoulder-press",
+     "sets": 3,
+     "reps": "8-10",
+     "rest_s": 90,
+     "tempo": "2-0-1-0",
+     "rir": "2",
+     "load": "double-progression"
+    },
+    {
+     "exercise": "farmer-carry",
+     "sets": 4,
+     "seconds": 40,
+     "rest_s": 90,
+     "notes": "Heavy: work towards half your body weight per hand (your body weight in total) for 30–50 m, chapter 09's 'Strong' standard; these sets are about 30–40 s. Grip at least 90% of your uninjured hand. Tall, quick short steps."
+    },
+    {
+     "exercise": "sandbag-shoulder-carry",
+     "sets": 3,
+     "seconds": 30,
+     "rest_s": 90,
+     "per_side": true,
+     "notes": "Sandbag on one shoulder, walk tall without leaning; swap shoulders each set."
+    },
+    {
+     "exercise": "hanging-knee-raise",
+     "sets": 3,
+     "reps": "8-12",
+     "rest_s": 60,
+     "tempo": "2-0-1-1",
+     "rir": "2",
+     "load": "bodyweight"
+    }
+   ],
+   "cooldown": "cooldown-strength"
+  },
+  "p5-c": {
+   "name": "Strength C — Simple & Sinister + Short Circuit (Mission)",
+   "type": "strength",
+   "duration_min": 70,
+   "summary": "Swings and get-ups, a shorter upper-body-biased circuit to keep your legs fresh for the weekend, then Copenhagen planks and side planks.",
+   "warmup": "warmup-strength",
+   "blocks": [
+    {
+     "exercise": "kb-swing-one-hand",
+     "sets": 10,
+     "reps": "10",
+     "rest_s": 45,
+     "rir": "3",
+     "load": "double-progression",
+     "notes": "10 × 10, alternating hands. Crisp and powerful; rest as needed."
+    },
+    {
+     "exercise": "turkish-get-up",
+     "sets": 5,
+     "reps": "1",
+     "rest_s": 60,
+     "rir": "3",
+     "load": "double-progression",
+     "per_side": true,
+     "notes": "Slow, perfect reps."
+    },
+    {
+     "circuit": {
+      "minutes": 12,
+      "rounds": null,
+      "items": [
+       {
+        "exercise": "sled-rope-pull",
+        "dose": "20 m"
+       },
+       {
+        "exercise": "battle-ropes",
+        "dose": "20 s"
+       },
+       {
+        "exercise": "cable-woodchop",
+        "dose": "6 / side"
+       },
+       {
+        "exercise": "med-ball-slam",
+        "dose": "6"
+       },
+       {
+        "exercise": "sandbag-bear-hug-carry",
+        "dose": "20 m"
+       }
+      ]
+     },
+     "zone": "Z3",
+     "notes": "Upper-body-biased so your legs stay fresh for the weekend. Steady Zone 3. Deload, taper and Mission weeks: 6 easy minutes in Zone 2 (the hub shows it)."
+    },
+    {
+     "exercise": "copenhagen-plank-short",
+     "sets": 2,
+     "seconds": 20,
+     "rest_s": 45,
+     "per_side": true
+    },
+    {
+     "exercise": "side-plank",
+     "sets": 2,
+     "seconds": 30,
+     "rest_s": 45,
+     "per_side": true,
+     "notes": "From the knees at first if you need to; ribs down, hips forward."
+    }
+   ],
+   "cooldown": "cooldown-strength"
+  },
+  "p5-engine": {
+   "name": "Engine — Hill Intervals + Zone 2 (Mission)",
+   "type": "intervals",
+   "duration_min": 75,
+   "summary": "Steep treadmill intervals for climbing power, then Zone 2 on the rower.",
+   "warmup": "warmup-cardio",
+   "blocks": [
+    {
+     "exercise": "incline-walk",
+     "warmup_min": 10,
+     "cooldown_min": 5,
+     "intervals": {
+      "work_s": 180,
+      "rest_s": 120,
+      "rounds": 6,
+      "work_zone": "Z4-Z5",
+      "rest_zone": "Z2"
+     },
+     "notes": "Treadmill at 12–20% incline, fast walking (no running needed): 6 × 3 min hard, 2 min easy. Taper and Mission weeks are deloads: half the reps, all in Zone 2 (the hub does this)."
+    },
+    {
+     "exercise": "rower",
+     "minutes": 15,
+     "zone": "Z2",
+     "minutes_by_week": [
+      15,
+      15,
+      15,
+      15,
+      10,
+      15,
+      15,
+      15,
+      10,
+      15
+     ],
+     "notes": "Full-body Zone 2 — or the ski erg."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "p5-long": {
+   "name": "Mission Long Day",
+   "type": "hike",
+   "duration_min": 370,
+   "summary": "Your weekend long day with a loaded pack, building to a 6-hour mission day in week 10.",
+   "blocks": [
+    {
+     "exercise": "ruck-loaded",
+     "minutes": 360,
+     "zone": "Z2",
+     "minutes_by_week": [
+      180,
+      210,
+      240,
+      255,
+      165,
+      270,
+      300,
+      330,
+      165,
+      360
+     ],
+     "notes": "First 15 min easy. Pack at your trip weight (typically 8–15 kg). Practise your trip routine: fuelling, water, layers, navigation, feet. All terrains now: build from rough paths and hills towards scree, bog and scrambles (see the Hikes ladder). Poles recommended on descents. Fuel, water, map and safety kit as in chapter 12. This weekend long day is the one session allowed past 90 minutes; short of time, do 90 minutes with a steeper route or heavier pack."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "p5-hike2": {
+   "name": "Back-to-Back Day (Mission)",
+   "type": "hike",
+   "duration_min": 190,
+   "summary": "Day two of the weekend: steady, mostly Zone 1–2 on mixed terrain.",
+   "blocks": [
+    {
+     "exercise": "hike-outdoor",
+     "minutes": 180,
+     "zone": "Z2",
+     "minutes_by_week": [
+      90,
+      105,
+      120,
+      120,
+      80,
+      135,
+      150,
+      150,
+      75,
+      180
+     ],
+     "notes": "Lighter pack, easy pace, mixed terrain. In Mission week this is day two of your trip or route. Monday is your rest day."
+    }
+   ],
+   "cooldown": "mobility-daily"
+  },
+  "alt-short": {
+   "name": "Short on Time — 30-Minute Minimum",
+   "type": "strength",
+   "duration_min": 30,
+   "summary": "Never miss twice: when time is short, do this instead of skipping. Easy bike and standing mobility, two sets each of the dead-start leg press and slow split squats, then 10 minutes of Zone 2. Arm-free and open at every gate. It counts as a session done, not as the planned one.",
+   "warmup": "warmup-short",
+   "blocks": [
+    {
+     "exercise": "leg-press",
+     "sets": 2,
+     "reps": "8-12",
+     "rest_s": 90,
+     "tempo": "3-1-1-0",
+     "rir": "2-3",
+     "load": "double-progression",
+     "notes": "Dead start with your usual stops and plates (staff load them until Good arm OK; then your uninjured hand, plates of 10 kg or less). Injured arm across your stomach; uninjured hand on the side handle to stand. Ramp-up: 10 easy box squats. Press busy or no staff around? 2 × 15 tempo squats to a box (4 s down) instead."
+    },
+    {
+     "exercise": "split-squat-bw",
+     "sets": 2,
+     "reps": "12-20",
+     "rest_s": 45,
+     "tempo": "3-0-1-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Side-on to a rack upright, uninjured hand resting on it; injured arm across your stomach. 3-s lowering; stop 2–3 reps short."
+    },
+    {
+     "exercise": "incline-walk",
+     "minutes": 10,
+     "zone": "Z2",
+     "notes": "Zone 2 on the treadmill (3–6% incline is plenty), or the stair climber. Uninjured hand lightly on the rail (a touch, not a lean), injured arm across your stomach, safety key clipped on. Start the belt while you're standing on it; never step onto a moving belt."
+    }
+   ]
+  },
+  "alt-travel": {
+   "name": "Gym Closed or Travelling — Bodyweight",
+   "type": "strength",
+   "duration_min": 45,
+   "summary": "Bodyweight only and arm-safe, for a closed gym, a hotel room or a day away: your daily mobility, slow split squats, stair step-ups and single-leg calf raises with your uninjured hand on a wall or banister, then one trip to the floor for single-leg bridges and dead bugs. Wherever the routine says bench, use a sturdy chair or the bed edge. Add a 20–30-minute daylight walk on good paths if you can (steps count). It counts as a session done, not as the planned one.",
+   "warmup": "mobility-daily",
+   "blocks": [
+    {
+     "exercise": "split-squat-bw",
+     "sets": 3,
+     "reps": "12-20",
+     "rest_s": 45,
+     "tempo": "3-0-1-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Side-on to a wall, door frame or worktop, uninjured hand resting on it; injured arm across your stomach. 3-s lowering and a 1-s pause at the bottom."
+    },
+    {
+     "exercise": "step-up-bw",
+     "sets": 3,
+     "reps": "12-20",
+     "rest_s": 45,
+     "tempo": "3-0-1-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "The bottom stair, facing up the stairs with the banister on your uninjured side; all reps on one leg, then the other. Never a chair or the bed, and never a bench. Banister only on your injured side? Use a wall on your uninjured side, or swap this for an extra set of split squats."
+    },
+    {
+     "exercise": "calf-raise-single-bw",
+     "sets": 3,
+     "reps": "12-20",
+     "rest_s": 30,
+     "tempo": "2-1-1-1",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Facing a wall, uninjured hand flat on it, on the flat floor (or the bottom stair's edge, holding the banister, for more range)."
+    },
+    {
+     "exercise": "glute-bridge-single-leg",
+     "sets": 3,
+     "reps": "10-15",
+     "rest_s": 45,
+     "tempo": "2-0-1-2",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "One trip to the floor for this and the dead bugs: get down beside a sturdy chair or the bed edge with your uninjured hand on it. One foot planted, the other knee pulled in; 2-s squeeze at the top. Hips dropping? Two legs, with a rolled towel squeezed between your knees."
+    },
+    {
+     "exercise": "dead-bug-legs",
+     "sets": 2,
+     "reps": "6-8",
+     "rest_s": 45,
+     "tempo": "3-0-3-0",
+     "rir": "2-3",
+     "load": "bodyweight",
+     "per_side": true,
+     "notes": "Injured arm resting across your stomach; reach one heel out for 3 s as you breathe out, back for 3 s, then switch. Get up via your uninjured side and the chair."
+    }
+   ]
+  }
+ },
+ "routines": {
+  "mobility-daily": {
+   "name": "Daily mobility (10 min)",
+   "minutes": 10,
+   "items": [
+    {
+     "exercise": "ankle-knee-to-wall",
+     "dose": "10 / side"
+    },
+    {
+     "exercise": "hip-circles-standing",
+     "dose": "5 each way / side"
+    },
+    {
+     "exercise": "single-leg-balance",
+     "dose": "30 s / side (uninjured hand by a support)"
+    },
+    {
+     "exercise": "deep-squat-hold-box",
+     "dose": "60 s"
+    },
+    {
+     "exercise": "thoracic-rotation-seated",
+     "dose": "8 / side, on a bench"
+    },
+    {
+     "exercise": "hip-90-90-switch",
+     "dose": "8 switches (on the floor)"
+    },
+    {
+     "exercise": "breathing-90-90",
+     "dose": "5 slow breaths (on the floor)"
+    },
+    {
+     "exercise": "hip-flexor-stretch-half-kneeling",
+     "dose": "45 s / side, by a bench. From Light use / rehab started, the couch stretch instead if you like"
+    }
+   ],
+   "notes": "Standing block first, then one trip to the floor: down via a bench with your uninjured hand, injured arm across your stomach, and come up through half-kneeling for the last stretch, the half-kneeling hip flexor stretch. The couch stretch can take its place once Light use / rehab started is set."
+  },
+  "warmup-strength": {
+   "name": "Strength warm-up: easy bike + daily mobility + ramp-up sets",
+   "minutes": 17,
+   "items": [
+    {
+     "exercise": "bike-upright",
+     "dose": "5 min easy (Zone 1)"
+    },
+    {
+     "exercise": "ankle-knee-to-wall",
+     "dose": "10 / side"
+    },
+    {
+     "exercise": "hip-circles-standing",
+     "dose": "5 each way / side"
+    },
+    {
+     "exercise": "single-leg-balance",
+     "dose": "30 s / side (uninjured hand by a support)"
+    },
+    {
+     "exercise": "deep-squat-hold-box",
+     "dose": "60 s"
+    },
+    {
+     "exercise": "thoracic-rotation-seated",
+     "dose": "8 / side, on a bench"
+    },
+    {
+     "exercise": "hip-90-90-switch",
+     "dose": "8 switches (on the floor)"
+    },
+    {
+     "exercise": "breathing-90-90",
+     "dose": "5 slow breaths (on the floor)"
+    },
+    {
+     "exercise": "hip-flexor-stretch-half-kneeling",
+     "dose": "45 s / side, by a bench. From Light use / rehab started, the couch stretch instead if you like"
+    }
+   ],
+   "notes": "Easy bike, then the daily mobility routine (standing block, then one trip to the floor), then 2 ramp-up sets of the session's first lift (about 50% × 8, then 75% × 4); they don't count as work sets. When the leg press comes first (Strength A), the ramp-up is 10 easy box squats, so the plates don't change. The last stretch is the half-kneeling hip flexor stretch; the couch stretch can take its place once Light use / rehab started is set."
+  },
+  "warmup-cardio": {
+   "name": "Cardio warm-up (4 min)",
+   "minutes": 4,
+   "items": [
+    {
+     "exercise": "leg-swings",
+     "dose": "10 each direction / side, uninjured hand on a support"
+    },
+    {
+     "exercise": "hip-circles-standing",
+     "dose": "5 each way / side"
+    },
+    {
+     "exercise": "ankle-knee-to-wall",
+     "dose": "10 / side"
+    }
+   ]
+  },
+  "cooldown-strength": {
+   "name": "Strength cool-down (5 min)",
+   "minutes": 5,
+   "items": [
+    {
+     "exercise": "hip-flexor-stretch-half-kneeling",
+     "dose": "30 s / side: kneel and stand with your uninjured hand on a bench (straight from the floor if you finished there)"
+    },
+    {
+     "exercise": "hamstring-stretch-bench",
+     "dose": "30 s / side, seated on the bench"
+    },
+    {
+     "exercise": "calf-stretch-wall",
+     "dose": "30 s / side, uninjured hand on the wall"
+    }
+   ],
+   "notes": "Kneeling, then seated, then standing: you rise once and never need your injured arm."
+  },
+  "warmup-short": {
+   "name": "Short warm-up: easy bike + standing mobility (8 min)",
+   "minutes": 8,
+   "items": [
+    {
+     "exercise": "bike-upright",
+     "dose": "3 min easy (Zone 1)"
+    },
+    {
+     "exercise": "ankle-knee-to-wall",
+     "dose": "10 / side"
+    },
+    {
+     "exercise": "hip-circles-standing",
+     "dose": "5 each way / side"
+    },
+    {
+     "exercise": "single-leg-balance",
+     "dose": "30 s / side (uninjured hand by a support)"
+    },
+    {
+     "exercise": "deep-squat-hold-box",
+     "dose": "60 s"
+    }
+   ],
+   "notes": "The standing half of your daily mobility, so there's no trip to the floor. Do the full routine later in the day if you can."
+  }
+ },
+ "rules": {
+  "progression": "Double progression. Each lift has a rep range (for example 8–12) and a target RIR (reps in reserve). Start around a load you could do for 15, then let double progression find your level within 2 sessions (on low-rep strength lifts such as 3 × 5, start around a load you could do for 10). Each session, try to add a rep or two at the same load. When every planned set reaches the top of the range at the target RIR with clean form, add the smallest step next session (leg press 10 kg, which is 5 kg a side; single-leg press 5 kg; machines and cables 2.5 kg or one plate; dumbbells 2 kg; barbell 2.5 kg, or 5 kg on deadlifts, RDLs and hip thrusts) and work back up from the bottom of the range. Fixed-rep lifts (3 × 5, 4 × 4–6): add load when every set stops at least 2 reps short of failure. Bodyweight moves: reps, then a slower tempo or a pause, then a harder version or your day pack (from Light use / rehab started). Machine leg work (leg press, leg extension, hamstring curl) may go to 1–2 reps in reserve from Phase 1 week 4; free-standing work and the single-leg press stay at 2–3. Timed holds and carries: add 5–10 s, then load. Cardio: follow the minutes in the plan; once they plateau, raise the level, incline or pace at the same zone. Hold, don't add: in deload weeks, on AMBER days and during a fasting period the hub shows 'Hold: same load, RIR 3–4', and no new lifts start during a fasting period. Arm pain rule for the injured arm: follow your physio's limit; if you weren't given one, keep pain at 2/10 or below during the exercise and back to your usual level by the next morning, and never train through pain that's increasing. Don't add load to anything the arm grumbled at last time. A grip-ladder rung (70%, 80%, 90%) counts only when your physio has measured it or OK'd the step.",
+  "deload": "Planned deloads come roughly every 5–6 weeks: Phase 1 week 5, Phase 2 week 3, Phase 3 weeks 3 and 9, Phase 4 weeks 5, 10 and 15, and Phase 5 week 5 (plus its taper and Mission weeks). While a phase repeats because you're waiting for a clearance, the repeat keeps one deload every 5–6 weeks (Phase 1 repeats weeks 4–8, Phase 3 weeks 7–12), and a new phase's 2-set intro week also works as a lighter week. Take one early if readiness is AMBER on 3 or more days in a week, or your main lifts drop two sessions running: the hub suggests it, and you decide. On a deload week the hub halves your sets (rounding up) and interval rounds, and this plan keeps every zone at Zone 2 that week; circuits shrink to 5–6 easy minutes, and the shorter cardio minutes are written into the plan. Keep the same exercises and loads ('Hold: same load, RIR 3–4'), stop each set 3–4 reps short, and keep walking and mobility daily. It's a recovery week, not a week off.",
+  "readiness": "Check in each morning (resting heart rate, sleep, energy, soreness, arm pain and arm flags); a weight on its own doesn't count as a check-in. RED — any arm red flag ticked, or arm pain 7/10 or more: stop. No training today, including your physio exercises, until you've been advised; contact your fracture clinic today, or NHS 111 / 999 as the red-flag guidance says. AMBER — any one of: morning resting HR at or above your 7-day average + 5 bpm (counted once you have 5 readings since you last changed how you measure it); sleep under 6 h; arm pain 4/10 or more; arm pain 2 or more points above its 7-day average (with at least 3 earlier readings); soreness 7/10 or more; energy 2/5 or less; or a day inside a fasting period you've set in Settings. AMBER means an easy day: halve the sets, Zone 2 only, no intervals, hold loads. Rising arm pain can be the red flag 'pain getting worse': if it keeps rising, or you're unsure, call your fracture clinic today. Fasting days: train after you've broken your fast if you can, stop at any dizziness or light-headedness, and no new lifts. GREEN — otherwise: train as planned. After training, dark (cola-coloured) urine with severe muscle pain or swelling needs same-day medical advice (possible rhabdomyolysis).",
+  "missed_sessions": "Never miss twice. Short on time? Do the 25-minute 'Short on time?' session instead of skipping. Gym closed or travelling? Do the 'Gym closed?' bodyweight session. Both count as a session done, not as the planned one. Missed a day: don't double up — just do today's session. If it was a strength day, you can do it on the next engine day instead (skip that engine session), as long as you don't train legs hard on two days in a row. Missed the long walk: add 15–20 minutes to your next engine session, or walk on your rest day if you feel fresh. Missed up to a week: repeat your last loads. One to two weeks off: drop loads about 10% and do 2 sets for the first week back. More than two weeks: drop loads about 20%, treat the first week as a deload, then build. Ill with symptoms only above the neck (runny nose, mild sore throat): an easy Zone 2 walk at most. Fever, chest symptoms, body aches or a stomach bug: rest, and restart 24–48 hours after symptoms clear with a deload-style week. The arm rules apply everywhere.",
+  "increments_kg": {
+   "leg-press": 10,
+   "leg-press-single": 5,
+   "calf-raise-leg-press": 10,
+   "barbell-deadlift": 5,
+   "barbell-rdl": 5,
+   "barbell-hip-thrust": 5,
+   "back-squat": 2.5,
+   "smith-squat": 2.5,
+   "sled-drag-forward-belt": 10,
+   "sled-drag-backward-belt": 10,
+   "sled-push": 10,
+   "farmer-carry": 2,
+   "machine": 2.5,
+   "cable": 2.5,
+   "dumbbell": 2,
+   "kettlebell": 4,
+   "barbell": 2.5,
+   "sandbag": 5,
+   "default": 2.5
+  }
+ }
+}

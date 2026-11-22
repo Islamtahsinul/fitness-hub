@@ -1,0 +1,40 @@
+/* Print: clean A4 pages in black ink. Used for the week sheet, guide chapters and clinic questions. */
+@page { size: A4 portrait; margin: 12mm 12mm 14mm; }
+
+html, body { background: #ffffff !important; color: #000000 !important; }
+body { font-size: 10.5pt; }
+:root { --paper: #ffffff; --sheet: #ffffff; --inset: #f3f3f3; --ink: #000000; --ink-2: #222222; --ink-3: #444444; --line: #bbbbbb; --line-strong: #888888; }
+
+.sidebar, .topbar, .scrim, .toasts, .rest-timer, .rest-dock, .tabbar, .skip-link, .no-print, .page-actions, .print-toolbar,
+.chart-foot, .chart-tip, .guide-aside, .search-box, .pager, .filters, .crumbs, .content-alert, .date-cal, .coach-action, dialog,
+.undo-slot, .alt-row, .updated-banner, .nav-top { display: none !important; }
+.main { padding-bottom: 0 !important; }
+.app { display: block !important; }
+.main { padding: 0 !important; }
+.page { max-width: none !important; }
+a { color: #000000; text-decoration: none; }
+.sheet, .block, .ex-card, .phase { border-color: #999999 !important; box-shadow: none !important; background: #ffffff !important; break-inside: avoid; }
+
+/* Week sheet */
+.pw { border: 0 !important; padding: 0 !important; max-width: none !important; font-size: 9.5pt; }
+.pw h1 { font-size: 16pt; }
+.pw-day { break-inside: avoid; page-break-inside: avoid; }
+.pw-box { height: 24px; width: 58px; }
+.pw-box-wide { width: 86px; }
+.pw-last { font-size: 8.5pt; color: #222222 !important; }
+.pw-goal { font-size: 8.5pt; font-weight: 600; color: #000000 !important; }
+.pw-block { grid-template-columns: minmax(170px, 1.3fr) minmax(0, 2fr) !important; }
+
+/* Guide chapters */
+.prose { max-width: none !important; font-size: 11pt; line-height: 1.5; }
+.prose h1 { font-size: 22pt; }
+.prose h2 { font-size: 15pt; margin-top: 18pt; break-after: avoid; }
+.prose h3, .prose h4 { break-after: avoid; }
+.prose a.ext::after { content: " (" attr(href) ")"; font-size: 8.5pt; color: #444444; word-break: break-all; }
+.prose .callout, .prose table, .prose pre { break-inside: avoid; }
+.callout { background: #ffffff !important; border: 1px solid #888888 !important; border-left: 4px solid #000000 !important; }
+
+/* Print only one part of a page (e.g. clinic questions) */
+body.print-target-only .main .page > *:not(.print-target) { display: none !important; }
+body.print-target-only .print-target { margin: 0 !important; }
+body.print-target-only .print-target .input { border: 0 !important; border-bottom: 1px solid #888888 !important; border-radius: 0 !important; min-height: 26px; }

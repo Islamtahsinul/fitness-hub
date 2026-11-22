@@ -1,0 +1,1120 @@
+[
+ {
+  "id": "leg-press",
+  "name": "Leg press",
+  "category": "squat",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "leg press machine"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors"
+  ],
+  "why": "Leg press builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [
+   "box-squat-bw"
+  ],
+  "progressions": [
+   "leg-press-single"
+  ],
+  "dose": "3 × 8–12, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=leg+press+form"
+ },
+ {
+  "id": "leg-press-single",
+  "name": "Single-leg leg press",
+  "category": "single-leg",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "leg press machine"
+  ],
+  "muscles": [
+   "quads",
+   "glutes"
+  ],
+  "why": "Single-leg leg press builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [
+   "leg-press"
+  ],
+  "progressions": [],
+  "dose": "3 × 10–12 / side",
+  "video": "https://www.youtube.com/results?search_query=single-leg+leg+press+form"
+ },
+ {
+  "id": "box-squat-bw",
+  "name": "Box squat (bodyweight)",
+  "category": "squat",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "bench"
+  ],
+  "muscles": [
+   "quads",
+   "glutes"
+  ],
+  "why": "Box squat (bodyweight) builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [
+   "leg-press",
+   "goblet-squat"
+  ],
+  "dose": "3 × 5",
+  "video": "https://www.youtube.com/results?search_query=box+squat+(bodyweight)+form"
+ },
+ {
+  "id": "split-squat-bw",
+  "name": "Split squat (bodyweight)",
+  "category": "single-leg",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "rack for balance"
+  ],
+  "muscles": [
+   "quads",
+   "glutes"
+  ],
+  "why": "Split squat (bodyweight) builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [
+   "box-squat-bw"
+  ],
+  "progressions": [],
+  "dose": "3 × 8–10 / side",
+  "video": "https://www.youtube.com/results?search_query=split+squat+(bodyweight)+form"
+ },
+ {
+  "id": "step-up-bw",
+  "name": "Step-up (bodyweight)",
+  "category": "single-leg",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "step",
+   "bench"
+  ],
+  "muscles": [
+   "quads",
+   "glutes"
+  ],
+  "why": "Step-up (bodyweight) builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 8 / side",
+  "video": "https://www.youtube.com/results?search_query=step-up+(bodyweight)+form"
+ },
+ {
+  "id": "hamstring-curl",
+  "name": "Hamstring curl",
+  "category": "hinge",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "hamstring curl machine"
+  ],
+  "muscles": [
+   "hamstrings"
+  ],
+  "why": "Hamstring curl builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 8–12",
+  "video": "https://www.youtube.com/results?search_query=hamstring+curl+form"
+ },
+ {
+  "id": "leg-extension",
+  "name": "Leg extension",
+  "category": "knee-ankle",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "leg extension machine"
+  ],
+  "muscles": [
+   "quads"
+  ],
+  "why": "Leg extension builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "2 × 12–15",
+  "video": "https://www.youtube.com/results?search_query=leg+extension+form"
+ },
+ {
+  "id": "glute-bridge",
+  "name": "Glute bridge",
+  "category": "hip",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "why": "Glute bridge builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 12",
+  "video": "https://www.youtube.com/results?search_query=glute+bridge+form"
+ },
+ {
+  "id": "single-leg-rdl-bw",
+  "name": "Single-leg RDL (bodyweight)",
+  "category": "hinge",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "rack for balance"
+  ],
+  "muscles": [
+   "hamstrings",
+   "glutes"
+  ],
+  "why": "Single-leg RDL (bodyweight) builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 6 / side",
+  "video": "https://www.youtube.com/results?search_query=single-leg+rdl+(bodyweight)+form"
+ },
+ {
+  "id": "wall-sit",
+  "name": "Wall sit",
+  "category": "squat",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "wall"
+  ],
+  "muscles": [
+   "quads"
+  ],
+  "why": "Wall sit builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "2 × 30–60 s",
+  "video": "https://www.youtube.com/results?search_query=wall+sit+form"
+ },
+ {
+  "id": "tibialis-raise-wall",
+  "name": "Tibialis raise (back to wall)",
+  "category": "calves",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "wall"
+  ],
+  "muscles": [
+   "tibialis anterior"
+  ],
+  "why": "Tibialis raise (back to wall) builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "2 × 15–20",
+  "video": "https://www.youtube.com/results?search_query=tibialis+raise+(back+to+wall)+form"
+ },
+ {
+  "id": "calf-raise-leg-press",
+  "name": "Calf raise on the leg press",
+  "category": "calves",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "leg press machine"
+  ],
+  "muscles": [
+   "calves"
+  ],
+  "why": "Calf raise on the leg press builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 12–15",
+  "video": "https://www.youtube.com/results?search_query=calf+raise+on+the+leg+press+form"
+ },
+ {
+  "id": "dead-bug-legs",
+  "name": "Dead bug (legs only)",
+  "category": "core",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat"
+  ],
+  "muscles": [
+   "deep core"
+  ],
+  "why": "Dead bug (legs only) builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 6 / side",
+  "video": "https://www.youtube.com/results?search_query=dead+bug+(legs+only)+form"
+ },
+ {
+  "id": "single-leg-balance",
+  "name": "Single-leg balance",
+  "category": "balance",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "rack for support"
+  ],
+  "muscles": [
+   "ankle",
+   "hip"
+  ],
+  "why": "Single-leg balance builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 30 s / side",
+  "video": "https://www.youtube.com/results?search_query=single-leg+balance+form"
+ },
+ {
+  "id": "breathing-90-90",
+  "name": "90/90 breathing",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "bench"
+  ],
+  "muscles": [
+   "diaphragm"
+  ],
+  "why": "90/90 breathing builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "5 slow breaths",
+  "video": "https://www.youtube.com/results?search_query=90/90+breathing+form"
+ },
+ {
+  "id": "ankle-knee-to-wall",
+  "name": "Ankle knee-to-wall",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "wall"
+  ],
+  "muscles": [
+   "ankle"
+  ],
+  "why": "Ankle knee-to-wall builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "10 / side",
+  "video": "https://www.youtube.com/results?search_query=ankle+knee-to-wall+form"
+ },
+ {
+  "id": "hip-90-90-switch",
+  "name": "90/90 hip switch",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat"
+  ],
+  "muscles": [
+   "hips"
+  ],
+  "why": "90/90 hip switch builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "8 switches",
+  "video": "https://www.youtube.com/results?search_query=90/90+hip+switch+form"
+ },
+ {
+  "id": "couch-stretch",
+  "name": "Couch stretch",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "bench",
+   "mat"
+  ],
+  "muscles": [
+   "hip flexors",
+   "quads"
+  ],
+  "why": "Couch stretch builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "45 s / side",
+  "video": "https://www.youtube.com/results?search_query=couch+stretch+form"
+ },
+ {
+  "id": "deep-squat-hold-box",
+  "name": "Deep squat hold (to a box)",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "box"
+  ],
+  "muscles": [
+   "hips",
+   "ankles"
+  ],
+  "why": "Deep squat hold (to a box) builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "60 s",
+  "video": "https://www.youtube.com/results?search_query=deep+squat+hold+(to+a+box)+form"
+ },
+ {
+  "id": "hip-circles-standing",
+  "name": "Standing hip circles",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "rack for support"
+  ],
+  "muscles": [
+   "hips"
+  ],
+  "why": "Standing hip circles builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "5 each way / side",
+  "video": "https://www.youtube.com/results?search_query=standing+hip+circles+form"
+ },
+ {
+  "id": "thoracic-rotation-seated",
+  "name": "Seated thoracic rotation",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "bench"
+  ],
+  "muscles": [
+   "upper back"
+  ],
+  "why": "Seated thoracic rotation builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "8 / side",
+  "video": "https://www.youtube.com/results?search_query=seated+thoracic+rotation+form"
+ },
+ {
+  "id": "stair-climber",
+  "name": "Stair climber",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "stair climber"
+  ],
+  "muscles": [
+   "legs",
+   "heart"
+  ],
+  "why": "Stair climber builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "20–30 min Zone 2",
+  "video": "https://www.youtube.com/results?search_query=stair+climber+form"
+ },
+ {
+  "id": "incline-walk",
+  "name": "Incline treadmill walk",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "treadmill"
+  ],
+  "muscles": [
+   "legs",
+   "heart"
+  ],
+  "why": "Incline treadmill walk builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "30–45 min Zone 2",
+  "video": "https://www.youtube.com/results?search_query=incline+treadmill+walk+form"
+ },
+ {
+  "id": "bike-upright",
+  "name": "Upright bike",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "bike"
+  ],
+  "muscles": [
+   "legs",
+   "heart"
+  ],
+  "why": "Upright bike builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "20–40 min",
+  "video": "https://www.youtube.com/results?search_query=upright+bike+form"
+ },
+ {
+  "id": "walk-outdoor",
+  "name": "Outdoor walk",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [],
+  "muscles": [
+   "legs",
+   "heart"
+  ],
+  "why": "Outdoor walk builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "30–90 min",
+  "video": "https://www.youtube.com/results?search_query=outdoor+walk+form"
+ },
+ {
+  "id": "hollow-hold-tuck",
+  "name": "Tucked hollow hold",
+  "category": "core",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat"
+  ],
+  "muscles": [
+   "deep core"
+  ],
+  "why": "Tucked hollow hold builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 20–30 s",
+  "video": "https://www.youtube.com/results?search_query=tucked+hollow+hold+form"
+ },
+ {
+  "id": "sled-drag-forward-belt",
+  "name": "Sled drag forwards (belt)",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "sled",
+   "waist belt"
+  ],
+  "muscles": [
+   "legs"
+  ],
+  "why": "Sled drag forwards (belt) builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "6 × 20 m",
+  "video": "https://www.youtube.com/results?search_query=sled+drag+forwards+(belt)+form"
+ },
+ {
+  "id": "sled-drag-backward-belt",
+  "name": "Sled drag backwards (belt)",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "sled",
+   "waist belt"
+  ],
+  "muscles": [
+   "quads"
+  ],
+  "why": "Sled drag backwards (belt) builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "6 × 20 m",
+  "video": "https://www.youtube.com/results?search_query=sled+drag+backwards+(belt)+form"
+ },
+ {
+  "id": "ga-cable-row",
+  "name": "Good-arm cable row",
+  "category": "pull",
+  "gate": "good_arm_ok",
+  "arm_use": "good-arm",
+  "fall_risk": "low",
+  "equipment": [
+   "cable machine"
+  ],
+  "muscles": [
+   "lats",
+   "upper back"
+  ],
+  "why": "Good-arm cable row builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 10–12",
+  "video": "https://www.youtube.com/results?search_query=good-arm+cable+row+form"
+ },
+ {
+  "id": "ga-chest-press-machine",
+  "name": "Good-arm chest press",
+  "category": "push",
+  "gate": "good_arm_ok",
+  "arm_use": "good-arm",
+  "fall_risk": "low",
+  "equipment": [
+   "chest press machine"
+  ],
+  "muscles": [
+   "chest",
+   "triceps"
+  ],
+  "why": "Good-arm chest press builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3 × 10–12",
+  "video": "https://www.youtube.com/results?search_query=good-arm+chest+press+form"
+ },
+ {
+  "id": "rehab-finger-tendon-glides",
+  "name": "Finger tendon glides",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [],
+  "muscles": [
+   "forearm"
+  ],
+  "why": "Finger tendon glides builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "As prescribed by your physio",
+  "video": "https://www.youtube.com/results?search_query=finger+tendon+glides+form"
+ },
+ {
+  "id": "rehab-putty-grip",
+  "name": "Putty grip",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "putty"
+  ],
+  "muscles": [
+   "forearm"
+  ],
+  "why": "Putty grip builds the strength you need for long hikes and carrying.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "As prescribed by your physio",
+  "video": "https://www.youtube.com/results?search_query=putty+grip+form"
+ },
+ {
+  "id": "x-physio-programme",
+  "name": "Your physio's programme",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [],
+  "muscles": [
+   "forearm",
+   "wrist",
+   "hand"
+  ],
+  "why": "A placeholder for the exercises your physio gives you, done exactly as prescribed.",
+  "setup": [
+   "Set the machine or space up with your good hand.",
+   "Get into position without using the injured arm."
+  ],
+  "cues": [
+   "Brace gently and breathe out on the effort.",
+   "Move slowly: three seconds down.",
+   "Stop two to three reps before failure."
+  ],
+  "mistakes": [
+   "Rushing the lowering: count three seconds.",
+   "Holding your breath: exhale as you push."
+  ],
+  "arm_safety": "Keep the injured arm across your stomach. Ask staff for help with anything that needs two hands.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "As prescribed by your physio",
+  "video": "https://www.youtube.com/results?search_query=your+physio's+programme+form"
+ }
+]

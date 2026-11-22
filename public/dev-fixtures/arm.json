@@ -1,0 +1,181 @@
+{
+ "red_flags": [
+  {
+   "id": "pain_increasing",
+   "label": "Pain getting worse, not better",
+   "action": "Contact the fracture clinic today."
+  },
+  {
+   "id": "swelling_new",
+   "label": "New or increasing swelling",
+   "action": "Raise the arm and contact the clinic."
+  },
+  {
+   "id": "redness_heat",
+   "label": "Redness or heat around the wound",
+   "action": "Possible infection: NHS 111 today."
+  },
+  {
+   "id": "wound_discharge",
+   "label": "Wound leaking or smelling",
+   "action": "NHS 111 or the clinic today."
+  },
+  {
+   "id": "fever_unwell",
+   "label": "Fever or feeling unwell",
+   "action": "Call NHS 111."
+  },
+  {
+   "id": "numbness_tingling",
+   "label": "New numbness or tingling",
+   "action": "Contact the clinic today."
+  },
+  {
+   "id": "colour_cold",
+   "label": "Hand pale, blue or cold",
+   "action": "Urgent: 999 or A&E."
+  },
+  {
+   "id": "deformity_give",
+   "label": "New bend or giving way",
+   "action": "Stop and get it checked."
+  },
+  {
+   "id": "fall_on_arm",
+   "label": "Fell on the arm",
+   "action": "Contact the clinic or NHS 111."
+  }
+ ],
+ "clinic_questions": [
+  {
+   "topic": "Healing",
+   "question": "Is the bone united on the X-ray?",
+   "why": "Decides when loading can start."
+  },
+  {
+   "topic": "Healing",
+   "question": "Are there plates, screws or a fixator, and do they change anything?",
+   "why": "Hardware can change the plan."
+  },
+  {
+   "topic": "Training",
+   "question": "Can I train my good arm normally now?",
+   "why": "Unlocks the good-arm gate."
+  },
+  {
+   "topic": "Training",
+   "question": "When can I grip, carry and push through the hand?",
+   "why": "Unlocks grip and full clearance."
+  },
+  {
+   "topic": "Physio",
+   "question": "Can you refer me to physio, and how soon?",
+   "why": "Rehab drives the timeline."
+  }
+ ],
+ "healing_stages": [
+  {
+   "stage": "Inflammation",
+   "typical_timing": "Days 1–7",
+   "what_happens": "A clot forms and the body cleans up.",
+   "training_implications": "Protect the arm; walk."
+  },
+  {
+   "stage": "Soft callus",
+   "typical_timing": "Weeks 2–6",
+   "what_happens": "Cartilage bridges the gap.",
+   "training_implications": "Lower body only."
+  },
+  {
+   "stage": "Hard callus",
+   "typical_timing": "Weeks 6–12+",
+   "what_happens": "Woven bone forms.",
+   "training_implications": "Physio-led light use."
+  },
+  {
+   "stage": "Remodelling",
+   "typical_timing": "Months to years",
+   "what_happens": "Bone reshapes to the loads it sees.",
+   "training_implications": "Graded return to heavy loads."
+  }
+ ],
+ "measurements": [
+  {
+   "id": "pain_rest",
+   "name": "Pain at rest",
+   "unit": "/10",
+   "how": "0 is none, 10 is the worst imaginable.",
+   "reference": ""
+  },
+  {
+   "id": "pain_activity",
+   "name": "Pain with activity",
+   "unit": "/10",
+   "how": "During daily tasks.",
+   "reference": ""
+  },
+  {
+   "id": "pain_night",
+   "name": "Pain at night",
+   "unit": "/10",
+   "how": "Worst pain last night.",
+   "reference": ""
+  },
+  {
+   "id": "grip_injured_kg",
+   "name": "Grip, injured hand",
+   "unit": "kg",
+   "how": "Only once your physio says so.",
+   "reference": ""
+  },
+  {
+   "id": "grip_good_kg",
+   "name": "Grip, good hand",
+   "unit": "kg",
+   "how": "Dynamometer, best of three.",
+   "reference": ""
+  },
+  {
+   "id": "wrist_flex_deg",
+   "name": "Wrist flexion",
+   "unit": "°",
+   "how": "As measured by your physio.",
+   "reference": "Typical 60–80°"
+  },
+  {
+   "id": "wrist_ext_deg",
+   "name": "Wrist extension",
+   "unit": "°",
+   "how": "As measured by your physio.",
+   "reference": "Typical 60–70°"
+  },
+  {
+   "id": "pronation_deg",
+   "name": "Pronation",
+   "unit": "°",
+   "how": "Palm down.",
+   "reference": "Typical 80–90°"
+  },
+  {
+   "id": "supination_deg",
+   "name": "Supination",
+   "unit": "°",
+   "how": "Palm up.",
+   "reference": "Typical 80–90°"
+  },
+  {
+   "id": "swelling_score",
+   "name": "Swelling",
+   "unit": "0–3",
+   "how": "0 none, 3 severe.",
+   "reference": ""
+  }
+ ],
+ "appointments_default": [
+  {
+   "date": null,
+   "type": "Fracture clinic",
+   "notes": ""
+  }
+ ]
+}

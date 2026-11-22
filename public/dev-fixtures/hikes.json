@@ -1,0 +1,226 @@
+{
+ "ladder": [
+  {
+   "level": 1,
+   "name": "Park loop",
+   "description": "Flat, firm paths. Learn your pace.",
+   "gate": "none",
+   "criteria": {
+    "distance_km": 5,
+    "ascent_m": 0,
+    "pack_kg": 0,
+    "terrain": "tarmac and gravel"
+   },
+   "examples": [
+    {
+     "name": "Riverside park loop",
+     "region": "Any town",
+     "distance_km": 5,
+     "ascent_m": null,
+     "terrain": "tarmac"
+    },
+    {
+     "name": "Local park circuit",
+     "region": "Anywhere",
+     "distance_km": 5,
+     "ascent_m": null,
+     "terrain": "tarmac"
+    }
+   ]
+  },
+  {
+   "level": 2,
+   "name": "Canal towpath",
+   "description": "Longer and flat.",
+   "gate": "none",
+   "criteria": {
+    "distance_km": 10,
+    "ascent_m": 100,
+    "pack_kg": 0,
+    "terrain": "good paths"
+   },
+   "examples": [
+    {
+     "name": "Canal towpath",
+     "region": "Midlands",
+     "distance_km": 12,
+     "ascent_m": 40,
+     "terrain": "towpath",
+     "url": "https://canalrivertrust.org.uk/"
+    }
+   ]
+  },
+  {
+   "level": 3,
+   "name": "Rolling downs",
+   "description": "Gentle hills, firm tracks.",
+   "gate": "clinic_light",
+   "criteria": {
+    "distance_km": 14,
+    "ascent_m": 300,
+    "pack_kg": 4,
+    "terrain": "chalk tracks"
+   },
+   "examples": [
+    {
+     "name": "South Downs Way section",
+     "region": "Sussex",
+     "distance_km": 14,
+     "ascent_m": 320,
+     "terrain": "chalk",
+     "url": null
+    }
+   ]
+  },
+  {
+   "level": 4,
+   "name": "First fell",
+   "description": "Rough ground and real climbs.",
+   "gate": "full_clearance",
+   "criteria": {
+    "distance_km": 16,
+    "ascent_m": 800,
+    "pack_kg": 7,
+    "terrain": "rocky paths"
+   },
+   "examples": []
+  }
+ ],
+ "kit": [
+  {
+   "item": "Walking boots or trail shoes",
+   "category": "footwear",
+   "essential": true,
+   "notes": "Broken in before long walks."
+  },
+  {
+   "item": "Wool socks",
+   "category": "footwear",
+   "essential": true,
+   "notes": ""
+  },
+  {
+   "item": "Waterproof jacket",
+   "category": "clothing",
+   "essential": true,
+   "notes": "Taped seams."
+  },
+  {
+   "item": "Warm layer",
+   "category": "clothing",
+   "essential": true,
+   "notes": ""
+  },
+  {
+   "item": "20–30 L daypack",
+   "category": "pack",
+   "essential": true,
+   "notes": "Hip belt takes the load."
+  },
+  {
+   "item": "OS Maps app",
+   "category": "navigation",
+   "essential": true,
+   "notes": "Download maps offline."
+  },
+  {
+   "item": "Paper map and compass",
+   "category": "navigation",
+   "essential": false,
+   "notes": ""
+  },
+  {
+   "item": "First-aid kit",
+   "category": "safety",
+   "essential": true,
+   "notes": ""
+  },
+  {
+   "item": "Head torch",
+   "category": "safety",
+   "essential": true,
+   "notes": ""
+  },
+  {
+   "item": "Water bottles",
+   "category": "food-water",
+   "essential": true,
+   "notes": "1 L per 2 hours."
+  },
+  {
+   "item": "Walking poles",
+   "category": "other",
+   "essential": false,
+   "notes": "Good hand only until cleared."
+  }
+ ],
+ "weekend_plan": [
+  {
+   "week_start": "2025-11-17",
+   "name": "Local park outer loop",
+   "minutes": 45,
+   "level": 1,
+   "notes": "Daylight, flat, tarmac. Waist pack only.",
+   "url": null
+  },
+  {
+   "week_start": "2025-11-24",
+   "name": "Canal towpath, out and back from the nearest lock",
+   "minutes": 50,
+   "level": 2,
+   "notes": "Firm towpath; keep to the inside away from the edge.",
+   "url": "https://canalrivertrust.org.uk/"
+  },
+  {
+   "week_start": "2025-12-01",
+   "name": "Country park gravel trail (part)",
+   "minutes": 60,
+   "level": 2,
+   "notes": "Gravel trail. Daylight only.",
+   "url": null
+  },
+  {
+   "program_week": 7,
+   "name": "Riverside towpath, station to station",
+   "minutes": 70,
+   "level": 2,
+   "notes": "Programme week 7. Flat towpath; a train or bus back.",
+   "url": "https://canalrivertrust.org.uk/"
+  },
+  {
+   "program_week": 8,
+   "week_start": "2026-03-02",
+   "name": "Forest tracks from the station",
+   "minutes": 80,
+   "level": 2,
+   "notes": "Programme week 8 (program_week wins over week_start). Stay on the wide tracks.",
+   "url": null
+  }
+ ],
+ "terrain_skills": [
+  {
+   "terrain": "good paths",
+   "technique": [
+    "Short steps uphill",
+    "Soft knees downhill"
+   ],
+   "gate": "none"
+  },
+  {
+   "terrain": "wet grass",
+   "technique": [
+    "Shorter strides",
+    "Avoid until cleared if slippery"
+   ],
+   "gate": "clinic_light"
+  },
+  {
+   "terrain": "scree",
+   "technique": [
+    "Face the slope",
+    "Test each step"
+   ],
+   "gate": "full_clearance"
+  }
+ ]
+}

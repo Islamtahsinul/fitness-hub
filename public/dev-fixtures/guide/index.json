@@ -1,0 +1,31 @@
+{
+ "title": "The Functional Fitness Guide (fixture)",
+ "parts": [
+  {
+   "title": "Part 1 — Foundations",
+   "chapters": [
+    {
+     "file": "00-start-here.md",
+     "title": "Start Here"
+    },
+    {
+     "file": "01-assessment-and-goals.md",
+     "title": "Your Assessment & Goals"
+    }
+   ]
+  },
+  {
+   "title": "Part 2 — Training",
+   "chapters": [
+    {
+     "file": "03-training-principles.md",
+     "title": "Training Principles"
+    },
+    {
+     "file": "04-the-program.md",
+     "title": "The Program"
+    }
+   ]
+  }
+ ]
+}

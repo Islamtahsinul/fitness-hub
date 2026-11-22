@@ -1,0 +1,3356 @@
+[
+ {
+  "id": "leg-press",
+  "name": "Leg press",
+  "category": "squat",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "45° plate-loaded leg press with adjustable bottom stops",
+   "plates (loaded by staff; from Good arm OK your uninjured hand loads plates of 10 kg or less)"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors",
+   "hamstrings"
+  ],
+  "why": "Your main leg muscle-builder while the arm heals. The machine supports your back and needs no balance or hands, so you can train your biggest muscles hard and safely: that's where most of the muscle you regain first will come from, and strong quads and glutes carry you up (and, more importantly, down) long hills.",
+  "setup": [
+   "Once, before your first session: ask staff to set the bottom safety stops at your bottom position (knees bent about 90°, lower back still flat on the pad) and to leave the top catches released. Note the hole number in your session notes.",
+   "Staff load the plates evenly. From Good arm OK, your uninjured hand may load and unload plates of 10 kg or less, one at a time, close to your body; staff do anything heavier.",
+   "Sit right back into the seat while the sled rests on the stops. Feet hip-width in the middle of the platform, toes turned out slightly.",
+   "Injured arm across your stomach, never on your thighs, a handle or a catch. Your uninjured hand takes the side handle only when you stand up.",
+   "Ramp-up: 10 easy box squats, so the plates don't change (from Phase 2a, lighter ramp-up sets on the press instead).",
+   "Log the plates you added (both sides together), the same way every time; note the sled's own weight once if it's posted."
+  ],
+  "cues": [
+   "Press from the stops through your whole foot; heels stay down",
+   "Knees track over your second and third toes",
+   "Lower for 3 s until the sled just touches the stops, pause 1 s without relaxing",
+   "Breathe out as you push; no breath-holding",
+   "Stop just short of locking your knees"
+  ],
+  "mistakes": [
+   "Stops set so deep that your hips curl up and your lower back peels off the pad: raise them one hole.",
+   "Dropping the sled onto the stops and resting there between reps: touch lightly and keep the tension.",
+   "Knees caving inwards: slow down, push the knees out over the toes and take a little weight off.",
+   "Snapping the knees straight at the top: keep a soft knee so the muscles stay working."
+  ],
+  "arm_safety": "On a 45° plate-loaded sled you use a dead start and never touch the catches: the sled rests on the bottom stops, which staff set once at your bottom position, and every set starts and finishes on them. Staff load and unload the plates until Good arm OK is set; after that your uninjured hand may load plates of 10 kg or less, one at a time, and staff do anything heavier. Getting in: sit down using your legs only, then slide back into the seat. Getting out: set the sled on the stops, put your feet down one at a time and stand up with your uninjured hand on the side handle. Injured arm across your stomach (or in its sling if you still wear one), hand relaxed: never hands on your thighs, and never the injured hand on a handle. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you catch yourself bracing with it.",
+  "regressions": [
+   "box-squat-bw"
+  ],
+  "progressions": [
+   "leg-press-single"
+  ],
+  "dose": "3 × 8–12, RIR 2–3 (1–2 from Phase 1 week 4), 3-s lowering; start around a load you could do for 15",
+  "video": "https://www.youtube.com/results?search_query=leg+press+form+jeremy+ethier"
+ },
+ {
+  "id": "leg-press-single",
+  "name": "Single-leg leg press",
+  "category": "single-leg",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "45° plate-loaded leg press with adjustable bottom stops",
+   "plates (loaded by staff; from Good arm OK your uninjured hand loads plates of 10 kg or less)"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors",
+   "hamstrings"
+  ],
+  "why": "Hiking is thousands of single-leg efforts in a row. This trains each leg on its own with no balance demand, so you can find and fix a weaker side and build single-leg strength safely before harder free-standing single-leg work.",
+  "setup": [
+   "Same stops as the two-leg press: the sled rests on them between sets.",
+   "Load about 40–50% of your two-leg working weight: staff, or (from Good arm OK) your uninjured hand for plates of 10 kg or less.",
+   "Place one foot in the middle of the platform, in line with your hip. Rest the other foot on the frame or footrest, not dangling and not on the platform.",
+   "Injured arm across your stomach, never hands on your thighs; uninjured hand on the side handle when you stand up."
+  ],
+  "cues": [
+   "Hips square, both sides of your bottom on the seat",
+   "Knee tracks over the middle toes",
+   "Lower under control until the sled just touches the stops",
+   "Breathe out as you push",
+   "Start with your weaker leg and match the reps on the other"
+  ],
+  "mistakes": [
+   "Pelvis twisting or one hip lifting: reduce the range and the load.",
+   "Too heavy, so the knee caves in: drop the weight until the knee stays in line with the toes.",
+   "Rushing the second leg: rest 30–60 s between sides so both get quality work."
+  ],
+  "arm_safety": "Exactly as for the leg press: a dead start from the bottom stops, no catches, legs-only entry, and your uninjured hand on the side handle to stand up. The stops matter even more here, because one leg can fail suddenly, so use a load you could clearly do 2–3 more reps with. Injured arm across your stomach (or in its sling if you still wear one), hand relaxed. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you catch yourself bracing with it.",
+  "regressions": [
+   "leg-press"
+  ],
+  "progressions": [
+   "rfe-split-squat-bw",
+   "db-bulgarian-split-squat"
+  ],
+  "dose": "3 × 10–15 per leg, RIR 2–3, about 30 s between legs",
+  "video": "https://www.youtube.com/results?search_query=single+leg+leg+press+form+jeff+nippard"
+ },
+ {
+  "id": "calf-raise-leg-press",
+  "name": "Calf raise on the leg press",
+  "category": "calves",
+  "gate": "grip_cleared",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "leg press machine"
+  ],
+  "muscles": [
+   "calves (gastrocnemius)",
+   "soleus"
+  ],
+  "why": "Your calves push you up every step of every hill and absorb the load on the way down, and this loads them heavily with no balance demand. On a plate-loaded 45° sled it needs the catches, so your plan uses single-leg calf raises instead; it becomes an option after grip clearance.",
+  "setup": [
+   "After grip clearance only, on a 45° sled: sit back with your legs almost straight and a soft, unlocked knee.",
+   "Put the balls of your feet on the bottom edge of the platform, heels hanging off, feet hip-width.",
+   "Keep the safety catches engaged if the machine allows calf work with them on; start light and ask staff to show you."
+  ],
+  "cues": [
+   "Lower until you feel a deep calf stretch and pause 1–2 s",
+   "Press up through the big toe to full tiptoe and squeeze 1 s",
+   "Knees stay soft and still; only the ankles move",
+   "Steady breathing, no bouncing"
+  ],
+  "mistakes": [
+   "Bouncing half reps: slow down and use the full range with a pause at the bottom.",
+   "Bending and straightening the knees to help: keep the knee angle fixed and use less weight.",
+   "Feet creeping down the platform so they slide: keep the balls of the feet firmly on the edge and recheck between sets."
+  ],
+  "arm_safety": "Locked until grip clearance and not in your plan. Calf raises need your legs almost straight, so the dead-start stops can't catch the sled; you'd be relying on the catches, and those take both hands. After grip clearance, with both hands on the catch handles: catches engaged if the machine allows calf work with them on, grippy shoes, start light, and stop the set the moment your feet start to slide. Never grab at the platform.",
+  "regressions": [],
+  "progressions": [
+   "calf-raise-single-bw"
+  ],
+  "dose": "3 × 12–15, 1–2 s pause in the stretch, RIR 2 (after grip clearance)",
+  "video": "https://www.youtube.com/results?search_query=calf+raise+on+leg+press+form+jeremy+ethier"
+ },
+ {
+  "id": "leg-extension",
+  "name": "Leg extension",
+  "category": "knee-ankle",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "leg extension machine"
+  ],
+  "muscles": [
+   "quads"
+  ],
+  "why": "Long descents hammer the front of the knee, and strong quads are your knee armour. The leg extension isolates the quads with your back supported and no balance demand, and it adds muscle to the biggest part of your thigh.",
+  "setup": [
+   "Adjust the backrest so your knee joint lines up with the machine's pivot (usually marked with a dot).",
+   "Set the shin pad on the front of your lower shin, just above the ankles.",
+   "Set the start angle so your knees bend to about 90°, deeper only if it's comfortable.",
+   "Sit tall with your uninjured hand lightly on the side handle and your injured arm resting on your thigh or across your stomach."
+  ],
+  "cues": [
+   "Straighten the knees smoothly; no kicking",
+   "Squeeze your thighs hard for 1 s at the top",
+   "Lower for 3 s",
+   "Breathe out as you lift",
+   "Keep your bottom on the seat"
+  ],
+  "mistakes": [
+   "Swinging the weight up: reduce the load and pause at the top.",
+   "Knee not lined up with the pivot, so the pad slides up the shin: adjust the backrest before the first set.",
+   "Hips lifting off the seat: lower the load and sit back into the pad."
+  ],
+  "arm_safety": "Getting in: sit on the seat first, then swing your legs under the shin pad one at a time. Adjust the backrest, the shin pad and the weight pin with your uninjured hand (ask staff if a pin is stiff). Getting out: lift your legs out from under the pad one at a time and stand up using your legs. Arm: on your thigh or across your stomach (or in its sling if you still wear one), hand relaxed, not gripping the seat. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you catch yourself bracing with it; also stop if you feel sharp pain at the front of the knee.",
+  "regressions": [
+   "wall-sit"
+  ],
+  "progressions": [],
+  "dose": "3 × 10–15, RIR 2–3 (1–2 from Phase 1 week 4), 1-s squeeze, 2–3-s lowering",
+  "video": "https://www.youtube.com/results?search_query=leg+extension+form+jeff+nippard",
+  "source": "https://www.orthoinfo.org/en/recovery/knee-conditioning-program/"
+ },
+ {
+  "id": "hamstring-curl",
+  "name": "Hamstring curl (seated machine preferred)",
+  "category": "knee-ankle",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "hamstring curl machine"
+  ],
+  "muscles": [
+   "hamstrings",
+   "calves (gastrocnemius)"
+  ],
+  "why": "Strong hamstrings balance your quads, protect your knees and control your stride on descents. The seated curl trains them through a long range with your back supported, and you can get in and out with one hand.",
+  "setup": [
+   "Use the seated version if your gym has both; the lying version means getting on and off face down.",
+   "Adjust the backrest so your knees line up with the machine's pivot.",
+   "Set the lower pad on the back of your lower calves, just above the heels.",
+   "Lower the thigh pad onto your thighs with your uninjured hand so your legs are pinned snugly.",
+   "Sit tall, uninjured hand on the handle, injured arm across your stomach."
+  ],
+  "cues": [
+   "Pull your heels down and back under the seat",
+   "Squeeze for 1 s at the end of the curl",
+   "Return for 3 s until your legs are nearly straight",
+   "Hips and back stay still against the pad",
+   "Breathe out as you curl"
+  ],
+  "mistakes": [
+   "Lifting the hips or arching to finish a rep: lighten the load and tighten the thigh pad.",
+   "Cutting the range short: let the legs straighten almost fully, under control, every rep.",
+   "Letting the stack slam down: slow, 3-second returns."
+  ],
+  "arm_safety": "Seated curl: sit down using your legs, put your heels on the pad, then lower the thigh pad with your uninjured hand (ask staff if the lever needs two hands); to get out, lift the thigh pad with your uninjured hand, slide your legs out and stand using your legs. Lying curl: kneel onto the pad from the foot end, then lower your chest onto it with your uninjured hand on the front handle; to get off, slide backwards feet-first until your feet reach the floor, then stand up. Never press up through your injured arm or rest your head on it. Arm: across your stomach when seated, or resting on the pad beside your head when lying (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you catch yourself bracing with it.",
+  "regressions": [
+   "glute-bridge"
+  ],
+  "progressions": [
+   "single-leg-rdl-bw",
+   "nordic-curl-assisted"
+  ],
+  "dose": "3 × 8–12, RIR 2–3 (1–2 from Phase 1 week 4), 3-s lowering",
+  "video": "https://www.youtube.com/results?search_query=seated+leg+curl+form+jeff+nippard",
+  "source": "https://www.orthoinfo.org/en/recovery/knee-conditioning-program/"
+ },
+ {
+  "id": "box-squat-bw",
+  "name": "Box squat (bodyweight)",
+  "category": "squat",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "bench or box about knee height"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors",
+   "core"
+  ],
+  "why": "The squat is the most functional pattern you own: standing up from a chair, from the floor, from a rest on a hillside. Squatting to a box teaches you to sit back with control, Pavel-style crisp and braced, and gives you a safe seat behind you while you build depth and confidence without holding anything.",
+  "setup": [
+   "Back a bench or knee-height box against a wall or rack so it can't slide.",
+   "Stand with your heels about a foot's length in front of it, feet shoulder-width, toes turned out slightly.",
+   "Injured arm across your stomach; reach your uninjured arm forward at shoulder height as a counterbalance.",
+   "Breathe into your belly and brace lightly, about a third of your maximum, never a full breath-hold strain."
+  ],
+  "cues": [
+   "Sit back and down; reach your bottom towards the box",
+   "Knees follow your toes; whole foot planted",
+   "Touch the box lightly and pause 1 s; don't flop",
+   "Stand by pushing the floor away and breathe out on the way up",
+   "Chest proud, eyes forward"
+  ],
+  "mistakes": [
+   "Dropping onto the box: slow the last third, touch softly, then pause.",
+   "Rocking back and using momentum to stand: keep your weight over mid-foot and lean forward slightly to start the rise.",
+   "Knees caving in on the way up: think 'knees out' and widen your stance a little."
+  ],
+  "arm_safety": "No hands needed at any point: you sit and stand with your legs. Keep your injured arm across your stomach (or in its sling if you still wear one) and use only your uninjured arm as a counterbalance. The box behind you means a loss of balance ends with you sitting down rather than falling, so make sure it is stable and backed against something. Never reach back to the box with either hand. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady.",
+  "regressions": [],
+  "progressions": [
+   "tempo-squat-bw",
+   "goblet-squat"
+  ],
+  "dose": "10 easy reps as your leg-press ramp-up in Phases 0–1; or 3 × 15–20 with a 4-s lowering when the leg press is busy",
+  "video": "https://www.youtube.com/results?search_query=bodyweight+box+squat+squat+university",
+  "source": "https://www.nhs.uk/live-well/exercise/strength-exercises/"
+ },
+ {
+  "id": "tempo-squat-bw",
+  "name": "Tempo squat (bodyweight)",
+  "category": "squat",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "bench or box (depth guide and safety seat)"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors",
+   "core"
+  ],
+  "why": "Slowing the squat right down (3 seconds down, a pause, then up) makes bodyweight hard enough to build muscle and teaches the control you need on steep descents. In your plan it's also the circuit station that stands in for the sled drag, and it's the bridge to loaded squats after clearance.",
+  "setup": [
+   "Stand in front of a bench or box backed against a wall or rack, as a depth guide and safety seat.",
+   "Feet shoulder-width, toes slightly out; injured arm across your stomach, uninjured arm reaching forward.",
+   "Light brace. Tempo: 3 s down, 1 s hover just above the box, 1–2 s up."
+  ],
+  "cues": [
+   "Count '3-2-1' on the way down",
+   "Hover just above the box for 1 s and stay tight",
+   "Drive up smoothly and breathe out",
+   "Heels down, knees over toes"
+  ],
+  "mistakes": [
+   "Speeding up halfway down: count out loud and slow the bottom third.",
+   "Resting on the box instead of hovering: if you can't hover, touch lightly and use a higher box.",
+   "Holding your breath during the slow descent: breathe in at the top and out on the way up; small breaths in the pause are fine."
+  ],
+  "arm_safety": "No hands needed. Injured arm across your stomach (or in its sling if you still wear one); uninjured arm forward as a counterbalance only. The box stays behind you so a loss of balance ends with a sit, not a fall; keep it backed against a wall or rack. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady.",
+  "regressions": [
+   "box-squat-bw"
+  ],
+  "progressions": [
+   "goblet-squat"
+  ],
+  "dose": "3 × 15–25, tempo 3-1-1, RIR 2–3 (circuit station: 10–12 reps, 3 s down)",
+  "video": "https://www.youtube.com/results?search_query=tempo+bodyweight+squat+squat+university",
+  "source": "https://squatuniversity.com/2018/01/04/fixing-patellar-quad-tendon-pain/"
+ },
+ {
+  "id": "wall-sit",
+  "name": "Wall sit",
+  "category": "squat",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "smooth wall",
+   "non-slip floor"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors"
+  ],
+  "why": "A simple isometric hold that builds the quad endurance you need for hours of hill walking, and many people find holds like this kind to their knees. It's also one of your progress tests.",
+  "setup": [
+   "Stand with your back flat against a smooth wall, feet hip-width and about 40–60 cm out from it.",
+   "Injured arm across your stomach; uninjured hand resting by your side.",
+   "Slide down until your knees are bent to about 60° (a shallow sit) at first; build towards 90°, thighs parallel to the floor, over the weeks."
+  ],
+  "cues": [
+   "Back and head against the wall",
+   "Knees over your ankles, not past your toes",
+   "Weight through your heels and mid-foot",
+   "Slow, steady breathing the whole time"
+  ],
+  "mistakes": [
+   "Pushing your hands on your thighs to make it easier: keep both arms off your legs.",
+   "Holding your breath: you should be able to count out loud throughout.",
+   "Knees drifting inwards: push them gently out in line with your toes."
+  ],
+  "arm_safety": "No hands needed. To finish, slide back up the wall by pushing through your legs, or walk your feet back towards the wall first; don't push off your thighs with either hand. Use a smooth wall and a grippy floor so your feet can't slide. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel sharp knee pain.",
+  "regressions": [],
+  "progressions": [
+   "spanish-squat-band"
+  ],
+  "dose": "3–5 × 30–45 s holds, 60 s rest (test: one maximum hold every 4 weeks)",
+  "video": "https://www.youtube.com/results?search_query=wall+sit+isometric+knee+e3+rehab",
+  "source": "https://squatuniversity.com/2018/01/04/fixing-patellar-quad-tendon-pain/"
+ },
+ {
+  "id": "spanish-squat-band",
+  "name": "Spanish squat (heavy band)",
+  "category": "knee-ankle",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "heavy loop band (bring your own if the gym has none)",
+   "squat rack upright or sturdy post",
+   "bench or box as a backstop"
+  ],
+  "muscles": [
+   "quads",
+   "glutes"
+  ],
+  "why": "A heavy band behind your knees lets you sit back with upright shins, putting a big load on the quads with little stress on the knee joint. It's a knee-friendly way to build the quad strength that makes long descents comfortable.",
+  "setup": [
+   "Loop a thick, heavy band around a rack upright or sturdy post at knee height, using your uninjured hand.",
+   "Step both legs into the loop and lift it so it sits behind your knees, at the top of the calves.",
+   "Walk backwards until the band is tight; feet hip-width, toes facing the anchor.",
+   "Place a bench or box behind you as a backstop in case the band slips.",
+   "Injured arm across your stomach; uninjured arm forward."
+  ],
+  "cues": [
+   "Sit back into the band like a reverse wall sit",
+   "Shins stay vertical and your torso stays upright",
+   "Go as deep as you can control, then hold",
+   "Breathe steadily throughout the hold"
+  ],
+  "mistakes": [
+   "Hinging forward at the hips: stay tall so the load stays on the quads.",
+   "Band too low on the calves or too high on the thighs: keep it right behind the knee crease.",
+   "Not enough tension: step back further so you can really sit into it."
+  ],
+  "arm_safety": "Set up and take down the band with your uninjured hand only. To finish, stand up tall, step forward to take the tension off, then step out one leg at a time. If the band slips or snaps you would sit backwards, so always have a bench or box behind you and check the band for nicks before each use. No heavy band? Do wall sits instead. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel sharp knee pain. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "wall-sit"
+  ],
+  "progressions": [],
+  "dose": "4–5 × 30–45 s holds, 60–90 s rest",
+  "video": "https://www.youtube.com/results?search_query=spanish+squat+squat+university",
+  "source": "https://squatuniversity.com/2018/01/04/fixing-patellar-quad-tendon-pain/"
+ },
+ {
+  "id": "split-squat-bw",
+  "name": "Split squat (bodyweight, supported)",
+  "category": "single-leg",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "squat rack upright or wall for your uninjured hand",
+   "mat (optional knee pad)"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors"
+  ],
+  "why": "Every step up a hill is a mini split squat. This builds single-leg strength and hip control in a long, stable stance, and it's the foundation for the loaded split squats that come after clearance.",
+  "setup": [
+   "Stand side-on to a rack upright or wall with your uninjured hand resting on it.",
+   "Take a long step: front foot flat, back foot on the ball of the foot, feet hip-width apart (like standing on train tracks, not a tightrope).",
+   "Optional: a folded mat under the back knee.",
+   "Injured arm across your stomach."
+  ],
+  "cues": [
+   "Drop the back knee straight down towards the floor",
+   "Front knee travels forward over the toes; front heel stays down",
+   "Torso tall or very slightly forward",
+   "Push up through the front foot and breathe out"
+  ],
+  "mistakes": [
+   "Stance too narrow, so you wobble: widen your feet to hip-width.",
+   "Pushing off the back leg: keep most of your weight on the front foot.",
+   "Front knee caving in: slow down and keep it over the middle toes."
+  ],
+  "arm_safety": "Your uninjured hand stays on the support for the whole set: a light touch for balance, not a pull. Switch legs by swapping which foot is in front; stay side-on so the support stays by your uninjured hand. Step out of the stance slowly by bringing the back foot forward. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "box-squat-bw"
+  ],
+  "progressions": [
+   "rfe-split-squat-bw",
+   "db-split-squat"
+  ],
+  "dose": "3 × 12–20 per leg, RIR 2–3, 3-s lowering",
+  "video": "https://www.youtube.com/results?search_query=split+squat+form+e3+rehab"
+ },
+ {
+  "id": "rfe-split-squat-bw",
+  "name": "Rear-foot-elevated split squat (bodyweight, supported)",
+  "category": "single-leg",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "bench or lower step",
+   "squat rack upright for your uninjured hand"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors",
+   "hip flexors (stretched, back leg)"
+  ],
+  "why": "One of the best single-leg builders there is: it loads the front leg hard with bodyweight alone and stretches the back hip, which helps your stride on long walks. It's the bodyweight version of the Bulgarian split squat you'll load after clearance.",
+  "setup": [
+   "Put a bench right next to a rack upright, with the upright on your uninjured side so you can hold it throughout. A lower step is easier than a full-height bench.",
+   "Stand in front of the bench, facing away from it, uninjured hand on the upright.",
+   "Reach one foot back and rest the top of that foot (laces down) on the bench.",
+   "Shuffle (never hop) the front foot forward until your front shin is roughly vertical to slightly forward at the bottom. Injured arm across your stomach."
+  ],
+  "cues": [
+   "Lower straight down, back knee towards the floor",
+   "Most of your weight on the front heel and mid-foot",
+   "A slight forward lean from the hips is fine",
+   "Control 2–3 s down, drive up through the front foot, breathe out"
+  ],
+  "mistakes": [
+   "Front foot too close, so the heel lifts: move it further forward.",
+   "Bouncing off the back foot: the back leg is a kickstand only.",
+   "Wobbling sideways: widen your stance and keep your uninjured hand on the upright."
+  ],
+  "arm_safety": "Getting in and out is the risky part. Always put your uninjured hand on the upright before you lift the back foot onto the bench. To finish, stand tall, shift all your weight onto the front foot, lift the back foot off the bench and step it down, then rest. Facing the same way for both legs keeps the upright by your uninjured hand. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "split-squat-bw"
+  ],
+  "progressions": [
+   "db-bulgarian-split-squat"
+  ],
+  "dose": "3 × 10–15 per leg, RIR 2–3, 3-s lowering and a 1-s pause",
+  "video": "https://www.youtube.com/results?search_query=bulgarian+split+squat+bodyweight+form+jeff+nippard"
+ },
+ {
+  "id": "step-up-bw",
+  "name": "Step-up (bodyweight)",
+  "category": "single-leg",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "aerobic step (15–25 cm) or the bottom stair until full clearance; never a bench before then",
+   "rack upright, wall or banister for your uninjured hand"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "calves"
+  ],
+  "why": "The single most specific hiking exercise: it is walking uphill. It builds each leg on its own and teaches you to drive up without pushing off the back foot, and the slow step down trains your descents too.",
+  "setup": [
+   "Until full clearance: an aerobic step (15–25 cm) backed against a wall or rack so it can't slide, or the bottom stair with the banister on your uninjured side. Start low and build to the step's top height; boxes up to knee height wait for full clearance, and a bench is never your step before then.",
+   "No aerobic step at the gym? Use the bottom stair at home with your uninjured hand on the banister.",
+   "Stand facing the box with a wall or rack upright within reach of your uninjured hand.",
+   "Place your whole working foot on the box. Injured arm across your stomach."
+  ],
+  "cues": [
+   "Lean forward slightly and drive up through the whole top foot",
+   "Don't spring off the bottom foot; let it go light",
+   "Stand fully tall at the top",
+   "Step down slowly (3 s) with the same leg doing the work",
+   "Breathe out as you rise"
+  ],
+  "mistakes": [
+   "Only the toes on the box: get your whole foot on, heel included.",
+   "Bouncing off the floor leg: pause the floor foot on its toes before each rep.",
+   "Knee caving inwards: use a lower step and keep the knee over the middle toes.",
+   "Dropping down fast: control the descent, because that's half the hiking benefit."
+  ],
+  "arm_safety": "No hands needed for the movement; your uninjured hand touches or hovers by the wall or upright at all times. Catching a toe on the box edge is the main fall risk, so lift your foot clearly, start low and never rush. Do all reps on one leg, then the other, rather than alternating quickly. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady. Any fall onto the arm: stop and get it checked.",
+  "regressions": [],
+  "progressions": [
+   "lateral-step-up-bw",
+   "db-step-up"
+  ],
+  "dose": "3 × 12–20 per leg, RIR 2–3, 3-s lowering (circuit: 8 per leg on the aerobic step)",
+  "video": "https://www.youtube.com/results?search_query=step+up+exercise+form+e3+rehab",
+  "source": "https://www.nhs.uk/live-well/exercise/balance-exercises/"
+ },
+ {
+  "id": "lateral-step-up-bw",
+  "name": "Lateral step-up (bodyweight)",
+  "category": "single-leg",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "aerobic step (15–25 cm) or the bottom stair until full clearance",
+   "wall for your uninjured hand"
+  ],
+  "muscles": [
+   "quads",
+   "glutes (especially glute medius)",
+   "adductors"
+  ],
+  "why": "Trails make you step sideways around rocks, roots and stiles. Stepping up from the side trains knee control and the side-hip muscles that stop your knee collapsing when the ground is uneven.",
+  "setup": [
+   "Put an aerobic step (15–25 cm) against a wall. Stand beside it facing the wall, so your uninjured hand can rest on the wall.",
+   "Place the near foot on the box; the other foot is on the floor beside it.",
+   "Injured arm across your stomach."
+  ],
+  "cues": [
+   "Push down through the whole foot on the box to lift yourself",
+   "Knee tracks over the middle toes; no caving in",
+   "Hips stay level at the top",
+   "Lower the floor foot slowly (3 s) and just tap the floor",
+   "Breathe out as you rise"
+  ],
+  "mistakes": [
+   "Pushing off the floor foot: keep it light, a tap only.",
+   "Hip hiking (one side shooting up): use a lower step height and stand tall.",
+   "Knee diving inwards: slow down and use a lower step height."
+  ],
+  "arm_safety": "Facing the wall means your uninjured hand can rest on it for both legs: for the other leg, move to the other side of the box and keep facing the wall. Uninjured hand touching or hovering by the wall throughout. Step on and off the box deliberately, never in a hurry. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "step-up-bw"
+  ],
+  "progressions": [
+   "step-down-eccentric",
+   "db-step-up"
+  ],
+  "dose": "3 × 12–15 per leg, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=lateral+step+up+physiotutors"
+ },
+ {
+  "id": "step-down-eccentric",
+  "name": "Eccentric step-down (to the side)",
+  "category": "knee-ankle",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "aerobic step (15–25 cm) until full clearance; higher boxes only after it",
+   "wall or rack upright for your uninjured hand"
+  ],
+  "muscles": [
+   "quads",
+   "glutes (especially glute medius)",
+   "calves"
+  ],
+  "why": "Descents, not climbs, are what tire and irritate knees on long hikes. Slowly lowering yourself on one leg trains exactly that braking strength and knee control, so your quads protect your joints late in the day.",
+  "setup": [
+   "Place an aerobic step against a wall (its lowest height, about 15 cm, to start; up to 25 cm before full clearance), and stand on it facing the wall with your uninjured hand resting on it.",
+   "Stand on the working leg near the side edge and let the other leg hang off the side.",
+   "Injured arm across your stomach."
+  ],
+  "cues": [
+   "Hips back slightly, chest a little forward",
+   "Lower for 3–4 s until the free heel lightly taps the floor",
+   "Knee stays over the middle toes",
+   "Tap, don't transfer your weight",
+   "Breathe steadily"
+  ],
+  "mistakes": [
+   "Dropping the last few centimetres: use a lower step height until you can control the whole way.",
+   "Knee collapsing inwards: slow down and aim the knee over your little toe side.",
+   "Putting weight onto the floor foot: just kiss the floor and come back up, or step up with both legs if you can't rise on one yet."
+  ],
+  "arm_safety": "Uninjured hand on the wall or upright throughout. If you can't stand back up on one leg yet, put both feet on the floor and step back onto the box with your uninjured hand still on the support; that keeps it pure lowering work. For the other leg, stand on the other foot and let the free leg hang off the other side, still facing the wall. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "patrick-step",
+   "lateral-step-up-bw"
+  ],
+  "progressions": [
+   "box-pistol"
+  ],
+  "dose": "3 × 8–12 per leg, 3–4-s lowering, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=lateral+step+down+eccentric+knee+physiotutors",
+  "source": "https://squatuniversity.com/2024/09/23/fix-knee-pain-fast-3-proven-steps/"
+ },
+ {
+  "id": "patrick-step",
+  "name": "Patrick step",
+  "category": "knee-ankle",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "aerobic step at its lowest height (about 15 cm) or the bottom stair: not a stack of plates or a bench",
+   "wall or rack upright for your uninjured hand"
+  ],
+  "muscles": [
+   "quads (especially the inner quad near the knee)",
+   "tibialis anterior",
+   "calves"
+  ],
+  "why": "Popularised by Ben Patrick (Knees Over Toes / ATG), this trains your knee to travel forward over your toes under control, which is exactly what happens on every steep downhill step. It builds knee tolerance and inner-quad strength with bodyweight only.",
+  "setup": [
+   "Stand on the aerobic step (lowest height, about 15 cm) next to a wall or rack upright on your uninjured side.",
+   "Stand on the working leg and let the other leg hang straight in front of the step, heel just off the floor.",
+   "Later progression (after full clearance): raise the working heel slightly on a slant board.",
+   "Injured arm across your stomach."
+  ],
+  "cues": [
+   "Let the working knee travel forward over your toes",
+   "Lower until the front heel lightly taps the floor",
+   "Front leg stays straight; torso upright",
+   "Rise by straightening the working knee, slow and smooth",
+   "Breathe steadily"
+  ],
+  "mistakes": [
+   "Sitting the hips back instead of driving the knee forward: think 'knee over toes'.",
+   "Working heel lifting off the step: let the knee go less far.",
+   "Bending the front leg to reach the floor: keep it straight and shorten the range if needed."
+  ],
+  "arm_safety": "Uninjured hand touching or hovering by the support for every rep. You face the same way for both legs, so the support stays on your uninjured side; just swap which foot stands on the step. The step must be solid and non-slip. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, you feel unsteady, or you get sharp pain at the front of the knee (a muscle burn is normal). Any fall onto the arm: stop and get it checked.",
+  "regressions": [],
+  "progressions": [
+   "step-down-eccentric"
+  ],
+  "dose": "2–3 × 12–15 per leg, slow and controlled",
+  "video": "https://www.youtube.com/results?search_query=patrick+step+knees+over+toes"
+ },
+ {
+  "id": "box-pistol",
+  "name": "Box pistol (single-leg squat to a box)",
+  "category": "single-leg",
+  "gate": "full_clearance",
+  "arm_use": "none",
+  "fall_risk": "high",
+  "equipment": [
+   "bench or box",
+   "squat rack upright for your uninjured hand"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors",
+   "core"
+  ],
+  "why": "Standing up from a low seat on one leg is a real-world strength test, and it builds the single-leg drive you need for big steps up rocky paths. It's the most demanding leg exercise in this part of your library, so it comes after your step-downs are solid.",
+  "setup": [
+   "Place a bench or box against a rack upright, with the upright on your uninjured side. Start high: knee height or above (a bench plus a folded mat, or a tall box).",
+   "Stand on one leg in front of the box, heel about a foot's length away, uninjured hand holding the upright.",
+   "Hold the free leg slightly in front of you, heel just off the floor. Injured arm across your stomach."
+  ],
+  "cues": [
+   "Sit back and down to the box over 3 s",
+   "Touch the box lightly and stay tall; don't flop",
+   "Lean forward from the hips, then stand up through the whole foot",
+   "Knee tracks over the middle toes",
+   "Breathe out as you stand"
+  ],
+  "mistakes": [
+   "Falling back onto the box at the end: use a higher box until you control the whole descent.",
+   "Rocking and swinging to stand: pause on the box, lean forward, then drive up.",
+   "Pulling hard on the upright: the hand is for balance; if you need to pull, the box is too low."
+  ],
+  "arm_safety": "Locked until full clearance: this is the highest balance demand in your library, and a fall onto a healing forearm is the biggest risk you have. When cleared: This is the highest balance demand in your Part A library. Always hold the upright with your uninjured hand, always have the box behind you, and never reach back with either hand. If you lose balance, sit down onto the box and put both feet down rather than trying to save the rep. Only lower the box when every rep at the current height is smooth. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "step-down-eccentric",
+   "box-squat-bw"
+  ],
+  "progressions": [],
+  "dose": "2–3 × 3–6 per leg, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=box+pistol+squat+knees+over+toes+guy"
+ },
+ {
+  "id": "single-leg-rdl-bw",
+  "name": "Single-leg Romanian deadlift (bodyweight, supported)",
+  "category": "hinge",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "squat rack upright or wall for your uninjured hand"
+  ],
+  "muscles": [
+   "hamstrings",
+   "glutes",
+   "adductors",
+   "foot and ankle stabilisers"
+  ],
+  "why": "Trains your hamstrings and glutes one side at a time while teaching your ankle, knee and hip to balance together: the terrain-proofing you need on uneven ground. It also grooves the hip hinge you'll later load for deadlifts and carries.",
+  "setup": [
+   "Stand side-on to a rack upright or wall with your uninjured hand resting on it.",
+   "Stand on the working leg with a soft knee (about 15–20° bend).",
+   "Injured arm across your stomach.",
+   "Easier version: keep the back toes lightly on the floor behind you as a kickstand."
+  ],
+  "cues": [
+   "Push your hips back as the free leg reaches back",
+   "Body and back leg move as one straight line, like a see-saw",
+   "Hips stay square to the floor; don't open up",
+   "Go until you feel a hamstring stretch or your torso is near parallel",
+   "Drive the hip forward to stand and breathe out"
+  ],
+  "mistakes": [
+   "Rounding your back to reach lower: stop where your back is still flat.",
+   "Free-leg hip twisting up and open: point the back toes at the floor.",
+   "Locked standing knee: keep a soft bend throughout.",
+   "Rushing: 3 s down, 2 s up."
+  ],
+  "arm_safety": "Uninjured hand on the support throughout: a light touch for balance, not a pull. Stay side-on and face the same way for both legs so the support stays by your uninjured hand. Put the free foot down between reps whenever you feel wobbly. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "glute-bridge-single-leg"
+  ],
+  "progressions": [
+   "db-rdl"
+  ],
+  "dose": "3 × 8–12 per leg, 3 s down, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=single+leg+rdl+bodyweight+squat+university"
+ },
+ {
+  "id": "glute-bridge",
+  "name": "Glute bridge (with adductor squeeze)",
+  "category": "hinge",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "rolled mat or folded towel for between your knees",
+   "bench nearby (for getting down and up)"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "core"
+  ],
+  "why": "Your glutes drive every climb and steady your pelvis on every step. Squeezing a rolled mat between your knees adds inner-thigh (adductor) work that steadies your knees on side-slopes and rough ground, with no ankle strap needed, no balance demand and nothing for your arms to do.",
+  "setup": [
+   "Get down onto a mat next to a bench (see arm safety).",
+   "Lie on your back, knees bent, feet flat and hip-width, heels about a hand's length from your bottom.",
+   "Injured arm across your stomach; uninjured arm flat on the mat by your side.",
+   "Put a rolled mat or folded towel between your knees."
+  ],
+  "cues": [
+   "Breathe out and gently tuck your pelvis, ribs down",
+   "Squeeze the mat between your knees as you push through your heels",
+   "Straight line from shoulders to knees",
+   "Hold 3 s at the top, glutes and inner thighs tight",
+   "Lower slowly"
+  ],
+  "mistakes": [
+   "Arching the lower back at the top: lift a little less high and squeeze the glutes harder.",
+   "Feeling it mostly in the hamstrings: bring your heels a bit closer to your bottom.",
+   "Feeling it in the lower back: keep the ribs down and breathe out before you lift."
+  ],
+  "arm_safety": "Getting down: stand beside a bench with your uninjured hand on it, step one foot back and lower that knee onto the mat, bring the other knee down, sit to one side, then lower yourself onto your back by leaning on your uninjured elbow. Getting up: bend your knees, roll onto your uninjured side, push up with your uninjured hand to side-sitting, come up to kneeling, put your uninjured hand on the bench and stand up one leg at a time. Never roll onto, lean on or push through your injured arm. Arm: across your stomach (or in its sling if you still wear one), hand relaxed. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [],
+  "progressions": [
+   "glute-bridge-march",
+   "hip-thrust-bench-bw"
+  ],
+  "dose": "3 × 12–15 with a 3-s squeeze at the top (adductor squeeze)",
+  "video": "https://www.youtube.com/results?search_query=glute+bridge+form+e3+rehab"
+ },
+ {
+  "id": "glute-bridge-single-leg",
+  "name": "Single-leg glute bridge",
+  "category": "hinge",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "bench nearby (for getting down and up)"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "core (anti-rotation)"
+  ],
+  "why": "Doubles the load on each glute and forces your pelvis to stay level, just as it must on every single-leg step of a hike. A great bodyweight builder while you can't hold weights.",
+  "setup": [
+   "Get down onto a mat next to a bench (see arm safety).",
+   "Lie on your back, knees bent, feet flat, heels a hand's length from your bottom.",
+   "Lift one knee towards your chest and keep it there without using your hands; this stops your back arching.",
+   "Injured arm across your stomach; uninjured arm flat on the mat by your side."
+  ],
+  "cues": [
+   "Breathe out, ribs down, then drive through the planted heel",
+   "Lift until your hip is straight: shoulder, hip and knee in line",
+   "Keep both hips level, as if balancing a cup of tea on your belly",
+   "Pause 1–2 s, then lower slowly"
+  ],
+  "mistakes": [
+   "Pelvis dropping on the free-leg side: lift less high and squeeze harder.",
+   "Hamstring cramping: bring the planted heel a little closer and push through the whole heel.",
+   "Arching your back to get higher: keep the free knee pulled in and stop at a straight hip."
+  ],
+  "arm_safety": "Getting down: stand beside a bench with your uninjured hand on it, step one foot back and lower that knee onto the mat, bring the other knee down, sit to one side, then lower yourself onto your back by leaning on your uninjured elbow. Getting up: bend your knees, roll onto your uninjured side, push up with your uninjured hand to side-sitting, come up to kneeling, put your uninjured hand on the bench and stand up one leg at a time. Never roll onto, lean on or push through your injured arm. Arm: across your stomach (or in its sling if you still wear one), hand relaxed. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [
+   "glute-bridge-march"
+  ],
+  "progressions": [
+   "hip-thrust-single-leg"
+  ],
+  "dose": "3 × 10–15 per leg, 2-s hold, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=single+leg+glute+bridge+e3+rehab"
+ },
+ {
+  "id": "glute-bridge-march",
+  "name": "Glute bridge march",
+  "category": "hinge",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "bench nearby (for getting down and up)"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "deep abdominals",
+   "obliques"
+  ],
+  "why": "Holding a bridge while lifting one foot at a time trains your glutes and deep core to keep the pelvis level as weight shifts from leg to leg, which is exactly their job when you walk for hours on uneven ground.",
+  "setup": [
+   "Get down onto a mat next to a bench (see arm safety).",
+   "Lie on your back, knees bent, feet flat and hip-width.",
+   "Injured arm across your stomach; uninjured arm flat on the mat by your side.",
+   "Lift into a glute bridge and hold the top position."
+  ],
+  "cues": [
+   "Keep your hips high and level the whole time",
+   "Lift one foot 5–10 cm, hold 2 s, put it down, then the other",
+   "Slow, quiet marches; no hip dropping",
+   "Breathe out each time a foot lifts"
+  ],
+  "mistakes": [
+   "Hips dropping or twisting as a foot lifts: march lower and slower, and squeeze the planted glute.",
+   "Holding your breath: breathe out each time a foot leaves the floor.",
+   "Feet too far from your bottom: bring them closer for a more stable base."
+  ],
+  "arm_safety": "Getting down: stand beside a bench with your uninjured hand on it, step one foot back and lower that knee onto the mat, bring the other knee down, sit to one side, then lower yourself onto your back by leaning on your uninjured elbow. Getting up: bend your knees, roll onto your uninjured side, push up with your uninjured hand to side-sitting, come up to kneeling, put your uninjured hand on the bench and stand up one leg at a time. Never roll onto, lean on or push through your injured arm. Arm: across your stomach (or in its sling if you still wear one), hand relaxed. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [
+   "glute-bridge"
+  ],
+  "progressions": [
+   "glute-bridge-single-leg"
+  ],
+  "dose": "3 × 6–10 marches per leg",
+  "video": "https://www.youtube.com/results?search_query=glute+bridge+march+physiotutors"
+ },
+ {
+  "id": "hip-thrust-bench-bw",
+  "name": "Hip thrust, shoulders on a bench (bodyweight)",
+  "category": "hinge",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "flat bench backed against a wall or rack",
+   "mat"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "quads",
+   "core"
+  ],
+  "why": "With your shoulders raised, your hips travel through a bigger range than in a floor bridge, which makes this one of the best glute builders there is. Strong glutes mean more power on climbs and less strain on your knees and back.",
+  "setup": [
+   "Put a flat bench lengthways against a wall or rack so it can't slide.",
+   "Get into position without your arms (see arm safety): upper back on the bench edge, just below the shoulder blades.",
+   "Feet flat and hip-width, placed so your shins are vertical at the top.",
+   "Injured arm across your stomach; uninjured arm resting along the bench or across your chest."
+  ],
+  "cues": [
+   "Tuck your chin and look forward, not at the ceiling",
+   "Ribs down, slight pelvic tuck",
+   "Drive through your heels until your body is flat like a table",
+   "Squeeze your glutes for 2 s",
+   "Lower under control; breathe out as you lift"
+  ],
+  "mistakes": [
+   "Over-arching the lower back at the top: stop when your hips are level with your knees and tuck the pelvis.",
+   "Bench sliding away: always back it against a wall or rack.",
+   "Feet too far forward (all hamstrings) or too close (all quads): adjust until your shins are vertical at the top."
+  ],
+  "arm_safety": "Getting in, no hands: sit on the bench, walk your feet forward and slide your bottom off the front edge, lowering your hips with your legs while your upper back stays on the bench. (Or get down to the floor via kneeling with your uninjured hand on the bench, then sit with your back to it.) Getting out: lower your bottom to the floor, roll onto your uninjured side, come up to kneeling and stand with your uninjured hand on the bench. Never push on the bench or floor with your injured arm. Later, after good-arm clearance, your uninjured hand can place a light dumbbell on your hips. Arm: across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [
+   "glute-bridge"
+  ],
+  "progressions": [
+   "hip-thrust-single-leg",
+   "barbell-hip-thrust"
+  ],
+  "dose": "3 × 15–25, 2-s hold at the top, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=bodyweight+hip+thrust+bret+contreras"
+ },
+ {
+  "id": "hip-thrust-single-leg",
+  "name": "Single-leg hip thrust (shoulders on a bench)",
+  "category": "hinge",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "flat bench backed against a wall or rack",
+   "mat"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "quads",
+   "core (anti-rotation)"
+  ],
+  "why": "Your hardest bodyweight glute exercise: each leg lifts most of your bodyweight through a full range. It builds glute size and single-leg drive for climbs without any load in your hands.",
+  "setup": [
+   "Bench lengthways against a wall or rack; get into position exactly as for the two-leg hip thrust.",
+   "Upper back on the bench edge, one foot planted in the middle, shin vertical at the top.",
+   "Lift the other knee towards your chest and keep it there.",
+   "Injured arm across your stomach; uninjured arm along the bench or across your chest."
+  ],
+  "cues": [
+   "Chin tucked, ribs down",
+   "Drive through the planted heel to a flat tabletop",
+   "Hips stay level; no twisting",
+   "2 s squeeze at the top, 2–3 s down",
+   "Breathe out as you lift"
+  ],
+  "mistakes": [
+   "Hip dropping on the free-leg side: reduce the range and slow down.",
+   "Over-arching to finish: stop at a straight hip and tuck the pelvis.",
+   "Bench sliding: always back it against something solid."
+  ],
+  "arm_safety": "Get into position by sitting on the bench and sliding your hips down with your legs, or by kneeling down with your uninjured hand on the bench. To finish, lower your hips to the floor, roll onto your uninjured side and come up via kneeling with your uninjured hand on the bench. Never push on the bench or floor with your injured arm. Arm: across your stomach (or in its sling if you still wear one), hand relaxed. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [
+   "hip-thrust-bench-bw",
+   "glute-bridge-single-leg"
+  ],
+  "progressions": [
+   "barbell-hip-thrust"
+  ],
+  "dose": "3 × 10–15 per leg, 2-s hold, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=single+leg+hip+thrust+bret+contreras"
+ },
+ {
+  "id": "cable-kickback-ankle",
+  "name": "Cable kickback (ankle strap)",
+  "category": "hip",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "cable machine with an ankle strap (not every gym has one)",
+   "cable machine (low pulley)"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "why": "Isolates each glute through hip extension, building the muscle that drives you uphill and steadies your pelvis, with no handles to hold. The cable makes it easy to add load in small steps. Many gyms have no ankle straps, so your plan builds the same muscles with hip thrusts and bridges.",
+  "setup": [
+   "Set the pulley to its lowest position and pick a light weight with your uninjured hand.",
+   "Sit on a bench to put the ankle strap on: rest your ankle on the bench and fasten it with your uninjured hand.",
+   "Clip the strap's ring to the cable with your uninjured hand.",
+   "Stand facing the machine, a step back, uninjured hand on the frame at chest height; injured arm across your stomach.",
+   "Soft bend in the standing knee; lean forward very slightly from the hips."
+  ],
+  "cues": [
+   "Kick the strapped leg back and slightly up by squeezing your glute",
+   "Lower back stays still; no arching",
+   "Small range, big squeeze, 1 s hold",
+   "Return slowly over 2–3 s",
+   "Breathe out as you kick back"
+  ],
+  "mistakes": [
+   "Swinging the leg and arching your back: lighter weight, smaller range, slower reps.",
+   "Twisting the hip open: keep the toes pointing at the floor.",
+   "Gripping the frame hard: a light touch only; if you need to pull, the weight is too heavy."
+  ],
+  "arm_safety": "Put the strap on and take it off while seated, using your uninjured hand; clip, unclip and change the pin with your uninjured hand too (ask staff if anything is stiff). Uninjured hand on the frame for balance throughout; facing the machine works for both legs. Unclip the cable before removing the strap, and step away only when the weight is resting on the stack. No ankle strap? Do single-leg glute bridges instead. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady.",
+  "regressions": [
+   "glute-bridge"
+  ],
+  "progressions": [],
+  "dose": "2–3 × 10–15 per leg, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=cable+glute+kickback+ankle+strap+jeff+nippard"
+ },
+ {
+  "id": "cable-hip-abduction-ankle",
+  "name": "Cable hip abduction (ankle strap)",
+  "category": "hip",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "cable machine with an ankle strap (not every gym has one)",
+   "cable machine (low pulley)"
+  ],
+  "muscles": [
+   "glute medius",
+   "glute minimus",
+   "TFL",
+   "standing-leg hip stabilisers"
+  ],
+  "why": "The side-hip muscles stop your pelvis dropping and your knee caving every time you stand on one leg, which matters on uneven trails and under a pack. The cable lets you load them progressively, and the standing leg gets a balance workout too. Many gyms have no ankle straps, so your plan uses side-lying hip abduction instead.",
+  "setup": [
+   "Pulley at its lowest setting; light weight selected with your uninjured hand.",
+   "Sit on a bench to fasten the ankle strap with your uninjured hand, then clip it to the cable.",
+   "Stand side-on to the machine with the strapped leg furthest from it; the cable runs in front of your standing ankle.",
+   "Uninjured hand on the machine frame; injured arm across your stomach. Soft bend in the standing knee."
+  ],
+  "cues": [
+   "Stand tall; don't lean away from the machine",
+   "Lift the leg out to the side, leading with the heel, toes forward",
+   "Small range (about 30°), 1 s pause",
+   "Return slowly over 2–3 s",
+   "Breathe out as you lift"
+  ],
+  "mistakes": [
+   "Leaning the whole body sideways: lighter weight, smaller range, stand tall.",
+   "Toes turning up and the leg drifting forward: keep the toes pointing forward.",
+   "Letting the stack yank the leg back in: control the return."
+  ],
+  "arm_safety": "Strap on and off while seated; clip, unclip and pin changes with your uninjured hand. When the strapped leg is on your injured side, your uninjured hand is the one nearest the machine, which is easy. For the other leg, turn round and reach your uninjured hand across your body to the frame (or hold a separate upright), and keep the weight light, because the cable pulls you sideways. No ankle strap? Do side-lying hip abduction instead. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady.",
+  "regressions": [
+   "side-lying-hip-abduction"
+  ],
+  "progressions": [],
+  "dose": "2–3 × 12–15 per leg, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=standing+cable+hip+abduction+physiotutors"
+ },
+ {
+  "id": "cable-hip-adduction-ankle",
+  "name": "Cable hip adduction (ankle strap)",
+  "category": "hip",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "cable machine with an ankle strap (not every gym has one)",
+   "cable machine (low pulley)"
+  ],
+  "muscles": [
+   "adductors (inner thigh)",
+   "standing-leg hip stabilisers"
+  ],
+  "why": "Your inner-thigh muscles steady your knees and pelvis on side-slopes and uneven ground and help power you up steep climbs. This loads them progressively with no hands needed. Many gyms have no ankle straps, so your plan uses the adductor-squeeze bridge instead.",
+  "setup": [
+   "Pulley at its lowest setting; light weight selected with your uninjured hand.",
+   "Sit on a bench to fasten the ankle strap with your uninjured hand, then clip it to the cable.",
+   "Stand side-on to the machine with the strapped leg nearest it, far enough away that the leg starts slightly out to the side under tension.",
+   "Uninjured hand on the frame; injured arm across your stomach."
+  ],
+  "cues": [
+   "Stand tall on a soft standing knee",
+   "Sweep the strapped leg across in front of your standing leg",
+   "Pause 1 s, then return slowly over 2–3 s",
+   "Hips stay square; no twisting",
+   "Breathe out as you pull in"
+  ],
+  "mistakes": [
+   "Twisting your torso to swing the leg: lighter weight, slower reps.",
+   "Standing too close, so there's no tension at the start: step away until the leg starts about 20–30° out.",
+   "Leaning towards the machine: stand tall."
+  ],
+  "arm_safety": "Strap on and off while seated; clip, unclip and pin changes with your uninjured hand. When the strapped leg is on your uninjured side, your uninjured hand is nearest the machine. For the other leg, turn round and reach your uninjured hand across to the frame (or hold a separate upright), and keep the weight light, because the cable pulls you towards the machine. No ankle strap? Do side-lying hip adduction instead. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady.",
+  "regressions": [
+   "side-lying-hip-adduction"
+  ],
+  "progressions": [
+   "copenhagen-plank-short"
+  ],
+  "dose": "2–3 × 12–15 per leg, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=standing+cable+hip+adduction+physiotutors"
+ },
+ {
+  "id": "side-lying-hip-abduction",
+  "name": "Side-lying hip abduction",
+  "category": "hip",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "folded towel for your head",
+   "bench nearby (for getting down and up)"
+  ],
+  "muscles": [
+   "glute medius",
+   "glute minimus",
+   "TFL"
+  ],
+  "why": "A simple, safe way to strengthen the side-hip muscles that keep your pelvis level and your knee tracking straight on every single-leg step, especially on rough or sloping ground.",
+  "setup": [
+   "Get down onto a mat next to a bench (see arm safety).",
+   "Lie on your side with the bottom knee bent for stability and the top leg straight, in line with your body.",
+   "Rest your head on a folded towel or rolled mat, not on your arm.",
+   "Stack your hips as if your back were against a wall."
+  ],
+  "cues": [
+   "Lead with the heel; toes point forward, not up",
+   "Lift the top leg to about 30–45° and pause 1–2 s",
+   "Lower slowly over 3 s",
+   "Don't let the top hip roll backwards",
+   "Breathe normally"
+  ],
+  "mistakes": [
+   "Rolling the toes up to the ceiling (it shifts the work to the hip flexors): keep the toes forward or slightly down.",
+   "Leg drifting forward: keep it in line with your body or slightly behind.",
+   "Lifting too high and side-bending: smaller range, stay stacked."
+  ],
+  "arm_safety": "Leg on your injured side: lie on your uninjured side, head on a folded towel, injured arm resting along your body. Leg on your uninjured side: the default is standing, facing the rack with your uninjured hand on the upright, lifting the leg out to the side with a 2-s hold (15–20 reps). Lie on your injured side only if your clinic is happy with it and it's comfortable: the shoulder and upper arm take the contact, the forearm rests on a folded towel in front of your chest with nothing on it, and your head lies on the towel, not the arm. Getting down and up: kneel with only your uninjured hand on the bench and roll onto your uninjured side to sit up, never pushing through the injured arm. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [],
+  "progressions": [
+   "lateral-step-up-bw"
+  ],
+  "dose": "2 × 15–20 per leg, 2-s hold at the top (standing version: 15–20)",
+  "video": "https://www.youtube.com/results?search_query=side+lying+hip+abduction+physiotutors",
+  "source": "https://www.orthoinfo.org/en/recovery/hip-conditioning-program/"
+ },
+ {
+  "id": "side-lying-hip-adduction",
+  "name": "Side-lying hip adduction",
+  "category": "hip",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "folded towel for your head",
+   "bench nearby (for getting down and up)"
+  ],
+  "muscles": [
+   "adductors (inner thigh)"
+  ],
+  "why": "A simple, safe way to strengthen your inner thighs, which steady your knees and pelvis on side-slopes and uneven ground. It needs nothing but a mat.",
+  "setup": [
+   "Get down onto a mat next to a bench (see arm safety).",
+   "Lie on your side with the bottom leg straight.",
+   "Bend the top leg and place that foot flat on the floor in front of the bottom knee.",
+   "Rest your head on a folded towel, not on your arm."
+  ],
+  "cues": [
+   "Lift the bottom leg 10–20 cm, leading with the inner heel",
+   "Bottom leg straight, toes pointing forward",
+   "Pause 1–2 s at the top",
+   "Lower slowly over 3 s",
+   "Breathe normally"
+  ],
+  "mistakes": [
+   "Rolling backwards: keep your hips stacked and the top foot planted.",
+   "Swinging the leg: slow, controlled lifts with a pause.",
+   "Toes turning up to the ceiling: keep them pointing forward."
+  ],
+  "arm_safety": "In side-lying adduction the bottom leg works, so lying on your uninjured side trains the inner thigh on that side. Training the other leg means lying on your injured side: only if your clinic is happy with it and it's comfortable (upper arm takes the contact, forearm on a towel in front of you, nothing on it). Your plan uses the adductor-squeeze bridge instead, which trains both sides lying on your back. Get down and up via a bench with your uninjured hand and roll onto your uninjured side to sit up. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [],
+  "progressions": [
+   "cable-hip-adduction-ankle",
+   "copenhagen-plank-short"
+  ],
+  "dose": "2–3 × 10–15 per leg, 1–2 s pause",
+  "video": "https://www.youtube.com/results?search_query=side+lying+hip+adduction+physiotutors",
+  "source": "https://www.orthoinfo.org/en/recovery/hip-conditioning-program/"
+ },
+ {
+  "id": "back-extension-45",
+  "name": "45° back extension (hip-hinge style)",
+  "category": "hinge",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "45° back extension bench (not every gym has one; alternative: bench hip thrust)"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "spinal erectors"
+  ],
+  "why": "Builds the back of your body (glutes, hamstrings and the muscles along your spine) that keeps you upright under a rucksack for hours and makes you robust for lifting and carrying later.",
+  "setup": [
+   "Set the hip pad so its top edge sits just below your hip bones, letting you hinge freely (ask staff if the adjustment needs two hands).",
+   "Step onto the footplate one foot at a time with your uninjured hand on the handle; heels against the ankle rollers.",
+   "Lean into the pad and fold your arms: injured arm resting across your chest, uninjured forearm over it."
+  ],
+  "cues": [
+   "Hinge from the hips with a long, neutral back",
+   "Lower until you feel a hamstring stretch",
+   "Squeeze your glutes to come up to a straight line; pause 1–2 s",
+   "Don't overarch at the top",
+   "Breathe out as you rise"
+  ],
+  "mistakes": [
+   "Over-arching the lower back at the top: stop at a straight line from head to heels.",
+   "Rounding and un-rounding the spine: keep your back neutral and move at the hips.",
+   "Pad too high to hinge: lower it so your hips are free."
+  ],
+  "arm_safety": "Getting on: uninjured hand on the handle, step up one foot at a time and lock your heels under the rollers before you lean forward. Getting off: come up to a straight line, take the handle with your uninjured hand and step down one foot at a time. Arm: resting across your chest under your uninjured forearm (or in its sling if you still wear one); never reach for the floor or a handle with it. No 45° bench at your gym? Do bench hip thrusts instead. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady getting on or off. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "glute-bridge",
+   "hip-thrust-bench-bw"
+  ],
+  "progressions": [
+   "db-rdl"
+  ],
+  "dose": "2–3 × 8–12, 1–2 s pause at the top, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=45+degree+back+extension+glutes+jeff+nippard"
+ },
+ {
+  "id": "sled-drag-forward-belt",
+  "name": "Sled drag forwards (waist belt or harness)",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "sled",
+   "waist belt or a dip belt with a chain, clipped to the sled strap (many gyms have no sled belt)",
+   "plates (loaded by staff)",
+   "clear turf lane"
+  ],
+  "muscles": [
+   "glutes",
+   "quads",
+   "calves",
+   "hamstrings",
+   "heart and lungs"
+  ],
+  "why": "Strength as cardio: walking against a loaded sled builds leg drive and work capacity, much like climbing with a pack. It's almost all pushing with very little lowering, so it causes little soreness and you recover quickly, and with a belt your hands stay completely free. Many gyms have no sled belt, so your plan uses tempo squats until you get one.",
+  "setup": [
+   "Put the belt on with your uninjured hand (a dip belt works: chain at the back for forward drags, at the front for backward drags) and ask staff to clip on the strap and load the sled; start with the empty sled.",
+   "Put the belt on with your uninjured hand, attachment point at your back.",
+   "Check the lane in front of you is clear for at least 20 m.",
+   "Injured arm across your stomach (or in its sling); uninjured arm swings naturally."
+  ],
+  "cues": [
+   "Lean slightly forward from the ankles, body in a straight line",
+   "Short, powerful steps; push the floor behind you",
+   "Steady walking pace; never run",
+   "Breathe rhythmically; you should manage a short sentence",
+   "Stop before your form breaks"
+  ],
+  "mistakes": [
+   "Too heavy, so you stomp and strain: lighten it until you can walk steadily.",
+   "Jerking the sled from a standstill: take up the slack slowly before your first step.",
+   "Bending at the waist: lean from the ankles with your chest up."
+  ],
+  "arm_safety": "Your hands never touch the sled or the strap. Staff load the plates (after good-arm clearance you may load small plates one at a time with your uninjured hand); clip the strap on with your uninjured hand. To stop, walk the tension off and stand still before turning round. Flat, dry turf with a clear lane only, and no sprinting. If the strap snags or the sled jams, stop and step back to slacken it rather than lunging forward. No belt? Your plan uses tempo squats in its place. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [
+   "incline-walk"
+  ],
+  "progressions": [
+   "sled-push",
+   "ruck-light"
+  ],
+  "dose": "6–8 × 20 m, rest 60–90 s (or 10–15 min continuous at Zone 2–3)",
+  "video": "https://www.youtube.com/results?search_query=forward+sled+drag+dip+belt+defranco"
+ },
+ {
+  "id": "sled-drag-backward-belt",
+  "name": "Sled drag backwards (waist belt)",
+  "category": "knee-ankle",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "sled",
+   "waist belt or a dip belt with a chain, clipped to the sled strap (many gyms have no sled belt)",
+   "plates (loaded by staff)",
+   "clear turf lane"
+  ],
+  "muscles": [
+   "quads",
+   "calves",
+   "tibialis anterior",
+   "heart and lungs"
+  ],
+  "why": "Walking backwards against a sled works the quads around the knee hard with little stress on the joint and very little soreness. Knee-focused coaches such as the Knees Over Toes Guy use it to bulletproof knees, which is exactly what you want for downhill hiking, and it's excellent conditioning too. Many gyms have no sled belt, so your plan uses tempo squats until you get one.",
+  "setup": [
+   "Put the belt on with your uninjured hand (a dip belt works: chain at the back for forward drags, at the front for backward drags) and ask staff to clip on the strap and load the sled; start with the empty sled.",
+   "Ask staff to attach and load the sled; start with the empty sled.",
+   "Face the sled, step back until the strap is taut, and look over your shoulder to check the lane behind you is completely clear.",
+   "Injured arm across your stomach; uninjured arm relaxed."
+  ],
+  "cues": [
+   "Sit slightly into a quarter squat, chest up",
+   "Small steps back, pushing through the balls of your feet",
+   "Let your knees travel forward over your toes",
+   "Steady pace; glance back every few steps",
+   "Breathe rhythmically"
+  ],
+  "mistakes": [
+   "Big, reaching steps: keep them short and quick.",
+   "Standing up tall, which takes the work off the quads: stay in a slight squat.",
+   "Never checking behind you: glance back regularly, because that's where the fall risk is."
+  ],
+  "arm_safety": "Your hands never touch the sled or the strap. Walking backwards is the main risk: use only a flat, dry, empty lane, ask someone to watch your path if the gym is busy, and keep the pace slow. If you do lose balance, keep your injured arm tucked into your body and let your legs and bottom take it rather than reaching back with a hand. Staff load the plates (or your uninjured hand, one small plate at a time, after good-arm clearance). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "sled-drag-forward-belt"
+  ],
+  "progressions": [
+   "sled-push"
+  ],
+  "dose": "6–8 × 20 m, rest 60–90 s",
+  "video": "https://www.youtube.com/results?search_query=backward+sled+drag+knees+over+toes+guy"
+ },
+ {
+  "id": "tibialis-raise-wall",
+  "name": "Tibialis raise (back against a wall)",
+  "category": "knee-ankle",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "wall"
+  ],
+  "muscles": [
+   "tibialis anterior",
+   "foot and ankle stabilisers"
+  ],
+  "why": "The muscle at the front of your shin lifts your toes clear of the ground on every step and controls your foot on descents. A strong one helps you clear rocks and roots without scuffing, and keeps your shins comfortable on long downhill days.",
+  "setup": [
+   "Stand with your back and bottom against a wall, feet hip-width and about 30 cm out from it.",
+   "Legs straight, weight on your heels.",
+   "Injured arm across your stomach; uninjured hand resting by your side."
+  ],
+  "cues": [
+   "Pull your toes and the front of your feet up towards your shins as high as you can",
+   "Pause 1 s at the top",
+   "Lower slowly; don't slap your feet down",
+   "Keep your bottom against the wall",
+   "Walk your feet further out to make it harder"
+  ],
+  "mistakes": [
+   "Tiny range: lift as high as possible, even if you need to bring your feet closer to the wall.",
+   "Rushing: 1 s up, 1 s pause, 2 s down.",
+   "Bending the knees to cheat: keep your legs straight."
+  ],
+  "arm_safety": "No hands needed, and the wall supports you throughout, so balance risk is minimal. To finish, walk your feet back towards the wall in small steps before standing away from it; don't push off with your hands. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "2–3 × 15–25, until a strong burn in the shins",
+  "video": "https://www.youtube.com/results?search_query=tibialis+raise+wall+knees+over+toes+guy"
+ },
+ {
+  "id": "calf-raise-single-bw",
+  "name": "Single-leg calf raise (bodyweight)",
+  "category": "calves",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "wall for your uninjured hand",
+   "optional: an aerobic step or the bottom stair next to the wall"
+  ],
+  "muscles": [
+   "calves (gastrocnemius)",
+   "soleus",
+   "foot and ankle stabilisers"
+  ],
+  "why": "Each calf lifts your whole body thousands of times on a long hike. Single-leg raises build that strength and ankle stability one side at a time, and the number you can do is a useful benchmark.",
+  "setup": [
+   "Stand facing a wall with your uninjured hand flat on it at shoulder height.",
+   "Stand on one foot on the flat floor first; later, on the edge of an aerobic step (or the bottom stair) beside the wall with your heel hanging off for a bigger range.",
+   "Injured arm across your stomach."
+  ],
+  "cues": [
+   "Rise as high as you can onto the big toe",
+   "Pause 1 s at the top",
+   "Lower slowly over 2–3 s",
+   "Knee straight but not locked",
+   "Light touch on the wall only"
+  ],
+  "mistakes": [
+   "Rolling onto the little toe: keep the pressure over the big and second toes.",
+   "Bouncing half reps: full range with a pause at the top.",
+   "Pushing hard on the wall to help: touch only; fewer good reps are better."
+  ],
+  "arm_safety": "Uninjured hand on the wall for every rep; facing the wall works for both legs. On a step, use the aerobic step right next to the wall and step off it carefully at the end. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady.",
+  "regressions": [
+   "calf-raise-leg-press"
+  ],
+  "progressions": [],
+  "dose": "3–4 × 12–20 per leg, RIR 2–3, 1-s pause at the bottom and top; add a day pack (from Light use / rehab started, 2–4 kg to start) when 20 is easy",
+  "video": "https://www.youtube.com/results?search_query=single+leg+calf+raise+e3+rehab",
+  "source": "https://www.orthoinfo.org/en/recovery/foot-and-ankle-conditioning-program/"
+ },
+ {
+  "id": "bent-knee-calf-raise",
+  "name": "Bent-knee calf raise (soleus)",
+  "category": "calves",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "wall for your uninjured hand",
+   "optional: seated calf raise machine, if your gym has one"
+  ],
+  "muscles": [
+   "soleus",
+   "calves (gastrocnemius)"
+  ],
+  "why": "The soleus, the deep calf muscle that works most when your knee is bent, does a big share of the work in walking and climbing and is often under-trained. Strong soleus muscles help you keep going on long uphill days.",
+  "setup": [
+   "Stand facing a wall, uninjured hand flat on it at chest height, on one foot (both feet only as a warm-up or circuit station).",
+   "Bend your knees about 30–45° (a quarter squat) and hold that angle throughout.",
+   "Injured arm across your stomach.",
+   "If your gym has a seated calf raise machine, it's a good loaded version: sit down using your legs and set the knee pad with your uninjured hand."
+  ],
+  "cues": [
+   "Knees stay bent the whole time",
+   "Rise onto the balls of your feet and pause 1 s",
+   "Lower slowly over 2 s",
+   "Push through the big toe"
+  ],
+  "mistakes": [
+   "Straightening the knees as you rise, which turns it into a normal calf raise: keep the knee angle fixed.",
+   "Going too fast: slow reps with a pause give the burn you're after.",
+   "Leaning hard on the wall: light touch only."
+  ],
+  "arm_safety": "Uninjured hand on the wall; facing the wall works for both legs. Progress to one leg at a time with the same support. After good-arm clearance you can hold a dumbbell in your uninjured hand, or rest one on your knee in the seated version. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "3–4 × 12–20 per leg, one leg at a time, RIR 2–3, 1-s pause at the top (circuit station: 15 on both legs)",
+  "video": "https://www.youtube.com/results?search_query=bent+knee+calf+raise+soleus+e3+rehab"
+ },
+ {
+  "id": "dead-bug-legs",
+  "name": "Dead bug (legs only)",
+  "category": "core",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "bench nearby (for getting down and up)"
+  ],
+  "muscles": [
+   "deep abdominals",
+   "rectus abdominis",
+   "obliques",
+   "hip flexors"
+  ],
+  "why": "Core stability in its purest form: keeping your trunk still while your legs move, which is what your core does under a pack on uneven ground. The legs-only version needs no arms at all.",
+  "setup": [
+   "Get down onto a mat next to a bench (see arm safety).",
+   "Lie on your back and lift your knees over your hips, knees bent at 90° (the tabletop).",
+   "Injured arm across your stomach; uninjured hand on your lower ribs to feel them stay down.",
+   "Breathe out fully and gently flatten your lower back towards the mat."
+  ],
+  "cues": [
+   "Ribs down; lower back stays in contact with the mat",
+   "Slowly lower one heel to tap the floor (3 s), then bring it back",
+   "Breathe out as the leg moves away",
+   "Alternate sides; the other knee stays still over the hip",
+   "Progress by straightening the leg as it lowers"
+  ],
+  "mistakes": [
+   "Lower back arching off the mat: shorten the range (tap higher) until you can hold position.",
+   "Holding your breath: exhale slowly on every rep.",
+   "Rushing: 3 s out, 3 s back."
+  ],
+  "arm_safety": "Getting down: stand beside a bench with your uninjured hand on it, step one foot back and lower that knee onto the mat, bring the other knee down, sit to one side, then lower yourself onto your back by leaning on your uninjured elbow. Getting up: bend your knees, roll onto your uninjured side, push up with your uninjured hand to side-sitting, come up to kneeling, put your uninjured hand on the bench and stand up one leg at a time. Never roll onto, lean on or push through your injured arm. Arm: across your stomach (or in its sling if you still wear one), hand relaxed. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [
+   "breathing-90-90"
+  ],
+  "progressions": [
+   "hollow-hold-tuck"
+  ],
+  "dose": "3 × 6–8 per side, slow",
+  "video": "https://www.youtube.com/results?search_query=dead+bug+legs+only+physiotutors"
+ },
+ {
+  "id": "hollow-hold-tuck",
+  "name": "Tuck hollow hold",
+  "category": "core",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "bench nearby (for getting down and up)"
+  ],
+  "muscles": [
+   "rectus abdominis",
+   "deep abdominals",
+   "obliques",
+   "hip flexors"
+  ],
+  "why": "A gymnastics staple that teaches tension through the whole front of your core: the stiffness that protects your back when you carry and lift later. The tucked version is arm-free and easy to scale: straighten one leg, then both, as it gets easy.",
+  "setup": [
+   "Get down onto a mat next to a bench (see arm safety).",
+   "Lie on your back with your knees bent and pulled up towards your chest (hips past 90°).",
+   "Arms long by your sides on the mat; your injured arm simply rests there, not pressing (or keep it across your stomach).",
+   "Breathe out and press your lower back into the mat."
+  ],
+  "cues": [
+   "Lift your head and shoulder blades just off the mat, chin slightly tucked",
+   "Lower back stays glued to the floor",
+   "Short, steady breaths behind a light brace",
+   "Progress: one leg out, then both legs out at about 45°"
+  ],
+  "mistakes": [
+   "Neck straining: look at your knees, tuck your chin and lower your shoulders a little.",
+   "Lower back lifting: tuck the knees closer to your chest.",
+   "Holding your breath: keep breathing; if you can't, the hold is too hard."
+  ],
+  "arm_safety": "Getting down: stand beside a bench with your uninjured hand on it, step one foot back and lower that knee onto the mat, bring the other knee down, sit to one side, then lower yourself onto your back by leaning on your uninjured elbow. Getting up: bend your knees, roll onto your uninjured side, push up with your uninjured hand to side-sitting, come up to kneeling, put your uninjured hand on the bench and stand up one leg at a time. Never roll onto, lean on or push through your injured arm. Arm: resting by your side or across your stomach (or in its sling if you still wear one), never pushing into the floor. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [
+   "dead-bug-legs"
+  ],
+  "progressions": [
+   "plank"
+  ],
+  "dose": "3 × 20–40 s, 45–60 s rest",
+  "video": "https://www.youtube.com/results?search_query=tuck+hollow+body+hold+gmb+fitness"
+ },
+ {
+  "id": "reverse-crunch",
+  "name": "Reverse crunch",
+  "category": "core",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "bench nearby (for getting down and up)"
+  ],
+  "muscles": [
+   "rectus abdominis (lower fibres)",
+   "obliques",
+   "deep abdominals"
+  ],
+  "why": "Trains your abs to curl the pelvis, the control you use to lift your legs over stiles and rocks, and lays the foundation for hanging knee raises after full clearance.",
+  "setup": [
+   "Get down onto a mat next to a bench (see arm safety).",
+   "Lie on your back with your knees bent at 90° over your hips.",
+   "Uninjured hand flat on the mat by your side; injured arm across your stomach."
+  ],
+  "cues": [
+   "Breathe out and curl your hips off the mat, knees towards your chest",
+   "Think 'roll the tailbone up', not 'swing the legs'",
+   "Pause 1 s at the top",
+   "Lower your hips slowly over 3 s",
+   "Head and shoulders stay relaxed on the mat"
+  ],
+  "mistakes": [
+   "Swinging the legs for momentum: smaller, slower curls.",
+   "Pushing hard through the hand: your abs do the work; the hand only rests.",
+   "Dropping back down fast: 3-second lowering every rep."
+  ],
+  "arm_safety": "Getting down: stand beside a bench with your uninjured hand on it, step one foot back and lower that knee onto the mat, bring the other knee down, sit to one side, then lower yourself onto your back by leaning on your uninjured elbow. Getting up: bend your knees, roll onto your uninjured side, push up with your uninjured hand to side-sitting, come up to kneeling, put your uninjured hand on the bench and stand up one leg at a time. Never roll onto, lean on or push through your injured arm. Arm: across your stomach (or in its sling if you still wear one), hand relaxed. Keep the curl small so you don't roll towards your injured side. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [
+   "dead-bug-legs"
+  ],
+  "progressions": [
+   "hanging-knee-raise"
+  ],
+  "dose": "2–3 × 8–12, slow",
+  "video": "https://www.youtube.com/results?search_query=reverse+crunch+form+jeremy+ethier"
+ },
+ {
+  "id": "curl-up-mcgill",
+  "name": "McGill curl-up",
+  "category": "core",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "small folded towel",
+   "bench nearby (for getting down and up)"
+  ],
+  "muscles": [
+   "rectus abdominis",
+   "obliques",
+   "deep abdominals"
+  ],
+  "why": "One of Prof. Stuart McGill's 'Big 3': it trains the front of your core to hold your spine steady without the repeated bending of a sit-up. That spinal stiffness is what protects your back under a pack or a heavy carry.",
+  "setup": [
+   "Get down onto a mat next to a bench (see arm safety).",
+   "Lie on your back with one knee bent (foot flat) and the other leg straight.",
+   "Slide your uninjured hand, palm down, under your lower back, or use a small folded towel, to keep its natural arch.",
+   "Injured arm resting across your chest."
+  ],
+  "cues": [
+   "Brace lightly, as if expecting a poke in the stomach",
+   "Lift only your head and shoulders a few centimetres, as one unit; no chin-poke",
+   "Hold for 8–10 s, breathing steadily",
+   "Your lower back doesn't move at all",
+   "Swap the bent leg halfway through"
+  ],
+  "mistakes": [
+   "Curling up high like a crunch: a few centimetres is enough.",
+   "Flattening or rounding the lower back: keep the arch over your hand or towel.",
+   "Holding your breath: take short breaths throughout the hold."
+  ],
+  "arm_safety": "Getting down: stand beside a bench with your uninjured hand on it, step one foot back and lower that knee onto the mat, bring the other knee down, sit to one side, then lower yourself onto your back by leaning on your uninjured elbow. Getting up: bend your knees, roll onto your uninjured side, push up with your uninjured hand to side-sitting, come up to kneeling, put your uninjured hand on the bench and stand up one leg at a time. Never roll onto, lean on or push through your injured arm. Arm: resting across your chest (or in its sling if you still wear one); only your uninjured hand or the towel goes under your back. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [
+   "breathing-90-90"
+  ],
+  "progressions": [],
+  "dose": "3 × 5 holds of 8–10 s, 45 s rest (or McGill's 5-3-1 descending pyramid); add reps, not longer holds",
+  "video": "https://www.youtube.com/results?search_query=mcgill+curl+up+squat+university",
+  "source": "https://squatuniversity.com/2018/06/21/the-mcgill-big-3-for-core-stability/"
+ },
+ {
+  "id": "single-leg-balance",
+  "name": "Single-leg balance (supported)",
+  "category": "balance",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "wall or rack upright",
+   "firm, non-slip floor"
+  ],
+  "muscles": [
+   "foot and ankle stabilisers",
+   "glute medius",
+   "calves"
+  ],
+  "why": "Better balance is your best protection against the fall you most need to avoid, and it's the base of moving well on uneven ground. A few minutes a day trains the reflexes in your ankles and hips.",
+  "setup": [
+   "Stand facing a wall at arm's length with the fingertips of your uninjured hand touching it.",
+   "Firm, flat, non-slip floor; trainers on.",
+   "Injured arm across your stomach.",
+   "Lift one foot a few centimetres, with a slight bend in the standing knee."
+  ],
+  "cues": [
+   "Hips level; don't sink into the standing hip",
+   "Spread your weight across your whole foot",
+   "Eyes on a fixed point at eye level",
+   "Fingertips ready, not leaning",
+   "Progress: fingertips hovering, then slow head turns, then free-leg reaches; eyes-closed work waits for full clearance"
+  ],
+  "mistakes": [
+   "Leaning on the wall: fingertip contact only.",
+   "Locking the standing knee: keep a soft bend.",
+   "Progressing too fast: remove support only when 30 s is easy, and keep eyes-closed work for after full clearance, fingertips on the wall."
+  ],
+  "arm_safety": "This exercise is meant to challenge your balance, so the support is non-negotiable before full clearance: your uninjured hand stays touching, or within a few centimetres of, the wall, and you put the lifted foot down the moment you wobble. No wobble boards, balance boards or foam pads until you're fully cleared. Facing the wall works for both legs. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel dizzy. Any fall onto the arm: stop and get it checked.",
+  "regressions": [],
+  "progressions": [
+   "single-leg-rdl-bw"
+  ],
+  "dose": "30 s per leg every day in your mobility routine; 45–60 s holds as a test",
+  "video": "https://www.youtube.com/results?search_query=single+leg+balance+exercise+progression+physiotutors",
+  "source": "https://www.nhs.uk/live-well/exercise/balance-exercises/"
+ },
+ {
+  "id": "breathing-90-90",
+  "name": "90/90 breathing",
+  "category": "core",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "wall or bench",
+   "bench nearby (for getting down and up)"
+  ],
+  "muscles": [
+   "diaphragm",
+   "deep abdominals",
+   "pelvic floor"
+  ],
+  "why": "Teaches you to breathe low and wide and to exhale fully: the foundation for bracing without straining (no breath-holding while your bone heals) and for staying relaxed at Zone 2. It also helps you switch off after training.",
+  "setup": [
+   "Get down onto a mat next to a wall or bench (see arm safety).",
+   "Lie on your back with your feet flat on the wall, or calves resting on a bench, so your hips and knees are at 90°.",
+   "Press your heels gently into the wall until you feel the backs of your thighs switch on and your lower back settle towards the mat.",
+   "Injured arm resting across your stomach; uninjured hand on your lower ribs."
+  ],
+  "cues": [
+   "Breathe in through your nose for about 4 s; feel your belly, sides and back widen",
+   "Breathe out slowly through your mouth for 6–8 s and let your ribs drop",
+   "At the end of the out-breath, pause for 2–3 relaxed seconds",
+   "Shoulders and neck stay soft"
+  ],
+  "mistakes": [
+   "Breathing into your chest and shoulders: think 'widen the lower ribs'.",
+   "Forcing the out-breath until you strain: long and gentle, never a breath-hold strain.",
+   "Arching your lower back: press your heels into the wall a little more."
+  ],
+  "arm_safety": "Getting down: stand beside a bench with your uninjured hand on it, step one foot back and lower that knee onto the mat, bring the other knee down, sit to one side, then lower yourself onto your back by leaning on your uninjured elbow. Getting up: bend your knees, roll onto your uninjured side, push up with your uninjured hand to side-sitting, come up to kneeling, put your uninjured hand on the bench and stand up one leg at a time. Never roll onto, lean on or push through your injured arm. Arm: resting across your stomach (or in its sling if you still wear one). If you feel light-headed, breathe normally and sit up slowly via your uninjured side. Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [],
+  "progressions": [
+   "dead-bug-legs"
+  ],
+  "dose": "5 slow breaths (1–2 rounds)",
+  "video": "https://www.youtube.com/results?search_query=90+90+breathing+postural+restoration+institute"
+ },
+ {
+  "id": "ankle-knee-to-wall",
+  "name": "Knee-to-wall ankle mobilisation",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "wall"
+  ],
+  "muscles": [
+   "calves (stretched)",
+   "soleus (stretched)",
+   "ankle joint"
+  ],
+  "why": "Ankle bend (dorsiflexion) lets your knee travel forward on steep climbs, descents and deep squats. Stiff ankles push the strain up into your knees and hips, which is why this is in your daily routine.",
+  "setup": [
+   "Stand facing a wall in a short split stance, front toes about 5–10 cm from the wall.",
+   "Uninjured hand flat on the wall at chest height; injured arm across your stomach.",
+   "Back leg relaxed, toes on the floor."
+  ],
+  "cues": [
+   "Drive the front knee forward towards the wall, over your second and third toes",
+   "Front heel stays glued to the floor",
+   "Touch the wall lightly, then back off",
+   "When it's easy, slide the foot back 1 cm",
+   "Smooth rocks; breathe normally"
+  ],
+  "mistakes": [
+   "Heel lifting: move the foot closer to the wall.",
+   "Knee caving inwards: aim the knee at the middle of your foot.",
+   "Bouncing: smooth rocks with a 1–2 s hold at the end."
+  ],
+  "arm_safety": "Both feet stay down and your uninjured hand is on the wall, so the balance demand is minimal. Facing the wall works for both legs. Don't lean into the wall with your injured arm; keep it across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel a pinch at the front of the ankle (back off the range).",
+  "regressions": [
+   "calf-stretch-wall"
+  ],
+  "progressions": [],
+  "dose": "10 rocks per side (test: note your furthest toe-to-wall distance every 4 weeks)",
+  "video": "https://www.youtube.com/results?search_query=knee+to+wall+ankle+mobility+squat+university"
+ },
+ {
+  "id": "hip-90-90-switch",
+  "name": "90/90 hip switches",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat",
+   "bench nearby (for getting down and up)"
+  ],
+  "muscles": [
+   "hip rotators",
+   "glutes",
+   "adductors",
+   "hip capsule"
+  ],
+  "why": "Moves both hips through internal and external rotation, the twisting range your hips need on uneven ground and over stiles. Healthy hip rotation also takes strain off your knees and lower back.",
+  "setup": [
+   "Get down onto a mat next to a bench (see arm safety).",
+   "Sit on the mat, knees bent about 90°, feet flat and wider than your hips.",
+   "Uninjured hand on the mat behind you for support; injured arm resting in your lap."
+  ],
+  "cues": [
+   "Let both knees fall to one side so each leg makes a 90° angle",
+   "Sit tall over the front shin",
+   "Lift the knees and rotate them through to the other side",
+   "Move slowly and breathe out as you switch",
+   "Progress to doing it hands-free"
+  ],
+  "mistakes": [
+   "Slumping: sit tall, leaning back onto your uninjured hand as much as you need.",
+   "Forcing the range: go only as far as is comfortable; it improves with practice.",
+   "Feet too close together: widen them."
+  ],
+  "arm_safety": "Getting down: stand beside a bench with your uninjured hand on it, step one foot back and lower that knee onto the mat, bring the other knee down and sit to one side. Getting up: turn onto your knees on your uninjured side, push up with your uninjured hand, then put your uninjured hand on the bench and stand up one leg at a time. Only your uninjured hand ever supports you on the floor; if you tip, sit back onto your uninjured hand rather than putting your injured hand down. Arm: resting in your lap (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel a pinch in the hip.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "8 switches (4 each way)",
+  "video": "https://www.youtube.com/results?search_query=90+90+hip+switch+tom+merrick"
+ },
+ {
+  "id": "couch-stretch",
+  "name": "Couch stretch (bench-supported)",
+  "category": "mobility",
+  "gate": "clinic_light",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "bench",
+   "thick mat or pad for the knee",
+   "rack upright or second bench for your uninjured hand"
+  ],
+  "muscles": [
+   "hip flexors (stretched)",
+   "quads (stretched)",
+   "rectus femoris (stretched)"
+  ],
+  "why": "Opens the front of the hip and thigh, which tighten with sitting and get worked hard by miles of walking. Freer hip flexors let your glutes drive each stride and ease pressure on your lower back.",
+  "setup": [
+   "Place a thick folded mat on the floor right in front of a bench, with a rack upright or a second bench within reach of your uninjured hand.",
+   "Uninjured hand on the support. Kneel on the mat with one knee close to the bench.",
+   "Place the top of that foot (laces down) on the bench behind you.",
+   "Step the other foot forward into a lunge, foot flat. Injured arm across your stomach."
+  ],
+  "cues": [
+   "Tuck your pelvis under and squeeze the glute of the back leg",
+   "Bring your torso upright only as far as you can keep the tuck",
+   "Breathe slowly and let the stretch build",
+   "Feel it at the front of the back thigh and hip, not in the knee"
+  ],
+  "mistakes": [
+   "Arching your lower back to get upright: keep the tuck, even if you stay leaning forward.",
+   "Knee pressure on a hard floor: use a thick pad.",
+   "Back knee too close to the bench, so the stretch is too intense: start further away and edge closer over the weeks."
+  ],
+  "arm_safety": "Unlocks at Light use / rehab started; until then the half-kneeling hip flexor stretch is the last stretch in your daily routine. Getting in and out is the risky moment, so your uninjured hand stays on the support throughout. To get out, lean forward over the front leg, slide the back foot off the bench to the floor, then stand up through a half-kneel with your uninjured hand on the support. Face the same way for both legs so the support stays on your uninjured side. Your injured hand never goes on the floor or bench; keep the arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady or sharp knee pain. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "hip-flexor-stretch-half-kneeling"
+  ],
+  "progressions": [],
+  "dose": "45 s per side (1–2 rounds), from Light use / rehab started; until then the half-kneeling hip flexor stretch",
+  "video": "https://www.youtube.com/results?search_query=couch+stretch+kelly+starrett"
+ },
+ {
+  "id": "deep-squat-hold-box",
+  "name": "Deep squat hold (to a box)",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "low box, step or bench as a safety seat",
+   "rack upright for your uninjured hand"
+  ],
+  "muscles": [
+   "hips, knees and ankles (mobility)",
+   "adductors (stretched)",
+   "quads"
+  ],
+  "why": "Being able to sit comfortably at the bottom of a squat keeps your hips, knees and ankles healthy, and it's how you'll get down to tie a boot or rest on a hillside. The box behind you makes it safe.",
+  "setup": [
+   "Place a low box or step (about 20–30 cm) behind you, close to a rack upright.",
+   "Feet shoulder-width or a little wider, toes turned out 15–30°.",
+   "Hold the upright lightly with your uninjured hand at about chest height as a counterbalance; injured arm across your stomach.",
+   "Slowly sit down as deep as you can, with the box ready to catch you."
+  ],
+  "cues": [
+   "Heels down (small plates under them if they lift)",
+   "Knees out over your toes",
+   "Chest tall; let your hips sink",
+   "Breathe slowly and relax into it",
+   "Shift gently side to side to explore the position"
+  ],
+  "mistakes": [
+   "Collapsing into a deep slump: use a light hold on the upright to stay tall.",
+   "Heels lifting: raise them slightly or widen your stance.",
+   "Forcing depth: if your hips or knees pinch, sit on the box and work at that height."
+  ],
+  "arm_safety": "The box behind you means losing balance ends with a sit. Your uninjured hand holds the upright for balance and to help you rise; stand up by driving through your legs. Injured arm across your stomach (or in its sling if you still wear one); never reach down to the floor with it. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel a pinch in the hip or knee.",
+  "regressions": [
+   "box-squat-bw"
+  ],
+  "progressions": [],
+  "dose": "60 s total (build it up in 2–3 shorter holds if needed)",
+  "video": "https://www.youtube.com/results?search_query=deep+squat+hold+assisted+squat+university"
+ },
+ {
+  "id": "hip-circles-standing",
+  "name": "Standing hip circles (hip CARs)",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "wall or rack upright"
+  ],
+  "muscles": [
+   "hip flexors",
+   "glutes",
+   "hip rotators",
+   "hip capsule"
+  ],
+  "why": "Slow, controlled circles take each hip through its full range under muscle control, keeping it mobile for high steps, stiles and uneven ground, and your standing leg gets a balance workout too.",
+  "setup": [
+   "Stand facing a wall or rack upright at arm's length, uninjured hand resting on it.",
+   "Stand tall on one leg with a soft knee; injured arm across your stomach."
+  ],
+  "cues": [
+   "Lift the knee up in front to hip height",
+   "Open it out to the side as far as you can control",
+   "Turn the foot up and take the knee back behind you",
+   "Bring it down and through to the start, then reverse the direction",
+   "Pelvis and trunk stay still; only the hip moves"
+  ],
+  "mistakes": [
+   "Twisting the whole body: make the circle smaller and slower.",
+   "Rushing: each circle should take 5–10 s.",
+   "Leaning heavily on the support: light touch only."
+  ],
+  "arm_safety": "Facing the support at arm's length gives the knee room to move and keeps your uninjured hand on it for both legs. Put the foot down whenever you wobble. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel a pinch in the hip.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "5 slow circles each way per leg",
+  "video": "https://www.youtube.com/results?search_query=standing+hip+cars+functional+range+conditioning"
+ },
+ {
+  "id": "thoracic-rotation-seated",
+  "name": "Seated thoracic rotation",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "bench or sturdy chair without wheels"
+  ],
+  "muscles": [
+   "upper back (thoracic spine)",
+   "obliques",
+   "rib cage"
+  ],
+  "why": "A mobile upper back lets you turn without twisting your lower back, which helps when looking around on the trail, reaching for things and, later, carrying. It also helps ease the upper-back stiffness that often comes with guarding an injured arm.",
+  "setup": [
+   "Sit astride a bench (or on a sturdy chair), feet flat, knees about 90°.",
+   "Squeeze your knees against the bench to keep your hips still.",
+   "Rest your injured arm across your stomach and lay your uninjured forearm over it, or put your uninjured hand on your opposite shoulder."
+  ],
+  "cues": [
+   "Sit tall first; grow through the top of your head",
+   "Turn your upper body to one side as far as is comfortable",
+   "Breathe out into the turn and hold 2–3 s",
+   "Hips and knees keep facing forward",
+   "Return to the centre and switch sides"
+  ],
+  "mistakes": [
+   "Moving the hips with the shoulders: squeeze your knees and keep your hips square.",
+   "Slumping: sit tall before every turn.",
+   "Yanking into the range: smooth, gentle turns."
+  ],
+  "arm_safety": "Seated with both feet down, so balance risk is minimal. Keep your injured arm supported against your body so it moves with your trunk instead of swinging. Stand up from the bench using your legs. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "8 turns per side",
+  "video": "https://www.youtube.com/results?search_query=seated+thoracic+rotation+mobility+physiotutors",
+  "source": "https://www.nhs.uk/live-well/exercise/sitting-exercises/"
+ },
+ {
+  "id": "leg-swings",
+  "name": "Leg swings (supported)",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "wall or rack upright"
+  ],
+  "muscles": [
+   "hip flexors",
+   "hamstrings",
+   "adductors",
+   "glutes"
+  ],
+  "why": "A quick dynamic warm-up that loosens your hips in the directions you walk and step (forwards, backwards and sideways) before strength work or a long walk.",
+  "setup": [
+   "Front-to-back: stand side-on to a wall or upright with your uninjured hand on it and swing the outside leg.",
+   "For the other leg, turn round and reach your uninjured hand across your body to the support.",
+   "Side-to-side: face the wall with your uninjured hand on it and swing one leg across in front of you and out to the side.",
+   "Injured arm across your stomach."
+  ],
+  "cues": [
+   "Stand tall on a soft standing knee",
+   "Start small and let the swing grow gradually",
+   "Relaxed, rhythmic swings; no kicking",
+   "Trunk stays still; the movement is at the hip"
+  ],
+  "mistakes": [
+   "Swinging hard from the first rep: build up over 5–6 swings.",
+   "Leaning back or rounding to get height: smaller swings, tall posture.",
+   "Letting go of the support: keep your uninjured hand on it throughout."
+  ],
+  "arm_safety": "Your uninjured hand stays on the support for every swing; when you turn round for the other leg, reach it across your body. Keep the swings controlled so the momentum never pulls you off balance. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel unsteady.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "10–15 swings each direction per leg",
+  "video": "https://www.youtube.com/results?search_query=leg+swings+dynamic+warm+up"
+ },
+ {
+  "id": "calf-stretch-wall",
+  "name": "Wall calf stretch (straight and bent knee)",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "wall"
+  ],
+  "muscles": [
+   "calves (gastrocnemius)",
+   "soleus",
+   "Achilles tendon"
+  ],
+  "why": "Your calves work hardest of all on hills and stairs. Stretching both calf muscles keeps the ankle range you need for climbing and descending and eases tightness after sessions.",
+  "setup": [
+   "Stand facing a wall with your uninjured hand flat on it at shoulder height; injured arm across your stomach.",
+   "Step one leg back at least a foot's length, toes pointing forward, both heels flat.",
+   "Bend the front knee."
+  ],
+  "cues": [
+   "Straight-knee version: back leg straight, move your hips towards the wall until you feel the calf",
+   "Bent-knee version: bend the back knee too, heel still down; you'll feel it lower in the calf",
+   "Hold 30 s and breathe slowly",
+   "Don't arch your back"
+  ],
+  "mistakes": [
+   "Back heel lifting: shorten your stance.",
+   "Toes turned out: point them forward or slightly in.",
+   "Bouncing: hold still and breathe."
+  ],
+  "arm_safety": "Both feet stay on the floor and your uninjured hand is on the wall, so balance risk is minimal. Lean through your uninjured hand only; don't push your injured hand into the wall. Facing the wall works for both legs. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [],
+  "progressions": [
+   "ankle-knee-to-wall"
+  ],
+  "dose": "2 × 30 s per leg, each version",
+  "video": "https://www.youtube.com/results?search_query=gastrocnemius+soleus+calf+stretch+physiotutors",
+  "source": "https://www.orthoinfo.org/en/recovery/foot-and-ankle-conditioning-program/"
+ },
+ {
+  "id": "hip-flexor-stretch-half-kneeling",
+  "name": "Half-kneeling hip flexor stretch",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "mat or knee pad",
+   "bench or rack upright for your uninjured hand"
+  ],
+  "muscles": [
+   "hip flexors (stretched)",
+   "glutes (back leg)"
+  ],
+  "why": "A gentler version of the couch stretch that opens the front of the hip so your glutes can drive every stride. Good after long walks and stair-climber sessions.",
+  "setup": [
+   "Put a pad on the floor beside a bench or rack upright, on your uninjured side.",
+   "Uninjured hand on the support; step one foot back and lower that knee onto the pad.",
+   "Front foot flat, front knee over the ankle. Injured arm across your stomach."
+  ],
+  "cues": [
+   "Tuck your pelvis under (tail down) and squeeze the back-leg glute",
+   "Shift forward a few centimetres until you feel the front of the back hip",
+   "Stay tall; no arching",
+   "Hold and breathe slowly"
+  ],
+  "mistakes": [
+   "Arching your lower back and leaning forward: tuck the pelvis first, then shift.",
+   "Kneeling on a hard floor: always use a pad.",
+   "Pushing so far you feel it in the knee: a smaller shift and a bigger glute squeeze."
+  ],
+  "arm_safety": "This is the last stretch in your daily routine; from Light use / rehab started the couch stretch can take its place. Kneel down and stand up through a half-kneel with your uninjured hand on the bench or upright, and face the same way for both legs so the support stays on your uninjured side. Your injured hand never goes to the floor. Injured arm across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [],
+  "progressions": [
+   "couch-stretch"
+  ],
+  "dose": "2 × 30–45 s per side (45 s per side in your daily routine)",
+  "video": "https://www.youtube.com/results?search_query=half+kneeling+hip+flexor+stretch+physiotutors"
+ },
+ {
+  "id": "hamstring-stretch-bench",
+  "name": "Seated hamstring stretch on a bench",
+  "category": "mobility",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "flat bench"
+  ],
+  "muscles": [
+   "hamstrings (stretched)",
+   "calves (stretched)"
+  ],
+  "why": "Keeps the backs of your thighs supple after hinges, hamstring curls and long walks, which helps your stride and your hip hinge. The seated version needs no balance at all.",
+  "setup": [
+   "Sit sideways on a flat bench with one leg stretched along it, heel on the bench, knee soft.",
+   "Other foot flat on the floor beside the bench.",
+   "Uninjured hand on the bench beside you; injured arm resting in your lap."
+  ],
+  "cues": [
+   "Sit tall, then hinge forward from your hips with a flat back",
+   "Stop when you feel a gentle stretch behind the thigh",
+   "Pull your toes back towards you to add the calf",
+   "Hold and breathe slowly; no bouncing"
+  ],
+  "mistakes": [
+   "Rounding your back to reach your toes: hinge from the hips; you don't need to touch anything.",
+   "Locking the knee hard: a small bend is fine.",
+   "Stretching into pain: mild tension only."
+  ],
+  "arm_safety": "Seated, so balance risk is minimal. Swing the leg on and off the bench without using your injured arm, and stand up by pushing through your legs. A standing version (heel on a low step) is fine too, but only with your uninjured hand on a support. Injured arm in your lap or across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "2 × 30–45 s per leg",
+  "video": "https://www.youtube.com/results?search_query=seated+hamstring+stretch+physiotutors"
+ },
+ {
+  "id": "stair-climber",
+  "name": "Stair climber (Zone 2)",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "stair climber (stepmill)"
+  ],
+  "muscles": [
+   "glutes",
+   "quads",
+   "calves",
+   "heart and lungs"
+  ],
+  "why": "The closest gym match to climbing a mountain: thousands of controlled step-ups that build your aerobic engine and leg endurance together. Done steadily in Zone 2, it's the backbone of your hiking fitness.",
+  "setup": [
+   "Before you start, find the stop button and any safety clip; clip it to your clothing with your uninjured hand.",
+   "Step on while the stairs are stationary, uninjured hand on the rail.",
+   "Start at the slowest speed and build up gradually over 2–3 minutes.",
+   "Zone 2: 60–70% of your HRmax (HRmax ≈ 208 − 0.7 × age: about 187 for the 30-year-old example profile, so Zone 2 is about 112–131 bpm; the hub shows your numbers). Talk test: you can speak in full sentences but would rather not, and you could breathe through your nose. Rough cross-check: stay at or below 180 − age.",
+   "Settings: a slow speed at which you can place your whole foot on each step; for most people that's one of the lowest few levels."
+  ],
+  "cues": [
+   "Stand tall; no leaning on or hanging from the rail",
+   "Whole foot on each step; push through the heel",
+   "Until full clearance: uninjured hand lightly on the rail, injured arm across your stomach",
+   "Steady rhythm and steady breathing",
+   "Slow the machine down rather than grabbing on when you tire"
+  ],
+  "mistakes": [
+   "Leaning on or gripping the rail (less work, worse posture): a light touch with your uninjured hand only; slow the speed until you can stand tall.",
+   "Tiptoeing on the front of each step: whole foot down every time.",
+   "Going too fast and drifting into Zone 3–4: check the talk test and your heart rate every few minutes."
+  ],
+  "arm_safety": "Until full clearance: your uninjured hand rests lightly on the rail the whole time (a touch, not a lean), your injured arm stays across your stomach (or in its sling if you still wear one), and the safety clip is on. Step on only while the stairs are stopped. Getting off: slow to the lowest speed, press stop, wait until the stairs stop completely, then step down carefully with your uninjured hand on the rail. Never step on or off moving stairs. After full clearance you can let go of the rail once you feel steady. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel dizzy, faint or unusually breathless. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "incline-walk"
+  ],
+  "progressions": [],
+  "dose": "Tuesday engine: about 8–10 min in Zone 2 at first, building by 2–4 min a week to 30–35 min; uphill 4 × 4-min intervals from Phase 4",
+  "video": "https://www.youtube.com/results?search_query=stair+climber+form+no+hands"
+ },
+ {
+  "id": "incline-walk",
+  "name": "Incline treadmill walk",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "treadmill"
+  ],
+  "muscles": [
+   "glutes",
+   "calves",
+   "hamstrings",
+   "quads",
+   "heart and lungs"
+  ],
+  "why": "Walking uphill is exactly what you're training for. The incline treadmill gives you controllable, all-weather hill work in Zone 2 to build the aerobic base and leg endurance for long days in the hills.",
+  "setup": [
+   "Stand on the stopped belt and clip the safety key to your clothing with your uninjured hand.",
+   "Start at the slowest speed and walk 3–5 min on the flat to warm up.",
+   "Raise the incline gradually: start around 3–6% and build towards 8–12% over the weeks, at about 4–5.5 km/h.",
+   "Zone 2: 60–70% of your HRmax (HRmax ≈ 208 − 0.7 × age: about 187 for the 30-year-old example profile, so Zone 2 is about 112–131 bpm; the hub shows your numbers). Talk test: full sentences are possible but you'd rather not, and you could breathe through your nose. Cross-check: at or below 180 − age."
+  ],
+  "cues": [
+   "Until full clearance: uninjured hand lightly on the rail, injured arm across your stomach",
+   "Stand tall with a slight lean from the ankles, not the waist",
+   "Whole-foot contact; push through the heel and big toe",
+   "Stay in the middle of the belt",
+   "Use incline, not speed, to raise the effort"
+  ],
+  "mistakes": [
+   "Gripping or leaning on the rails: it takes much of the work away and changes your posture; keep a light touch with your uninjured hand and lower the incline until you can stand tall.",
+   "Leaning forward from the waist on steep grades: reduce the incline and stand tall.",
+   "Drifting to the back of the belt: stay near the front; look ahead, not down.",
+   "Stepping onto or off a moving belt: always start and stop with you standing on it."
+  ],
+  "arm_safety": "The safety key is non-negotiable: clip it on before you start, so the belt stops if you drift back. Until full clearance: uninjured hand lightly on the rail throughout (a touch, not a lean), injured arm across your stomach (or in its sling if you still wear one), never holding anything. Start the belt at the slowest speed while you're standing on it; never step onto a moving belt. No phone scrolling and no turning round. To finish: lower the incline, slow to a stroll, press stop, wait for the belt to stop completely, then step off. After full clearance you can walk hands-free once you feel steady. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel dizzy, faint or unusually breathless.",
+  "regressions": [
+   "walk-outdoor"
+  ],
+  "progressions": [
+   "stair-climber",
+   "ruck-light"
+  ],
+  "dose": "20–60 min Zone 2",
+  "video": "https://www.youtube.com/results?search_query=incline+treadmill+walk+no+handrails+zone+2"
+ },
+ {
+  "id": "bike-upright",
+  "name": "Upright exercise bike",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "upright exercise bike"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "calves",
+   "heart and lungs"
+  ],
+  "why": "Zero-impact, zero-balance cardio you can push safely: your warm-up every session, a Zone 2 option and, later, your harder interval sessions. It builds the engine for long hikes without pounding your legs.",
+  "setup": [
+   "Use an upright stationary bike, not a spin bike you have to lean on. Adjust the seat with your uninjured hand before getting on, or ask staff.",
+   "Seat height: with your heel on the pedal at the bottom of the stroke, your leg is straight; with the ball of your foot on the pedal, the knee keeps a slight bend.",
+   "Sit tall. Uninjured hand resting lightly on the handlebar; injured arm across your stomach.",
+   "Zone 2: 60–70% of your HRmax (HRmax ≈ 208 − 0.7 × age: about 187 for the 30-year-old example profile, so Zone 2 is about 112–131 bpm; the hub shows your numbers). Talk test: full sentences but you'd rather not; nasal breathing possible. Cadence about 70–90 rpm with moderate resistance."
+  ],
+  "cues": [
+   "Smooth circles; push and pull through the pedals",
+   "Knees track straight over your feet",
+   "Relaxed shoulders, tall chest",
+   "Adjust the resistance to stay in your zone",
+   "Breathe rhythmically"
+  ],
+  "mistakes": [
+   "Seat too low (ache at the front of the knee): raise it until the knee is just slightly bent at the bottom.",
+   "Seat too high (hips rocking side to side): lower it a notch.",
+   "Leaning on the handlebars: sit up; this bike needs no arm support."
+  ],
+  "arm_safety": "Getting on: stand beside the bike with your uninjured hand on the handlebar, swing your leg over (or step through on a step-through frame) and sit. Getting off: stop pedalling completely, put one foot down, stand, and step away with your uninjured hand on the bar. Never lean on the bars with your injured arm; keep it across your stomach (or in its sling if you still wear one). Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel dizzy, faint or unusually breathless.",
+  "regressions": [
+   "bike-recumbent"
+  ],
+  "progressions": [],
+  "dose": "5 min easy as a warm-up; 20–45 min Zone 2",
+  "video": "https://www.youtube.com/results?search_query=saddle+height+setup+gcn"
+ },
+ {
+  "id": "bike-recumbent",
+  "name": "Recumbent bike",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "recumbent bike (or an upright bike)"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "heart and lungs"
+  ],
+  "why": "The most stable cardio option there is: a backrest, a low step-through seat and no need for your arms at all. Ideal for longer Zone 2 sessions, easy recovery days and amber-readiness days.",
+  "setup": [
+   "Slide the seat (usually a lever under the seat, worked with your uninjured hand) so that at the furthest pedal position your knee is slightly bent.",
+   "Step through the frame and sit back into the backrest; slide your feet into the pedal straps.",
+   "Injured arm across your stomach; uninjured hand on the side handle if you like.",
+   "Zone 2: 60–70% of your HRmax (HRmax ≈ 208 − 0.7 × age: about 187 for the 30-year-old example profile, so Zone 2 is about 112–131 bpm; the hub shows your numbers). Talk test: full sentences but you'd rather not. Cadence about 70–90 rpm."
+  ],
+  "cues": [
+   "Sit back with your lower back against the backrest",
+   "Smooth, even pedal strokes",
+   "Knees in line with your feet",
+   "Adjust the resistance to stay in your zone"
+  ],
+  "mistakes": [
+   "Seat too close (knees come up high, hips pinch): slide it back.",
+   "Seat too far (reaching with your toes): slide it forward.",
+   "Pedalling too easily for too long: add enough resistance to reach Zone 2."
+  ],
+  "arm_safety": "Step-through frame: walk in, turn and sit down using your legs. Adjust the seat with your uninjured hand before you sit, or ask staff. To get off, stop pedalling, slide your feet out of the straps and stand up by pushing through your legs. Injured arm across your stomach (or in its sling if you still wear one). If your gym has no recumbent bike, use the upright bike. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel dizzy, faint or unusually breathless.",
+  "regressions": [],
+  "progressions": [
+   "bike-upright"
+  ],
+  "dose": "20–60 min Zone 2",
+  "video": "https://www.youtube.com/results?search_query=recumbent+bike+setup+seat+position"
+ },
+ {
+  "id": "walk-outdoor",
+  "name": "Outdoor walk (good paths)",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "low",
+  "equipment": [
+   "supportive trainers or walking shoes with grip",
+   "phone",
+   "reflective layer for dark mornings"
+  ],
+  "muscles": [
+   "calves",
+   "glutes",
+   "quads",
+   "hamstrings",
+   "heart and lungs"
+  ],
+  "why": "You already walk; this turns it into training. Daily brisk walks build your aerobic base, your step count (towards 8,000–10,000 a day) and the tolerance in your feet and legs that long-distance hiking demands.",
+  "setup": [
+   "Choose well-lit, even routes: pavements, parks, towpaths and surfaced tracks. Avoid ice, wet leaves, mud and dark, uneven ground until you're fully cleared.",
+   "Wear grippy, supportive shoes, carry your phone and water in a waist pack (2 kg or less) so your uninjured hand stays free, and wear something reflective on dark mornings.",
+   "Easy days: conversational pace. Zone 2 days: walk briskly or add gentle hills, so that you can speak in full sentences but would rather not (60–70% of HRmax; the hub shows your bpm)."
+  ],
+  "cues": [
+   "Tall posture, eyes ahead, not down at your phone",
+   "Quick, natural steps rather than long overstrides",
+   "Let your uninjured arm swing; injured arm relaxed",
+   "Push off through the big toe",
+   "Slow down on slopes, kerbs and wet patches"
+  ],
+  "mistakes": [
+   "Always walking at the same easy pace: include brisk Zone 2 sections and gentle hills.",
+   "Overstriding, with the heel slamming down in front: shorter, quicker steps.",
+   "Walking on risky surfaces to get the steps in: on icy or very wet days, walk on the treadmill instead."
+  ],
+  "arm_safety": "Falls are the biggest risk while the bone heals, so route choice is your safety equipment: firm, even, well-lit paths only, and no ice or wet leaves. Keep your uninjured hand free (no coffee cup or phone in it) so it's ready for balance, and nothing in your injured hand or on that side's shoulder: a waist pack only until Light use / rehab started. If you still wear a sling, use it as instructed. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you feel dizzy or unusually breathless. Any fall onto the arm: stop and get it checked.",
+  "regressions": [],
+  "progressions": [
+   "hike-outdoor",
+   "incline-walk"
+  ],
+  "dose": "30–60 min most days; build towards 8,000–10,000 steps a day",
+  "video": "https://www.youtube.com/results?search_query=brisk+walking+technique+posture",
+  "source": "https://www.cdc.gov/physical-activity-basics/measuring/index.html"
+ },
+ {
+  "id": "hike-outdoor",
+  "name": "Outdoor hike (good paths first)",
+  "category": "conditioning",
+  "gate": "none",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "walking boots or trail shoes with grip",
+   "waist pack, 2 kg or less (water, snack, phone), until Light use / rehab started; a light day pack after that",
+   "map or navigation app"
+  ],
+  "muscles": [
+   "glutes",
+   "quads",
+   "calves",
+   "hamstrings",
+   "core",
+   "heart and lungs"
+  ],
+  "why": "This is the goal itself: long, steady days on your feet. Regular longer hikes build the endurance, foot toughness and pacing skills that no machine fully copies, on safe terrain until you're cleared for rougher ground.",
+  "setup": [
+   "Until full clearance: hike Levels 1–3 only, as on the Hikes page: tarmac or firm, level gravel, dry, in daylight, on stile-free routes. No scrambling, scree, wet rock, mud, ice, steep descents or stiles.",
+   "Tell someone your route and return time, and carry a charged phone.",
+   "Carry it in a waist pack (2 kg or less), put on and taken off with your uninjured hand: nothing in your injured hand or on that side's shoulder. Pack walks with a day pack are the separate light-ruck exercise, from Light use / rehab started.",
+   "Pace in Zone 2: you can talk in full sentences but would rather not (60–70% of HRmax; the hub shows your bpm)."
+  ],
+  "cues": [
+   "Uphill: shorten your steps and keep a steady breathing rhythm; slow down rather than stop",
+   "Downhill: short steps, soft knees, eyes 2–3 steps ahead",
+   "Place your whole foot; avoid loose stones, roots and wet wood",
+   "Eat and drink a little every 45–60 min on longer outings",
+   "Turn back early if the path or the weather gets worse"
+  ],
+  "mistakes": [
+   "Starting too fast: the first 15 minutes should feel easy.",
+   "Long, braking strides downhill: shorter, quicker steps protect your knees.",
+   "Taking on 'just one' rough or slippery section, or a stile: before full clearance, route around it or turn back."
+  ],
+  "arm_safety": "A fall onto the arm is the main risk, so terrain choice is the safety rule: until full clearance, Levels 1–3 ground only (firm, level and stile-free), no slippery or loose ground, and extra care on kerbs and slopes. Keep your uninjured hand free: those routes are flat, so you don't need a pole. Waist pack only until Light use / rehab started. Injured arm relaxed across your stomach (or in its sling if you still wear one). Stop and head home if arm pain rises, it throbs, swells, tingles or goes numb, or you feel dizzy or unusually exhausted. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "walk-outdoor"
+  ],
+  "progressions": [
+   "ruck-light"
+  ],
+  "dose": "Before full clearance: Levels 1–3 walks on free weekends. Phases 4–5: your back-to-back day, building from about 45 min to 3 h on mixed terrain, mostly Zone 1–2",
+  "video": "https://www.youtube.com/results?search_query=hiking+uphill+downhill+technique+rei"
+ },
+ {
+  "id": "ga-chest-press-machine",
+  "name": "Single-arm chest press machine (good arm)",
+  "category": "push",
+  "gate": "good_arm_ok",
+  "arm_use": "good-arm",
+  "fall_risk": "low",
+  "equipment": [
+   "chest press machine (independent arms preferred)"
+  ],
+  "muscles": [
+   "chest (pecs)",
+   "front delts",
+   "triceps"
+  ],
+  "why": "Keeps your uninjured arm and chest strong while the other side heals and starts your upper-body muscle gain early. In small trials after wrist and forearm fractures, training the uninjured side helped the injured side keep more strength (the 'cross-education' effect).",
+  "setup": [
+   "Only once your clinic or physio has said you can train your uninjured arm.",
+   "Choose a machine with independent arms if possible. Set the seat with your uninjured hand so the handle is at mid-chest height.",
+   "Set the weight pin with your uninjured hand and start light.",
+   "Sit back with your shoulder blades against the pad, feet flat. Injured arm resting in your lap or across your stomach."
+  ],
+  "cues": [
+   "Shoulder blade back and down before you press",
+   "Press smoothly and stop just short of locking the elbow",
+   "Lower for 2–3 s until you feel a chest stretch",
+   "Breathe out as you press",
+   "Keep your chest square; don't twist towards the working side"
+  ],
+  "mistakes": [
+   "Twisting your torso to push: lighter weight, back flat against the pad.",
+   "Shoulder shrugging up: set the shoulder blade down and back before each rep.",
+   "Injured hand gripping the seat or the other handle: rest it in your lap and keep it open."
+  ],
+  "arm_safety": "Sit down and stand up using your legs; adjust the seat and pin with your uninjured hand (ask staff if a lever is stiff). If the two handles are linked, the unused one may move, so keep your injured arm well clear of it. Injured hand stays open and relaxed in your lap (or the arm in its sling if you still wear one); if you notice it clenching or bracing, reduce the weight. Moderate effort (RIR 2–3) and no breath-holding. Anything your physio prescribes or restricts takes priority. Stop if your injured arm aches, throbs, swells, tingles or goes numb, or you notice any red-flag symptom.",
+  "regressions": [],
+  "progressions": [
+   "chest-press-machine"
+  ],
+  "dose": "3 × 8–12, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=single+arm+machine+chest+press+form",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23529145%20AND%20SRC:MED&format=json&resultType=core"
+ },
+ {
+  "id": "ga-cable-row",
+  "name": "Single-arm seated cable row (good arm)",
+  "category": "pull",
+  "gate": "good_arm_ok",
+  "arm_use": "good-arm",
+  "fall_risk": "low",
+  "equipment": [
+   "cable machine or seated row station",
+   "single D-handle"
+  ],
+  "muscles": [
+   "lats",
+   "mid back (rhomboids, mid traps)",
+   "rear delts",
+   "biceps",
+   "obliques (anti-rotation)"
+  ],
+  "why": "Builds your upper back, the posture muscles that carry a rucksack well, while the one-sided pull trains your core to resist twisting. It also adds to the cross-education effect for the healing arm.",
+  "setup": [
+   "Only once your clinic or physio has cleared you to train your uninjured arm.",
+   "Clip a single D-handle to the low cable (or seated row station) with your uninjured hand and set a light weight.",
+   "Sit on the seat or a bench with your feet braced on the footplate or floor, knees soft.",
+   "Lean forward to take the handle with your uninjured hand, then sit up tall. Injured arm resting on your thigh or across your stomach."
+  ],
+  "cues": [
+   "Sit tall, chest up; no rocking",
+   "Pull your elbow back past your ribs, leading with the shoulder blade",
+   "Squeeze 1 s, then let the arm reach forward slowly",
+   "Shoulders stay square; resist the twist",
+   "Breathe out as you pull"
+  ],
+  "mistakes": [
+   "Leaning back and rocking to move the weight: lighter load, still trunk.",
+   "Twisting towards the working side: keep your chest facing forward.",
+   "Shrugging: keep the shoulder down, away from your ear."
+  ],
+  "arm_safety": "Seated with your feet braced, so your balance is secure. To finish, let the handle travel forward under control until the stack rests, then let go; never let it snap back. Sit and stand using your legs only. Injured hand open and relaxed on your thigh, well away from the cable (or the arm in its sling if you still wear one). Moderate effort (RIR 2–3) and no breath-holding. Physio instructions take priority. Stop if your injured arm aches, throbs, swells, tingles or goes numb, or you notice any red-flag symptom.",
+  "regressions": [],
+  "progressions": [
+   "seated-cable-row"
+  ],
+  "dose": "3 × 8–12, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=single+arm+seated+cable+row+jeff+nippard"
+ },
+ {
+  "id": "ga-lat-pulldown",
+  "name": "Single-arm lat pulldown (good arm)",
+  "category": "pull",
+  "gate": "good_arm_ok",
+  "arm_use": "good-arm",
+  "fall_risk": "low",
+  "equipment": [
+   "lat pulldown machine or high cable",
+   "single D-handle"
+  ],
+  "muscles": [
+   "lats",
+   "teres major",
+   "biceps",
+   "rear delts",
+   "core"
+  ],
+  "why": "Your lats are among the biggest upper-body muscles, so they matter for the +5 kg goal and for future pull-ups, carries and scrambling. Training one side now keeps the pattern and strength alive until both arms can pull.",
+  "setup": [
+   "Only once your clinic or physio has cleared you to train your uninjured arm.",
+   "Swap the bar for a single D-handle (uninjured hand, or ask staff) and set a light weight.",
+   "Set the thigh pad with your uninjured hand so it sits snugly on your thighs.",
+   "Stand, take the handle with your uninjured hand, then sit down under the pad, letting the arm stretch overhead. Injured arm resting on your thigh."
+  ],
+  "cues": [
+   "Start each rep by drawing the shoulder blade down",
+   "Drive the elbow down towards your back pocket",
+   "Handle finishes by your shoulder or upper chest",
+   "Return slowly over 2–3 s until the arm is long",
+   "Stay upright; breathe out as you pull"
+  ],
+  "mistakes": [
+   "Leaning far back or bending sideways: lighter weight, ribs down.",
+   "Pulling with the hand and biceps only: think 'elbow down', not 'hand down'.",
+   "Letting the handle snap up: control the return every rep."
+  ],
+  "arm_safety": "Use a weight light enough that sitting down and standing up with the handle is fully controlled. To finish, stand up slowly so the handle rises until the stack rests, then let go. If the handle is out of reach when seated, use a high cable and a bench instead, or ask staff to pass it to you. Injured arm resting on your thigh, hand relaxed and well clear of the pad and cable (or in its sling if you still wear one). Moderate effort (RIR 2–3) and no breath-holding. Physio instructions take priority. Stop if your injured arm aches, throbs, swells, tingles or goes numb, or you notice any red-flag symptom.",
+  "regressions": [],
+  "progressions": [
+   "lat-pulldown"
+  ],
+  "dose": "3 × 8–12, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=single+arm+lat+pulldown+jeff+nippard"
+ },
+ {
+  "id": "ga-db-curl-seated",
+  "name": "Seated dumbbell curl (good arm)",
+  "category": "pull",
+  "gate": "good_arm_ok",
+  "arm_use": "good-arm",
+  "fall_risk": "low",
+  "equipment": [
+   "dumbbell",
+   "adjustable bench set upright"
+  ],
+  "muscles": [
+   "biceps",
+   "brachialis",
+   "brachioradialis",
+   "forearm flexors"
+  ],
+  "why": "Builds the elbow flexors and forearm of your uninjured arm, which are part of carrying and farmer strength, and supports the cross-education effect for the healing arm. Sitting with back support keeps you stable and honest.",
+  "setup": [
+   "Only once your clinic or physio has cleared you to train your uninjured arm.",
+   "Set an adjustable bench upright (75–90°) near the dumbbell rack.",
+   "Take a light dumbbell from the rack with your uninjured hand, holding it close to your body, and sit down.",
+   "Back against the pad, feet flat; injured arm resting on its own thigh."
+  ],
+  "cues": [
+   "Elbow stays by your side",
+   "Curl up, turning the palm to face you",
+   "Squeeze 1 s at the top",
+   "Lower over 3 s to a straight arm",
+   "Breathe out as you curl"
+  ],
+  "mistakes": [
+   "Swinging your body: sit back against the pad and lighten the weight.",
+   "Elbow drifting forward: keep it pinned by your side.",
+   "Half reps: lower all the way down."
+  ],
+  "arm_safety": "Pick up and return the dumbbell with your uninjured hand only, from a rack at hip height where possible rather than the floor. Never pass the dumbbell across your body or near your injured arm. Injured arm resting on its own thigh, hand relaxed (or in its sling if you still wear one). Moderate effort (RIR 2–3) and no breath-holding. Physio instructions take priority. Stop if your injured arm aches, throbs, swells, tingles or goes numb, or you notice any red-flag symptom.",
+  "regressions": [],
+  "progressions": [
+   "db-curl"
+  ],
+  "dose": "3 × 8–12, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=seated+dumbbell+curl+form+jeremy+ethier"
+ },
+ {
+  "id": "ga-triceps-pushdown",
+  "name": "Single-arm triceps pushdown (good arm)",
+  "category": "push",
+  "gate": "good_arm_ok",
+  "arm_use": "good-arm",
+  "fall_risk": "low",
+  "equipment": [
+   "cable machine (high pulley)",
+   "single D-handle or rope"
+  ],
+  "muscles": [
+   "triceps"
+  ],
+  "why": "Your triceps make up much of your upper-arm size and will power every press, push-up and pole plant later. This keeps your uninjured arm strong and adds to the cross-education effect.",
+  "setup": [
+   "Only once your clinic or physio has cleared you to train your uninjured arm.",
+   "Pulley at the top; clip on a single D-handle with your uninjured hand and set a light weight.",
+   "Stand close to the machine in a short split stance, or sit on a bench under the pulley if you feel at all unsteady.",
+   "Elbow tucked by your side; injured arm across your stomach."
+  ],
+  "cues": [
+   "Upper arm stays still, pinned to your side",
+   "Push down until the elbow is straight and squeeze 1 s",
+   "Let the forearm come back up to about 90°, slowly",
+   "Stand tall; don't lean over the handle",
+   "Breathe out as you push"
+  ],
+  "mistakes": [
+   "Elbow flaring or drifting forward: lighter weight, elbow glued to your side.",
+   "Using your bodyweight to push down: stand tall and let the triceps do it.",
+   "Letting the handle fly up: control the return."
+  ],
+  "arm_safety": "A short split stance close to the stack is stable; sit on a bench if you feel at all unsteady. To finish, let the handle rise slowly until the stack rests before letting go. Injured arm across your stomach, hand relaxed and away from the cable (or in its sling if you still wear one). Moderate effort (RIR 2–3) and no breath-holding. Physio instructions take priority. Stop if your injured arm aches, throbs, swells, tingles or goes numb, or you notice any red-flag symptom.",
+  "regressions": [],
+  "progressions": [
+   "triceps-rope-pushdown"
+  ],
+  "dose": "2–3 × 10–15, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=single+arm+cable+triceps+pushdown+form"
+ },
+ {
+  "id": "ga-db-shoulder-press-seated",
+  "name": "Seated single-arm dumbbell shoulder press (good arm)",
+  "category": "push",
+  "gate": "good_arm_ok",
+  "arm_use": "good-arm",
+  "fall_risk": "low",
+  "equipment": [
+   "dumbbell",
+   "adjustable bench set upright"
+  ],
+  "muscles": [
+   "delts (front and side)",
+   "triceps",
+   "upper traps",
+   "core (anti-lean)"
+  ],
+  "why": "Strong, healthy shoulders matter for swinging a pack onto your back, reaching overhead and, later, carrying. Pressing one side while seated also trains your trunk to stay upright against an uneven load.",
+  "setup": [
+   "Only once your clinic or physio has cleared you to train your uninjured arm.",
+   "Set the bench upright (80–90°). Take a light dumbbell from the rack with your uninjured hand and sit down with it resting on your thigh.",
+   "Lift it to shoulder height with your uninjured arm; a small knee lift can help.",
+   "Back against the pad, feet wide and flat; injured arm resting on its own thigh."
+  ],
+  "cues": [
+   "Ribs down, back against the pad",
+   "Press up and slightly in until the arm is straight overhead",
+   "Lower over 2–3 s to just above shoulder height",
+   "Don't lean away from the dumbbell",
+   "Breathe out as you press"
+  ],
+  "mistakes": [
+   "Arching your lower back: ribs down, lighter weight.",
+   "Bending sideways away from the working arm: stay stacked and use less load.",
+   "Elbow flared straight out to the side: keep it slightly in front of your body."
+  ],
+  "arm_safety": "Pick up and put down the dumbbell with your uninjured hand only: at the end, lower it to your shoulder, then your thigh, then return it to the rack or lower it to the floor on your uninjured side. If a rep fails, lower it out to your uninjured side, never towards your injured arm. Injured arm resting on its own thigh, hand relaxed (or in its sling if you still wear one). Moderate effort (RIR 2–3) and no breath-holding. Physio instructions take priority. Stop if your injured arm aches, throbs, swells, tingles or goes numb, or you notice any red-flag symptom.",
+  "regressions": [],
+  "progressions": [
+   "db-shoulder-press"
+  ],
+  "dose": "2–3 × 8–12, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=seated+single+arm+dumbbell+shoulder+press"
+ },
+ {
+  "id": "ga-wrist-curl",
+  "name": "Seated wrist curl (good arm)",
+  "category": "grip",
+  "gate": "good_arm_ok",
+  "arm_use": "good-arm",
+  "fall_risk": "low",
+  "equipment": [
+   "light dumbbell",
+   "bench"
+  ],
+  "muscles": [
+   "forearm flexors",
+   "finger flexors"
+  ],
+  "why": "Forearm strength underpins farmer strength, because every carry starts with the grip. Training your uninjured forearm builds that base now, and in a small trial after wrist fractures, training the uninjured wrist was linked with stronger wrist muscles on the injured side once the cast came off.",
+  "setup": [
+   "Only once your clinic or physio has cleared you to train your uninjured arm.",
+   "Sit on a bench and rest your uninjured forearm on your thigh (or along the bench), palm up, wrist just past the knee.",
+   "Hold a light dumbbell. Injured arm resting on its own thigh.",
+   "Optional: add palm-down (reverse) wrist curls for the extensors."
+  ],
+  "cues": [
+   "Forearm stays still on your thigh",
+   "Let the wrist bend back slowly; the fingers can uncurl slightly",
+   "Curl the wrist up as high as you can and squeeze 1 s",
+   "Slow and controlled: 2 s up, 2 s down"
+  ],
+  "mistakes": [
+   "Lifting the forearm off your thigh: keep it pinned and use a lighter weight.",
+   "Bouncing: slow reps through the full range.",
+   "Going too heavy: pick a weight you can move smoothly for 12–20 reps."
+  ],
+  "arm_safety": "Seated and stable. Pick up and put down the dumbbell with your uninjured hand only. Injured arm resting on its own thigh, hand open and relaxed (or in its sling if you still wear one); don't let it copy the movement unless your physio has prescribed that. Moderate effort and no breath-holding. Physio instructions take priority. Stop if your injured arm aches, throbs, swells, tingles or goes numb, or you notice any red-flag symptom.",
+  "regressions": [
+   "ga-grip-squeeze"
+  ],
+  "progressions": [],
+  "dose": "3 × 12–15, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=seated+dumbbell+wrist+curl+form",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41196520%20AND%20SRC:MED&format=json&resultType=core"
+ },
+ {
+  "id": "ga-grip-squeeze",
+  "name": "Grip squeeze (good hand)",
+  "category": "grip",
+  "gate": "good_arm_ok",
+  "arm_use": "good-arm",
+  "fall_risk": "low",
+  "equipment": [
+   "hand gripper (about £5–10) or a tightly rolled towel",
+   "or a dumbbell for timed holds"
+  ],
+  "muscles": [
+   "finger flexors",
+   "forearm flexors",
+   "thumb muscles"
+  ],
+  "why": "Grip is the limiting factor in farmer-style carries. Squeezing work builds crushing grip in your uninjured hand now, and in a trial after wrist fractures, training the uninjured hand was linked with better grip strength in the injured hand at 12 weeks.",
+  "setup": [
+   "Only once your clinic or physio has cleared you to train your uninjured arm.",
+   "Sit on a bench with your uninjured forearm resting on your thigh.",
+   "Hold a gripper, stress ball or tightly rolled towel in your uninjured hand. In the gym, a timed hold of a dumbbell hanging at your side while seated works too.",
+   "Injured arm resting on its own thigh."
+  ],
+  "cues": [
+   "Squeeze hard for 3–5 s, then relax fully",
+   "Wrist straight, thumb wrapped round",
+   "Breathe out as you squeeze; no breath-holding",
+   "For holds: shoulder down, sit tall, hold for time"
+  ],
+  "mistakes": [
+   "Holding your breath while squeezing: breathe out slowly through each squeeze.",
+   "Bending the wrist: keep it straight and strong.",
+   "Partial squeezes: close the hand fully (or as far as the gripper allows) and hold."
+  ],
+  "arm_safety": "Seated and stable. Keep your injured hand open and relaxed on its thigh (or the arm in its sling if you still wear one); you may notice it wants to squeeze too, so let it rest. If your physio has prescribed hand exercises for your injured side, do those separately, as prescribed. Physio instructions take priority. Stop if your injured arm aches, throbs, swells, tingles or goes numb, or you notice any red-flag symptom.",
+  "regressions": [],
+  "progressions": [
+   "ga-wrist-curl",
+   "suitcase-carry-good-hand"
+  ],
+  "dose": "3 × 8–12 hard 3-s squeezes, RIR 2–3",
+  "video": "https://www.youtube.com/results?search_query=hand+gripper+training+technique",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23529145%20AND%20SRC:MED&format=json&resultType=core"
+ },
+ {
+  "id": "suitcase-carry-good-hand",
+  "name": "Suitcase carry (good hand)",
+  "category": "carry",
+  "gate": "grip_cleared",
+  "arm_use": "good-arm",
+  "fall_risk": "medium",
+  "equipment": [
+   "dumbbell (or kettlebell if your gym has them)",
+   "clear, flat walkway"
+  ],
+  "muscles": [
+   "obliques",
+   "quadratus lumborum",
+   "grip",
+   "upper traps",
+   "glute medius"
+  ],
+  "why": "A one-sided carry makes your core keep you upright and walking straight, and it builds grip. It isn't in your plan: training carries wait for grip clearance, and with your uninjured hand holding the weight nothing is free to break a stumble. After grip clearance, do it only if your physio suggests a one-handed carry with your uninjured hand while your injured hand builds up.",
+  "setup": [
+   "Only after grip clearance (training carries wait for it), and only if your physio suggests carrying with your uninjured hand alone.",
+   "Choose a clear, flat 15–20 m lane with nothing to trip over.",
+   "Take the dumbbell from a rack at hip height with your uninjured hand (or pick it up from the floor with a flat back, bending your knees).",
+   "Stand tall; injured arm resting across your stomach."
+  ],
+  "cues": [
+   "Stand tall; don't lean towards or away from the weight",
+   "Shoulders level; pull the carrying shoulder down and back",
+   "Brace lightly and keep breathing",
+   "Normal, steady steps; eyes ahead",
+   "Squeeze the handle hard"
+  ],
+  "mistakes": [
+   "Leaning away from the weight to balance it: lighter dumbbell, stand tall.",
+   "Shrugging the carrying shoulder: pull it down towards your back pocket.",
+   "Rushing: walk at a normal pace, because speed hides poor posture."
+  ],
+  "arm_safety": "Normally your uninjured hand is your fall protection, and here it's holding the weight, so if you stumble, drop the dumbbell to the side straight away and keep your injured arm tucked in. Flat, clear, dry floor only; turn slowly at the end of each length. Put the dumbbell down by squatting with a flat back. Once your injured hand reaches the 70% rung (measured by your physio or with their OK), the both-sides suitcase carry replaces this one. Moderate load and no breath-holding. Physio instructions take priority. Stop if your injured arm aches, throbs, swells, tingles or goes numb, you notice any red-flag symptom, or you feel unsteady. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "ga-grip-squeeze"
+  ],
+  "progressions": [
+   "suitcase-carry",
+   "farmer-carry"
+  ],
+  "dose": "3–4 × 20–30 m; start light (around 8–12 kg) and add 2 kg when you can walk tall with no lean",
+  "video": "https://www.youtube.com/results?search_query=suitcase+carry+strongfirst",
+  "source": "https://www.strongfirst.com/consider-adding-kettlebell-carries-training/"
+ },
+ {
+  "id": "rehab-finger-tendon-glides",
+  "name": "Finger tendon glides (injured hand)",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "table or pillow to support the forearm"
+  ],
+  "muscles": [
+   "finger flexor tendons",
+   "finger extensors",
+   "hand intrinsic muscles"
+  ],
+  "why": "Typical purpose: keeps the finger tendons sliding freely through the wrist and forearm and helps with finger stiffness, which is the starting point for getting your grip, and so your farmer strength, back. Only as prescribed by your physio; doses here are placeholders.",
+  "setup": [
+   "Use only the version your physio has shown you.",
+   "Sit at a table with your forearm supported, elbow bent, wrist relaxed and roughly straight.",
+   "Move slowly through five positions: straight hand; hook fist (bend the middle and end finger joints, knuckles straight); full fist; tabletop (bend at the knuckles only, fingers straight); straight fist (bend the knuckles and middle joints, fingertips straight, touching the base of your palm).",
+   "Return to the straight hand between positions if your physio prefers."
+  ],
+  "cues": [
+   "Slow and gentle; hold each position 3–5 s",
+   "Move only as far as is comfortable",
+   "Keep the wrist relaxed and still",
+   "Breathe normally"
+  ],
+  "mistakes": [
+   "Forcing the fist with the other hand: active movement only, unless your physio has shown you otherwise.",
+   "Rushing through the positions: each one moves the tendons differently, so take your time.",
+   "Pushing into sharp pain: back off to a comfortable range."
+  ],
+  "arm_safety": "Do this only if your physio or clinic has prescribed it, and only the way they showed you. Sit with the forearm fully supported. Your physio will tell you how much discomfort is acceptable. Stop and contact your physio or fracture clinic (or NHS 111 out of hours) if pain is sharp or keeps increasing, the hand or forearm swells more, goes numb, tingly, pale, blue or cold, the wound or scar looks red, hot or weeps, or you feel feverish or unwell.",
+  "regressions": [],
+  "progressions": [
+   "rehab-putty-grip"
+  ],
+  "dose": "Only as prescribed by your physio; doses here are placeholders. Typical starting point: 5–10 slow rounds, several times a day.",
+  "video": "https://www.youtube.com/results?search_query=tendon+gliding+exercises+hand+therapy",
+  "source": "https://www.orthoinfo.org/en/diseases--conditions/distal-radius-fractures-broken-wrist/"
+ },
+ {
+  "id": "rehab-wrist-flex-ext",
+  "name": "Wrist bend up and down (active range of motion)",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "table",
+   "folded towel"
+  ],
+  "muscles": [
+   "wrist flexors",
+   "wrist extensors"
+  ],
+  "why": "Typical purpose: restores the up-and-down bend of the wrist (flexion and extension), which you'll need for everything from getting up off the floor to carrying and using walking poles. Only as prescribed by your physio; doses here are placeholders.",
+  "setup": [
+   "Use only the version your physio has shown you.",
+   "Sit at a table and rest your forearm on a folded towel, hand over the edge, palm down.",
+   "Let your fingers relax, or make a loose fist if your physio prefers."
+  ],
+  "cues": [
+   "Slowly lift the back of your hand up as far as is comfortable",
+   "Then slowly lower it down as far as is comfortable",
+   "Forearm stays flat on the towel",
+   "Smooth movement with a brief pause at each end",
+   "Repeat palm up only if your physio prescribes it"
+  ],
+  "mistakes": [
+   "Lifting the forearm to cheat the range: keep it pinned to the towel.",
+   "Forcing the end of the range with the other hand: only if your physio has taught you assisted stretches.",
+   "Fast, jerky reps: slow and smooth."
+  ],
+  "arm_safety": "Do this only if your physio or clinic has prescribed it, and only the way they showed you. Keep the forearm supported throughout. Your physio will tell you how much discomfort is acceptable. Stop and contact your physio or fracture clinic (or NHS 111 out of hours) if pain is sharp or keeps increasing, the hand or forearm swells more, goes numb, tingly, pale, blue or cold, the wound or scar looks red, hot or weeps, or you feel feverish or unwell.",
+  "regressions": [],
+  "progressions": [
+   "rehab-wrist-curl-light",
+   "rehab-reverse-wrist-curl-light"
+  ],
+  "dose": "Only as prescribed by your physio; doses here are placeholders. Typical starting point: 10 slow reps, 3–4 times a day.",
+  "video": "https://www.youtube.com/results?search_query=wrist+flexion+extension+exercises+after+fracture+physiotherapy",
+  "source": "https://www.orthoinfo.org/en/diseases--conditions/distal-radius-fractures-broken-wrist/"
+ },
+ {
+  "id": "rehab-forearm-rotation",
+  "name": "Forearm rotation (palm up, palm down)",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "table or thigh to support the forearm",
+   "rolled towel"
+  ],
+  "muscles": [
+   "supinator",
+   "biceps",
+   "pronator teres",
+   "pronator quadratus"
+  ],
+  "why": "Typical purpose: restores turning the palm up (supination) and down (pronation). This movement depends on both forearm bones, so it's a common focus of rehab after forearm fractures, and you need it for door handles, keys, mugs and walking poles. Only as prescribed by your physio; doses here are placeholders.",
+  "setup": [
+   "Use only the version your physio has shown you.",
+   "Sit with your elbow bent to 90° and tucked into your side; a rolled towel between elbow and ribs helps.",
+   "Forearm supported on a table or your thigh, thumb pointing up."
+  ],
+  "cues": [
+   "Slowly turn your palm up to face the ceiling",
+   "Then slowly turn it down to face the floor",
+   "Elbow stays tucked in; don't let the shoulder do the work",
+   "Pause briefly at each end of the comfortable range"
+  ],
+  "mistakes": [
+   "Elbow drifting away from your body: keep the towel squeezed against your side.",
+   "Rotating from the shoulder to fake the range: keep the upper arm still.",
+   "Pushing into sharp pain: stay in the comfortable range."
+  ],
+  "arm_safety": "Do this only if your physio or clinic has prescribed it, and only the way they showed you. Keep the forearm supported and the movement slow. Your physio will tell you how much discomfort is acceptable. Stop and contact your physio or fracture clinic (or NHS 111 out of hours) if pain is sharp or keeps increasing, the hand or forearm swells more, goes numb, tingly, pale, blue or cold, the wound or scar looks red, hot or weeps, or you feel feverish or unwell.",
+  "regressions": [],
+  "progressions": [
+   "rehab-hammer-rotation-light"
+  ],
+  "dose": "Only as prescribed by your physio; doses here are placeholders. Typical starting point: 10 slow reps each way, 3–4 times a day.",
+  "video": "https://www.youtube.com/results?search_query=forearm+pronation+supination+exercise+physiotherapy",
+  "source": "https://www.nhs.uk/conditions/broken-arm-or-wrist/"
+ },
+ {
+  "id": "rehab-wrist-deviation",
+  "name": "Wrist side to side (radial and ulnar deviation)",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "table"
+  ],
+  "muscles": [
+   "wrist flexors and extensors (thumb side and little-finger side)"
+  ],
+  "why": "Typical purpose: restores the side-to-side movement of the wrist, which you use when pouring, hammering, gripping a walking pole and carrying a bag by its handle. Only as prescribed by your physio; doses here are placeholders.",
+  "setup": [
+   "Use only the version your physio has shown you.",
+   "Sit with your forearm resting on a table, palm down and hand flat (or thumb up with the hand over the edge, if that's what your physio shows you).",
+   "Keep the forearm still."
+  ],
+  "cues": [
+   "Slide your hand towards the thumb side, then towards the little-finger side",
+   "Keep the movement at the wrist, not the elbow",
+   "Slow and smooth, with a brief pause at each end",
+   "Only as far as is comfortable"
+  ],
+  "mistakes": [
+   "Moving the forearm instead of the wrist: anchor the forearm on the table.",
+   "Bending the wrist up or down at the same time: keep the hand flat on the table.",
+   "Rushing: slow reps."
+  ],
+  "arm_safety": "Do this only if your physio or clinic has prescribed it, and only the way they showed you. Keep the forearm supported. Your physio will tell you how much discomfort is acceptable. Stop and contact your physio or fracture clinic (or NHS 111 out of hours) if pain is sharp or keeps increasing, the hand or forearm swells more, goes numb, tingly, pale, blue or cold, the wound or scar looks red, hot or weeps, or you feel feverish or unwell.",
+  "regressions": [],
+  "progressions": [
+   "rehab-rice-bucket"
+  ],
+  "dose": "Only as prescribed by your physio; doses here are placeholders. Typical starting point: 10 slow reps each way, 3–4 times a day.",
+  "video": "https://www.youtube.com/results?search_query=wrist+radial+ulnar+deviation+exercise+physiotherapy"
+ },
+ {
+  "id": "rehab-elbow-flex-ext",
+  "name": "Elbow bend and straighten (active range of motion)",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "none (table optional)"
+  ],
+  "muscles": [
+   "biceps",
+   "brachialis",
+   "brachioradialis",
+   "triceps"
+  ],
+  "why": "Typical purpose: keeps or restores full elbow bending and straightening, which can stiffen after a forearm fracture and a period of protecting the arm. A straight elbow matters for carrying, and a full bend for eating and washing. Only as prescribed by your physio; doses here are placeholders.",
+  "setup": [
+   "Use only the version your physio has shown you.",
+   "Sit or stand tall with your upper arm by your side, or supported on a table if your physio prefers.",
+   "Start with the palm facing up; your physio may also ask for palm-down or thumb-up versions."
+  ],
+  "cues": [
+   "Slowly bend the elbow, bringing your hand towards your shoulder",
+   "Then slowly straighten it as far as is comfortable",
+   "Shoulder relaxed and still",
+   "Pause briefly at each end"
+  ],
+  "mistakes": [
+   "Swinging the arm: slow, controlled movement.",
+   "Shrugging the shoulder: keep it down and relaxed.",
+   "Forcing the last few degrees: stay gentle; consistency beats force."
+  ],
+  "arm_safety": "Do this only if your physio or clinic has prescribed it, and only the way they showed you. Move slowly and don't swing the arm. Your physio will tell you how much discomfort is acceptable. Stop and contact your physio or fracture clinic (or NHS 111 out of hours) if pain is sharp or keeps increasing, the hand or forearm swells more, goes numb, tingly, pale, blue or cold, the wound or scar looks red, hot or weeps, or you feel feverish or unwell.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "Only as prescribed by your physio; doses here are placeholders. Typical starting point: 10 slow reps, 3–4 times a day.",
+  "video": "https://www.youtube.com/results?search_query=elbow+flexion+extension+range+of+motion+exercise+physiotherapy",
+  "source": "https://www.nhs.uk/conditions/broken-arm-or-wrist/"
+ },
+ {
+  "id": "rehab-putty-grip",
+  "name": "Therapy putty grip work",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "therapy putty (grade chosen by your physio)",
+   "table"
+  ],
+  "muscles": [
+   "finger flexors",
+   "thumb muscles",
+   "hand intrinsic muscles"
+  ],
+  "why": "Typical purpose: an early step in rebuilding grip strength, with resistance that can be fine-tuned. Grip is the base of your farmer-strength goal, so this is where that journey restarts for your injured hand. Only as prescribed by your physio; doses here are placeholders.",
+  "setup": [
+   "Use only the version your physio has shown you.",
+   "Sit at a table with your forearm supported.",
+   "Use the putty grade your physio gives you, usually the softest to begin with.",
+   "Common drills: full-hand squeeze; pinching between the thumb and each fingertip; spreading the fingers against a putty ring."
+  ],
+  "cues": [
+   "Squeeze slowly and steadily, then relax fully",
+   "Re-form the putty into a ball between sets",
+   "Wrist straight and relaxed",
+   "Quality over quantity"
+  ],
+  "mistakes": [
+   "Using putty that's too firm: start soft and progress only when your physio says so.",
+   "Squeezing hard and fast to exhaustion: slow, controlled squeezes.",
+   "Wrist bending as you squeeze: keep it in line with your forearm."
+  ],
+  "arm_safety": "Do this only if your physio or clinic has prescribed it, and only the way they showed you. Never move up a putty grade on your own. Your physio will tell you how much discomfort is acceptable. Stop and contact your physio or fracture clinic (or NHS 111 out of hours) if pain is sharp or keeps increasing, the hand or forearm swells more, goes numb, tingly, pale, blue or cold, the wound or scar looks red, hot or weeps, or you feel feverish or unwell.",
+  "regressions": [
+   "rehab-finger-tendon-glides"
+  ],
+  "progressions": [
+   "rehab-towel-wring",
+   "rehab-rice-bucket"
+  ],
+  "dose": "Only as prescribed by your physio; doses here are placeholders. Typical starting point: 2–3 sets of 10 squeezes, once or twice a day.",
+  "video": "https://www.youtube.com/results?search_query=therapy+putty+hand+exercises+physiotherapy"
+ },
+ {
+  "id": "rehab-towel-wring",
+  "name": "Towel wringing",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "small hand towel (dry unless your physio says otherwise)"
+  ],
+  "muscles": [
+   "finger flexors",
+   "wrist flexors and extensors",
+   "forearm rotators"
+  ],
+  "why": "Typical purpose: combines grip with forearm rotation in both directions, a practical step towards wringing cloths, opening jars and handling ropes and handles. Only as prescribed by your physio; doses here are placeholders.",
+  "setup": [
+   "Use only the version your physio has shown you.",
+   "Sit at a table and roll a small towel into a tube.",
+   "Hold it with both hands in front of you, elbows bent and close to your sides."
+  ],
+  "cues": [
+   "Twist gently in one direction, as if wringing water out",
+   "Then twist the other way",
+   "Light effort to start; this isn't a strength test",
+   "Elbows stay by your sides"
+  ],
+  "mistakes": [
+   "Wringing hard straight away: start gently; your physio sets the effort.",
+   "Twisting with your shoulders: keep the movement in the forearms and wrists.",
+   "Using a big, wet towel too soon: small, dry towel first."
+  ],
+  "arm_safety": "Do this only if your physio or clinic has prescribed it, and only the way they showed you. Let your injured side set the effort; your uninjured hand must not overpower it. Your physio will tell you how much discomfort is acceptable. Stop and contact your physio or fracture clinic (or NHS 111 out of hours) if pain is sharp or keeps increasing, the hand or forearm swells more, goes numb, tingly, pale, blue or cold, the wound or scar looks red, hot or weeps, or you feel feverish or unwell.",
+  "regressions": [
+   "rehab-putty-grip"
+  ],
+  "progressions": [],
+  "dose": "Only as prescribed by your physio; doses here are placeholders. Typical starting point: 5–10 slow twists each way.",
+  "video": "https://www.youtube.com/results?search_query=towel+wringing+exercise+wrist+rehab"
+ },
+ {
+  "id": "rehab-wrist-curl-light",
+  "name": "Light wrist curl (injured side)",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "very light dumbbell or a tin of food (as prescribed)",
+   "table or bench",
+   "folded towel"
+  ],
+  "muscles": [
+   "wrist flexors",
+   "finger flexors"
+  ],
+  "why": "Typical purpose: begins gently loading the forearm flexors once movement has returned, rebuilding the strength you need for holding and carrying. Only as prescribed by your physio; doses here are placeholders.",
+  "setup": [
+   "Use only the version your physio has shown you.",
+   "Sit with your forearm supported on a folded towel on a table or your thigh, palm up, hand over the edge.",
+   "Hold the weight your physio has prescribed; often something like 0.5–1 kg or a tin of beans to begin with."
+  ],
+  "cues": [
+   "Let the wrist lower slowly",
+   "Curl the wrist up as far as is comfortable and pause 1 s",
+   "Forearm stays flat on the support",
+   "Slow: 2–3 s each way"
+  ],
+  "mistakes": [
+   "Increasing the weight on your own: your physio decides when.",
+   "Lifting the forearm off the support: keep it anchored.",
+   "Letting the weight drop quickly: control the lowering."
+  ],
+  "arm_safety": "Do this only if your physio or clinic has prescribed it, and only the way they showed you. Pick the weight up and put it down with your uninjured hand, and never add weight on your own. Your physio will tell you how much discomfort is acceptable. Stop and contact your physio or fracture clinic (or NHS 111 out of hours) if pain is sharp or keeps increasing, the hand or forearm swells more, goes numb, tingly, pale, blue or cold, the wound or scar looks red, hot or weeps, or you feel feverish or unwell.",
+  "regressions": [
+   "rehab-wrist-flex-ext"
+  ],
+  "progressions": [],
+  "dose": "Only as prescribed by your physio; doses here are placeholders. Typical starting point: 2–3 × 10–15 with a very light weight.",
+  "video": "https://www.youtube.com/results?search_query=wrist+curl+rehab+light+dumbbell+physiotherapy"
+ },
+ {
+  "id": "rehab-reverse-wrist-curl-light",
+  "name": "Light reverse wrist curl (injured side)",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "very light dumbbell or a tin of food (as prescribed)",
+   "table or bench",
+   "folded towel"
+  ],
+  "muscles": [
+   "wrist extensors",
+   "finger extensors"
+  ],
+  "why": "Typical purpose: strengthens the wrist extensors, which hold the wrist steady whenever you grip; a strong grip needs strong extensors as well as flexors. Only as prescribed by your physio; doses here are placeholders.",
+  "setup": [
+   "Use only the version your physio has shown you.",
+   "Sit with your forearm supported on a folded towel on a table or your thigh, palm down, hand over the edge.",
+   "Hold the weight your physio has prescribed, usually lighter than for the palm-up curl."
+  ],
+  "cues": [
+   "Let the hand lower slowly",
+   "Lift the back of the hand up as far as is comfortable and pause 1 s",
+   "Forearm stays flat on the support",
+   "Slow: 2–3 s each way"
+  ],
+  "mistakes": [
+   "Increasing the weight on your own: your physio decides when.",
+   "Lifting the forearm or elbow to help: keep it anchored.",
+   "Letting the weight drop quickly: control the lowering."
+  ],
+  "arm_safety": "Do this only if your physio or clinic has prescribed it, and only the way they showed you. Pick the weight up and put it down with your uninjured hand, and never add weight on your own. Your physio will tell you how much discomfort is acceptable. Stop and contact your physio or fracture clinic (or NHS 111 out of hours) if pain is sharp or keeps increasing, the hand or forearm swells more, goes numb, tingly, pale, blue or cold, the wound or scar looks red, hot or weeps, or you feel feverish or unwell.",
+  "regressions": [
+   "rehab-wrist-flex-ext"
+  ],
+  "progressions": [],
+  "dose": "Only as prescribed by your physio; doses here are placeholders. Typical starting point: 2–3 × 10–15 with a very light weight.",
+  "video": "https://www.youtube.com/results?search_query=reverse+wrist+curl+rehab+physiotherapy"
+ },
+ {
+  "id": "rehab-hammer-rotation-light",
+  "name": "Hammer rotation (light)",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "light hammer, or a light dumbbell held at one end",
+   "table or thigh to support the forearm"
+  ],
+  "muscles": [
+   "supinator",
+   "biceps",
+   "pronators",
+   "wrist stabilisers"
+  ],
+  "why": "Typical purpose: adds gentle load to forearm rotation using leverage (hold near the head to make it easier, further down the handle to make it harder). It rebuilds the turning strength you need for twisting, turning and handling tools. Only as prescribed by your physio; doses here are placeholders.",
+  "setup": [
+   "Use only the version your physio has shown you.",
+   "Sit with your elbow bent to 90° and tucked into your side, forearm supported on a table or your thigh.",
+   "Hold the hammer handle with the head pointing up, gripping close to the head to begin."
+  ],
+  "cues": [
+   "Slowly rotate so the head tips towards the palm-up side, then back to upright",
+   "Then towards the palm-down side, then back to upright",
+   "Elbow stays tucked and the forearm still",
+   "Slow and controlled; never let it flop"
+  ],
+  "mistakes": [
+   "Holding too far down the handle too soon: grip closer to the head to reduce the load.",
+   "Letting the hammer drop to the end of the range: control it the whole way.",
+   "Elbow drifting from your side: tuck a rolled towel under the arm."
+  ],
+  "arm_safety": "Do this only if your physio or clinic has prescribed it, and only the way they showed you. Keep the lever short until your physio says otherwise. Your physio will tell you how much discomfort is acceptable. Stop and contact your physio or fracture clinic (or NHS 111 out of hours) if pain is sharp or keeps increasing, the hand or forearm swells more, goes numb, tingly, pale, blue or cold, the wound or scar looks red, hot or weeps, or you feel feverish or unwell.",
+  "regressions": [
+   "rehab-forearm-rotation"
+  ],
+  "progressions": [],
+  "dose": "Only as prescribed by your physio; doses here are placeholders. Typical starting point: 2–3 × 10 each way.",
+  "video": "https://www.youtube.com/results?search_query=hammer+pronation+supination+exercise+rehab"
+ },
+ {
+  "id": "rehab-rice-bucket",
+  "name": "Rice bucket hand work",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "bucket or deep bowl of dry rice",
+   "table"
+  ],
+  "muscles": [
+   "finger flexors and extensors",
+   "hand intrinsic muscles",
+   "wrist and forearm muscles"
+  ],
+  "why": "Typical purpose: the rice gives gentle resistance in every direction, training gripping, finger opening and wrist and forearm movement all at once. It's a classic grip drill and a useful bridge towards the grip strength your carries need. Only as prescribed by your physio; doses here are placeholders.",
+  "setup": [
+   "Use only the version your physio has shown you, and only once your wound and scar are fully healed.",
+   "Fill a bucket or deep bowl with dry rice and place it on a table at a comfortable height.",
+   "Sit beside it so you can push your hand in without straining your shoulder."
+  ],
+  "cues": [
+   "Push the hand in gently, only as deep as is comfortable",
+   "Open and close the hand; spread the fingers",
+   "Turn the palm up and down; move the wrist side to side",
+   "Move slowly and stop well before fatigue"
+  ],
+  "mistakes": [
+   "Plunging in deep and hard: start shallow and gentle.",
+   "Going on for many minutes: keep sessions as short as your physio prescribes.",
+   "Ignoring your skin: check with your physio that the scar is ready, and stop if it gets sore or irritated."
+  ],
+  "arm_safety": "Do this only if your physio or clinic has prescribed it, the way they showed you, and only on fully healed skin. Your physio will tell you how much discomfort is acceptable. Stop and contact your physio or fracture clinic (or NHS 111 out of hours) if pain is sharp or keeps increasing, the hand or forearm swells more, goes numb, tingly, pale, blue or cold, the wound or scar looks red, hot or weeps, or you feel feverish or unwell.",
+  "regressions": [
+   "rehab-putty-grip"
+  ],
+  "progressions": [],
+  "dose": "Only as prescribed by your physio; doses here are placeholders. Typical starting point: 1–3 minutes of mixed movements.",
+  "video": "https://www.youtube.com/results?search_query=rice+bucket+hand+exercises"
+ },
+ {
+  "id": "ruck-light",
+  "name": "Light ruck (walking with a light rucksack)",
+  "category": "conditioning",
+  "gate": "clinic_light",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "rucksack with hip belt and sternum strap",
+   "light load (water bottles, a bag of rice, or a small plate wrapped in a towel)",
+   "treadmill or good paths"
+  ],
+  "muscles": [
+   "glutes",
+   "quads",
+   "calves",
+   "upper back",
+   "core",
+   "heart and lungs"
+  ],
+  "why": "Long-distance hiking means carrying a pack for hours. Starting very light lets your feet, legs, back and shoulders adapt gradually, so that proper hiking loads feel normal later.",
+  "setup": [
+   "Only once your clinic has cleared you for light use of your injured arm.",
+   "Start with 2–4 kg, and keep it light (no more than about 10% of your bodyweight) until full clearance.",
+   "Pack the weight high and close to your back, and pad any hard objects.",
+   "Fit: hip belt on top of your hip bones carrying most of the load, shoulder straps snug, sternum strap clipped.",
+   "Route: incline treadmill or good, even paths, with the same terrain rules as your hikes."
+  ],
+  "cues": [
+   "Tall posture with a very slight lean from the ankles",
+   "Short, steady steps, especially downhill",
+   "Your hips carry the load, not your shoulders",
+   "Stay in Zone 2: you can talk but would rather not",
+   "Add about 1 kg every 2–3 weeks, only if the walk and the next morning felt fine"
+  ],
+  "mistakes": [
+   "Adding weight and distance in the same week: change one thing at a time.",
+   "Loose hip belt, so the load hangs off your shoulders: tighten it on your hip bones.",
+   "Hunching forward: lighten the pack and stand tall."
+  ],
+  "arm_safety": "Putting it on, seated: sit on a bench with the pack beside you, slide your uninjured arm through its strap and lift the pack onto your back with that arm, then ease your injured arm into the other strap without gripping or pushing; fasten the hip belt and sternum strap with your uninjured hand, then stand. Taking it off: sit down, unclip with your uninjured hand, slide the strap off your injured side first, then lower the pack with your uninjured arm. Never swing it on or off. Check that no strap rubs or presses on a scar or the fracture site. A pack makes a stumble harder to recover from, so the terrain rules are strict: even surfaces, no ice, mud or loose ground, and extra care on descents. Stop if arm pain rises, it throbs, swells, tingles or goes numb, or you notice any red-flag symptom. Any fall onto the arm: stop and get it checked.",
+  "regressions": [
+   "hike-outdoor",
+   "incline-walk"
+  ],
+  "progressions": [
+   "ruck-loaded"
+  ],
+  "dose": "Your Saturday long walk: 80 min in Zone 2 with 2–4 kg to start, adding about 1 kg every 2–3 weeks if the walk and next morning feel fine; keep it to about 10% of your body weight (8 kg for the 80 kg example profile) until full clearance",
+  "video": "https://www.youtube.com/results?search_query=rucking+technique+goruck"
+ },
+ {
+  "id": "x-physio-programme",
+  "name": "Your physio's programme",
+  "category": "rehab",
+  "gate": "clinic_light",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "whatever your physio prescribes"
+  ],
+  "muscles": [
+   "forearm",
+   "wrist",
+   "hand",
+   "elbow"
+  ],
+  "why": "Your physiotherapist's prescription is the only rehab you do on your injured arm. This slot reserves daily time for it, so it happens every day and gets logged.",
+  "setup": [
+   "Have your physio's written exercise sheet to hand (add the exercises on the Your arm page; the daily rehab slot appears once they are entered).",
+   "Sit at a table in a quiet spot, warm and relaxed."
+  ],
+  "cues": [
+   "Do exactly the exercises, doses and pain limits your physio gave you, nothing extra.",
+   "Move slowly and smoothly through the range they want.",
+   "Note pain before and after on the Your arm page."
+  ],
+  "mistakes": [
+   "Adding exercises from the internet or this library that weren't prescribed. Stick to the sheet.",
+   "Pushing into pain to 'speed things up'. Stay within the limit your physio set (if you weren't given one, 2/10 or less, settled by the next morning)."
+  ],
+  "arm_safety": "Only what your physio has prescribed. The rehab-* entries in this library are background reading, not a prescription. Stop and contact your fracture clinic for any red flag: increasing pain, new swelling, redness or heat, discharge, fever, numbness or colour change.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "As prescribed by your physio (about 10–15 min, usually daily)",
+  "video": "https://www.youtube.com/results?search_query=forearm+fracture+rehabilitation+physiotherapy+exercises",
+  "source": "https://www.nhs.uk/conditions/broken-arm-or-wrist/"
+ }
+]

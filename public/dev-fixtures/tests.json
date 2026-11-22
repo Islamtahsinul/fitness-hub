@@ -1,0 +1,84 @@
+[
+ {
+  "id": "sit-to-stand-30s",
+  "name": "30-second sit-to-stand",
+  "category": "strength",
+  "unit": "reps",
+  "higher_is_better": true,
+  "gate": "none",
+  "every_weeks": 4,
+  "baseline_day": 1,
+  "how": [
+   "Sit on a bench, arms folded",
+   "Stand fully and sit, 30 s"
+  ],
+  "equipment": "Bench",
+  "norms": "Over 17 is good for adults under 60.",
+  "safety": "Arms folded; no pushing off."
+ },
+ {
+  "id": "wall-sit",
+  "name": "Wall sit",
+  "category": "endurance",
+  "unit": "s",
+  "higher_is_better": true,
+  "gate": "none",
+  "every_weeks": 4,
+  "baseline_day": 1,
+  "how": [
+   "Back on the wall, knees at 90°"
+  ],
+  "equipment": "Wall",
+  "norms": "",
+  "safety": "Stop if knees hurt."
+ },
+ {
+  "id": "balance-eyes-open",
+  "name": "Single-leg balance, eyes open",
+  "category": "balance",
+  "unit": "s",
+  "higher_is_better": true,
+  "gate": "none",
+  "every_weeks": 4,
+  "baseline_day": 2,
+  "how": [
+   "Next to a rack"
+  ],
+  "equipment": "Rack",
+  "norms": "",
+  "safety": "Good hand near support."
+ },
+ {
+  "id": "hollow-hold",
+  "name": "Tucked hollow hold",
+  "category": "strength",
+  "unit": "s",
+  "higher_is_better": true,
+  "gate": "none",
+  "every_weeks": 4,
+  "baseline_day": 3,
+  "how": [
+   "On a mat, knees tucked, lower back pressed down"
+  ],
+  "equipment": "Mat",
+  "norms": "",
+  "safety": "Get down and up via a bench, uninjured hand only."
+ },
+ {
+  "id": "dead-hang",
+  "name": "Dead hang",
+  "category": "grip",
+  "unit": "s",
+  "higher_is_better": true,
+  "gate": "full_clearance",
+  "every_weeks": 4,
+  "first_phase": "p3",
+  "first_week": 2,
+  "how": [
+   "Hang from a bar"
+  ],
+  "equipment": "Bar",
+  "norms": "",
+  "safety": "Full clearance only."
+ }
+]

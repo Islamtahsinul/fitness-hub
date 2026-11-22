@@ -1,0 +1,1825 @@
+{
+ "schema_version": 1,
+ "profile": {
+  "name": "",
+  "sex": "male",
+  "birth_year": 1996,
+  "height_cm": 180,
+  "injured_arm": "right",
+  "dominant_hand": "right",
+  "injury_date": "2026-07-13",
+  "program_start": "2026-10-26",
+  "activity_factor": 1.55,
+  "surplus_kcal": 300,
+  "protein_g_per_kg": 1.8,
+  "hrmax_override": null,
+  "rhr_baseline": 58,
+  "diet_notes": "",
+  "pre_injury_weight_kg": 83.0,
+  "clearances": {
+   "good_arm_ok": "2026-11-10",
+   "clinic_light": null,
+   "grip_cleared": null,
+   "full_clearance": null
+  },
+  "fasting_periods": [
+   {
+    "start": "2027-01-11",
+    "end": "2027-01-15",
+    "label": "Planned fast (example)",
+    "approximate": false
+   }
+  ],
+  "rhr_method_changes": [],
+  "unavailable_exercises": [
+   "sled-drag-forward-belt",
+   "sled-drag-backward-belt",
+   "cable-kickback-ankle",
+   "cable-hip-abduction-ankle",
+   "cable-hip-adduction-ankle"
+  ]
+ },
+ "checkins": [
+  {
+   "date": "2026-10-26",
+   "weight_kg": 78.8,
+   "rhr": 58,
+   "hrv": 59,
+   "sleep_h": 6.8,
+   "sleep_q": 5,
+   "energy": 3,
+   "soreness": 5,
+   "mood": 3,
+   "stress": 3,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 6330,
+   "protein_g": 111,
+   "calories": 2545,
+   "water_l": 2.0,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-10-27",
+   "weight_kg": 78.8,
+   "rhr": 60,
+   "hrv": 69,
+   "sleep_h": 7.2,
+   "sleep_q": 4,
+   "energy": 5,
+   "soreness": 3,
+   "mood": 3,
+   "stress": 1,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 7593,
+   "protein_g": 127,
+   "calories": 2609,
+   "water_l": 2.0,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-10-28",
+   "weight_kg": 78.9,
+   "rhr": 58,
+   "hrv": 63,
+   "sleep_h": 7.5,
+   "sleep_q": 3,
+   "energy": 5,
+   "soreness": 4,
+   "mood": 5,
+   "stress": 1,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 6522,
+   "protein_g": 145,
+   "calories": 2750,
+   "water_l": 2.6,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-10-29",
+   "weight_kg": 79.1,
+   "rhr": 60,
+   "hrv": 54,
+   "sleep_h": 6.5,
+   "sleep_q": 3,
+   "energy": 4,
+   "soreness": 1,
+   "mood": 3,
+   "stress": 1,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 7338,
+   "protein_g": 139,
+   "calories": 2823,
+   "water_l": 2.0,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-10-30",
+   "weight_kg": 79.3,
+   "rhr": 60,
+   "hrv": 54,
+   "sleep_h": 7.6,
+   "sleep_q": 3,
+   "energy": 5,
+   "soreness": 2,
+   "mood": 3,
+   "stress": 2,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 7305,
+   "protein_g": 150,
+   "calories": 3020,
+   "water_l": 2.0,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-10-31",
+   "weight_kg": 79.0,
+   "rhr": 56,
+   "hrv": 62,
+   "sleep_h": 7.2,
+   "sleep_q": 3,
+   "energy": 3,
+   "soreness": 5,
+   "mood": 5,
+   "stress": 2,
+   "arm_pain": 1,
+   "arm_flags": [],
+   "steps": 8884,
+   "protein_g": 141,
+   "calories": 2855,
+   "water_l": 2.7,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-01",
+   "weight_kg": 79.0,
+   "rhr": 60,
+   "hrv": 69,
+   "sleep_h": 7.4,
+   "sleep_q": 5,
+   "energy": 5,
+   "soreness": 4,
+   "mood": 5,
+   "stress": 2,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 7098,
+   "protein_g": 118,
+   "calories": 2971,
+   "water_l": 2.3,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-03",
+   "weight_kg": 79.1,
+   "rhr": 57,
+   "hrv": 65,
+   "sleep_h": 7.5,
+   "sleep_q": 4,
+   "energy": 4,
+   "soreness": 5,
+   "mood": 4,
+   "stress": 3,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 8466,
+   "protein_g": 110,
+   "calories": 2567,
+   "water_l": 2.5,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-04",
+   "weight_kg": 79.4,
+   "rhr": 56,
+   "hrv": 61,
+   "sleep_h": 7.2,
+   "sleep_q": 4,
+   "energy": 3,
+   "soreness": 3,
+   "mood": 5,
+   "stress": 1,
+   "arm_pain": 3,
+   "arm_flags": [],
+   "steps": 6635,
+   "protein_g": 150,
+   "calories": 2755,
+   "water_l": 2.6,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-05",
+   "weight_kg": 79.2,
+   "rhr": 57,
+   "hrv": 69,
+   "sleep_h": 8.2,
+   "sleep_q": 5,
+   "energy": 3,
+   "soreness": 5,
+   "mood": 4,
+   "stress": 2,
+   "arm_pain": 1,
+   "arm_flags": [],
+   "steps": 6658,
+   "protein_g": 133,
+   "calories": 2764,
+   "water_l": 2.0,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-06",
+   "weight_kg": 79.1,
+   "rhr": 60,
+   "hrv": 67,
+   "sleep_h": 8.0,
+   "sleep_q": 5,
+   "energy": 3,
+   "soreness": 2,
+   "mood": 5,
+   "stress": 2,
+   "arm_pain": 3,
+   "arm_flags": [],
+   "steps": 6876,
+   "protein_g": 126,
+   "calories": 2990,
+   "water_l": 2.7,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-07",
+   "weight_kg": 79.3,
+   "rhr": 60,
+   "hrv": 58,
+   "sleep_h": 7.8,
+   "sleep_q": 4,
+   "energy": 5,
+   "soreness": 3,
+   "mood": 4,
+   "stress": 3,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 6695,
+   "protein_g": 125,
+   "calories": 2680,
+   "water_l": 1.9,
+   "creatine": false,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-08",
+   "weight_kg": 79.4,
+   "rhr": 56,
+   "hrv": 54,
+   "sleep_h": 7.7,
+   "sleep_q": 3,
+   "energy": 3,
+   "soreness": 1,
+   "mood": 3,
+   "stress": 2,
+   "arm_pain": 1,
+   "arm_flags": [],
+   "steps": 8305,
+   "protein_g": 125,
+   "calories": 2735,
+   "water_l": 2.5,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-10",
+   "weight_kg": 79.6,
+   "rhr": 59,
+   "hrv": 70,
+   "sleep_h": 7.3,
+   "sleep_q": 4,
+   "energy": 4,
+   "soreness": 2,
+   "mood": 3,
+   "stress": 1,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 7651,
+   "protein_g": 137,
+   "calories": 2870,
+   "water_l": 2.3,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-11",
+   "weight_kg": 79.7,
+   "rhr": 56,
+   "hrv": 53,
+   "sleep_h": 7.2,
+   "sleep_q": 4,
+   "energy": 3,
+   "soreness": 2,
+   "mood": 3,
+   "stress": 1,
+   "arm_pain": 3,
+   "arm_flags": [],
+   "steps": 8037,
+   "protein_g": 118,
+   "calories": 2882,
+   "water_l": 2.0,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-12",
+   "weight_kg": 79.2,
+   "rhr": 59,
+   "hrv": 55,
+   "sleep_h": 6.5,
+   "sleep_q": 5,
+   "energy": 3,
+   "soreness": 1,
+   "mood": 3,
+   "stress": 1,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 8189,
+   "protein_g": 140,
+   "calories": 2668,
+   "water_l": 2.7,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-13",
+   "weight_kg": 79.2,
+   "rhr": 58,
+   "hrv": 60,
+   "sleep_h": 8.2,
+   "sleep_q": 4,
+   "energy": 4,
+   "soreness": 4,
+   "mood": 5,
+   "stress": 3,
+   "arm_pain": 3,
+   "arm_flags": [],
+   "steps": 8911,
+   "protein_g": 141,
+   "calories": 2608,
+   "water_l": 2.0,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-14",
+   "weight_kg": 79.5,
+   "rhr": 56,
+   "hrv": 62,
+   "sleep_h": 6.5,
+   "sleep_q": 5,
+   "energy": 4,
+   "soreness": 5,
+   "mood": 5,
+   "stress": 1,
+   "arm_pain": 1,
+   "arm_flags": [],
+   "steps": 8280,
+   "protein_g": 115,
+   "calories": 2640,
+   "water_l": 1.9,
+   "creatine": false,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-15",
+   "weight_kg": 79.5,
+   "rhr": 59,
+   "hrv": 59,
+   "sleep_h": 7.5,
+   "sleep_q": 3,
+   "energy": 5,
+   "soreness": 1,
+   "mood": 4,
+   "stress": 3,
+   "arm_pain": 3,
+   "arm_flags": [],
+   "steps": 8515,
+   "protein_g": 143,
+   "calories": 2773,
+   "water_l": 2.7,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-16",
+   "weight_kg": 79.4,
+   "rhr": 58,
+   "hrv": 56,
+   "sleep_h": 7.7,
+   "sleep_q": 4,
+   "energy": 4,
+   "soreness": 3,
+   "mood": 3,
+   "stress": 1,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 8744,
+   "protein_g": 146,
+   "calories": 2552,
+   "water_l": 1.9,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-17",
+   "weight_kg": 79.8,
+   "rhr": 56,
+   "hrv": 59,
+   "sleep_h": 7.1,
+   "sleep_q": 3,
+   "energy": 4,
+   "soreness": 5,
+   "mood": 5,
+   "stress": 2,
+   "arm_pain": 3,
+   "arm_flags": [],
+   "steps": 9505,
+   "protein_g": 143,
+   "calories": 2458,
+   "water_l": 2.5,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-18",
+   "weight_kg": 79.5,
+   "rhr": 57,
+   "hrv": 60,
+   "sleep_h": 6.6,
+   "sleep_q": 3,
+   "energy": 5,
+   "soreness": 5,
+   "mood": 3,
+   "stress": 2,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 8677,
+   "protein_g": 123,
+   "calories": 2801,
+   "water_l": 2.0,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-19",
+   "weight_kg": 79.7,
+   "rhr": 56,
+   "hrv": 54,
+   "sleep_h": 7.6,
+   "sleep_q": 4,
+   "energy": 3,
+   "soreness": 1,
+   "mood": 4,
+   "stress": 1,
+   "arm_pain": 2,
+   "arm_flags": [],
+   "steps": 6861,
+   "protein_g": 138,
+   "calories": 3014,
+   "water_l": 2.5,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-20",
+   "weight_kg": 79.9,
+   "rhr": 60,
+   "hrv": 56,
+   "sleep_h": 7.4,
+   "sleep_q": 4,
+   "energy": 5,
+   "soreness": 5,
+   "mood": 3,
+   "stress": 2,
+   "arm_pain": 1,
+   "arm_flags": [],
+   "steps": 6371,
+   "protein_g": 129,
+   "calories": 2823,
+   "water_l": 2.7,
+   "creatine": true,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-21",
+   "weight_kg": 80.0,
+   "rhr": 57,
+   "hrv": 59,
+   "sleep_h": 5.6,
+   "sleep_q": 4,
+   "energy": 3,
+   "soreness": 4,
+   "mood": 5,
+   "stress": 3,
+   "arm_pain": 1,
+   "arm_flags": [],
+   "steps": 7169,
+   "protein_g": 120,
+   "calories": 2631,
+   "water_l": 2.7,
+   "creatine": false,
+   "notes": "Late night, woke early."
+  }
+ ],
+ "workouts": [
+  {
+   "id": "fx-2026-10-26-str-a",
+   "date": "2026-10-26",
+   "session_id": "str-a",
+   "session_name": "Strength A — Squat & Knee",
+   "session_type": "strength",
+   "phase_id": "p1",
+   "phase_week": 1,
+   "duration_min": 60,
+   "rpe": 8,
+   "notes": "",
+   "exercises": [
+    {
+     "block": "b0",
+     "exercise": "leg-press",
+     "sets": [
+      {
+       "kg": 60.0,
+       "reps": 11,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      },
+      {
+       "kg": 60.0,
+       "reps": 10,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      }
+     ],
+     "notes": ""
+    },
+    {
+     "block": "b1",
+     "exercise": "box-squat-bw",
+     "sets": [
+      {
+       "kg": null,
+       "reps": 5,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": 5,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      }
+     ],
+     "notes": ""
+    },
+    {
+     "block": "b3",
+     "exercise": "wall-sit",
+     "sets": [
+      {
+       "kg": null,
+       "reps": null,
+       "seconds": 39,
+       "rir": null,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": null,
+       "seconds": 39,
+       "rir": null,
+       "done": true
+      }
+     ],
+     "notes": ""
+    }
+   ],
+   "cardio": [],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-10-27-engine",
+   "date": "2026-10-27",
+   "session_id": "engine",
+   "session_name": "Hiking Engine — Zone 2",
+   "session_type": "cardio",
+   "phase_id": "p1",
+   "phase_week": 1,
+   "duration_min": 57,
+   "rpe": 7,
+   "notes": "",
+   "exercises": [],
+   "cardio": [
+    {
+     "block": "b0",
+     "exercise": "stair-climber",
+     "minutes": 10,
+     "zone": "Z2",
+     "avg_hr": 120,
+     "distance_km": null,
+     "ascent_m": null,
+     "level": 5,
+     "notes": ""
+    },
+    {
+     "block": "b1",
+     "exercise": "incline-walk",
+     "minutes": 30,
+     "zone": "Z2",
+     "avg_hr": 116,
+     "distance_km": 2.6,
+     "ascent_m": null,
+     "level": 10,
+     "notes": ""
+    }
+   ],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-10-28-str-b",
+   "date": "2026-10-28",
+   "session_id": "str-b",
+   "session_name": "Strength B — Hinge & Hips",
+   "session_type": "strength",
+   "phase_id": "p1",
+   "phase_week": 1,
+   "duration_min": 59,
+   "rpe": 5,
+   "notes": "",
+   "exercises": [
+    {
+     "block": "b0",
+     "exercise": "hamstring-curl",
+     "sets": [
+      {
+       "kg": 27.5,
+       "reps": 10,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      },
+      {
+       "kg": 27.5,
+       "reps": 10,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      }
+     ],
+     "notes": ""
+    },
+    {
+     "block": "b1",
+     "exercise": "glute-bridge",
+     "sets": [
+      {
+       "kg": null,
+       "reps": 12,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": 12,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      }
+     ],
+     "notes": ""
+    }
+   ],
+   "cardio": [],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-10-29-intervals",
+   "date": "2026-10-29",
+   "session_id": "intervals",
+   "session_name": "Engine — Bike Intervals",
+   "session_type": "intervals",
+   "phase_id": "p1",
+   "phase_week": 1,
+   "duration_min": 43,
+   "rpe": 6,
+   "notes": "",
+   "exercises": [],
+   "cardio": [
+    {
+     "block": "b0",
+     "exercise": "bike-upright",
+     "minutes": 25,
+     "rounds": 6,
+     "zone": "Z4-Z5",
+     "avg_hr": 138,
+     "distance_km": null,
+     "ascent_m": null,
+     "level": 8,
+     "notes": ""
+    },
+    {
+     "block": "b1",
+     "exercise": "incline-walk",
+     "minutes": 20,
+     "zone": "Z2",
+     "avg_hr": 120,
+     "distance_km": 1.7,
+     "ascent_m": null,
+     "level": 9,
+     "notes": ""
+    }
+   ],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-10-30-circuit-day",
+   "date": "2026-10-30",
+   "session_id": "circuit-day",
+   "session_name": "Strength C — Single-Leg & Sled",
+   "session_type": "strength",
+   "phase_id": "p1",
+   "phase_week": 1,
+   "duration_min": 57,
+   "rpe": 8,
+   "notes": "",
+   "exercises": [
+    {
+     "block": "b0",
+     "exercise": "leg-press-single",
+     "sets": [
+      {
+       "kg": 27.5,
+       "reps": 11,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": 27.5,
+       "reps": 11,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      }
+     ],
+     "notes": ""
+    }
+   ],
+   "cardio": [
+    {
+     "block": "b2",
+     "exercise": "circuit",
+     "items": [
+      "sled-drag-forward-belt",
+      "sled-drag-backward-belt"
+     ],
+     "minutes": 12,
+     "rounds": 6,
+     "zone": "Z2-Z3",
+     "avg_hr": 128,
+     "distance_km": null,
+     "ascent_m": null,
+     "level": null,
+     "notes": ""
+    }
+   ],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-10-31-long-walk",
+   "date": "2026-10-31",
+   "session_id": "long-walk",
+   "session_name": "Long Walk — Zone 2",
+   "session_type": "hike",
+   "phase_id": "p1",
+   "phase_week": 1,
+   "duration_min": 85,
+   "rpe": 7,
+   "notes": "",
+   "exercises": [],
+   "cardio": [
+    {
+     "block": "b0",
+     "exercise": "walk-outdoor",
+     "minutes": 45,
+     "zone": "Z2",
+     "avg_hr": 112,
+     "distance_km": 5.2,
+     "ascent_m": 60,
+     "level": null,
+     "notes": "Canal path"
+    }
+   ],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-02-str-a",
+   "date": "2026-11-02",
+   "session_id": "str-a",
+   "session_name": "Strength A — Squat & Knee",
+   "session_type": "strength",
+   "phase_id": "p1",
+   "phase_week": 2,
+   "duration_min": 62,
+   "rpe": 6,
+   "notes": "",
+   "exercises": [
+    {
+     "block": "b0",
+     "exercise": "leg-press",
+     "sets": [
+      {
+       "kg": 62.5,
+       "reps": 12,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      },
+      {
+       "kg": 62.5,
+       "reps": 11,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      },
+      {
+       "kg": 62.5,
+       "reps": 12,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      }
+     ],
+     "notes": ""
+    },
+    {
+     "block": "b1",
+     "exercise": "box-squat-bw",
+     "sets": [
+      {
+       "kg": null,
+       "reps": 5,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": 5,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": 5,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      }
+     ],
+     "notes": ""
+    },
+    {
+     "block": "b3",
+     "exercise": "wall-sit",
+     "sets": [
+      {
+       "kg": null,
+       "reps": null,
+       "seconds": 43,
+       "rir": null,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": null,
+       "seconds": 43,
+       "rir": null,
+       "done": true
+      }
+     ],
+     "notes": ""
+    }
+   ],
+   "cardio": [],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-03-engine",
+   "date": "2026-11-03",
+   "session_id": "engine",
+   "session_name": "Hiking Engine — Zone 2",
+   "session_type": "cardio",
+   "phase_id": "p1",
+   "phase_week": 2,
+   "duration_min": 60,
+   "rpe": 6,
+   "notes": "",
+   "exercises": [],
+   "cardio": [
+    {
+     "block": "b0",
+     "exercise": "stair-climber",
+     "minutes": 13,
+     "zone": "Z2",
+     "avg_hr": 124,
+     "distance_km": null,
+     "ascent_m": null,
+     "level": 5,
+     "notes": ""
+    },
+    {
+     "block": "b1",
+     "exercise": "incline-walk",
+     "minutes": 30,
+     "zone": "Z2",
+     "avg_hr": 120,
+     "distance_km": 2.6,
+     "ascent_m": null,
+     "level": 10,
+     "notes": ""
+    }
+   ],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-06-circuit-day",
+   "date": "2026-11-06",
+   "session_id": "circuit-day",
+   "session_name": "Strength C — Single-Leg & Sled",
+   "session_type": "strength",
+   "phase_id": "p1",
+   "phase_week": 2,
+   "duration_min": 56,
+   "rpe": 5,
+   "notes": "",
+   "exercises": [
+    {
+     "block": "b0",
+     "exercise": "leg-press-single",
+     "sets": [
+      {
+       "kg": 30.0,
+       "reps": 11,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": 30.0,
+       "reps": 11,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": 30.0,
+       "reps": 11,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      }
+     ],
+     "notes": ""
+    }
+   ],
+   "cardio": [
+    {
+     "block": "b2",
+     "exercise": "circuit",
+     "items": [
+      "sled-drag-forward-belt",
+      "sled-drag-backward-belt"
+     ],
+     "minutes": 12,
+     "rounds": 6,
+     "zone": "Z2-Z3",
+     "avg_hr": 128,
+     "distance_km": null,
+     "ascent_m": null,
+     "level": null,
+     "notes": ""
+    }
+   ],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-07-long-walk",
+   "date": "2026-11-07",
+   "session_id": "long-walk",
+   "session_name": "Long Walk — Zone 2",
+   "session_type": "hike",
+   "phase_id": "p1",
+   "phase_week": 2,
+   "duration_min": 86,
+   "rpe": 7,
+   "notes": "",
+   "exercises": [],
+   "cardio": [
+    {
+     "block": "b0",
+     "exercise": "walk-outdoor",
+     "minutes": 50,
+     "zone": "Z2",
+     "avg_hr": 112,
+     "distance_km": 5.2,
+     "ascent_m": 60,
+     "level": null,
+     "notes": "Canal path"
+    }
+   ],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-09-str-a",
+   "date": "2026-11-09",
+   "session_id": "str-a",
+   "session_name": "Strength A — Squat & Knee",
+   "session_type": "strength",
+   "phase_id": "p1",
+   "phase_week": 3,
+   "duration_min": 57,
+   "rpe": 8,
+   "notes": "",
+   "exercises": [
+    {
+     "block": "b0",
+     "exercise": "leg-press",
+     "sets": [
+      {
+       "kg": 65.0,
+       "reps": 11,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      },
+      {
+       "kg": 65.0,
+       "reps": 10,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      },
+      {
+       "kg": 65.0,
+       "reps": 11,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      }
+     ],
+     "notes": "",
+     "planned": {
+      "sets": 3,
+      "reps": "8-12",
+      "rir": "2-3",
+      "load": "double-progression"
+     }
+    },
+    {
+     "block": "b1",
+     "exercise": "box-squat-bw",
+     "sets": [
+      {
+       "kg": null,
+       "reps": 5,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": 5,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": 5,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      }
+     ],
+     "notes": ""
+    },
+    {
+     "block": "b3",
+     "exercise": "wall-sit",
+     "sets": [
+      {
+       "kg": null,
+       "reps": null,
+       "seconds": 47,
+       "rir": null,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": null,
+       "seconds": 47,
+       "rir": null,
+       "done": true
+      }
+     ],
+     "notes": ""
+    }
+   ],
+   "cardio": [],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-10-engine",
+   "date": "2026-11-10",
+   "session_id": "engine",
+   "session_name": "Hiking Engine — Zone 2",
+   "session_type": "cardio",
+   "phase_id": "p1",
+   "phase_week": 3,
+   "duration_min": 52,
+   "rpe": 7,
+   "notes": "",
+   "exercises": [],
+   "cardio": [
+    {
+     "block": "b0",
+     "exercise": "stair-climber",
+     "minutes": 16,
+     "zone": "Z2",
+     "avg_hr": 118,
+     "distance_km": null,
+     "ascent_m": null,
+     "level": 5,
+     "notes": ""
+    },
+    {
+     "block": "b1",
+     "exercise": "incline-walk",
+     "minutes": 30,
+     "zone": "Z2",
+     "avg_hr": 116,
+     "distance_km": 2.6,
+     "ascent_m": null,
+     "level": 10,
+     "notes": ""
+    }
+   ],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-11-str-b",
+   "date": "2026-11-11",
+   "session_id": "str-b",
+   "session_name": "Strength B — Hinge & Hips",
+   "session_type": "strength",
+   "phase_id": "p1",
+   "phase_week": 3,
+   "duration_min": 61,
+   "rpe": 6,
+   "notes": "",
+   "exercises": [
+    {
+     "block": "b0",
+     "exercise": "hamstring-curl",
+     "sets": [
+      {
+       "kg": 32.5,
+       "reps": 10,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      },
+      {
+       "kg": 32.5,
+       "reps": 10,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      },
+      {
+       "kg": 32.5,
+       "reps": 10,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      }
+     ],
+     "notes": "",
+     "planned": {
+      "sets": 3,
+      "reps": "8-12",
+      "rir": "2-3",
+      "load": "double-progression"
+     }
+    },
+    {
+     "block": "b1",
+     "exercise": "glute-bridge",
+     "sets": [
+      {
+       "kg": null,
+       "reps": 12,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": 12,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": 12,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      }
+     ],
+     "notes": ""
+    }
+   ],
+   "cardio": [],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-13-circuit-day",
+   "date": "2026-11-13",
+   "session_id": "circuit-day",
+   "session_name": "Strength C — Single-Leg & Sled",
+   "session_type": "strength",
+   "phase_id": "p1",
+   "phase_week": 3,
+   "duration_min": 56,
+   "rpe": 5,
+   "notes": "",
+   "exercises": [
+    {
+     "block": "b0",
+     "exercise": "leg-press-single",
+     "sets": [
+      {
+       "kg": 32.5,
+       "reps": 11,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": 32.5,
+       "reps": 11,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": 32.5,
+       "reps": 11,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      }
+     ],
+     "notes": ""
+    }
+   ],
+   "cardio": [
+    {
+     "block": "b2",
+     "exercise": "circuit",
+     "items": [
+      "sled-drag-forward-belt",
+      "sled-drag-backward-belt"
+     ],
+     "minutes": 12,
+     "rounds": 6,
+     "zone": "Z2-Z3",
+     "avg_hr": 128,
+     "distance_km": null,
+     "ascent_m": null,
+     "level": null,
+     "notes": ""
+    }
+   ],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-16-str-a",
+   "date": "2026-11-16",
+   "session_id": "str-a",
+   "session_name": "Strength A — Squat & Knee",
+   "session_type": "strength",
+   "phase_id": "p1",
+   "phase_week": 4,
+   "duration_min": 64,
+   "rpe": 8,
+   "notes": "",
+   "exercises": [
+    {
+     "block": "b0",
+     "exercise": "leg-press",
+     "sets": [
+      {
+       "kg": 67.5,
+       "reps": 12,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      },
+      {
+       "kg": 67.5,
+       "reps": 11,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      }
+     ],
+     "notes": "",
+     "planned": {
+      "sets": 2,
+      "reps": "8-12",
+      "rir": "3-4",
+      "load": "double-progression"
+     }
+    },
+    {
+     "block": "b1",
+     "exercise": "box-squat-bw",
+     "sets": [
+      {
+       "kg": null,
+       "reps": 5,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": 5,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      }
+     ],
+     "notes": ""
+    },
+    {
+     "block": "b3",
+     "exercise": "wall-sit",
+     "sets": [
+      {
+       "kg": null,
+       "reps": null,
+       "seconds": 51,
+       "rir": null,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": null,
+       "seconds": 51,
+       "rir": null,
+       "done": true
+      }
+     ],
+     "notes": ""
+    }
+   ],
+   "cardio": [],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-17-engine",
+   "date": "2026-11-17",
+   "session_id": "engine",
+   "session_name": "Hiking Engine — Zone 2",
+   "session_type": "cardio",
+   "phase_id": "p1",
+   "phase_week": 4,
+   "duration_min": 55,
+   "rpe": 7,
+   "notes": "",
+   "exercises": [],
+   "cardio": [
+    {
+     "block": "b0",
+     "exercise": "stair-climber",
+     "minutes": 18,
+     "zone": "Z2",
+     "avg_hr": 124,
+     "distance_km": null,
+     "ascent_m": null,
+     "level": 5,
+     "notes": ""
+    },
+    {
+     "block": "b1",
+     "exercise": "incline-walk",
+     "minutes": 30,
+     "zone": "Z2",
+     "avg_hr": 124,
+     "distance_km": 2.6,
+     "ascent_m": null,
+     "level": 10,
+     "notes": ""
+    }
+   ],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-18-str-b",
+   "date": "2026-11-18",
+   "session_id": "str-b",
+   "session_name": "Strength B — Hinge & Hips",
+   "session_type": "strength",
+   "phase_id": "p1",
+   "phase_week": 4,
+   "duration_min": 57,
+   "rpe": 5,
+   "notes": "",
+   "exercises": [
+    {
+     "block": "b0",
+     "exercise": "hamstring-curl",
+     "sets": [
+      {
+       "kg": 35.0,
+       "reps": 10,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      },
+      {
+       "kg": 35.0,
+       "reps": 10,
+       "seconds": null,
+       "rir": 2,
+       "done": true
+      }
+     ],
+     "notes": "",
+     "planned": {
+      "sets": 2,
+      "reps": "8-12",
+      "rir": "3-4",
+      "load": "double-progression"
+     }
+    },
+    {
+     "block": "b1",
+     "exercise": "glute-bridge",
+     "sets": [
+      {
+       "kg": null,
+       "reps": 12,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": null,
+       "reps": 12,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      }
+     ],
+     "notes": ""
+    }
+   ],
+   "cardio": [],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-19-intervals",
+   "date": "2026-11-19",
+   "session_id": "intervals",
+   "session_name": "Engine — Bike Intervals",
+   "session_type": "intervals",
+   "phase_id": "p1",
+   "phase_week": 4,
+   "duration_min": 44,
+   "rpe": 6,
+   "notes": "",
+   "exercises": [],
+   "cardio": [
+    {
+     "block": "b0",
+     "exercise": "bike-upright",
+     "minutes": 25,
+     "rounds": 6,
+     "zone": "Z4-Z5",
+     "avg_hr": 138,
+     "distance_km": null,
+     "ascent_m": null,
+     "level": 8,
+     "notes": ""
+    },
+    {
+     "block": "b1",
+     "exercise": "incline-walk",
+     "minutes": 20,
+     "zone": "Z2",
+     "avg_hr": 120,
+     "distance_km": 1.7,
+     "ascent_m": null,
+     "level": 9,
+     "notes": ""
+    }
+   ],
+   "status": "done"
+  },
+  {
+   "id": "fx-2026-11-20-circuit-day",
+   "date": "2026-11-20",
+   "session_id": "circuit-day",
+   "session_name": "Strength C — Single-Leg & Sled",
+   "session_type": "strength",
+   "phase_id": "p1",
+   "phase_week": 4,
+   "duration_min": 56,
+   "rpe": 5,
+   "notes": "",
+   "exercises": [
+    {
+     "block": "b0",
+     "exercise": "leg-press-single",
+     "sets": [
+      {
+       "kg": 35.0,
+       "reps": 11,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      },
+      {
+       "kg": 35.0,
+       "reps": 11,
+       "seconds": null,
+       "rir": 3,
+       "done": true
+      }
+     ],
+     "notes": ""
+    }
+   ],
+   "cardio": [
+    {
+     "block": "b2",
+     "exercise": "circuit",
+     "items": [
+      "sled-drag-forward-belt",
+      "sled-drag-backward-belt"
+     ],
+     "minutes": 12,
+     "rounds": 6,
+     "zone": "Z2-Z3",
+     "avg_hr": 128,
+     "distance_km": null,
+     "ascent_m": null,
+     "level": null,
+     "notes": ""
+    }
+   ],
+   "status": "done"
+  }
+ ],
+ "hikes": [
+  {
+   "id": "fx-hike-1",
+   "date": "2026-11-08",
+   "name": "Canal towpath",
+   "distance_km": 10.4,
+   "ascent_m": 105,
+   "duration_min": 150,
+   "pack_kg": 0,
+   "terrain": "towpath",
+   "avg_hr": 108,
+   "rpe": 5,
+   "ladder_level": 2,
+   "notes": ""
+  },
+  {
+   "id": "fx-hike-2",
+   "date": "2026-11-15",
+   "name": "Park loop and hill",
+   "distance_km": 7.8,
+   "ascent_m": 140,
+   "duration_min": 120,
+   "pack_kg": 0,
+   "terrain": "gravel",
+   "avg_hr": 112,
+   "rpe": 6,
+   "ladder_level": null,
+   "notes": ""
+  },
+  {
+   "id": "fx-hike-3",
+   "date": "2026-11-14",
+   "name": "Canal towpath (instead of the long walk)",
+   "distance_km": 4.6,
+   "ascent_m": null,
+   "duration_min": 50,
+   "pack_kg": 0,
+   "terrain": "towpath",
+   "avg_hr": 110,
+   "rpe": 4,
+   "ladder_level": null,
+   "notes": "Logged in the hike log only: it counts as the long walk (at least 70% of the planned minutes)."
+  }
+ ],
+ "tests": [
+  {
+   "date": "2026-10-26",
+   "test": "sit-to-stand-30s",
+   "value": 14,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-16",
+   "test": "sit-to-stand-30s",
+   "value": 18,
+   "notes": ""
+  },
+  {
+   "date": "2026-10-26",
+   "test": "wall-sit",
+   "value": 40,
+   "notes": ""
+  },
+  {
+   "date": "2026-11-16",
+   "test": "wall-sit",
+   "value": 62,
+   "notes": ""
+  }
+ ],
+ "measurements": [
+  {
+   "date": "2026-10-26",
+   "waist_cm": 81,
+   "chest_cm": 94,
+   "hips_cm": 95,
+   "thigh_cm": 54,
+   "calf_cm": 36,
+   "arm_good_cm": 31,
+   "arm_injured_cm": 29.5,
+   "forearm_good_cm": 27,
+   "forearm_injured_cm": 25
+  },
+  {
+   "date": "2026-11-16",
+   "waist_cm": 81.5,
+   "chest_cm": 95,
+   "hips_cm": 95.5,
+   "thigh_cm": 55,
+   "calf_cm": 36.4,
+   "arm_good_cm": 31.4,
+   "arm_injured_cm": 29.6,
+   "forearm_good_cm": 27.2,
+   "forearm_injured_cm": 25.1
+  }
+ ],
+ "arm": {
+  "appointments": [
+   {
+    "date": "2026-10-20",
+    "type": "Fracture clinic",
+    "notes": "",
+    "outcome": "Healing well. Review in seven weeks. Good arm OK from 10 Nov."
+   },
+   {
+    "date": "2026-12-08",
+    "type": "Fracture clinic",
+    "notes": "Bring the questions list",
+    "outcome": ""
+   }
+  ],
+  "logs": [
+   {
+    "date": "2026-10-27",
+    "values": {
+     "pain_rest": 3,
+     "pain_activity": 5,
+     "grip_good_kg": 46,
+     "grip_injured_kg": 12
+    },
+    "notes": ""
+   },
+   {
+    "date": "2026-11-03",
+    "values": {
+     "pain_rest": 2,
+     "pain_activity": 4,
+     "grip_good_kg": 46,
+     "grip_injured_kg": 14
+    },
+    "notes": ""
+   },
+   {
+    "date": "2026-11-10",
+    "values": {
+     "pain_rest": 2,
+     "pain_activity": 4,
+     "grip_good_kg": 46,
+     "grip_injured_kg": 16
+    },
+    "notes": ""
+   },
+   {
+    "date": "2026-11-17",
+    "values": {
+     "pain_rest": 1,
+     "pain_activity": 3,
+     "grip_good_kg": 46,
+     "grip_injured_kg": 19
+    },
+    "notes": ""
+   },
+   {
+    "date": "2026-11-04",
+    "values": {
+     "pain_rest": 3,
+     "pain_activity": 7
+    },
+    "notes": "Knocked the arm on a door frame: RED (arm-log pain 7), no training, clinic called."
+   }
+  ],
+  "physio_exercises": [
+   {
+    "exercise": "rehab-finger-tendon-glides",
+    "dose": "5 reps, 3 times a day",
+    "since": "2026-10-20",
+    "notes": "Gentle."
+   }
+  ],
+  "questions": {}
+ },
+ "weekly_reviews": [
+  {
+   "week_start": "2026-11-09",
+   "wins": "Hit every strength session.",
+   "struggles": "Sleep on Thursday.",
+   "next_focus": "Bed by 22:30.",
+   "adherence_pct": 83
+  }
+ ],
+ "hike_ladder": {},
+ "kit_owned": {
+  "Walking boots or trail shoes": true,
+  "Wool socks": true
+ },
+ "meta": {},
+ "ui": {
+  "onboarding": {
+   "version": 1,
+   "completed_at": "2026-10-26T07:00:00Z",
+   "safety_ack_at": "2026-10-26T07:00:00Z"
+  },
+  "plates_kg": [
+   20,
+   10,
+   5,
+   2.5,
+   1.25
+  ]
+ },
+ "goals": {
+  "weight_gain_kg_week": [
+   0.2,
+   0.3
+  ],
+  "zone2_min_week": 150,
+  "protein_days": 6,
+  "focus": "Bed by 22:30."
+ }
+}

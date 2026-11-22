@@ -1,0 +1,127 @@
+{
+  "title": "The Functional Fitness Guide",
+  "parts": [
+    {
+      "title": "Part 1 — Foundations",
+      "chapters": [
+        {
+          "file": "00-start-here.md",
+          "title": "Start Here"
+        },
+        {
+          "file": "01-assessment-and-goals.md",
+          "title": "Your Assessment & Goals"
+        },
+        {
+          "file": "02-philosophy.md",
+          "title": "The Philosophy — What We Take From Coaches and Researchers"
+        }
+      ]
+    },
+    {
+      "title": "Part 2 — Training",
+      "chapters": [
+        {
+          "file": "03-training-principles.md",
+          "title": "Training Principles"
+        },
+        {
+          "file": "04-the-program.md",
+          "title": "The Programme — Phases, Weeks & Gates"
+        },
+        {
+          "file": "05-strength-technique.md",
+          "title": "Strength Technique — Movement Patterns"
+        },
+        {
+          "file": "06-core-and-stability.md",
+          "title": "Core & Stability"
+        },
+        {
+          "file": "07-mobility.md",
+          "title": "Mobility & Movement Quality"
+        },
+        {
+          "file": "08-building-muscle.md",
+          "title": "Building Muscle"
+        },
+        {
+          "file": "09-farmer-strength.md",
+          "title": "Farmer Strength — Carries & Grip"
+        }
+      ]
+    },
+    {
+      "title": "Part 3 — Engine & Hiking",
+      "chapters": [
+        {
+          "file": "10-engine-cardio.md",
+          "title": "The Engine — Zone 2, VO2max & Conditioning"
+        },
+        {
+          "file": "11-hiking-training.md",
+          "title": "Training for Long-Distance Hiking"
+        },
+        {
+          "file": "12-hiking-skills-and-kit.md",
+          "title": "Hiking Skills, Kit & Mountain Safety"
+        },
+        {
+          "file": "13-uk-hiking-roadmap.md",
+          "title": "Your UK Hiking Roadmap"
+        }
+      ]
+    },
+    {
+      "title": "Part 4 — Fuel & Recovery",
+      "chapters": [
+        {
+          "file": "14-nutrition.md",
+          "title": "Nutrition — Fuel, Muscle & Bone Healing"
+        },
+        {
+          "file": "15-meal-plans.md",
+          "title": "Meal Plans, Shopping & Prep"
+        },
+        {
+          "file": "16-supplements.md",
+          "title": "Supplements — What Works, What Doesn't"
+        },
+        {
+          "file": "17-sleep-and-recovery.md",
+          "title": "Sleep, Recovery & Readiness"
+        }
+      ]
+    },
+    {
+      "title": "Part 5 — Arm Recovery & Durability",
+      "chapters": [
+        {
+          "file": "18-arm-recovery.md",
+          "title": "Your Arm — Fracture Recovery & Return to Loading"
+        },
+        {
+          "file": "19-injury-prevention.md",
+          "title": "Injury Prevention & Pain Rules"
+        }
+      ]
+    },
+    {
+      "title": "Part 6 — Mindset & Resources",
+      "chapters": [
+        {
+          "file": "20-habits-and-mindset.md",
+          "title": "Habits, Consistency & Mindset"
+        },
+        {
+          "file": "21-library.md",
+          "title": "The Library — Books, Podcasts, Channels, Kit"
+        },
+        {
+          "file": "22-glossary.md",
+          "title": "Glossary"
+        }
+      ]
+    }
+  ]
+}

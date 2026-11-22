@@ -1,0 +1,2647 @@
+[
+ {
+  "id": "goblet-squat",
+  "name": "Goblet squat",
+  "category": "squat",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "dumbbell (or a kettlebell if your gym has them)",
+   "bench or box as a depth target"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors",
+   "upper back",
+   "core"
+  ],
+  "why": "Your first loaded squat once you can hold a weight. Holding the weight in front teaches an upright torso and a braced trunk, which is the posture you need on steps and stiles with a pack. It also builds the quads and glutes that will carry most of your first kilos of new muscle.",
+  "setup": [
+   "Stand a dumbbell on its end on a bench. Cup the top plate with both palms, thumbs around the handle, and lift it to your breastbone with your elbows pointing down. (With a kettlebell, hold it by the horns.)",
+   "Feet a little wider than hip-width, toes turned out 10–30°, weight over the middle of each foot.",
+   "Put a bench or box behind you at a height you can sit to with control. Lower it over the weeks.",
+   "Breathe in through your nose into your belly and sides, then brace moderately."
+  ],
+  "cues": [
+   "Sit down between your heels.",
+   "Knees travel out over your little toes.",
+   "Dumbbell glued to your breastbone, chest proud.",
+   "Spread the floor with your feet.",
+   "Exhale as you stand, and finish tall with your glutes squeezed."
+  ],
+  "mistakes": [
+   "Dumbbell drifting away from the chest, which strains the forearms and tips you forward. Fix: keep it touching your breastbone. If you can't, it's too heavy.",
+   "Knees caving in. Fix: push them out over your little toes, slow the lowering and go lighter.",
+   "Heels lifting. Fix: widen your stance a little, turn your toes out more, squat to a higher box and keep doing ankle-knee-to-wall.",
+   "Dropping onto the box and rocking up. Fix: take three seconds down, touch lightly, then stand without rocking."
+  ],
+  "arm_safety": "Only after your physio has cleared gripping and holding weights. The goblet hold spreads the load across both palms with your wrists close to neutral, so it's the gentlest way to start loading your injured arm in a squat. Use 6–10 kg for the first two weeks, even if your legs could take far more, and let the leg press keep doing the heavy leg work. If your forearm or wrist tires before your legs do, you've found your limit for now. Pick the dumbbell up from a bench and put it back there, so you never lift it off the floor. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Otherwise go back to box-squat-bw. Fall risk is low. Squat to a box, and if you lose balance, sit on it rather than putting a hand down.",
+  "regressions": [
+   "box-squat-bw",
+   "tempo-squat-bw",
+   "leg-press"
+  ],
+  "progressions": [
+   "smith-squat",
+   "back-squat"
+  ],
+  "dose": "Phase 2: 3 × 8, RIR 3, tempo 3-1-1-0, a light counterweight (6–10 kg). Later 3 × 8–12, RIR 2–3; add 2 kg when every set reaches 12.",
+  "video": "https://www.youtube.com/results?search_query=goblet+squat+form+squat+university"
+ },
+ {
+  "id": "smith-squat",
+  "name": "Smith machine squat",
+  "category": "squat",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "Smith machine",
+   "plates",
+   "bench or box as a depth target (optional)"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors"
+  ],
+  "why": "The Smith machine's fixed bar path and built-in catches let you load the squat beyond what a goblet hold allows. Your hands only steady the bar. It's the bridge to the free-bar back squat and more leg muscle for long ascents.",
+  "setup": [
+   "Do a bodyweight squat under the bar first, then set the safety stops just below the bar's lowest point.",
+   "Set the bar at upper-chest height, step under it and rest it on the muscle of your upper back, not your neck.",
+   "Grip a little wider than your shoulders with your wrists straight. Your hands steady the bar; they don't hold the weight.",
+   "Put your feet 10–20 cm in front of the bar line, hip- to shoulder-width apart, toes slightly out.",
+   "Breathe in, brace moderately, then twist the bar off its hooks."
+  ],
+  "cues": [
+   "Sit down and slightly back; knees follow your toes.",
+   "Whole foot planted. Push the floor away.",
+   "Chest up, upper back tight against the bar.",
+   "Exhale as you drive up, then breathe again at the top.",
+   "At the end of the set, twist the bar onto the nearest hook."
+  ],
+  "mistakes": [
+   "Feet directly under the bar, so your knees shoot forward and your heels lift. Fix: move your feet forward until you can sit down with the whole foot pressing.",
+   "Forgetting the safety stops. Fix: set them before your first set, every time. They're your spotter.",
+   "Wrists bent back under the bar. Fix: change your grip width until both wrists stay straight. The bar sits on your back, not in your hands.",
+   "Bouncing out of the bottom. Fix: three seconds down, then drive up."
+  ],
+  "arm_safety": "Start only once your physio has cleared gripping and holding weights and you can hold an empty bar comfortably with both hands. Hooking and unhooking a Smith bar means twisting it with your wrists, so practise that with no plates first. Use the bar alone for the first one or two weeks, then add no more than 2.5 kg a side per session. Smith bars range from counterbalanced and very light to about 20 kg, so ask staff what yours weighs. Load the plates evenly; your uninjured hand carries plates of 10 kg or less, and staff help with heavier ones. If your injured wrist or elbow aches while holding the bar in place, go back to goblet squats. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low. The bar only moves up and down and the stops catch it, so if a rep fails, sit down under it and let it land on the stops.",
+  "regressions": [
+   "goblet-squat",
+   "leg-press",
+   "box-squat-bw"
+  ],
+  "progressions": [
+   "back-squat"
+  ],
+  "dose": "3–4 × 5–8, RIR 2, tempo 3-1-1-0. Empty bar first. Add 2.5–5 kg in total when every set reaches the top of the range.",
+  "video": "https://www.youtube.com/results?search_query=smith+machine+squat+form+jeff+nippard",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/19855308?format=json&resultType=core"
+ },
+ {
+  "id": "back-squat",
+  "name": "Barbell back squat",
+  "category": "squat",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "squat rack with safety arms",
+   "Olympic barbell (20 kg)",
+   "plates",
+   "collars"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors",
+   "spinal erectors",
+   "core"
+  ],
+  "why": "A classic whole-body strength builder. Once your arm can share the job, the back squat lets you add load to your legs and trunk for years. That means more muscle for your 5 kg goal and strong legs for long climbs and descents with a pack.",
+  "setup": [
+   "Set the bar on the rack hooks at mid-chest height, low enough that you bend your knees slightly to get under it.",
+   "Set the safety arms 3–5 cm below where the bar sits at the bottom of your squat. Check it with the empty bar.",
+   "Take a grip a little wider than your shoulders, thumbs around the bar and wrists straight. Duck under and place the bar on your upper traps, above your shoulder blades (high-bar).",
+   "Squeeze your shoulder blades together to make a shelf. Stand the bar up and take two or three small steps back, no more.",
+   "Feet about shoulder-width, toes out 15–30°. Breathe in and brace moderately."
+  ],
+  "cues": [
+   "Break at the hips and knees together and sit down between your heels.",
+   "Knees out over your toes, whole foot planted.",
+   "Bar over the middle of your foot the whole way.",
+   "Chest and bar rise together. Don't let your hips shoot up first.",
+   "Exhale through pursed lips past the hardest part, then breathe and brace again at the top."
+  ],
+  "mistakes": [
+   "Hips rising faster than the chest (a 'good-morning' squat). Fix: go lighter, think 'chest up, push the floor away' and pause 1 s at the bottom.",
+   "Walking the bar out too far. Fix: two or three small steps, so the hooks are right there when you re-rack.",
+   "Bar rolling up your neck or down your back. Fix: squeeze your shoulder blades, keep your elbows under the bar and hold it only as tightly as your injured hand finds comfortable.",
+   "No safeties set. Fix: never squat without the safety arms. With them set, you can sit down and leave a failed rep on the arms."
+  ],
+  "arm_safety": "Full clearance only: your plan brings it in at Phase 4a, after months of Smith squats. Ask your physio specifically about holding a bar on your back, because the position turns your shoulders out and can bend your wrists back. Use the empty 20 kg bar for the first sessions, then add no more than 2.5 kg a side per session. Pick a grip width (usually wider) where both wrists stay straight and the bar sits on your back, not in your hands. Use moderate bracing and keep breathing while you learn it; heavy sets of 1–5 with a brief full brace come later, once the lift is grooved. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium, because a failed rep or a stumble on the walk-out can make you reach out. Always squat inside the rack with the safety arms set just below your lowest point. A failed rep then goes onto the arms and you never have to dump the bar.",
+  "regressions": [
+   "smith-squat",
+   "goblet-squat",
+   "box-squat-bw"
+  ],
+  "progressions": [],
+  "dose": "3–4 × 4–6, RIR 2–3, tempo 2-1-1-0. Empty bar first. Add 2.5–5 kg in total while every rep looks the same on video.",
+  "video": "https://www.youtube.com/results?search_query=high+bar+back+squat+form+alan+thrall",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/23821469?format=json&resultType=core"
+ },
+ {
+  "id": "db-split-squat",
+  "name": "Dumbbell split squat",
+  "category": "single-leg",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "dumbbells",
+   "squat rack upright or wall to touch"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors",
+   "hip stabilisers"
+  ],
+  "why": "Trains each leg on its own, which shows up left–right differences and builds the hip stability you need on uneven trails. Holding a dumbbell adds load and makes your trunk resist leaning.",
+  "setup": [
+   "Stand side-on to a rack upright with your uninjured hand on it.",
+   "Take a long split stance with your feet hip-width apart, like on train tracks rather than a tightrope. Front foot flat, back foot on the ball.",
+   "Until full clearance, hold one dumbbell in your injured hand, arm long, shoulder down. Your uninjured hand stays on the rack.",
+   "After full clearance, hold a dumbbell in each hand at your sides."
+  ],
+  "cues": [
+   "Drop the back knee straight down towards the floor.",
+   "Front foot does the work, with the whole foot pressing.",
+   "Stay tall, shoulders over hips, and don't lean towards the weight.",
+   "Drive up through the front foot and exhale.",
+   "Finish all the reps on one leg, then switch."
+  ],
+  "mistakes": [
+   "Stance too narrow, so you wobble. Fix: widen your feet side to side.",
+   "Pushing off the back foot. Fix: the back leg is a kickstand; the front leg works.",
+   "Leaning towards the dumbbell side. Fix: go lighter and stay tall.",
+   "Back knee banging the floor. Fix: stop 2–3 cm above it, or put a folded mat under it."
+  ],
+  "arm_safety": "After grip clearance. Until full clearance, the safety rule is that balance work happens next to a support your uninjured hand can touch. So hold one dumbbell in your injured hand and keep your uninjured hand on the rack. The weight is whatever your injured hand can hold comfortably for the whole set, usually 4–8 kg to start. Your legs still get equal work. After full clearance, progress to a dumbbell in each hand, equal weights. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium. If you wobble, hold the rack, stand up out of the split and bring your feet together. Put the dumbbell down rather than reaching out with your injured arm.",
+  "regressions": [
+   "split-squat-bw",
+   "leg-press-single"
+  ],
+  "progressions": [
+   "db-bulgarian-split-squat",
+   "db-walking-lunge"
+  ],
+  "dose": "3 × 8–10 / side, RIR 2–3, tempo 2-0-1-0. Add 2 kg when every set reaches 10 with control.",
+  "video": "https://www.youtube.com/results?search_query=dumbbell+split+squat+form+squat+university"
+ },
+ {
+  "id": "db-bulgarian-split-squat",
+  "name": "Dumbbell Bulgarian split squat",
+  "category": "single-leg",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "dumbbells",
+   "flat bench",
+   "rack upright next to the bench",
+   "folded mat for the knee (optional)"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors",
+   "hip stabilisers"
+  ],
+  "why": "One of the best leg builders for a hiker. It works the knee and hip deeply on one leg and stretches the glutes hard, with little load on your spine. In one training study, it matched the back squat for strength gains.",
+  "setup": [
+   "Put a flat bench next to a rack upright. Stand facing away from the bench with your uninjured hand towards the rack.",
+   "Rest the top of your back foot (laces down) on the bench.",
+   "Hop your front foot forward until your front shin is roughly vertical at the bottom, usually 60–90 cm from the bench.",
+   "Until full clearance, hold one dumbbell in your injured hand with your uninjured hand on the rack. After full clearance, hold one in each hand.",
+   "Square your hips, breathe in and brace moderately."
+  ],
+  "cues": [
+   "Sink straight down; the front leg does nearly all the work.",
+   "A slight forward lean works the glutes more; staying taller works the quads more.",
+   "Front knee follows your second toe.",
+   "Exhale and push the floor away through your whole front foot."
+  ],
+  "mistakes": [
+   "Front foot too close, so your heel lifts. Fix: move it further forward.",
+   "Bouncing off the back foot. Fix: the bench holds your back leg; it isn't a springboard.",
+   "Bench too high, so the back hip strains and balance suffers. Fix: use a lower surface or go back to db-split-squat.",
+   "Hips twisting. Fix: keep both hip bones facing forward and slow the lowering."
+  ],
+  "arm_safety": "After grip clearance, and only once bodyweight rear-foot-elevated split squats are steady. This has the highest balance demand of the Part B leg exercises. Until full clearance, use one light dumbbell in your injured hand and keep your uninjured hand on a rack upright next to the bench. After full clearance, use a dumbbell in each hand, equal weights. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium. Get in and out of position slowly, and put the dumbbell down before you take your foot off the bench. If you lose balance, step your back foot down to the floor.",
+  "regressions": [
+   "rfe-split-squat-bw",
+   "db-split-squat"
+  ],
+  "progressions": [],
+  "dose": "3 × 8–10 / side, RIR 2, tempo 3-0-1-0. Add 2 kg when every set reaches 10.",
+  "video": "https://www.youtube.com/results?search_query=bulgarian+split+squat+form+jeff+nippard",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/26200193?format=json&resultType=core"
+ },
+ {
+  "id": "db-step-up",
+  "name": "Dumbbell step-up",
+  "category": "single-leg",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "dumbbells",
+   "until full clearance: an aerobic step (15–25 cm) or the bottom stair; after it, a stable box or flat bench up to knee height",
+   "rack upright next to it"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "calves",
+   "hip stabilisers"
+  ],
+  "why": "The most hiking-specific strength exercise there is. Stepping up under load is what every climb, stile and rock step asks of you, and adding weight builds the single-leg strength to do it for hours with a rucksack.",
+  "setup": [
+   "Until full clearance: an aerobic step (15–25 cm) beside the rack, never a bench. After full clearance: a stable box or flat bench up to knee height, starting at 30–40 cm. Check it doesn't wobble or slide.",
+   "Place it beside a rack upright, on your uninjured side.",
+   "Until full clearance, hold one dumbbell in your injured hand, or wear your day pack (hands free), and keep your uninjured hand near or on the rack. After full clearance, hold one in each hand.",
+   "Put your whole foot on the box."
+  ],
+  "cues": [
+   "Lean slightly forward and push through the top foot. Don't spring off the bottom leg.",
+   "Stand fully tall at the top, hips under shoulders.",
+   "Lower slowly, over 3 s. This is your downhill training.",
+   "Exhale on the way up."
+  ],
+  "mistakes": [
+   "Pushing off the bottom foot. Fix: keep the back foot's toes light and pause briefly on the floor between reps.",
+   "Knee caving in on the way up. Fix: keep it over your second toe and go lighter.",
+   "Dropping down fast. Fix: control the lowering, because downhill knees need it.",
+   "Box so high that your hip hikes. Fix: lower it until you can step up without twisting."
+  ],
+  "arm_safety": "After grip clearance, and only once bodyweight step-ups to the same height are steady. Until full clearance, hold one dumbbell in your injured hand with your uninjured hand on or near the rack. After full clearance, hold a dumbbell in each hand. Start light (4–8 kg) on the aerobic step; higher boxes and benches wait for full clearance. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium, mostly from catching a toe on the edge. Look at the box, place your whole foot and step down backwards slowly. Never step onto stacked plates or anything that can slide.",
+  "regressions": [
+   "step-up-bw",
+   "lateral-step-up-bw",
+   "step-down-eccentric"
+  ],
+  "progressions": [
+   "ruck-loaded"
+  ],
+  "dose": "3 × 8 / side, RIR 2–3, 3 s lowering. Before full clearance, add load (+2 kg) on the aerobic step; after it, raise the height (up to knee level), then the load.",
+  "video": "https://www.youtube.com/results?search_query=dumbbell+step+up+form+squat+university"
+ },
+ {
+  "id": "db-walking-lunge",
+  "name": "Dumbbell walking lunge",
+  "category": "single-leg",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "dumbbells",
+   "clear, dry, flat lane of 10–20 m"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "adductors",
+   "calves",
+   "hip stabilisers"
+  ],
+  "why": "Single-leg strength on the move. Every step is a controlled brake and push-off, like walking downhill and over rough ground, so it combines leg strength, balance and grip in one drill.",
+  "setup": [
+   "Clear a straight lane of at least 10 m on a non-slip floor.",
+   "Hold light dumbbells at your sides and stand tall.",
+   "Step forward one long stride, feet hip-width apart."
+  ],
+  "cues": [
+   "Step, sink the back knee towards the floor, then push through the front foot and bring the back leg through.",
+   "Tall torso, eyes on the floor 3–4 m ahead.",
+   "Front knee tracks your toes, whole foot flat.",
+   "One breath per step, breathing out as you rise."
+  ],
+  "mistakes": [
+   "Steps too short (heel lifts) or too long (overreaching). Fix: aim for both knees at about 90° at the bottom.",
+   "Wobbling side to side. Fix: walk on train tracks, not a tightrope, and slow down.",
+   "Rushing when tired. Fix: end the set when your control drops."
+  ],
+  "arm_safety": "Gated at full clearance, one gate later than the default for dumbbell work, because this is the least stable leg exercise in the library. You travel forward on one leg with both hands full and nothing to hold, which doesn't fit the rule that balance work happens next to a support until full clearance. Until then, split squats and step-ups next to a rack do the same job. When you start, do bodyweight walking lunges for a session or two, then 4–6 kg per hand, equal weights. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium. Use a clean, dry, flat floor only, and never lunge when you're very tired. If you lose balance, step wide and put the dumbbells down rather than reaching out.",
+  "regressions": [
+   "db-split-squat",
+   "split-squat-bw"
+  ],
+  "progressions": [],
+  "dose": "2–3 × 8–10 steps / leg, RIR 2–3. Add 2 kg per hand when every set feels controlled.",
+  "video": "https://www.youtube.com/results?search_query=dumbbell+walking+lunge+form+jeremy+ethier"
+ },
+ {
+  "id": "db-rdl",
+  "name": "Dumbbell Romanian deadlift",
+  "category": "hinge",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "dumbbells",
+   "bench to pick up from"
+  ],
+  "muscles": [
+   "hamstrings",
+   "glutes",
+   "spinal erectors",
+   "upper back",
+   "forearms"
+  ],
+  "why": "Teaches the hip hinge under load, which is how you should lift a rucksack, a sandbag or anything else off the ground. It builds the hamstrings and glutes that drive you uphill, and dumbbells let you start very light with your wrists in a natural position.",
+  "setup": [
+   "Pick the dumbbells up from a bench or rack at thigh height, not from the floor.",
+   "Stand tall, feet hip-width, knees soft, dumbbells in front of your thighs. Palms can face you or each other.",
+   "Pull your shoulders down and slightly back, breathe in and brace moderately."
+  ],
+  "cues": [
+   "Push your hips back as if closing a car door with your bum.",
+   "Dumbbells slide down your thighs, close to your legs.",
+   "Shins stay almost vertical; knees stay soft and don't bend further.",
+   "Go down until you feel a strong hamstring stretch, usually just below the knees, with a long spine.",
+   "Drive your hips forward to stand, squeeze your glutes and exhale."
+  ],
+  "mistakes": [
+   "Rounding your back to reach lower. Fix: stop where your back would round. Depth comes as your hamstrings lengthen.",
+   "Turning it into a squat. Fix: keep the shins vertical and push the hips back.",
+   "Dumbbells drifting forward. Fix: keep them brushing your legs.",
+   "Leaning back at the top. Fix: finish tall, ribs down, glutes tight."
+  ],
+  "arm_safety": "After grip clearance. In an RDL your hands hold the full load for the whole set, so your grip will limit the weight before your hamstrings do, and for now that's the right limiter. Start with 4–8 kg per hand, equal weights, palms facing each other if that's kinder to your injured wrist. Don't use lifting straps to get round a weak grip. They let you hold more than your hand can and switch off your grip as the warning light. Take the dumbbells from a bench and put them back there, so there's no floor pick-up. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "single-leg-rdl-bw",
+   "kb-deadlift",
+   "hamstring-curl"
+  ],
+  "progressions": [
+   "barbell-rdl"
+  ],
+  "dose": "3 × 8–10, RIR 2–3, tempo 3-0-1-1 (3 s down, 1 s squeeze at the top). Add 2 kg per hand when every set reaches 10.",
+  "video": "https://www.youtube.com/results?search_query=dumbbell+romanian+deadlift+form+jeff+nippard"
+ },
+ {
+  "id": "barbell-rdl",
+  "name": "Barbell Romanian deadlift",
+  "category": "hinge",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "Olympic barbell",
+   "plates",
+   "squat rack (to take the bar at thigh height)"
+  ],
+  "muscles": [
+   "hamstrings",
+   "glutes",
+   "spinal erectors",
+   "upper back",
+   "forearms"
+  ],
+  "why": "The barbell lets you load the hinge further than dumbbells, building the posterior chain for climbing, carrying and a resilient back. Taking the bar from the rack means you never pull it from the floor.",
+  "setup": [
+   "Set the bar on the rack hooks at mid-thigh height and set the safety arms just below your lowest RDL position.",
+   "Grip just outside your thighs with both palms facing you, thumbs around, wrists straight.",
+   "Stand up with the bar, take one or two steps back, feet hip-width.",
+   "Shoulders down and back, chest proud. Breathe in and brace moderately."
+  ],
+  "cues": [
+   "Hips back; the bar slides down your thighs.",
+   "Knees soft, shins vertical.",
+   "Bar stays touching your legs, over the middle of your feet.",
+   "Stop at the hamstring stretch, usually just below the knee or mid-shin.",
+   "Push your hips through, stand tall and exhale."
+  ],
+  "mistakes": [
+   "Bar drifting away from your legs. Fix: with straight arms, pull it into you as if bending the bar round your legs.",
+   "Upper back rounding at the bottom. Fix: go lighter and stop higher.",
+   "Squatting it down. Fix: knees stay soft and the hips go back.",
+   "Leaning back at the top. Fix: stand tall, ribs down, and finish with your glutes."
+  ],
+  "arm_safety": "After grip clearance, once dumbbell RDLs feel easy on your grip. A barbell makes both hands share the load, so if your injured hand is weaker the bar will want to tilt. Keep the weight where the bar stays level without effort. Start with the empty bar and add 2.5–5 kg per session at most. Use a double overhand grip with straight wrists, no straps and no mixed (one palm up) grip. Take the bar from the rack hooks at thigh height and return it there, so you never lower it to the floor. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "db-rdl"
+  ],
+  "progressions": [
+   "barbell-deadlift"
+  ],
+  "dose": "3 × 6–8, RIR 2, tempo 3-1-1-0. Empty bar first. Add 5 kg when every set reaches 8.",
+  "video": "https://www.youtube.com/results?search_query=romanian+deadlift+form+alan+thrall"
+ },
+ {
+  "id": "kb-deadlift",
+  "name": "Kettlebell deadlift",
+  "category": "hinge",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "kettlebell (no kettlebells? a dumbbell beside each foot, lifted as a 'suitcase deadlift')"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "quads",
+   "spinal erectors",
+   "lats",
+   "forearms"
+  ],
+  "why": "StrongFirst teaches this before any swing: a light weight lifted from between your feet with a perfect hinge. It's how you'll lift everything in daily life, and it's your gateway to kettlebell swings for conditioning.",
+  "setup": [
+   "Stand with the kettlebell between your feet, handle in line with the middle of your feet, feet a little wider than your hips. (No kettlebell? Stand a dumbbell beside each foot.)",
+   "Push your hips back and bend your knees as much as you need to reach the handle with a flat back. Shins stay nearly vertical.",
+   "Grip the handle with both hands and pull your shoulders away from your ears.",
+   "Breathe into your belly and feel tension in your hamstrings and lats before you lift."
+  ],
+  "cues": [
+   "Push the floor away and stand up tall.",
+   "Hips and shoulders rise together.",
+   "At the top, stand like a plank: glutes and quads tight, ribs down.",
+   "On the way down, hips go back first and the bell lands between your feet.",
+   "Exhale with a sharp hiss at the top."
+  ],
+  "mistakes": [
+   "Squatting down to it, with knees forward and hips low. Fix: push the hips back further. As a drill, stand a foot from a wall and touch it with your bum.",
+   "Rounding your back to reach the handle. Fix: raise the bell on a plate or widen your stance.",
+   "Yanking with your arms. Fix: arms are straight ropes. Take up the tension first, then push the floor away.",
+   "Leaning back at the top. Fix: finish vertical."
+  ],
+  "arm_safety": "After grip clearance. Start with 8–12 kg, light enough that your injured hand is never the struggle, with both hands sharing the handle equally. With dumbbells, use the same weight in each hand. Lower the weight with the same hinge you lifted it with; never drop it. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low. This is your entry ticket to kettlebell swings, which wait for full clearance.",
+  "regressions": [
+   "single-leg-rdl-bw",
+   "glute-bridge",
+   "hip-thrust-bench-bw"
+  ],
+  "progressions": [
+   "db-rdl",
+   "barbell-deadlift",
+   "kb-swing-two-hand"
+  ],
+  "dose": "3 × 5–8, RIR 2–3. Crisp, identical reps, no grinding. Add 4 kg (or 2 kg per dumbbell) when every rep looks the same.",
+  "video": "https://www.youtube.com/results?search_query=kettlebell+deadlift+strongfirst",
+  "source": "https://www.strongfirst.com/3-month-plan-for-beginner-group-lessons/"
+ },
+ {
+  "id": "barbell-deadlift",
+  "name": "Barbell deadlift",
+  "category": "hinge",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "Olympic barbell",
+   "full-size (45 cm) plates, or blocks to raise the bar",
+   "collars"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "quads",
+   "spinal erectors",
+   "lats",
+   "trapezius",
+   "forearms"
+  ],
+  "why": "The king of farmer strength: picking a heavy object up from the floor. Done well and progressed patiently, it builds the back, hips and grip that make carrying, rucking and lifting feel easy.",
+  "setup": [
+   "Use full-size plates so the bar starts at mid-shin height. If you only have small plates, raise the bar on blocks or stacked plates.",
+   "Stand with the bar over the middle of your feet, 2–3 cm from your shins, feet hip-width and toes slightly out.",
+   "Hinge down and grip just outside your legs, both palms facing you, thumbs around.",
+   "Bend your knees until your shins touch the bar. Chest up, back flat, shoulders slightly in front of the bar.",
+   "Take the slack out: arms straight, lats tight, as if bending the bar round your legs. Breathe in and brace moderately."
+  ],
+  "cues": [
+   "Push the floor away. Don't pull with your back.",
+   "Bar stays in contact with your legs the whole way, in a straight vertical line.",
+   "Hips and shoulders rise together until the bar passes your knees, then drive your hips forward.",
+   "Finish tall with your glutes tight and no leaning back.",
+   "Lower it the same way: hips back first, then bend the knees once the bar passes them."
+  ],
+  "mistakes": [
+   "Bar too far from your shins at the start. Fix: set it over the middle of your foot.",
+   "Hips shooting up first. Fix: take the slack out before the plates leave the floor and keep your chest up.",
+   "Jerking the bar off the floor. Fix: slack out, then squeeze it up.",
+   "Lower back rounding. Fix: reduce the load, and raise the bar on blocks to shorten the range while your hinge improves."
+  ],
+  "arm_safety": "Full clearance only (your plan brings it in at Phase 4), after many weeks of RDLs that feel easy on your grip. The deadlift asks more of your hands than any other lift, so your injured hand decides the weight. Start with the empty bar set at mid-shin height on blocks, then add 2.5–5 kg a session. Stop adding weight when your injured hand can't comfortably hold every rep with both palms facing you. Use no straps and no mixed grip, which loads one forearm fully palm-up under heavy weight. Use moderate bracing and keep breathing while you learn it; heavy sets of 1–3 with a brief full brace come later. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "kb-deadlift",
+   "barbell-rdl"
+  ],
+  "progressions": [],
+  "dose": "3 × 3–5, RIR 2. Set the bar down fully and reset before each rep. Add 5 kg per session while your form holds. No grinders.",
+  "video": "https://www.youtube.com/results?search_query=deadlift+form+alan+thrall",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/31938009?format=json&resultType=core"
+ },
+ {
+  "id": "barbell-hip-thrust",
+  "name": "Barbell hip thrust",
+  "category": "hip",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "Olympic barbell",
+   "full-size plates",
+   "flat bench against a wall or rack",
+   "bar pad or folded mat"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "adductors",
+   "quads"
+  ],
+  "why": "It loads the glutes harder than almost any other exercise, with little stress on your back. Strong glutes keep your pelvis stable on every step of a long hike and add size where it counts.",
+  "setup": [
+   "Wedge a bench against a wall or rack so it can't slide. Sit on the floor with your upper back, just below the shoulder blades, against its edge.",
+   "Roll a padded bar over your legs to your hip crease. Full-size plates make this easier because the bar rolls instead of needing a lift.",
+   "Feet flat and hip-width, 30–40 cm from your bum, so your shins are vertical at the top.",
+   "Rest your hands on the bar only to stop it rolling. Tuck your chin."
+  ],
+  "cues": [
+   "Chin tucked, eyes forward, ribs down.",
+   "Drive through your heels and lift your hips until your body is a tabletop from shoulders to knees.",
+   "Squeeze your glutes hard for 1–2 s at the top.",
+   "Lower under control and touch lightly. Don't rest at the bottom."
+  ],
+  "mistakes": [
+   "Arching your lower back at the top. Fix: keep your ribs down, tuck your pelvis and stop at a flat tabletop.",
+   "Feet too far forward, so your hamstrings cramp, or too close, so your quads take over. Fix: move them until your shins are vertical at the top.",
+   "Bench sliding. Fix: wedge it against a rack or wall.",
+   "Bar rolling towards your belly. Fix: set it in the hip crease on a thick pad and keep your hands on it."
+  ],
+  "arm_safety": "After grip clearance. Rolling the bar into place and steadying it is a two-handed job, so practise with the empty bar or a dumbbell on your hips first. Load plates evenly, and ask staff to help with heavy ones. Your hands only steady the bar; they don't push or hold it. To get up, roll the bar back down your thighs, turn to your uninjured side and stand up using your uninjured hand on the bench. Never push up through your injured wrist before full clearance. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "hip-thrust-bench-bw",
+   "hip-thrust-single-leg",
+   "glute-bridge"
+  ],
+  "progressions": [],
+  "dose": "3 × 8–12, RIR 2, 1–2 s squeeze at the top. Add 5 kg when every set reaches 12.",
+  "video": "https://www.youtube.com/results?search_query=barbell+hip+thrust+form+bret+contreras"
+ },
+ {
+  "id": "chest-press-machine",
+  "name": "Chest press machine",
+  "category": "push",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "chest press machine"
+  ],
+  "muscles": [
+   "pectorals",
+   "front deltoids",
+   "triceps"
+  ],
+  "why": "The safest way to start pressing with both arms, with a fixed path, nothing to balance and a load you change with one pin. It rebuilds the upper-body pushing strength you need for scrambling and getting up off the ground, and starts the upper-body side of your 5 kg goal.",
+  "setup": [
+   "Adjust the seat so the handles line up with the middle of your chest.",
+   "Set the pin with your uninjured hand at the lightest plate.",
+   "Sit with your back flat on the pad, feet flat, shoulder blades gently pulled back.",
+   "Use the neutral (vertical) handles if the machine has them, with the handle in the heel of your hand and your wrist straight.",
+   "If there's a foot bar that moves the handles forward, use it so your arms never start in the deepest stretch."
+  ],
+  "cues": [
+   "Wrists stacked over your elbows, knuckles up on horizontal handles.",
+   "Press out smoothly, exhaling, and stop just short of locking your elbows.",
+   "Shoulders stay down and back against the pad.",
+   "Take 3 s to return until your hands are just in front of your chest."
+  ],
+  "mistakes": [
+   "Seat too low, so the handles sit near your shoulders. Fix: raise the seat until they're at mid-chest.",
+   "Shoulders rolling forward at the end of the press. Fix: keep your shoulder blades on the pad.",
+   "Wrists bent back. Fix: hold the handle in the heel of your palm, in line with your forearm.",
+   "Letting the stack crash. Fix: control the return."
+  ],
+  "arm_safety": "After grip clearance. Ask your physio specifically about pushing. Start at the lightest plate for two weeks, then progress by the smallest step the machine allows. Choose neutral handles if there are any and keep your wrists straight. Your uninjured arm will want to do more, so keep the handles level and slow so both sides share the work. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Any ache at the fracture site means drop the weight. Fall risk is low. Sit down and stand up using your legs, with your uninjured hand on the frame.",
+  "regressions": [
+   "ga-chest-press-machine",
+   "rehab-wall-press"
+  ],
+  "progressions": [
+   "db-bench-press",
+   "bench-press"
+  ],
+  "dose": "First fortnight: 3 × 10–12, RIR 3. Then 3 × 8–12, RIR 2–3. Add one plate when every set reaches 12.",
+  "video": "https://www.youtube.com/results?search_query=chest+press+machine+form+jeremy+ethier",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/37582807?format=json&resultType=core"
+ },
+ {
+  "id": "db-bench-press",
+  "name": "Dumbbell bench press",
+  "category": "push",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "dumbbells",
+   "flat bench"
+  ],
+  "muscles": [
+   "pectorals",
+   "front deltoids",
+   "triceps",
+   "rotator cuff"
+  ],
+  "why": "Each arm works on its own, so your uninjured arm can't cover for the injured one, and you can choose the wrist angle that feels best. It's a reliable chest and arm builder for your muscle goal.",
+  "setup": [
+   "Sit on the end of a flat bench with the dumbbells standing on your thighs near your knees.",
+   "Lie back slowly, holding the dumbbells close to your chest as you go. Don't kick them up with a jerk.",
+   "Feet flat, shoulder blades gently pulled back and down, a slight natural arch.",
+   "Start with your palms facing each other (neutral) or turned slightly in."
+  ],
+  "cues": [
+   "Wrists straight, stacked over your elbows.",
+   "Elbows about 45° from your sides, not flared to 90°.",
+   "Press up and slightly in as you exhale.",
+   "Take 3 s to lower the dumbbells until they're beside your chest."
+  ],
+  "mistakes": [
+   "Dumbbells drifting out wide, so your shoulders ache. Fix: tuck your elbows to about 45° and shorten the range.",
+   "Wrists bending back. Fix: grip the middle of the handle and keep it over your forearm.",
+   "Dropping the dumbbells out to the sides at the end. Fix: bring them to your chest, then sit up with them resting on your thighs.",
+   "Arms moving unevenly. Fix: slow down so both sides move together."
+  ],
+  "arm_safety": "After grip clearance, and after a few weeks of machine chest press without arm symptoms. Dumbbells need balancing as well as pushing, so start lighter than you think (4–6 kg each) with a neutral grip, equal weights and your injured side setting the load. Getting into and out of position is the riskiest part. Lie back with the dumbbells held to your chest, and at the end bring them back to your chest and sit up with them on your thighs. Never drop them out to the sides. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "chest-press-machine"
+  ],
+  "progressions": [
+   "bench-press"
+  ],
+  "dose": "3 × 8–12 (6–10 in Phase 3), RIR 2–3. Add 2 kg per hand when every set reaches the top of the range.",
+  "video": "https://www.youtube.com/results?search_query=dumbbell+bench+press+form+jeff+nippard"
+ },
+ {
+  "id": "bench-press",
+  "name": "Barbell bench press",
+  "category": "push",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "bench press station with safety arms, or a flat bench inside a squat rack with safeties",
+   "Olympic barbell",
+   "plates",
+   "collars"
+  ],
+  "muscles": [
+   "pectorals",
+   "front deltoids",
+   "triceps"
+  ],
+  "why": "The benchmark upper-body press, and the last step of your push progression. It lets you add load in small steps for years. It also creates less pressure inside your trunk than squats and deadlifts, which makes it a sensible first barbell press after the injury.",
+  "setup": [
+   "Lie with your eyes directly under the bar. Set the safety arms just below your chest height with your chest lifted, and check them with the empty bar.",
+   "Grip slightly wider than your shoulders with your thumbs wrapped round the bar (never thumbless). The bar sits low in your palm, over your forearm.",
+   "Pull your shoulder blades back and down into the bench, feet flat, a slight natural arch.",
+   "Lift the bar off the hooks with straight arms and bring it over your shoulders. Ask for a spotter to hand it to you if you can."
+  ],
+  "cues": [
+   "Wrists straight: knuckles up, bar over your forearm bones.",
+   "Lower to your lower chest in 2–3 s, elbows at 45–70°.",
+   "Press up and slightly back towards the rack as you exhale.",
+   "Keep your bum on the bench and your feet planted."
+  ],
+  "mistakes": [
+   "Wrists bent back. Fix: move the bar down to the heel of your palm.",
+   "Elbows flared to 90°. Fix: tuck them a little so the bar touches lower on your chest.",
+   "Bouncing the bar off your chest. Fix: touch, then press.",
+   "Benching without safety arms. Fix: always set them. If a rep stalls, lower the bar to your chest and onto the arms, then slide out."
+  ],
+  "arm_safety": "Full clearance only (your plan brings it in at Phase 4), after many weeks of pain-free dumbbell pressing. The bar makes both hands share the load, so a weaker injured side shows up as a tilting bar. Keep it light enough that the bar stays level. Start with the empty 20 kg bar, or stay with dumbbells if that's too much, then add 1.25–2.5 kg a side per session. Your wrists must stay straight with the bar over your forearm bones. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low, but getting stuck under the bar is a real risk, so always set the safety arms or have a spotter.",
+  "regressions": [
+   "db-bench-press",
+   "chest-press-machine"
+  ],
+  "progressions": [],
+  "dose": "3 × 5–8, RIR 2–3. Empty bar first. Add 2.5 kg in total per session while the bar moves smoothly.",
+  "video": "https://www.youtube.com/results?search_query=bench+press+form+alan+thrall",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/31938009?format=json&resultType=core"
+ },
+ {
+  "id": "incline-push-up",
+  "name": "Incline push-up",
+  "category": "push",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "Smith machine bar locked at chest-to-hip height, or a barbell in a rack, or a bench wedged against a wall"
+  ],
+  "muscles": [
+   "pectorals",
+   "triceps",
+   "front deltoids",
+   "serratus anterior",
+   "core"
+  ],
+  "why": "The bridge from wall presses to floor push-ups: bodyweight pressing with a braced trunk and shoulder blades that move freely. Push-up strength helps you get up off the ground, scramble, and catch yourself if you stumble.",
+  "setup": [
+   "Lock a Smith or rack bar at chest-to-hip height. The higher the bar, the easier the push-up.",
+   "Hold the bar with your hands slightly wider than your shoulders, then walk your feet back until your body is a straight line.",
+   "Squeeze your glutes and quads and keep your ribs down: it's a plank on a slope."
+  ],
+  "cues": [
+   "Your body moves as one piece, a plank that bends at the elbows.",
+   "Elbows at about 45°, forearms vertical.",
+   "Take 2–3 s to lower your chest to the bar, then exhale as you push away.",
+   "At the top, push the bar away so your shoulder blades spread."
+  ],
+  "mistakes": [
+   "Hips sagging. Fix: squeeze your glutes, or raise the bar.",
+   "Elbows flared to 90°. Fix: tuck them to about 45°.",
+   "Half reps. Fix: chest to the bar every rep, and raise the bar if you can't reach it.",
+   "Using a bench that can slide. Fix: wedge it against a wall or use a locked Smith bar."
+  ],
+  "arm_safety": "Full clearance only, because this puts bodyweight through your wrists. Holding a bar keeps your wrists straight, which is usually kinder than flat palms on a bench. Start high, with the bar at chest height, once your physio-graded wall presses feel easy. Lower the bar one notch at a time over weeks. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low. Set the bar high enough that if your hands slip, you can step forward and stand.",
+  "regressions": [
+   "rehab-wall-press"
+  ],
+  "progressions": [
+   "push-up"
+  ],
+  "dose": "3 × 6–12, RIR 2–3. Lower the bar one notch when 3 × 12 is easy with a perfect plank.",
+  "video": "https://www.youtube.com/results?search_query=incline+push+up+progression+e3+rehab"
+ },
+ {
+  "id": "push-up",
+  "name": "Push-up",
+  "category": "push",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "floor and mat",
+   "optional: fixed hexagonal dumbbells to hold, keeping your wrists straight"
+  ],
+  "muscles": [
+   "pectorals",
+   "triceps",
+   "front deltoids",
+   "serratus anterior",
+   "core"
+  ],
+  "why": "A pressing standard you can do anywhere, and a whole-body plank in motion. StrongFirst-style crisp sets build pressing strength without grinding.",
+  "setup": [
+   "Place your hands just wider than your shoulders and under them, fingers spread. Or grip fixed hex dumbbells to keep your wrists straight.",
+   "Feet together or hip-width, body straight from ears to ankles.",
+   "Squeeze your glutes and quads, brace your trunk and pull your shoulders away from your ears."
+  ],
+  "cues": [
+   "Screw your hands into the floor so your elbows point back.",
+   "Lower as one unit until your chest is a fist's height from the floor.",
+   "Elbows about 45° from your body.",
+   "Push the floor away as you exhale.",
+   "Stop the set while every rep still looks the same."
+  ],
+  "mistakes": [
+   "Hips sagging or piking up. Fix: squeeze your glutes and film yourself from the side.",
+   "Head dipping first. Fix: tuck your chin and let your chest lead.",
+   "Elbows flared out. Fix: tuck them to 45°.",
+   "Grinding sets to failure. Fix: do sets of 3–8 well short of failure, and add sets for more volume."
+  ],
+  "arm_safety": "Full clearance only. Flat-palm push-ups bend your wrists back close to their limit under a large share of your bodyweight. Earn them through physio wall presses and incline push-ups at gradually lower heights. If wrist extension still aches, hold fixed hex dumbbells (they don't roll) so your wrists stay straight. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Otherwise go back to incline push-ups. Fall risk is low.",
+  "regressions": [
+   "incline-push-up"
+  ],
+  "progressions": [],
+  "dose": "3 × 6–12, RIR 2, stopping before your form would break. Add a rep per set each week.",
+  "video": "https://www.youtube.com/results?search_query=push+up+form+strongfirst",
+  "source": "https://www.strongfirst.com/the-bodyweight-strength-checklist-common-mistakes-and-solutions/"
+ },
+ {
+  "id": "db-shoulder-press",
+  "name": "Dumbbell shoulder press (seated)",
+  "category": "push",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "dumbbells",
+   "adjustable bench set upright (80–90°)"
+  ],
+  "muscles": [
+   "deltoids",
+   "triceps",
+   "upper trapezius",
+   "serratus anterior"
+  ],
+  "why": "Overhead strength for lifting a rucksack onto your back or a bag onto a shelf, and healthy shoulders for get-ups later. Seated with your back supported is the safest way to press overhead again.",
+  "setup": [
+   "Set the bench upright at 80–90° and sit with your back against it, feet flat.",
+   "Rest the dumbbells on your thighs, then bring them to your shoulders one at a time.",
+   "Palms facing each other or slightly forward, wrists straight over your elbows."
+  ],
+  "cues": [
+   "Ribs down, back against the pad. Don't arch.",
+   "Press up and slightly in as you exhale, finishing with your biceps by your ears.",
+   "Take 2–3 s to lower to just below chin height.",
+   "Forearms vertical throughout."
+  ],
+  "mistakes": [
+   "Arching away from the pad. Fix: brace, ribs down, go lighter.",
+   "Wrists bent back under the dumbbell. Fix: stack it over your forearm.",
+   "Pressing out in front of you. Fix: finish over your shoulders.",
+   "Dropping the dumbbells at the end. Fix: lower them to your thighs."
+  ],
+  "arm_safety": "After grip clearance. Ask your physio about holding weights overhead. Start with 2–4 kg, a neutral grip and only two sets, with the same weight both sides, set by your injured arm. Bring the dumbbells up one at a time from your thighs and lower them back to your thighs at the end. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low because you're seated with your back supported.",
+  "regressions": [
+   "ga-db-shoulder-press-seated"
+  ],
+  "progressions": [],
+  "dose": "3 × 8–12, RIR 2–3. Add 1–2 kg per hand when every set reaches 12.",
+  "video": "https://www.youtube.com/results?search_query=seated+dumbbell+shoulder+press+form+jeremy+ethier"
+ },
+ {
+  "id": "triceps-rope-pushdown",
+  "name": "Triceps rope pushdown",
+  "category": "push",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "cable machine",
+   "rope attachment"
+  ],
+  "muscles": [
+   "triceps"
+  ],
+  "why": "Simple arm work for your muscle goal, plus the lockout strength you'll use for pressing and planting trekking poles. The rope lets your wrists sit in a natural, neutral position.",
+  "setup": [
+   "Clip the rope to the top pulley with your uninjured hand and choose the lightest plate.",
+   "Stand close and grip the rope ends with your thumbs up and your elbows pinned to your sides.",
+   "Hinge forward very slightly and brace."
+  ],
+  "cues": [
+   "Elbows stay glued to your ribs.",
+   "Push down and slightly apart as you exhale.",
+   "Pause with your arms straight, then let the rope rise for 2–3 s until your forearms pass horizontal."
+  ],
+  "mistakes": [
+   "Elbows drifting forward, so it turns into a press. Fix: pin them and go lighter.",
+   "Leaning over the rope to use your bodyweight. Fix: stand tall.",
+   "Bending your wrists. Fix: keep them in line with your forearms."
+  ],
+  "arm_safety": "After grip clearance. Start at the lightest plate and use small jumps. Both hands work equally, and if your injured side lags, slow down rather than letting your uninjured arm take over. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "ga-triceps-pushdown"
+  ],
+  "progressions": [],
+  "dose": "2–3 × 10–15, RIR 2. Add one small plate when every set reaches 15.",
+  "video": "https://www.youtube.com/results?search_query=triceps+rope+pushdown+form+jeff+nippard"
+ },
+ {
+  "id": "lat-pulldown",
+  "name": "Lat pulldown",
+  "category": "pull",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "lat pulldown machine",
+   "straight bar or neutral-grip handle"
+  ],
+  "muscles": [
+   "latissimus dorsi",
+   "biceps",
+   "rear deltoids",
+   "middle trapezius"
+  ],
+  "why": "Builds the back and arm strength that pull-ups and scrambling need, with the load fully adjustable. A broad, strong back also adds visible muscle towards your 5 kg.",
+  "setup": [
+   "Set the thigh pad so your legs fit snugly under it. Set the pin with your uninjured hand at the lightest plate.",
+   "Stand, reach up and take the bar or a neutral-grip handle with both hands. If the straight bar bothers your wrist, use the neutral handle.",
+   "Sit down with the handle, letting your legs and bodyweight bring it down rather than your arms."
+  ],
+  "cues": [
+   "Lean back slightly (10–20°) with your chest up.",
+   "Pull your elbows down towards your back pockets and bring the bar to your upper chest.",
+   "Exhale as you pull, then pause for 1 s.",
+   "Let the bar rise over 2–3 s to a full stretch."
+  ],
+  "mistakes": [
+   "Yanking the weight down with a big body swing. Fix: go lighter and keep your torso still.",
+   "Pulling the bar behind your neck. Fix: always pull to the front.",
+   "Shrugging. Fix: pull your shoulders down before your elbows bend.",
+   "Letting go so the bar flies up. Fix: stand up with the handle to return it under control."
+  ],
+  "arm_safety": "After grip clearance. The start and end of each set, when you take the bar down from overhead and return it, are where people get careless. Sit down with the bar using your legs and stand up with it to return it. Use the lightest plate for the first fortnight. Neutral or close-grip handles are often kinder to a healing forearm than the wide bar. Both hands share the load equally. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "ga-lat-pulldown"
+  ],
+  "progressions": [
+   "band-assisted-pull-up",
+   "pull-up"
+  ],
+  "dose": "3 × 8–12, RIR 2–3, 2–3 s return. Add one plate when every set reaches 12.",
+  "video": "https://www.youtube.com/results?search_query=lat+pulldown+form+jeff+nippard"
+ },
+ {
+  "id": "seated-cable-row",
+  "name": "Seated cable row",
+  "category": "pull",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "seated cable row station, or a low pulley with a bench",
+   "V-handle (neutral grip)"
+  ],
+  "muscles": [
+   "rhomboids",
+   "middle trapezius",
+   "latissimus dorsi",
+   "rear deltoids",
+   "biceps",
+   "forearms"
+  ],
+  "why": "Builds the upper back that keeps you upright under a rucksack for hours and balances all your pressing. The neutral V-handle suits a healing forearm.",
+  "setup": [
+   "Clip on the V-handle with your uninjured hand and set the lightest plate.",
+   "Sit with your feet on the footplate and your knees slightly bent.",
+   "Reach forward to the handle by hinging from your hips with a flat back, then sit tall with your arms straight."
+  ],
+  "cues": [
+   "Sit tall: chest proud, ribs down.",
+   "Pull the handle to your lower ribs with your elbows close to your body.",
+   "Squeeze your shoulder blades together for 1 s as you exhale.",
+   "Take 2–3 s to straighten your arms, letting your shoulder blades reach forward without your back rounding."
+  ],
+  "mistakes": [
+   "Rocking back and forth to move the weight. Fix: keep your torso still and use a lighter plate.",
+   "Shrugging up to your ears. Fix: shoulders down, elbows back.",
+   "Rounding your lower back to reach the handle. Fix: hinge from your hips and bend your knees more."
+  ],
+  "arm_safety": "After grip clearance. Reaching for the handle and putting it back are the moments a healing forearm gets jerked, so take and release it with both hands while the stack is resting. Start with the lightest plate, both hands equal, wrists straight. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low. Get on and off the seat using your legs.",
+  "regressions": [
+   "ga-cable-row"
+  ],
+  "progressions": [
+   "chest-supported-db-row",
+   "inverted-row-smith"
+  ],
+  "dose": "3 × 8–12, RIR 2–3. Add one plate when every set reaches 12.",
+  "video": "https://www.youtube.com/results?search_query=seated+cable+row+form+jeremy+ethier"
+ },
+ {
+  "id": "row-machine",
+  "name": "Machine row (chest-supported)",
+  "category": "pull",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "row machine"
+  ],
+  "muscles": [
+   "rhomboids",
+   "middle trapezius",
+   "latissimus dorsi",
+   "rear deltoids",
+   "biceps"
+  ],
+  "why": "The chest pad takes your lower back out of the movement, so you can focus on your upper back in the most stable set-up possible. It's a good first two-handed pull after grip clearance.",
+  "setup": [
+   "Adjust the seat so the handles are level with your lower chest, and set the chest pad so you can just reach them with straight arms.",
+   "Set the pin with your uninjured hand at the lightest plate.",
+   "Choose the neutral (vertical) handles if there are any."
+  ],
+  "cues": [
+   "Chest stays on the pad.",
+   "Lead with your elbows and pull them past your ribs.",
+   "Squeeze for 1 s as you exhale, then return over 2–3 s."
+  ],
+  "mistakes": [
+   "Chest coming off the pad. Fix: go lighter.",
+   "Shrugging. Fix: shoulders down first, then row.",
+   "Short, jerky reps. Fix: full stretch forward, full squeeze back."
+  ],
+  "arm_safety": "After grip clearance. This is a sensible first two-handed pull because the machine guides the path and your chest is supported. Use the lightest plate for two weeks, both hands equal, neutral handles and straight wrists. If the machine has independent arms, keep them moving together and let your injured side set the pace. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "ga-cable-row"
+  ],
+  "progressions": [
+   "seated-cable-row",
+   "chest-supported-db-row"
+  ],
+  "dose": "First two weeks: 3 × 10–12, RIR 3. Then 3 × 8–12, RIR 2–3. Add one plate when every set reaches 12.",
+  "video": "https://www.youtube.com/results?search_query=machine+row+form+jeff+nippard"
+ },
+ {
+  "id": "chest-supported-db-row",
+  "name": "Chest-supported dumbbell row",
+  "category": "pull",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "adjustable bench set at 30–45°",
+   "dumbbells"
+  ],
+  "muscles": [
+   "rhomboids",
+   "middle trapezius",
+   "latissimus dorsi",
+   "rear deltoids",
+   "biceps",
+   "forearms"
+  ],
+  "why": "Each arm rows on its own with your chest supported, so your injured side can't hide and your lower back gets a rest. It's a great upper-back builder for carrying a pack.",
+  "setup": [
+   "Set an incline bench to 30–45° and place the dumbbells on the floor on either side of its front end.",
+   "Lie face down with your chest on the pad, chin just over the top, feet on the floor.",
+   "Pick up the dumbbells with your palms facing each other."
+  ],
+  "cues": [
+   "Chest stays glued to the pad.",
+   "Row the dumbbells towards your hips with your elbows at about 30–45°.",
+   "Squeeze your shoulder blades together as you exhale.",
+   "Take 2–3 s to lower to a full stretch."
+  ],
+  "mistakes": [
+   "Lifting your chest off the pad. Fix: use lighter dumbbells.",
+   "Curling the weight, bending your elbows without moving your shoulder blades. Fix: think 'elbows to the ceiling'.",
+   "Dumbbells clanking on the floor between reps. Fix: keep them just off the floor."
+  ],
+  "arm_safety": "After grip clearance. Picking dumbbells up from the floor while lying face down is awkward, so place them within easy reach or ask someone to hand them to you. At the end, lower them to the floor before you get off the bench, using your legs and your uninjured hand. Start with 4–6 kg, the same weight both sides, neutral grip. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "row-machine"
+  ],
+  "progressions": [
+   "inverted-row-smith"
+  ],
+  "dose": "3 × 8–12, RIR 2–3 (1–2 after full clearance). Add 2 kg per hand when every set reaches 12.",
+  "video": "https://www.youtube.com/results?search_query=chest+supported+dumbbell+row+jeff+nippard"
+ },
+ {
+  "id": "inverted-row-smith",
+  "name": "Inverted row (Smith machine)",
+  "category": "pull",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "Smith machine with the bar locked, or a barbell in a squat rack"
+  ],
+  "muscles": [
+   "rhomboids",
+   "middle trapezius",
+   "latissimus dorsi",
+   "rear deltoids",
+   "biceps",
+   "core",
+   "glutes"
+  ],
+  "why": "A bodyweight pull that trains your back and a rigid trunk together. It's the horizontal partner to the pull-up and a step towards hauling yourself up a rock step.",
+  "setup": [
+   "Lock the Smith bar at chest height to start. The higher the bar, the easier the row.",
+   "Stand facing it and grip slightly wider than your shoulders, palms down. Walk your feet forward under the bar until your arms are straight and your body slopes back.",
+   "Heels on the floor, body straight from shoulders to heels, glutes squeezed."
+  ],
+  "cues": [
+   "Pull your chest to the bar while your body stays straight like a plank.",
+   "Elbows at about 45°, and squeeze your shoulder blades at the top.",
+   "Exhale as you pull, then take 2–3 s to lower."
+  ],
+  "mistakes": [
+   "Hips sagging. Fix: squeeze your glutes, or bend your knees to make it easier.",
+   "Poking your chin at the bar. Fix: lead with your chest.",
+   "Starting too low. Fix: begin with the bar high and lower it a notch every week or two."
+  ],
+  "arm_safety": "After full clearance (your hands take part of your bodyweight), once machine and cable rows feel easy. Your hands take part of your bodyweight, so start very upright, with the bar at chest height and your feet close. Lower the bar only when 3 × 10 is easy and pain-free. Both hands equal, wrists straight, bar locked. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium. If your grip gives, you'll drop backwards, so stay upright enough that you can simply step back and stand up.",
+  "regressions": [
+   "seated-cable-row",
+   "row-machine"
+  ],
+  "progressions": [
+   "band-assisted-pull-up",
+   "pull-up"
+  ],
+  "dose": "3 × 6–10, RIR 2–3. Lower the bar one notch when 3 × 10 is easy.",
+  "video": "https://www.youtube.com/results?search_query=inverted+row+smith+machine+jeremy+ethier"
+ },
+ {
+  "id": "face-pull",
+  "name": "Face pull",
+  "category": "pull",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "cable machine",
+   "rope attachment"
+  ],
+  "muscles": [
+   "rear deltoids",
+   "rotator cuff (external rotators)",
+   "middle and lower trapezius"
+  ],
+  "why": "Shoulder health work. It strengthens the small muscles that keep your shoulder joint centred, balances all your pressing and helps your posture under a pack.",
+  "setup": [
+   "Set the pulley at face height or slightly above. Clip on the rope with your uninjured hand and choose the lightest plate.",
+   "Hold the rope ends with your thumbs pointing back towards you, then step back until your arms are straight.",
+   "Stand tall in a staggered stance and brace lightly."
+  ],
+  "cues": [
+   "Pull the rope towards your eyes, separating the ends.",
+   "Elbows high, then rotate your hands back as if showing off your biceps.",
+   "Pause for 1 s as you exhale, then return slowly."
+  ],
+  "mistakes": [
+   "Leaning back with your lower back. Fix: go lighter and stay tall.",
+   "Elbows dropping, so it turns into a row. Fix: keep them at shoulder height.",
+   "Going heavy. Fix: it's a light, precise exercise."
+  ],
+  "arm_safety": "After grip clearance. It's light by nature, so start with the lightest plate, both hands equal. If gripping the rope's knotted ends bothers your injured hand, hold just above the knots with a softer grip. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [],
+  "progressions": [],
+  "dose": "2–3 × 12–15, RIR 2–3.",
+  "video": "https://www.youtube.com/results?search_query=face+pull+form+jeff+nippard"
+ },
+ {
+  "id": "db-curl",
+  "name": "Dumbbell curl",
+  "category": "pull",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "dumbbells",
+   "bench with back support (optional)"
+  ],
+  "muscles": [
+   "biceps",
+   "brachialis",
+   "brachioradialis"
+  ],
+  "why": "Arm size for your muscle goal. Your elbow flexors are the hooks you carry and pull with, and curls load your forearms gradually on the way back to full strength.",
+  "setup": [
+   "Sit on a bench with back support, or stand tall, with the dumbbells at your sides.",
+   "Start with a neutral (hammer) grip, thumbs up. Move to palms-up curls only when your physio is happy with your forearm rotation.",
+   "Elbows by your sides."
+  ],
+  "cues": [
+   "Keep your elbows still and curl the weight up as you exhale.",
+   "Squeeze for 1 s at the top.",
+   "Take 3 s to lower to straight arms."
+  ],
+  "mistakes": [
+   "Swinging your body. Fix: sit with your back supported and go lighter.",
+   "Elbows drifting forward. Fix: pin them to your sides.",
+   "Half reps. Fix: straighten your arms fully at the bottom, under control."
+  ],
+  "arm_safety": "After grip clearance. Turning the palm up under load (supination) needs forearm rotation, which can be slow to come back after a forearm fracture. So start with hammer curls (thumbs up) at 2–4 kg, and only move to palms-up curls once your physio is happy with your rotation. Use the same weight for both arms, and alternate arms so you can watch your injured side. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "ga-db-curl-seated"
+  ],
+  "progressions": [],
+  "dose": "2 × 10–15, RIR 2–3. Add 1–2 kg per hand when every set reaches 15.",
+  "video": "https://www.youtube.com/results?search_query=dumbbell+curl+form+jeff+nippard"
+ },
+ {
+  "id": "pull-up",
+  "name": "Pull-up",
+  "category": "pull",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "pull-up bar (most squat racks have one)",
+   "box or bench to step down onto"
+  ],
+  "muscles": [
+   "latissimus dorsi",
+   "biceps",
+   "rear deltoids",
+   "lower trapezius",
+   "forearms",
+   "core"
+  ],
+  "why": "The gold standard of strength for your size, and the movement that gets you up and over obstacles. It needs full clearance because your whole bodyweight hangs from your hands.",
+  "setup": [
+   "Stand on a box so you can take the bar without jumping.",
+   "Grip palms forward, a little wider than your shoulders, or use neutral handles if there are any. Thumbs around the bar.",
+   "Step off the box gently into a straight-arm hang, legs together, glutes and abs tight in a slight hollow."
+  ],
+  "cues": [
+   "Pull your shoulders down first, then drive your elbows to your ribs.",
+   "Chest towards the bar until your chin clears it.",
+   "Take 2–3 s to lower to straight arms. No dropping.",
+   "Stay slightly hollow: ribs down, legs together."
+  ],
+  "mistakes": [
+   "Kipping or swinging. Fix: hollow body, legs together, slow reps.",
+   "Half reps. Fix: full hang to chin over the bar.",
+   "Dropping off the bar from the top. Fix: lower all the way and step down onto the box.",
+   "Training to failure. Fix: use StrongFirst-style ladders (1, 2, 3 reps) to keep every rep clean."
+  ],
+  "arm_safety": "Full clearance and the 90% grip rung only (measured by your physio or with their OK), and only after dead hangs of 20–30 s are easy and pain-free. Hanging loads the whole arm at full bodyweight, so work through feet-supported hangs, full dead hangs and assisted pull-ups first. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium. Always step down onto a box instead of dropping, and end the set before grip fatigue makes you let go.",
+  "regressions": [
+   "band-assisted-pull-up",
+   "lat-pulldown",
+   "dead-hang"
+  ],
+  "progressions": [],
+  "dose": "3 × 3–8, RIR 2 (or ladders of 1-2-3). Fewer than 3 clean reps: band-assisted pull-ups or the lat pulldown.",
+  "video": "https://www.youtube.com/results?search_query=pull+up+technique+strongfirst"
+ },
+ {
+  "id": "band-assisted-pull-up",
+  "name": "Band-assisted pull-up",
+  "category": "pull",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "pull-up bar",
+   "long resistance band (or an assisted pull-up machine, or a box under one foot)",
+   "box to step from"
+  ],
+  "muscles": [
+   "latissimus dorsi",
+   "biceps",
+   "rear deltoids",
+   "lower trapezius",
+   "forearms",
+   "core"
+  ],
+  "why": "Lets you practise the real pull-up with part of your bodyweight taken away, so you can build clean reps on the way to unassisted pull-ups.",
+  "setup": [
+   "Loop a long band round the bar and through itself. Or use an assisted pull-up machine, or a box under one foot.",
+   "Stand on a box, take the bar, then put one knee in the band with control.",
+   "Step off the box slowly into a straight-arm hang."
+  ],
+  "cues": [
+   "Shoulders down first, then pull your elbows to your ribs.",
+   "Chest to the bar, then take 2–3 s to come down.",
+   "Legs together, body still. The band shouldn't bounce you."
+  ],
+  "mistakes": [
+   "Using the band's bounce at the bottom. Fix: pause for 1 s at the bottom of each rep.",
+   "Staying on the same assistance forever. Fix: move to a lighter band when 3 × 8 is easy.",
+   "Getting out of the band carelessly. Fix: finish at the bottom, get your feet back on the box, then take the band off."
+  ],
+  "arm_safety": "Full clearance and the 90% grip rung only (measured by your physio or with their OK). You still hang most of your bodyweight from your hands, so get the dead hang to 20–30 s pain-free first. The riskiest moment is getting in and out of the band on a box with your hands on the bar, because the band can slip off and spring back. Put a knee in the band rather than a foot (it's more secure), or use the assisted machine or a box under one foot instead. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium.",
+  "regressions": [
+   "lat-pulldown",
+   "inverted-row-smith",
+   "dead-hang"
+  ],
+  "progressions": [
+   "pull-up"
+  ],
+  "dose": "3–4 × 3–6, RIR 2. Reduce the assistance when you can do 3 × 8.",
+  "video": "https://www.youtube.com/results?search_query=band+assisted+pull+up+jeremy+ethier"
+ },
+ {
+  "id": "pallof-press",
+  "name": "Pallof press",
+  "category": "core",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "cable machine",
+   "D-handle"
+  ],
+  "muscles": [
+   "obliques",
+   "transverse abdominis",
+   "rectus abdominis",
+   "glutes"
+  ],
+  "why": "Anti-rotation core training. You resist being twisted, which is exactly what your trunk does when a rucksack shifts on rough ground or you carry a heavy bag in one hand. It's a cornerstone of your core-stability goal.",
+  "setup": [
+   "Set the cable at chest height, clip on a D-handle with your uninjured hand and choose the lightest plate.",
+   "Hold the handle at your breastbone with both hands and side-step away until the cable is taut. You'll be side-on to the machine.",
+   "Feet shoulder-width, knees soft, glutes on, ribs down."
+  ],
+  "cues": [
+   "Press the handle straight out from your chest without letting it pull you round.",
+   "Hold for 3 s with straight arms, breathing normally.",
+   "Bring it back to your chest under control.",
+   "Stay tall, with your hips and shoulders square to the front."
+  ],
+  "mistakes": [
+   "Rotating towards the machine. Fix: go lighter or step closer.",
+   "Holding your breath. Fix: breathe behind a moderate brace.",
+   "Leaning away to counterbalance. Fix: stand upright with your weight even on both feet."
+  ],
+  "arm_safety": "After grip clearance. Both hands hold the handle against a sideways pull, which loads your wrists sideways. Start at the lightest plate and keep the handle close to your chest until you know how your injured side feels. Both sides of your body get the same sets. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low with a wide, stable stance.",
+  "regressions": [
+   "dead-bug-legs",
+   "curl-up-mcgill"
+  ],
+  "progressions": [
+   "cable-woodchop",
+   "suitcase-carry"
+  ],
+  "dose": "2–3 × 8–10 / side with a 2-s hold at full reach, RIR 2–3.",
+  "video": "https://www.youtube.com/results?search_query=pallof+press+e3+rehab"
+ },
+ {
+  "id": "cable-woodchop",
+  "name": "Cable woodchop",
+  "category": "core",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "cable machine",
+   "D-handle or rope"
+  ],
+  "muscles": [
+   "obliques",
+   "glutes",
+   "hip rotators",
+   "upper back"
+  ],
+  "why": "Teaches you to turn powerfully through your hips while your trunk stays braced. That's the pattern behind lifting and turning with a load: controlled rotation, not twisting your lower back.",
+  "setup": [
+   "Set the pulley high for a high-to-low chop or low for a low-to-high lift. Clip on a handle with your uninjured hand and choose the lightest plate.",
+   "Stand side-on to the machine with your feet wider than your shoulders and hold the handle with both hands.",
+   "Brace lightly, arms long but not locked."
+  ],
+  "cues": [
+   "Turn from your hips and pivot your back foot, like throwing a sack across your body.",
+   "Hands stay in front of your body; your trunk turns as one unit.",
+   "Exhale through the move and take 2–3 s to return."
+  ],
+  "mistakes": [
+   "Twisting only at your lower back. Fix: let your hips and back foot turn.",
+   "Pulling with your arms. Fix: your arms only connect you to the handle; your hips drive it.",
+   "Going heavy and jerky. Fix: keep it light and smooth."
+  ],
+  "arm_safety": "After grip clearance. Rotational pulls load your forearm from changing angles, so keep it light and slow (2–3 s each way) until full clearance. For now it's a control exercise, not a power one. Do equal sets on both sides. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low with a wide stance and a pivoting back foot.",
+  "regressions": [
+   "pallof-press",
+   "thoracic-rotation-seated"
+  ],
+  "progressions": [],
+  "dose": "2–3 × 8–10 / side, RIR 3, tempo 2-0-2-0.",
+  "video": "https://www.youtube.com/results?search_query=cable+woodchop+form+jeremy+ethier"
+ },
+ {
+  "id": "bird-dog",
+  "name": "Bird dog",
+  "category": "core",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "mat"
+  ],
+  "muscles": [
+   "spinal erectors",
+   "glutes",
+   "obliques",
+   "shoulder stabilisers"
+  ],
+  "why": "One of Stuart McGill's 'big three' core exercises. It teaches you to keep your back still while your arms and legs move, which is the essence of core stability on long days on your feet. It needs full clearance because it puts weight through your hands.",
+  "setup": [
+   "Kneel on a mat on all fours, hands under your shoulders and knees under your hips.",
+   "Hands flat, or on your fists if your physio prefers that for the wrist.",
+   "Find a neutral spine, neither sagging nor rounded, and brace lightly."
+  ],
+  "cues": [
+   "Slide one leg back and reach the opposite arm forward until both are level with your body.",
+   "Make a fist and squeeze; push your heel back.",
+   "Hold for 8–10 s while breathing, then return and brush the floor.",
+   "Imagine a glass of water balanced on your lower back."
+  ],
+  "mistakes": [
+   "Lifting the leg so high that your back arches. Fix: hip height is enough.",
+   "Hips rolling open. Fix: keep both hip bones pointing at the floor.",
+   "Rushing. Fix: slow, deliberate holds."
+  ],
+  "arm_safety": "Full clearance only, because hands and knees puts bodyweight through your wrists. When you're cleared, start with the leg-only version, both hands staying down, for a week before adding the arm reach. If wrist extension still aches, try it on your fists or with your forearms on a low bench. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low. Before full clearance, dead-bug-legs trains the same skill lying on your back.",
+  "regressions": [
+   "dead-bug-legs",
+   "breathing-90-90"
+  ],
+  "progressions": [
+   "plank"
+  ],
+  "dose": "3 × 5–6 / side, 8–10 s holds (McGill style).",
+  "video": "https://www.youtube.com/results?search_query=bird+dog+exercise+stuart+mcgill"
+ },
+ {
+  "id": "plank",
+  "name": "Plank",
+  "category": "core",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "mat"
+  ],
+  "muscles": [
+   "rectus abdominis",
+   "obliques",
+   "transverse abdominis",
+   "glutes",
+   "shoulders"
+  ],
+  "why": "Anti-extension core strength: stopping your middle from sagging, which is what your trunk does under a rucksack and in every carry. StrongFirst's hard-style plank builds the full-body tension you'll use in every lift.",
+  "setup": [
+   "Forearms on the mat, elbows under your shoulders, forearms parallel or hands lightly together.",
+   "Legs straight, feet together, body straight from ears to ankles."
+  ],
+  "cues": [
+   "Squeeze your glutes and quads hard and pull your elbows towards your toes without moving them.",
+   "Ribs down, pelvis slightly tucked.",
+   "Breathe in short sips behind the brace.",
+   "Ten seconds of real tension beats a minute of just hanging there."
+  ],
+  "mistakes": [
+   "Hips sagging. Fix: squeeze your glutes harder and shorten the hold.",
+   "Bum in the air. Fix: make a straight line, and film yourself from the side.",
+   "Holding your breath. Fix: take short, controlled breaths."
+  ],
+  "arm_safety": "Full clearance only, because a forearm plank still puts much of your bodyweight through your forearms and elbows. Start with 10 s holds. If you need to, make it easier with your forearms on a bench or your hands on a Smith bar. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low. Before then, dead bugs and hollow holds do the same anti-extension job.",
+  "regressions": [
+   "dead-bug-legs",
+   "hollow-hold-tuck",
+   "bird-dog"
+  ],
+  "progressions": [
+   "side-plank"
+  ],
+  "dose": "3 × 20–60 s, adding 5–10 s a week (Phase 4a starts at 20 s). Or hard-style: 5 × 10 s at full tension.",
+  "video": "https://www.youtube.com/results?search_query=hardstyle+plank+strongfirst",
+  "source": "https://www.strongfirst.com/the-bodyweight-strength-checklist-common-mistakes-and-solutions/"
+ },
+ {
+  "id": "side-plank",
+  "name": "Side plank",
+  "category": "core",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "mat"
+  ],
+  "muscles": [
+   "obliques",
+   "quadratus lumborum",
+   "glute medius",
+   "shoulder stabilisers"
+  ],
+  "why": "Side-on core strength for carrying a load on one side and staying stable when the ground tilts. It's another of McGill's 'big three'.",
+  "setup": [
+   "Lie on your side with your elbow under your shoulder and your forearm on the mat.",
+   "Bend your knees for the easier version, or straighten and stack your legs for the harder one.",
+   "Rest your top hand on the opposite shoulder."
+  ],
+  "cues": [
+   "Lift your hips until your body is straight from head to knees, or to feet.",
+   "Push the floor away with your forearm instead of sinking into your shoulder.",
+   "Hips forward, glutes squeezed, keep breathing."
+  ],
+  "mistakes": [
+   "Hips dropping back or down. Fix: film it and shorten the holds.",
+   "Shoulder shrugging up. Fix: push the floor away.",
+   "Holding until you shake and sag. Fix: stop while the position is still good."
+  ],
+  "arm_safety": "Full clearance only, because your upper body rests on one forearm and elbow. Start with bent knees and short holds, uninjured side first. On your injured side, begin with 5–10 s. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low. Before full clearance, suitcase carries (after grip clearance) and side-lying hip work cover the same side-on core job.",
+  "regressions": [
+   "plank",
+   "side-lying-hip-abduction",
+   "suitcase-carry"
+  ],
+  "progressions": [
+   "copenhagen-plank-short"
+  ],
+  "dose": "2–3 × 20–30 s / side; from the knees at first.",
+  "video": "https://www.youtube.com/results?search_query=side+plank+stuart+mcgill"
+ },
+ {
+  "id": "hanging-knee-raise",
+  "name": "Hanging knee raise",
+  "category": "core",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "pull-up bar",
+   "box to step from"
+  ],
+  "muscles": [
+   "hip flexors",
+   "rectus abdominis",
+   "obliques",
+   "forearms",
+   "lats"
+  ],
+  "why": "Strength for curling your trunk, plus a grip challenge. It builds the abs that lift your knees over obstacles and adds hanging time for your grip.",
+  "setup": [
+   "Step from a box into a dead hang, palms forward, shoulders gently pulled down.",
+   "Legs together. Stop any swing before you start."
+  ],
+  "cues": [
+   "Curl your pelvis up as you lift your knees towards your chest.",
+   "Lift with control as you exhale, then take 2–3 s to lower.",
+   "No swinging. Pause at the bottom."
+  ],
+  "mistakes": [
+   "Swinging your legs for momentum. Fix: go slowly and pause at the bottom.",
+   "Lifting only your thighs without curling your pelvis. Fix: think 'knees to chest, tail tucks under'.",
+   "Hanging with your shoulders up by your ears. Fix: pull them gently down."
+  ],
+  "arm_safety": "Full clearance and the 90% grip rung only (measured by your physio or with their OK), because it's a hanging exercise. Wait until dead hangs of 20–30 s are easy and pain-free, and step down onto the box at the end of each set rather than dropping. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium. Before then, reverse crunches train the same movement lying down.",
+  "regressions": [
+   "reverse-crunch",
+   "dead-hang"
+  ],
+  "progressions": [],
+  "dose": "3 × 6–12, RIR 2.",
+  "video": "https://www.youtube.com/results?search_query=hanging+knee+raise+form+jeff+nippard"
+ },
+ {
+  "id": "suitcase-carry",
+  "name": "Suitcase carry",
+  "category": "carry",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "dumbbell (or a kettlebell if available)",
+   "clear 20 m lane"
+  ],
+  "muscles": [
+   "obliques",
+   "quadratus lumborum",
+   "glute medius",
+   "forearms",
+   "trapezius"
+  ],
+  "why": "The core exercise that looks like real life: a heavy bag in one hand. Your trunk has to stop you leaning, which is the side-on stability you need on a tilted trail. It also starts your farmer-strength path, one hand at a time.",
+  "setup": [
+   "Stand a dumbbell beside your foot. Starting from a bench is easier for now.",
+   "Pick it up with a hinge, not a side bend, gripping the middle of the handle.",
+   "Stand tall with your shoulders level and ribs down. Let your free arm hang relaxed or hold it slightly out."
+  ],
+  "cues": [
+   "Be a skyscraper: tall and straight, not leaning away from or towards the weight.",
+   "Keep your shoulders level. Tuck the loaded shoulder down and back.",
+   "Crush the handle with your thumb wrapped round.",
+   "Short, quick, quiet steps. Breathe behind a moderate brace.",
+   "Eyes ahead. Put the weight down with a hinge before you turn."
+  ],
+  "mistakes": [
+   "Leaning away from the weight. Fix: go lighter and picture a wall on either side of you.",
+   "Shoulder dragged down. Fix: pull it back up into place and stand tall.",
+   "Holding your breath. Fix: take small breaths behind the brace.",
+   "Turning sharply with the weight. Fix: put it down, or make a slow, wide turn."
+  ],
+  "arm_safety": "After grip clearance, and only at the 70% rung: your injured hand's grip at least 70% of your uninjured hand, measured by your physio or with their OK. This is your injured hand's first real carrying job, so it sets the weight. Start with what it can hold for 30 s without pain (often 6–10 kg), and use the same weight in your uninjured hand. Carry on your injured side first while you're fresh. If your grip starts to give, put the weight down rather than fighting it. Heavy carries wait for full clearance and a grip reading close to your uninjured hand, the 90% rung, measured by your physio or with their OK. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low on a flat, dry floor.",
+  "regressions": [
+   "suitcase-carry-good-hand",
+   "pallof-press"
+  ],
+  "progressions": [
+   "farmer-carry"
+  ],
+  "dose": "4 × 30 s / side (about 20–30 m), 60 s rest. Add 2 kg when your posture stays perfect.",
+  "video": "https://www.youtube.com/results?search_query=suitcase+carry+stuart+mcgill",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/23384188?format=json&resultType=core"
+ },
+ {
+  "id": "farmer-carry",
+  "name": "Farmer's carry",
+  "category": "carry",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "dumbbells (or kettlebells if available)",
+   "clear 20–30 m lane"
+  ],
+  "muscles": [
+   "forearms",
+   "trapezius",
+   "core",
+   "glutes",
+   "calves",
+   "quads"
+  ],
+  "why": "Your farmer-strength goal in one exercise: heavy weights in both hands, walking tall. It trains your grip, shoulders, trunk and legs together, and makes every heavy shopping bag, water container or rucksack feel lighter.",
+  "setup": [
+   "Place two equal dumbbells either side of your feet, or on benches for a higher pick-up.",
+   "Hinge or squat down with a flat back. Grip the middle of each handle with your thumbs wrapped round.",
+   "Stand up like a deadlift rather than bending to one side.",
+   "Shoulders down and back, chest tall, arms straight by your sides."
+  ],
+  "cues": [
+   "Stand tall and walk like you own the place.",
+   "Short, quick heel-to-toe steps, feet hip-width.",
+   "Crush the handles and don't let them swing.",
+   "Breathe in short sips behind a moderate brace.",
+   "At the end, stop, then put the weights down with a hinge."
+  ],
+  "mistakes": [
+   "Shoulders shrugged or rounded. Fix: set them down and back before you walk.",
+   "Leaning forward or taking long strides. Fix: stand tall and take shorter, quicker steps.",
+   "Dumbbells banging your legs. Fix: hold them slightly out from your sides.",
+   "Dropping the weights when your grip fails. Fix: put them down before it fails and end the set with grip to spare."
+  ],
+  "arm_safety": "After grip clearance, by the grip ladder: light carries from the 70% rung, moderate from 80%, heavy only from 90% plus full clearance. Each rung counts only when your physio has measured it or OK'd the step. Start with the weight your injured hand can hold comfortably for 30 s (often 6–10 kg per hand), the same in both hands. Never load your uninjured hand heavier. Progress by 2 kg per hand every week or two, and only while the next morning is symptom-free. The long-term target, after full clearance, is half your bodyweight in each hand for 30–50 m, once your injured hand's grip is close to your uninjured hand's (your physio decides). Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low on a clear, dry floor. Plan your route and turns before you pick up.",
+  "regressions": [
+   "suitcase-carry"
+  ],
+  "progressions": [
+   "sandbag-bear-hug-carry",
+   "sandbag-shoulder-carry"
+  ],
+  "dose": "4 × 30–40 s, 75–90 s rest. Add 2 kg per hand when every trip feels strong and tall.",
+  "video": "https://www.youtube.com/results?search_query=farmers+walk+form+mark+bell",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/19528856?format=json&resultType=core"
+ },
+ {
+  "id": "sandbag-bear-hug-carry",
+  "name": "Sandbag bear-hug carry",
+  "category": "carry",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "sandbag with handles"
+  ],
+  "muscles": [
+   "upper back",
+   "biceps",
+   "core",
+   "glutes",
+   "quads",
+   "adductors"
+  ],
+  "why": "Hugging an awkward weight to your chest and walking is pure functional strength. It builds the upper back, arms and trunk for carrying anything awkward: a child, a log, a rucksack out of the car.",
+  "setup": [
+   "Stand the sandbag on its end, or lay it flat between your feet.",
+   "Squat down and wrap both arms round it, hands clasped or holding the side handles.",
+   "Stand up with the bag hugged high against your chest, chin over the top."
+  ],
+  "cues": [
+   "Hug it tight and high, elbows squeezed in.",
+   "Stand tall. A slight lean back is fine, but keep your ribs stacked over your hips.",
+   "Short, steady steps, breathing in small sips.",
+   "Put it down by squatting, not by bending over."
+  ],
+  "mistakes": [
+   "Bag sliding down to your belly. Fix: re-hug it high, or use a lighter bag.",
+   "Rounding forward. Fix: chest up, chin over the bag.",
+   "Holding your breath. Fix: breathe behind the brace."
+  ],
+  "arm_safety": "Full clearance and the 90% grip rung only (measured by your physio or with their OK). The bear hug squeezes your forearms round a load that shifts unpredictably, and a slipping bag invites a reflex catch. Start light (10–20 kg) with short trips. If the bag starts to slip, squat and put it down. Never try to catch a falling bag. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium because the bag hides your feet, so use clear lanes only.",
+  "regressions": [
+   "farmer-carry"
+  ],
+  "progressions": [
+   "sandbag-shoulder-carry",
+   "sandbag-to-shoulder"
+  ],
+  "dose": "3 × 30 s (about 20–30 m), 90 s rest; or one circuit station.",
+  "video": "https://www.youtube.com/results?search_query=sandbag+bear+hug+carry+alan+thrall"
+ },
+ {
+  "id": "sandbag-shoulder-carry",
+  "name": "Sandbag shoulder carry",
+  "category": "carry",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "sandbag with handles",
+   "high box or bench to lift it from (optional)"
+  ],
+  "muscles": [
+   "obliques",
+   "quadratus lumborum",
+   "upper back",
+   "glutes",
+   "quads"
+  ],
+  "why": "A heavy load on one shoulder is how real things get carried, from firewood to feed sacks. Your trunk has to stay upright against an off-centre load, which is a direct hiking and farmer-strength skill.",
+  "setup": [
+   "Get the sandbag onto one shoulder (see sandbag-to-shoulder), or lift it from a high box so only a small move is needed.",
+   "Let the bag rest on the top of your shoulder and upper back, with one or both hands steadying it.",
+   "Stand tall, eyes ahead."
+  ],
+  "cues": [
+   "Don't lean away from the bag. Stay vertical.",
+   "Short, steady steps, and keep breathing.",
+   "Switch shoulders every set."
+  ],
+  "mistakes": [
+   "Big lean to one side. Fix: use a lighter bag and brace the side away from the bag.",
+   "Neck cranked away from the bag. Fix: let it sit on your shoulder and upper back with your head neutral.",
+   "Letting the bag fall off your shoulder near your feet. Fix: slide it down to a bear hug and squat it down, or drop it behind you in a clear space."
+  ],
+  "arm_safety": "Full clearance and the 90% grip rung only (measured by your physio or with their OK). Getting the bag on and off your shoulder loads your arms heavily and suddenly. Start light (10–15 kg), ideally lifting the bag from a high box or bench so only a small move gets it onto your shoulder. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium because the bag blocks half your view, so use clear, flat lanes only.",
+  "regressions": [
+   "sandbag-bear-hug-carry"
+  ],
+  "progressions": [],
+  "dose": "3 × 30 s / shoulder, 90 s rest.",
+  "video": "https://www.youtube.com/results?search_query=sandbag+shoulder+carry+alan+thrall"
+ },
+ {
+  "id": "dead-hang-feet-supported",
+  "name": "Feet-supported dead hang",
+  "category": "grip",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "Smith machine or rack bar, locked at about forehead height"
+  ],
+  "muscles": [
+   "forearms",
+   "latissimus dorsi",
+   "shoulders"
+  ],
+  "why": "A graded way to build grip and hanging strength. Your feet stay on the floor, so you choose exactly how much bodyweight your hands take. It's the bridge from physio grip work to full dead hangs and pull-ups.",
+  "setup": [
+   "Lock a Smith or rack bar at a height where you can hold it with straight arms while your feet stay on the floor, about forehead height to start.",
+   "Grip palms forward, shoulder-width, thumbs around.",
+   "Bend your knees to let some bodyweight hang from your hands. The more you bend, the more your hands take."
+  ],
+  "cues": [
+   "Start with most of your weight on your feet, and let your hands take only what's comfortable.",
+   "Shoulders gently down, away from your ears.",
+   "Breathe slowly and hold for time.",
+   "To finish, stand up to take the weight off. Never let go suddenly."
+  ],
+  "mistakes": [
+   "Shoulders sagging up to your ears. Fix: set them gently down.",
+   "Putting too much bodyweight on your hands too soon. Fix: increase the share your hands take every week or two.",
+   "Hanging from your fingertips. Fix: wrap your whole hand round the bar."
+  ],
+  "arm_safety": "After full clearance and the 90% grip rung, measured by your physio or with their OK (hanging loads the forearm). Ask your physio how much load they want on your hands. Your feet decide the load, so begin with them taking almost everything and your hands lightly loaded for 10–20 s. Then sink a little further into the hang every week or two. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low because your feet never leave the floor. Full dead hangs, with your feet off the floor, wait for full clearance.",
+  "regressions": [
+   "rehab-putty-grip",
+   "rehab-towel-wring"
+  ],
+  "progressions": [
+   "dead-hang"
+  ],
+  "dose": "3–5 × 10–20 s, 60 s rest. Increase the share of bodyweight on your hands as you tolerate it.",
+  "video": "https://www.youtube.com/results?search_query=assisted+dead+hang+feet+supported+e3+rehab"
+ },
+ {
+  "id": "dead-hang",
+  "name": "Dead hang",
+  "category": "grip",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "pull-up bar",
+   "box to step from"
+  ],
+  "muscles": [
+   "forearms",
+   "latissimus dorsi",
+   "shoulders"
+  ],
+  "why": "Pure grip endurance and good for your shoulders. Hanging builds the forearms you'll rely on for farmer's carries, scrambling and pulling, and it's the prerequisite for pull-ups.",
+  "setup": [
+   "Step up onto a box and take the bar palms forward, shoulder-width.",
+   "Step off gently into a hang with your feet just off the box."
+  ],
+  "cues": [
+   "Wrap your whole hand round the bar.",
+   "Start with a relaxed hang, then progress to an active one with your shoulders gently pulled down.",
+   "Breathe slowly and keep your legs still.",
+   "End the set by stepping back onto the box."
+  ],
+  "mistakes": [
+   "Dropping off at the end. Fix: step down onto the box.",
+   "Swinging. Fix: legs together, stay still.",
+   "Hanging until your grip fails. Fix: stop with 5–10 s left in the tank."
+  ],
+  "arm_safety": "Full clearance and the 90% grip rung only (measured by your physio or with their OK), because all your bodyweight hangs from your hands. Build up first with feet-supported hangs until your hands can take most of your bodyweight comfortably, then start with 10 s full hangs. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium. Keep the box right under you and step down, because an unplanned drop could make you land awkwardly and reach out.",
+  "regressions": [
+   "dead-hang-feet-supported"
+  ],
+  "progressions": [
+   "band-assisted-pull-up",
+   "pull-up",
+   "hanging-knee-raise"
+  ],
+  "dose": "3–5 × 10–30 s, 60–90 s rest. Build to 60 s in total over the weeks.",
+  "video": "https://www.youtube.com/results?search_query=dead+hang+benefits+squat+university"
+ },
+ {
+  "id": "plate-pinch",
+  "name": "Plate pinch hold",
+  "category": "grip",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "two smooth weight plates of equal size",
+   "bench to hold them over"
+  ],
+  "muscles": [
+   "thumb and finger flexors",
+   "forearms"
+  ],
+  "why": "Pinch grip trains your thumb, the weak link in most grips. It helps you hold awkward things without handles, like a flat stone, a board or the end of a heavy bag.",
+  "setup": [
+   "Put two equal smooth plates together on a bench, smooth sides out. Start with 2 × 1.25 kg or 2 × 2.5 kg.",
+   "Pinch them with your fingers on one side and your thumb on the other.",
+   "Lift them just clear of the bench and hold them there."
+  ],
+  "cues": [
+   "Squeeze through your thumb and fingers equally.",
+   "Shoulders down, stand tall.",
+   "Put them back on the bench before the pinch gives."
+  ],
+  "mistakes": [
+   "Resting them on the bench edge for help. Fix: lift them clear and hold.",
+   "Plates slipping towards your feet. Fix: always hold them over the bench and stop early.",
+   "Starting too heavy. Fix: begin with the smallest smooth plates you have."
+  ],
+  "arm_safety": "After grip clearance, from the 70% rung (measured by your physio or with their OK). Ask them about pinch grip specifically, because it works the thumb and forearm muscles hard. Start with two 1.25 kg or 2.5 kg plates held just above a bench, so a slip lands on the bench, not your foot. Give both hands equal time, injured side first. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "rehab-putty-grip"
+  ],
+  "progressions": [
+   "farmer-carry"
+  ],
+  "dose": "3 × 20 s / hand, 45–60 s rest; add 5 s, then a heavier pair of plates.",
+  "video": "https://www.youtube.com/results?search_query=plate+pinch+grip+training+e3+rehab"
+ },
+ {
+  "id": "rehab-wall-press",
+  "name": "Wall press (physio-graded)",
+  "category": "rehab",
+  "gate": "grip_cleared",
+  "arm_use": "injured-light",
+  "fall_risk": "low",
+  "equipment": [
+   "wall"
+  ],
+  "muscles": [
+   "triceps",
+   "pectorals",
+   "front deltoids",
+   "wrist and forearm stabilisers"
+  ],
+  "why": "Your first, gentlest return to putting weight through your hands, graded by your physio. It rebuilds your wrist's tolerance to load, which you'll need for push-ups, planks and catching yourself if you stumble.",
+  "setup": [
+   "As prescribed by your physio. A typical set-up is standing about an arm's length from a wall.",
+   "Hands on the wall at shoulder height and shoulder-width apart, in the hand position your physio chooses.",
+   "Body straight, feet hip-width."
+  ],
+  "cues": [
+   "Bend your elbows to bring your chest towards the wall, elbows at about 45°.",
+   "Push back to straight arms as you exhale.",
+   "Your body moves as one piece.",
+   "Feet closer makes it easier and further away makes it harder. Change it only as your physio directs."
+  ],
+  "mistakes": [
+   "Progressing distance or reps faster than prescribed. Fix: stick to the physio's plan.",
+   "Hips sagging or bum sticking out. Fix: squeeze your glutes.",
+   "Shrugging. Fix: keep your shoulders down."
+  ],
+  "arm_safety": "Physio-graded only. This is the one hand weight-bearing exercise allowed before full clearance, and only at the angle, dose and pain limit your physio sets. Keep your injured wrist in the position they choose, and stop if pain at the fracture site goes above the level they allow. Note any aching or swelling the next morning and tell your physio. Fall risk is low. Use a non-slip floor and wear shoes.",
+  "regressions": [],
+  "progressions": [
+   "incline-push-up"
+  ],
+  "dose": "As prescribed by your physio.",
+  "video": "https://www.youtube.com/results?search_query=wall+push+up+wrist+rehab+e3+rehab",
+  "source": "https://www.nhs.uk/live-well/exercise/strength-exercises/"
+ },
+ {
+  "id": "sled-push",
+  "name": "Sled push",
+  "category": "conditioning",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "sled",
+   "plates",
+   "turf or sled track"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "calves",
+   "core",
+   "triceps",
+   "shoulders"
+  ],
+  "why": "Strength as cardio. It works your legs and lungs together with almost no muscle soreness afterwards, so it doesn't steal recovery from your hikes. Driving with leg strength is exactly what steep climbs demand.",
+  "setup": [
+   "Load the sled lightly, or not at all at first, and check the track is clear.",
+   "Use the high handles. Hands at chest height, arms bent to about 90°, elbows tucked rather than locked out.",
+   "Lean in to about 45° with a flat back and one foot forward."
+  ],
+  "cues": [
+   "Drive through the balls of your feet and push the floor behind you.",
+   "Small, steady steps, body in a straight line from head to back heel.",
+   "Breathe out every few steps.",
+   "Walk it at first. Speed comes much later."
+  ],
+  "mistakes": [
+   "Locked arms on low handles, which loads your wrists heavily. Fix: use the high handles with bent arms.",
+   "Hips piking up. Fix: keep a straight line from shoulder to heel.",
+   "Long, overreaching strides. Fix: take short, quick steps."
+  ],
+  "arm_safety": "After full clearance, and ask your physio about it specifically. Unlike most grip work, a sled push sends force back through your hands, wrists and forearms, rather like a wall press. Use the high handles with neutral wrists and bent arms, an empty or lightly loaded sled, and walking pace. Push equally through both hands. If your injured side aches, stop and go back to belt sled drags. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium. If the sled sticks or your feet slip, you can lurch forward onto your arms. Only push on a dry track, walk rather than sprint, and keep a strong lean. Heavy or sprint pushes wait for full clearance.",
+  "regressions": [
+   "sled-drag-forward-belt",
+   "sled-drag-backward-belt"
+  ],
+  "progressions": [],
+  "dose": "4 × 20 s (about 20 m) at a strong walking pace, 60–90 s rest; or one station in a circuit.",
+  "video": "https://www.youtube.com/results?search_query=sled+push+technique+mark+bell"
+ },
+ {
+  "id": "sled-rope-pull",
+  "name": "Sled rope pull (hand over hand)",
+  "category": "conditioning",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "sled",
+   "tow rope (or a battle rope looped through the sled's ring)",
+   "gloves (optional)"
+  ],
+  "muscles": [
+   "latissimus dorsi",
+   "biceps",
+   "forearms",
+   "upper back",
+   "core",
+   "legs"
+  ],
+  "why": "Hand-over-hand pulling builds grip and pulling endurance for hauling, climbing and farm jobs, while your legs and trunk anchor you.",
+  "setup": [
+   "Attach a rope to the sled, walk it out to its full length and load the sled lightly.",
+   "Stand facing the sled in an athletic half-squat.",
+   "Hold the rope with both hands, one in front of the other, thumbs around."
+  ],
+  "cues": [
+   "Hips back, chest up.",
+   "Pull hand over hand with your elbows close to your body.",
+   "Keep your trunk still and breathe steadily.",
+   "When the sled reaches you, stop it with your feet, not your hands."
+  ],
+  "mistakes": [
+   "Rounding over and pulling with your back. Fix: sit your hips back and keep your chest up.",
+   "Letting the rope slide through your hand, which causes rope burn. Fix: re-grip each pull.",
+   "Sled so heavy that you jerk the rope. Fix: go lighter and pull smoothly."
+  ],
+  "arm_safety": "After grip clearance. Pulling a rope loads your forearms, and the rope can jerk if the sled catches. Start with an empty sled and smooth, even pulls, both hands equally. If the rope bothers your hand, wear gloves. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low. Stand with your feet wide, and don't lean back so far that a slip would land you on your back.",
+  "regressions": [
+   "sled-drag-backward-belt",
+   "seated-cable-row"
+  ],
+  "progressions": [],
+  "dose": "5–8 × 15–20 m pulls, 60–90 s rest.",
+  "video": "https://www.youtube.com/results?search_query=sled+rope+pull+hand+over+hand+defranco"
+ },
+ {
+  "id": "rower",
+  "name": "Rower",
+  "category": "conditioning",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "rowing machine"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "back",
+   "arms",
+   "heart and lungs"
+  ],
+  "why": "Full-body Zone 2 and interval work that uses your legs, back and arms together. It's low-impact and easy to measure, and it adds variety to your engine work once you can hold the handle.",
+  "setup": [
+   "Sit on the seat and strap your feet in, with the strap across the widest part of your foot.",
+   "Set the damper around 3–5. It isn't a resistance setting, and 10 isn't harder in a useful way.",
+   "Hold the handle with a light hook grip, fingers rather than a fist, wrists flat."
+  ],
+  "cues": [
+   "Legs, body, arms on the drive; arms, body, legs on the way back.",
+   "Push with your legs first while the handle moves in a straight line.",
+   "Take about twice as long coming forward as you do driving back.",
+   "Relaxed grip, flat wrists."
+  ],
+  "mistakes": [
+   "Pulling with your arms first. Fix: your legs start the stroke, and your arms stay straight until your legs are almost flat.",
+   "Knees coming up before your hands pass them. Fix: hands away, body over, then knees.",
+   "Damper on 10. Fix: set it to 3–5. The power comes from you.",
+   "Death grip. Fix: hook the handle with loose fingers."
+  ],
+  "arm_safety": "From Grip cleared, with your physio's OK, for steady Zone 2 work. The rower needs both hands holding and pulling the handle for hundreds of strokes, so start with 5–10 minutes at an easy pace with a relaxed grip and flat wrists. Build by a few minutes per session. To get off the low seat, unstrap, put both feet flat and stand up using your legs, with your uninjured hand on the rail. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. If your forearm aches, keep sessions shorter. Fall risk is low.",
+  "regressions": [
+   "bike-upright"
+  ],
+  "progressions": [],
+  "dose": "Zone 2: 10–20 min at about 20–24 strokes per minute. Build by 2–5 min per session. Optional swap for the bike from Grip cleared, with your physio's OK. The plan schedules it after full clearance: as the Wednesday alternative to the ski erg in Phase 4 and as the Wednesday Zone 2 in Phase 5.",
+  "video": "https://www.youtube.com/results?search_query=concept2+rowing+technique"
+ },
+ {
+  "id": "ski-erg",
+  "name": "Ski erg",
+  "category": "conditioning",
+  "gate": "grip_cleared",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "ski erg"
+  ],
+  "muscles": [
+   "latissimus dorsi",
+   "triceps",
+   "core",
+   "glutes",
+   "hamstrings",
+   "heart and lungs"
+  ],
+  "why": "Upper-body and core conditioning with a powerful hip hinge. It's a perfect partner for hiking legs and great training for poling uphill once you're using trekking poles.",
+  "setup": [
+   "Stand facing the machine, feet hip-width, about 30 cm away.",
+   "Set the damper around 3–5.",
+   "Reach up and take both handles with straight arms and a light grip."
+  ],
+  "cues": [
+   "Hinge from your hips and pull down: hips back, arms drive down past your thighs.",
+   "Crunch your abs slightly at the bottom, with your hands finishing by your hips.",
+   "Rise tall as the handles return and reach high.",
+   "Keep a smooth rhythm, not a snatchy one."
+  ],
+  "mistakes": [
+   "Pulling with your arms only. Fix: hinge and use your hips and abs.",
+   "Squatting deep. Fix: it's a hinge with soft knees.",
+   "Over-gripping. Fix: hold firmly without crushing."
+  ],
+  "arm_safety": "From Grip cleared, with your physio's OK, for steady Zone 2 work. The ski erg pulls the handles down from overhead, so your arms do a lot of the work. Start with 3–5 minutes easy, both hands equally, and build slowly. Keep your wrists straight. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low with a stable stance.",
+  "regressions": [
+   "bike-upright"
+  ],
+  "progressions": [],
+  "dose": "Zone 2: 5–15 min continuous. While learning, try 5–8 rounds of 1 min easy and 1 min rest. Optional swap for the bike from Grip cleared, with your physio's OK. The plan schedules it after full clearance: Tuesdays from Phase 4a, then Wednesdays in Phase 4 (the rower is the alternative).",
+  "video": "https://www.youtube.com/results?search_query=concept2+skierg+technique"
+ },
+ {
+  "id": "battle-ropes",
+  "name": "Battle ropes",
+  "category": "conditioning",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "battle ropes anchored to a post or rack"
+  ],
+  "muscles": [
+   "shoulders",
+   "arms",
+   "forearms",
+   "core",
+   "legs",
+   "heart and lungs"
+  ],
+  "why": "High-output conditioning that builds grip and shoulder endurance. It's a fun way to add intervals once your arm is fully cleared.",
+  "setup": [
+   "Stand facing the anchor with a rope end in each hand and walk back until there's a little slack.",
+   "Athletic stance: feet shoulder-width, knees bent, hips back, chest up.",
+   "Hold the ends firmly but without crushing."
+  ],
+  "cues": [
+   "Make waves from your shoulders with relaxed, fast arms.",
+   "Keep your legs and trunk braced and breathe rhythmically.",
+   "The waves should reach the anchor."
+  ],
+  "mistakes": [
+   "Standing upright with straight legs. Fix: quarter squat, hips back.",
+   "Waves dying halfway. Fix: step closer or shorten the intervals.",
+   "Death grip. Fix: firm but relaxed."
+  ],
+  "arm_safety": "Full clearance only, because it loads your wrists and forearms quickly and repeatedly. Start with short intervals (15 s) of alternating waves, which are gentler than slams. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "ski-erg",
+   "rower"
+  ],
+  "progressions": [],
+  "dose": "6–10 rounds of 15–20 s on and 40–45 s off.",
+  "video": "https://www.youtube.com/results?search_query=battle+ropes+technique+john+brookfield"
+ },
+ {
+  "id": "ruck-loaded",
+  "name": "Loaded ruck",
+  "category": "conditioning",
+  "gate": "full_clearance",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "rucksack with a hip belt",
+   "weight (water bottles, a small sandbag or plates wrapped in a towel)",
+   "hiking boots or trail shoes",
+   "trekking poles (optional)"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "calves",
+   "core",
+   "upper back",
+   "heart and lungs"
+  ],
+  "why": "The most specific training for your hiking goal: walking with a real load. Heavier rucks build the legs, back and lungs you need for multi-day hikes over any terrain.",
+  "setup": [
+   "Pack the weight high and close to your back, between your shoulder blades.",
+   "Tighten the hip belt first so your hips carry most of the load, then the shoulder straps, then the load lifters.",
+   "Pick your route. Start on good paths, then progress to hills, then rough ground."
+  ],
+  "cues": [
+   "Stand tall, with a slight lean forward from the ankles uphill.",
+   "Short steps uphill and downhill, soft knees downhill.",
+   "Breathe steadily and stay in Zone 2 for most of it.",
+   "Look 3–5 m ahead and place your feet deliberately on rough ground."
+  ],
+  "mistakes": [
+   "Weight packed low and loose. Fix: pack it high and tight.",
+   "Adding load too fast. Fix: add 1–2 kg every one to two weeks.",
+   "Hunching under the straps. Fix: hip belt tight, shoulders back."
+  ],
+  "arm_safety": "Full clearance only, for heavier loads and rough terrain, because a fall with a heavy pack lands harder and is harder to recover from. When you're cleared, start where your light ruck left off (about 5 kg, or 5–10% of bodyweight) on good paths. Add 1–2 kg every one to two weeks towards 10–15 kg. Your arm isn't loaded unless you use poles. If you do, keep arm pain within your physio's limit (default 2/10 or less), settled by the next morning. Fall risk is medium. Rough, wet or steep ground with a pack is where falls happen, so pick conditions within your skill.",
+  "regressions": [
+   "ruck-light",
+   "incline-walk",
+   "stair-climber"
+  ],
+  "progressions": [],
+  "dose": "Your weekend long day: about 1¾ h building to 5–6 h in Zone 2. Pack from 6–8 kg, adding 1–2 kg every 2 weeks towards 10–15 kg for multi-day goals.",
+  "video": "https://www.youtube.com/results?search_query=rucking+technique+goruck"
+ },
+ {
+  "id": "med-ball-slam",
+  "name": "Medicine ball slam",
+  "category": "power",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "slam ball (dead, non-bouncing), or a medicine ball thrown against a solid wall"
+  ],
+  "muscles": [
+   "latissimus dorsi",
+   "abdominals",
+   "shoulders",
+   "hips",
+   "legs"
+  ],
+  "why": "Whole-body power. Reaching overhead and slamming down trains fast trunk flexion and hip drive. It's good for conditioning and for letting off steam.",
+  "setup": [
+   "Use a soft-shell, non-bouncing slam ball. A bouncy medicine ball can rebound into your face, so if that's all there is, throw it against a solid wall instead of slamming it.",
+   "Feet shoulder-width, ball held at your chest."
+  ],
+  "cues": [
+   "Reach the ball overhead, rising onto your toes.",
+   "Slam it down in front of your feet using your abs and lats as you hinge at the hips.",
+   "Exhale sharply on the slam.",
+   "Squat down with a flat back to pick it up."
+  ],
+  "mistakes": [
+   "Rounding your back to pick it up. Fix: squat down to it.",
+   "Slamming it onto your toes. Fix: aim 30 cm in front of your feet.",
+   "Using a bouncy ball that rebounds. Fix: use a dead ball."
+  ],
+  "arm_safety": "Full clearance only, because slamming and picking up the ball sends impact through your hands and wrists. Start light (4–6 kg) with 3–5 slams per set. Let the ball stop before you pick it up, and never catch a rebound. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low.",
+  "regressions": [
+   "cable-woodchop",
+   "pallof-press"
+  ],
+  "progressions": [],
+  "dose": "3–5 × 5 slams, 60–90 s rest.",
+  "video": "https://www.youtube.com/results?search_query=medicine+ball+slam+technique+cressey"
+ },
+ {
+  "id": "kb-swing-two-hand",
+  "name": "Two-hand kettlebell swing",
+  "category": "power",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "kettlebell (no kettlebell? a fixed-head dumbbell held by its top end, never a spin-lock dumbbell)",
+   "2 m of clear space all round"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "spinal erectors",
+   "core",
+   "latissimus dorsi",
+   "forearms"
+  ],
+  "why": "Pavel's foundation drill. It's an explosive hip hinge that builds your posterior chain, grip and conditioning together, strength and endurance from one tool. It's your path towards the Simple & Sinister standard.",
+  "setup": [
+   "Start from the kettlebell deadlift. Place the bell about 30 cm in front of your feet, feet slightly wider than your hips.",
+   "Hinge to the bell with a flat back, both hands on the handle, and tilt it towards you. Shoulders packed down, armpits closed.",
+   "Hike it back between your thighs like passing a ball backwards, keeping it high and close to your groin with your forearms against your inner thighs."
+  ],
+  "cues": [
+   "Hinge, don't squat: hips back, shins nearly vertical.",
+   "Snap your hips forward and stand up hard. Glutes, quads and abs tight make a standing plank at the top.",
+   "Your arms are ropes. The bell floats up to chest height on its own.",
+   "Exhale sharply at the top and breathe in as the bell drops.",
+   "Let the bell come to you before you hinge, then hike it high and deep."
+  ],
+  "mistakes": [
+   "Squatting the swing, with your knees forward and the bell low. Fix: push your hips back, and park the bell on the floor between reps (dead swings) to reset your hinge.",
+   "Lifting with your arms or shoulders. Fix: relax your arms and let your hips do it.",
+   "Leaning back at the top. Fix: finish in a vertical plank with your ribs down.",
+   "Hinging too early, so the bell hits your thighs. Fix: wait until your forearms meet your body, then hinge."
+  ],
+  "arm_safety": "Full clearance only. Ballistic swings jolt your grip and forearms at the top and bottom of every rep. When you're cleared, relearn the kettlebell deadlift with 8–12 kg for two weeks, then do dead swings (one swing, park the bell) before continuous sets. Start with a bell you could deadlift easily, often 12–16 kg, with both hands sharing the handle. If you use a dumbbell instead, only use a fixed-head one. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low. Keep 2 m clear all round and park the bell between sets rather than dropping it.",
+  "regressions": [
+   "kb-deadlift",
+   "db-rdl"
+  ],
+  "progressions": [
+   "kb-swing-one-hand"
+  ],
+  "dose": "Start with 5–10 sets of 5–10 swings, resting as needed. Build to 10 swings every minute for 10 minutes.",
+  "video": "https://www.youtube.com/results?search_query=two+hand+kettlebell+swing+strongfirst",
+  "source": "https://www.strongfirst.com/power-rhythm-kettlebell-swing/"
+ },
+ {
+  "id": "kb-swing-one-hand",
+  "name": "One-hand kettlebell swing",
+  "category": "power",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "kettlebell (or a fixed-head dumbbell)",
+   "2 m of clear space all round"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "obliques",
+   "latissimus dorsi",
+   "forearms"
+  ],
+  "why": "Adds anti-rotation and a big grip challenge to the swing, building farmer grip and a resilient trunk. It's half of Pavel's Simple & Sinister programme.",
+  "setup": [
+   "Only once your two-hand swing is crisp. Place the bell 30 cm in front of you, hinge and grip the handle with one hand, thumb wrapped round.",
+   "Let your free arm swing alongside, or keep it by your side, with your shoulders square.",
+   "Hike the bell back high between your thighs."
+  ],
+  "cues": [
+   "Same hinge, same snap, but don't let the bell twist your shoulders.",
+   "Pack the shoulder: lat tight, shoulder away from your ear.",
+   "Standing plank at the top, with a sharp exhale.",
+   "Switch hands every set."
+  ],
+  "mistakes": [
+   "Shoulders rotating with the bell. Fix: brace and keep your chest facing forward.",
+   "Shoulder dragged forward at the bottom. Fix: keep your lat engaged and use a lighter bell.",
+   "Technique changing as your grip tires. Fix: do shorter sets, and more of them."
+  ],
+  "arm_safety": "Full clearance only, and only after a few weeks of solid two-hand swings. One hand takes the whole bell and the twisting force, so your injured hand sets the weight. Start one bell size lighter than your two-hand bell and do your injured hand's sets first. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low. Keep the space clear and park the bell between sets.",
+  "regressions": [
+   "kb-swing-two-hand",
+   "suitcase-carry"
+  ],
+  "progressions": [],
+  "dose": "5–10 sets of 10, alternating hands each set, resting as needed. The long-term Simple standard is 100 swings in 5 min (men 32 kg, women 24 kg).",
+  "video": "https://www.youtube.com/results?search_query=one+arm+kettlebell+swing+strongfirst",
+  "source": "https://www.strongfirst.com/3-month-plan-for-beginner-group-lessons/"
+ },
+ {
+  "id": "turkish-get-up",
+  "name": "Turkish get-up",
+  "category": "core",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "mat",
+   "shoe or empty hand to learn with",
+   "kettlebell or a dumbbell"
+  ],
+  "muscles": [
+   "rotator cuff",
+   "deltoids",
+   "core",
+   "glutes",
+   "hips",
+   "triceps"
+  ],
+  "why": "The other half of Pavel's Simple & Sinister. Getting up from the floor with a weight overhead builds shoulder stability, core strength and the ability to get up off the ground, which is exactly the trust your arm will need to earn back.",
+  "setup": [
+   "Start unloaded: an empty fist, then with a shoe balanced on your fist, before you use any weight.",
+   "Lie on your back. With a bell, roll onto your side and pick it up with both hands (never one-handed from the floor), roll back and press it up with both hands.",
+   "Bend the knee on the same side as the weight with that foot flat. Lay the other leg straight at 45° and the free arm out at 45°."
+  ],
+  "cues": [
+   "Eyes on the bell, or the shoe, the whole time.",
+   "Arm straight and shoulder packed, knuckles to the ceiling.",
+   "Roll up to your elbow, then to your hand, then lift your hips high.",
+   "Sweep the straight leg through to half-kneeling, then stand.",
+   "Reverse every step slowly. That's half the exercise."
+  ],
+  "mistakes": [
+   "Rushing. Fix: slow, deliberate steps with every position held.",
+   "Elbow bent overhead. Fix: lock it out, and go back to a lighter bell or the shoe.",
+   "Bell drifting forward or back. Fix: keep your arm vertical and stacked over your shoulder.",
+   "Picking up or putting down the bell with one hand. Fix: always use two hands and roll to the side."
+  ],
+  "arm_safety": "Full clearance only. The get-up puts weight through the supporting hand and wrist on the floor and holds a weight overhead on the other side. Learn it empty-handed and with a shoe on your fist for several weeks, then move to a light bell (8–12 kg). Practise both sides. When your injured hand is the one on the floor, it takes bodyweight, so begin with partial get-ups (up to the elbow, then up to the hand) before full reps. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium, because you hold a weight overhead while moving from the floor to standing. Keep the space clear and never do get-ups near other people. If it goes wrong, move your body away and let the bell fall. Never try to save it.",
+  "regressions": [
+   "glute-bridge",
+   "side-plank",
+   "db-shoulder-press"
+  ],
+  "progressions": [],
+  "dose": "5 slow singles per side, alternating sides. Use a shoe or an empty hand until every step is smooth.",
+  "video": "https://www.youtube.com/results?search_query=turkish+get+up+strongfirst",
+  "source": "https://www.strongfirst.com/how-heavy-should-i-go-in-a-turkish-get-up/"
+ },
+ {
+  "id": "sandbag-to-shoulder",
+  "name": "Sandbag to shoulder",
+  "category": "power",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "sandbag with handles",
+   "clear floor space"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "spinal erectors",
+   "upper back",
+   "biceps",
+   "core"
+  ],
+  "why": "Lifting an awkward weight from the floor to your shoulder is the most real-world strength skill in your program. It's the strongman-style hip drive behind loading a pack onto your back or a bag into a car boot.",
+  "setup": [
+   "Lay the sandbag flat between your feet, feet a little wider than your hips.",
+   "Squat down, grab the bag's far side or its handles, and lift it onto your thighs as you squat ('lapping' it).",
+   "Hug it into your chest."
+  ],
+  "cues": [
+   "Pull the bag into your lap, then drive your hips forward explosively.",
+   "Turn slightly and pop the bag onto one shoulder as you stand.",
+   "Catch it on your shoulder and stand tall. To put it down, slide it to your chest and squat."
+  ],
+  "mistakes": [
+   "Lifting with a rounded back and straight legs. Fix: squat down and lap it first.",
+   "Curling it up with your arms. Fix: your hips launch it.",
+   "Letting the bag fall from your shoulder near your feet. Fix: control it down, or drop it behind you in a clear space."
+  ],
+  "arm_safety": "Full clearance only, because it's a heavy, sudden pull through both forearms. Start with 10–15 kg, one rep at a time, alternating shoulders. Never try to catch a bag that's falling. Let it go. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium, so use a clear lane and a dry floor.",
+  "regressions": [
+   "sandbag-bear-hug-carry",
+   "db-rdl"
+  ],
+  "progressions": [
+   "sandbag-shoulder-carry"
+  ],
+  "dose": "5 × 1–2 / shoulder, 60–90 s rest.",
+  "video": "https://www.youtube.com/results?search_query=sandbag+to+shoulder+technique+alan+thrall"
+ },
+ {
+  "id": "box-jump-low",
+  "name": "Low box jump",
+  "category": "power",
+  "gate": "full_clearance",
+  "arm_use": "none",
+  "fall_risk": "high",
+  "equipment": [
+   "low plyo box, ideally soft foam (no box? jump-and-stick landings on the floor, or a sturdy low step platform)"
+  ],
+  "muscles": [
+   "quads",
+   "glutes",
+   "calves"
+  ],
+  "why": "Teaches you to produce force fast and land softly, the quick reactions that save you when you misstep on a rock or jump a stream. A low box gives you that without hard landings.",
+  "setup": [
+   "Use a low, stable box (20–40 cm), preferably soft foam, on a non-slip floor. Or practise jump-and-stick landings on the floor first.",
+   "Stand a short step from the box, feet hip-width."
+  ],
+  "cues": [
+   "Swing your arms back, dip, and jump up onto the box.",
+   "Land softly in a half squat, knees over toes, whole foot down.",
+   "Stand tall, then step down. Never jump down.",
+   "Quality beats quantity, so rest between reps."
+  ],
+  "mistakes": [
+   "Landing with your knees caving in. Fix: stick the landing with knees out, on a lower box.",
+   "Box too high, so you land in a deep squat. Fix: a low box is the point.",
+   "Jumping down off the box. Fix: always step down."
+  ],
+  "arm_safety": "Full clearance only. A missed jump is a fall, and the reflex is to put a hand out. Your arms only swing and carry no load, but your injured arm is what a fall would hit. Start with jump-and-stick landings on the floor, then move to a soft, low box. Any arm ache after landing practice means stop. Fall risk is high. Jump only on fresh legs at the start of the session, never when tired, with clear space all round the box.",
+  "regressions": [
+   "db-step-up",
+   "step-up-bw"
+  ],
+  "progressions": [
+   "broad-jump"
+  ],
+  "dose": "3–5 × 3 jumps, 60–90 s full rest.",
+  "video": "https://www.youtube.com/results?search_query=box+jump+technique+squat+university"
+ },
+ {
+  "id": "pogo-hops",
+  "name": "Pogo hops",
+  "category": "power",
+  "gate": "full_clearance",
+  "arm_use": "none",
+  "fall_risk": "medium",
+  "equipment": [
+   "firm, forgiving floor (sprung floor or mat)",
+   "wall or rack within reach"
+  ],
+  "muscles": [
+   "calves",
+   "Achilles tendons",
+   "ankle stabilisers",
+   "quads"
+  ],
+  "why": "Builds springy, stiff ankles and Achilles tendons that absorb thousands of steps and cope with downhills and uneven ground. Think of it as tendon training for your hiking feet.",
+  "setup": [
+   "Stand tall, feet hip-width, on a firm but forgiving floor.",
+   "Arms relaxed. Stand within reach of a wall or rack at first."
+  ],
+  "cues": [
+   "Small, quick bounces off the balls of your feet, like skipping without a rope.",
+   "Knees nearly straight. Your ankles are the springs.",
+   "Quiet landings, and stay tall."
+  ],
+  "mistakes": [
+   "Heels slamming down. Fix: stay on the balls of your feet.",
+   "Bending your knees deeply. Fix: keep the spring at the ankle.",
+   "Going on too long. Fix: stop when the bounce gets heavy."
+  ],
+  "arm_safety": "Full clearance only, because it's impact and you can lose balance. Your arms aren't used, but a stumble could make you put a hand out, so start within reach of a wall with 10-contact sets. Any arm ache means stop. Fall risk is medium.",
+  "regressions": [
+   "calf-raise-single-bw",
+   "calf-raise-leg-press"
+  ],
+  "progressions": [
+   "box-jump-low"
+  ],
+  "dose": "3 × 10–20 contacts, 60 s rest. Build to 3 × 30.",
+  "video": "https://www.youtube.com/results?search_query=pogo+hops+progression+e3+rehab"
+ },
+ {
+  "id": "broad-jump",
+  "name": "Broad jump",
+  "category": "power",
+  "gate": "full_clearance",
+  "arm_use": "none",
+  "fall_risk": "high",
+  "equipment": [
+   "non-slip floor or turf with about 5 m clear"
+  ],
+  "muscles": [
+   "glutes",
+   "hamstrings",
+   "quads",
+   "calves"
+  ],
+  "why": "Forward power for clearing streams and ditches, and a test of how well you produce and absorb force. Done for low reps with full rest.",
+  "setup": [
+   "Stand behind a line, feet hip-width, on a non-slip surface with clear space ahead."
+  ],
+  "cues": [
+   "Swing your arms back as you hinge, then swing them forward as you jump out.",
+   "Land softly in a half squat, both feet at once, knees over toes.",
+   "Hold the landing for 2 s before you walk back."
+  ],
+  "mistakes": [
+   "Landing stiff-legged. Fix: absorb the landing into a half squat.",
+   "Falling forward on landing. Fix: jump a shorter distance and hold the landing.",
+   "Knees caving on landing. Fix: land with your knees out."
+  ],
+  "arm_safety": "Full clearance only. The landing is where people tip forward and put their hands down. Start with half-effort jumps and only add distance once you're holding every landing. Any arm ache means stop. Fall risk is high, so jump on fresh legs, early in the session, on a non-slip surface.",
+  "regressions": [
+   "box-jump-low"
+  ],
+  "progressions": [],
+  "dose": "3–5 × 3 jumps, full rest.",
+  "video": "https://www.youtube.com/results?search_query=standing+broad+jump+technique+e3+rehab"
+ },
+ {
+  "id": "copenhagen-plank-short",
+  "name": "Copenhagen plank (short lever)",
+  "category": "hip",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "low",
+  "equipment": [
+   "flat bench",
+   "mat"
+  ],
+  "muscles": [
+   "adductors",
+   "obliques",
+   "glute medius"
+  ],
+  "why": "Strong inner thighs protect your groin and steady your hips and knees on uneven ground and descents. In a large trial in footballers, a programme built on the Copenhagen adductor exercise lowered the risk of groin problems by 41%.",
+  "setup": [
+   "Lie on your side next to a bench with your forearm on the floor under your shoulder.",
+   "For the short lever, rest the inside of your top knee on the bench. The bottom leg hangs free underneath."
+  ],
+  "cues": [
+   "Lift your hips until your body is straight from shoulder to knee.",
+   "Press the top knee down into the bench.",
+   "Keep breathing as you hold, or lower and lift slowly."
+  ],
+  "mistakes": [
+   "Hips sagging. Fix: do shorter holds.",
+   "Bench too high. Fix: use a lower bench or step.",
+   "Moving to the long lever (foot on the bench) too early. Fix: master the knee version first."
+  ],
+  "arm_safety": "Full clearance only. Like a side plank, your upper body rests on your forearm and elbow. Start with short holds (10–15 s), uninjured side first. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is low. Before then, side-lying and cable adduction work cover your adductors.",
+  "regressions": [
+   "side-lying-hip-adduction",
+   "cable-hip-adduction-ankle",
+   "side-plank"
+  ],
+  "progressions": [],
+  "dose": "2–3 × 15–20 s / side, or 2–3 × 5–8 slow reps / side, 2–3 times a week.",
+  "video": "https://www.youtube.com/results?search_query=copenhagen+plank+short+lever+e3+rehab",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/29891614?format=json&resultType=core"
+ },
+ {
+  "id": "nordic-curl-assisted",
+  "name": "Assisted Nordic curl",
+  "category": "hip",
+  "gate": "full_clearance",
+  "arm_use": "both",
+  "fall_risk": "medium",
+  "equipment": [
+   "pad or folded mat for your knees",
+   "an ankle anchor: a partner, a padded fixed bar, or a loaded Smith bar set low",
+   "band for assistance (or a partner)"
+  ],
+  "muscles": [
+   "hamstrings",
+   "glutes",
+   "calves"
+  ],
+  "why": "The hamstring injury-prevention exercise with the best evidence behind it, and strong, long hamstrings take the strain of long downhill days. The assisted version lets you control the lowering.",
+  "setup": [
+   "Kneel on a pad and anchor your ankles under something secure: a partner, a padded bar, or a loaded Smith bar set low.",
+   "Body straight from knees to head with your hips extended. Cross your arms or hold your hands ready in front of your chest.",
+   "Optional assistance: a band from a high anchor around your chest, or a partner."
+  ],
+  "cues": [
+   "Lower yourself forward as slowly as you can with your hips straight. Don't bend at the waist.",
+   "Fight the fall all the way down, then catch yourself softly on both hands in a push-up position.",
+   "Push back up gently with your hands and return to the top."
+  ],
+  "mistakes": [
+   "Bending at the hips to cheat. Fix: keep a straight line from knee to shoulder.",
+   "Dropping fast at the end. Fix: use a shorter range at first, or more band help.",
+   "Too many reps too soon, leaving your hamstrings very sore for days. Fix: start with 2 × 3."
+  ],
+  "arm_safety": "Full clearance only, because every rep ends with you catching yourself on your hands. When you're cleared, use a band or partner so you never land hard, and keep the range short at first. Arm rule: stay within your physio's pain limit (if you haven't been given one, 2/10 or less during the set), settled by the next morning, no new swelling. Fall risk is medium by design, because you're falling under control. Land on soft hands with your elbows bent.",
+  "regressions": [
+   "hamstring-curl",
+   "glute-bridge-single-leg"
+  ],
+  "progressions": [],
+  "dose": "2 × 4–6 slow lowers, 1–2 times a week. Expect sore hamstrings after the first sessions.",
+  "video": "https://www.youtube.com/results?search_query=assisted+nordic+curl+progression+squat+university",
+  "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/30808663?format=json&resultType=core"
+ }
+]

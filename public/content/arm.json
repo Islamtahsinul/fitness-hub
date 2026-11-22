@@ -1,0 +1,336 @@
+{
+ "red_flags": [
+  {
+   "id": "pain_increasing",
+   "label": "Arm pain getting worse instead of better, or new pain at rest or at night",
+   "action": "No training today, including your physio exercises, until you've been advised. Phone your fracture clinic today (NHS 111 out of hours): rising pain can be the first sign of infection, especially after surgery or an open fracture. Go to A&E without driving yourself, or call 999, if the pain is sudden and severe, or comes with a fever, numbness, a pale or cold hand, or a change in the arm's shape. Don't take extra painkillers just so you can keep training. The check-in also watches your arm pain score: 7/10 or more makes the day RED, and a score 2 or more points above your 7-day average makes it AMBER with a reminder to call. Don't wait for the numbers, though: if the pain is clearly getting worse, tick this flag."
+  },
+  {
+   "id": "swelling_new",
+   "label": "New or increasing swelling of the forearm, wrist, hand or fingers",
+   "action": "Raise the arm above heart level, and take off any rings on your injured hand and anything tight on that arm. No training today, including your physio exercises, until you've been advised. Phone your fracture clinic today (NHS 111 out of hours). Swelling with warmth or redness may be infection, so don't wait. Go to A&E or call 999 if it comes with severe or rapidly worsening pain, numbness, or a pale, blue or cold hand."
+  },
+  {
+   "id": "redness_heat",
+   "label": "Redness, heat, or a hot, tender patch around the scar or over the bone (possible infection)",
+   "action": "Treat this as a possible infection. No training today, including your physio exercises, until you've been advised. After surgery (for example plates and screws) or an open fracture, infection can appear weeks or months later, even after the wound looked healed. Phone your fracture clinic the same day and don't wait to see if it settles (NHS 111 out of hours). Call 999 or go to A&E for any sign of sepsis: very fast breathing; confusion, slurred speech or not making sense; blue, pale or blotchy skin; a very high or very low temperature, or feeling hot, cold or shivery; or a rash that doesn't fade when pressed."
+  },
+  {
+   "id": "wound_discharge",
+   "label": "Fluid, pus, bleeding or a bad smell from the scar, or a scab or hole that keeps reopening",
+   "action": "Treat it as a possible deep infection until a clinician says otherwise. No training today, including your physio exercises, until you've been advised. A leaking channel to the skin, or a wound that breaks down, is one of the signs doctors take most seriously after a fracture operation or an open fracture. Don't squeeze it. Cover it with a clean, dry dressing, take a dated photo, and phone your fracture clinic today (NHS 111 out of hours). Don't take leftover antibiotics. Any sign of sepsis (very fast breathing, confusion, blotchy or blue skin, shivering, a rash that doesn't fade) means 999."
+  },
+  {
+   "id": "fever_unwell",
+   "label": "Fever, shivers, feeling hot and cold, or generally unwell",
+   "action": "No training today, including your physio exercises, until you've been advised. Call NHS 111 now, or your fracture clinic in working hours, and tell them you have a healing fracture, and whether it was open or fixed with plates or screws. Call 999 or go to A&E straight away if you feel very unwell or think it could be sepsis, especially with very fast breathing; confusion, slurred speech or not making sense; blue, pale or blotchy skin; a very high or very low temperature with shivering; or a rash that doesn't fade when pressed."
+  },
+  {
+   "id": "numbness_tingling",
+   "label": "New or worsening numbness, tingling, pins and needles or weakness in the hand, thumb or fingers",
+   "action": "Loosen anything tight, such as a strap, sleeve or watch. No training today, including your physio exercises, until you've been advised. Go to A&E or call 999 if it's sudden, severe or spreading, or comes after a fall, with new swelling, or with a pale, blue or cold hand. Otherwise, phone your fracture clinic today (NHS 111 out of hours). Write down which fingers are affected, whether it's the palm side or the back of the hand, and when it happens."
+  },
+  {
+   "id": "colour_cold",
+   "label": "Hand or fingers pale, blue, grey, mottled or cold, or colour, temperature or sweating changes with burning pain",
+   "action": "If the fingers suddenly go pale, blue, grey or cold, call 999 or go to A&E, because this can mean a circulation problem. If the changes come and go with burning pain, extreme sensitivity to touch, unusual sweating, or changes to the skin, hair or nails (possible complex regional pain syndrome), contact your fracture clinic or GP within the next few days. Don't wait for your next review, because early treatment matters. Either way, no training, including your physio exercises, until you've been advised."
+  },
+  {
+   "id": "deformity_give",
+   "label": "A new bend, bump, clunk or grinding, a feeling that the arm 'gives', or a plate or screw pressing on the skin",
+   "action": "Stop using the arm, support it on a pillow or in a sling, and go to A&E without driving yourself (999 if the pain is severe or the hand is numb, pale or cold). These signs can mean the healing bone, or a plate or screw if you have them, has failed. No training, including your physio exercises, until you've been checked. If the skin over a plate or screw is thinning, red or broken, phone the clinic the same day (A&E out of hours), because exposed metalwork is an infection risk."
+  },
+  {
+   "id": "fall_on_arm",
+   "label": "A fall, knock or heavy jolt onto the injured arm, even if it feels fine",
+   "action": "No training, including your physio exercises, until you've spoken to the clinic. If you have pain, swelling, a change in shape or numbness, or you can't move the arm normally, go to A&E without driving yourself (999 if it's severe). If it feels fine, still phone your fracture clinic the same or the next working day, because they may want to X-ray the bone and any plates or screws."
+  }
+ ],
+ "clinic_questions": [
+  {
+   "topic": "Ask first: your top 8, in order",
+   "question": "1. Physio: Can you refer me to physiotherapy or hand therapy today? Who will contact me and when, should I start anything before then, and who do I call if I've heard nothing in two weeks?",
+   "why": "If you haven't been referred yet, this comes first: your physio will lead all rehab for the injured arm. After a forearm fracture, rotation and grip are usually the slowest things to come back, and NHS physio can have a long waiting list, so getting the referral moving is the most valuable thing this visit can do. If they won't refer you, ask why, and whether you can refer yourself to NHS musculoskeletal (MSK) physio, which some areas allow. When your physio gives you exercises, enter them under Your physio exercises on this page: once Light use / rehab started is set too, that's when the hub's daily physio slot appears.",
+   "id": "q01-1-physio-can-you-refer"
+  },
+  {
+   "topic": "Ask first: your top 8, in order",
+   "question": "2. Healing: Has the bone (or have the bones) united on today's X-ray? If more than one bone broke, how far along is each one? When is my next X-ray or review?",
+   "why": "Every gate depends on the bone uniting, and if more than one bone broke, one can lag behind. The answer tells you whether the next gate is weeks or months away. Add the next review to Appointments before you leave.",
+   "id": "q02-2-healing-united"
+  },
+  {
+   "topic": "Ask first: your top 8, in order",
+   "question": "3. Infection: Is the skin fully healed, including any wound or scar and the skin over any plates or screws? Is there any sign of infection? Exactly which symptoms should make me call you, NHS 111 or 999? What is your direct number?",
+   "why": "Infection is the complication to respect most after surgery with metalwork or an open fracture, and it can appear late. Your team's own warning signs, and a direct number saved in your phone, matter more than any training plan.",
+   "id": "q03-3-infection-are-the-wound"
+  },
+  {
+   "topic": "Ask first: your top 8, in order",
+   "question": "4. Daily use: What can I use my injured arm for right now, such as dressing, typing, carrying a light bag or wearing a light rucksack? Is there a weight limit in kilograms?",
+   "why": "This turns 'take it easy' into numbers you can follow. Set Light use / rehab started only if they also say yes to training your other arm (question 5): the gates build on each other, so it also unlocks other-arm weights and the good-arm sessions, as well as a light day pack and the couch stretch. Light use without that yes means you set nothing and follow their daily-use advice. Write any kg limit in the appointment outcome.",
+   "id": "q04-4-daily-use-what-can"
+  },
+  {
+   "topic": "Ask first: your top 8, in order",
+   "question": "5. Good arm: Can I train my other arm with weights, seated machines and dumbbells, two or three times a week at moderate effort, breathing out and never straining? Are there any limits on hard leg training or bike intervals?",
+   "why": "A yes means you set Good arm OK, which unlocks other-arm weights, the good-arm sessions and good-hand grip readings. It's also what lets you set Light use / rehab started if they allow light use of the injured arm. Training the good arm may help the injured arm keep some strength (cross-education). The second part confirms that your current leg and bike sessions are fine while the bone heals.",
+   "id": "q05-5-good-arm-can-i"
+  },
+  {
+   "topic": "Ask first: your top 8, in order",
+   "question": "6. Gripping: When can I start gripping and holding light weights with my injured hand, for example a 2–5 kg dumbbell? What do you or the physio need to see first?",
+   "why": "This decides Grip cleared, which opens Phase 2a and the injured-hand grip readings on this page. Asking what they need to see (union on X-ray, range of movement, grip strength) gives you concrete targets. In the hub, holds and carries also follow the grip ladder.",
+   "id": "q06-6-gripping-when-can-i"
+  },
+  {
+   "topic": "Ask first: your top 8, in order",
+   "question": "7. Plates (if you have any): Will the metalwork stay in for good, and is anything about it worrying you, such as loosening, or a plate I can feel or that rubs? A hard fall can break the bone at the end of a plate, so are there any long-term limits I should keep to? If removal were ever suggested, how long would I need to protect the arm afterwards?",
+   "why": "Forearm plates usually stay in. The ends of a plate are stress risers: the bone goes from stiff to normal there, so a hard fall can break it just beyond the plate. Removing plates brings a temporary re-fracture risk, mostly in the first few months afterwards, which would move your gates back. Knowing the plan now avoids surprises. If you didn't have surgery, ask instead whether anything about how the bone is healing means long-term limits.",
+   "id": "q07-7-plates-staying-in"
+  },
+  {
+   "topic": "Ask first: your top 8, in order",
+   "question": "8. In writing: Could you put my restrictions, what I'm allowed to do and any dates in the clinic letter, and send me a copy?",
+   "why": "Written instructions stop you misremembering, and you'll set your hub gates from them. The hub only records clearances dated today or earlier, so if they give you a future date, record the gate on that day.",
+   "id": "q08-8-in-writing-could-you"
+  },
+  {
+   "topic": "If there's time: healing, wound and plates",
+   "question": "Is anything on the X-ray worrying you, such as slow healing, a gap, or any loose or broken screws?",
+   "why": "Open fractures carry a higher risk of slow healing. If something needs watching, you'll want to know what would change the plan and when it will be checked again.",
+   "id": "q09-is-anything-on-the-xray"
+  },
+  {
+   "topic": "If there's time: healing, wound and plates",
+   "question": "Is there anything about my injury, such as an open fracture (and its grade), a skin graft or a tendon or nerve repair, that changes my rehab or my timeline?",
+   "why": "More soft-tissue damage usually means slower, more specialised rehab. It also helps you read the typical timelines in chapter 18 for your own case.",
+   "id": "q10-is-there-anything-about-my"
+  },
+  {
+   "topic": "If there's time: healing, wound and plates",
+   "question": "Is any nerve affected, given the numbness, tingling or weakness I have (or don't have)? What recovery should I expect, and what would be a reason to call?",
+   "why": "Nerves recover slowly, at about 1 mm a day. Knowing your baseline lets you spot anything new or worsening, which is a red flag.",
+   "id": "q11-is-any-nerve-affected-given"
+  },
+  {
+   "topic": "If there's time: healing, wound and plates",
+   "question": "How should I look after the scar now, if I have one (massage, silicone, sun protection)? Is it fine in the gym shower, a pool or a sauna?",
+   "why": "Scar massage starts only once the wound has fully healed. Pools, baths and saunas are worth checking with your own team after an open wound.",
+   "id": "q12-how-should-i-look-after"
+  },
+  {
+   "topic": "If there's time: movement, grip and loading",
+   "question": "Can I move my wrist and forearm freely on my own (bending, straightening and turning the palm up and down) before physio starts? Are there any movements to avoid?",
+   "why": "Turning the palm up and down is often the slowest movement to return after a forearm fracture. The hub never prescribes arm exercises, so anything you do at home needs their yes, and goes under Your physio exercises.",
+   "id": "q13-can-i-move-my-wrist"
+  },
+  {
+   "topic": "If there's time: movement, grip and loading",
+   "question": "When could I carry heavier loads in my injured hand, such as shopping bags, a 10–20 kg dumbbell or a sandbag?",
+   "why": "Farmer-style carrying is one of the programme's main goals. On the hub's grip ladder, moderate farmer's carries need at least 80% of the good hand, and heavy carries need at least 90% plus Full clearance. If you're right-handed and the injured hand is your weaker one, it was probably only about 87–89% of the other before the injury, so ask how they'd like you to read that.",
+   "id": "q14-when-could-i-carry-heavier"
+  },
+  {
+   "topic": "If there's time: movement, grip and loading",
+   "question": "When could I hang from a bar, starting with my feet on the floor and moving on to full hangs?",
+   "why": "Hanging pulls on the healing bones and needs good grip. In this programme all hanging, including feet-supported hangs, needs Full clearance and grip of at least 90% of the good hand.",
+   "id": "q15-when-could-i-hang-from"
+  },
+  {
+   "topic": "If there's time: movement, grip and loading",
+   "question": "When can I put weight through my hands, starting with wall presses and then push-ups and planks? Should I use fists or dumbbell handles to keep the wrist straighter?",
+   "why": "Practice varies between surgeons. The hub keeps floor weight-bearing at Full clearance unless your physio grades it earlier. Physio-graded wall presses unlock at Grip cleared.",
+   "id": "q16-when-can-i-put-weight"
+  },
+  {
+   "topic": "If there's time: hiking, falls and packs",
+   "question": "What would happen if I fell on this arm now? Until when should I avoid fall risks such as icy paths, wet leaves, outdoor cycling or jumping?",
+   "why": "A fall is the most likely way to re-injure the arm, especially in icy or leafy weather. Your answer decides when impact work and riskier terrain unlock.",
+   "id": "q17-what-would-happen-if-i"
+  },
+  {
+   "topic": "If there's time: hiking, falls and packs",
+   "question": "Can I walk on hills, rough paths, mud or wet rock? Can I use a walking pole in my uninjured hand now, and when could I use poles in both hands?",
+   "why": "All-terrain hiking is one of the programme's main goals, and a trip on rough ground is the most likely way to fall on the arm. Poles need grip and put load through the wrist, so in the hub two poles wait for Grip cleared, 70% grip and your physio's OK.",
+   "id": "q18-can-i-walk-on-hills"
+  },
+  {
+   "topic": "If there's time: hiking, falls and packs",
+   "question": "Can I wear a light rucksack with a hip belt, and thread my injured arm through the strap without gripping? Is there a pack-weight limit for now?",
+   "why": "Until Light use / rehab started, the hub's carrying rule (chapter 18) allows only a waist pack on walks (2 kg or less) and a light bag of 3 kg or less on the shoulder of your uninjured side in daily life. From Light use / rehab started, a light day pack goes on both shoulders: 2–4 kg to start, put on sitting down, uninjured arm first, with the hip belt fastened. Getting a pack on and off moves the arm, and a heavier pack makes a fall land harder.",
+   "id": "q19-can-i-wear-a-light"
+  },
+  {
+   "topic": "If there's time: daily life, work and medicines",
+   "question": "Are there work or home tasks I should avoid or change for now, such as lifting, long spells of typing, using tools or driving?",
+   "why": "Daily tasks load the arm too, not just training. The UK open-fracture standard (BOAST) says patients should get advice on returning to work and driving.",
+   "id": "q20-are-there-work-or-home"
+  },
+  {
+   "topic": "If there's time: daily life, work and medicines",
+   "question": "Is it OK to take ibuprofen or other anti-inflammatories? Are vitamin D, calcium and creatine fine while the bone heals?",
+   "why": "The evidence on anti-inflammatories and bone healing is mixed, so check before using them regularly. It's also worth checking your supplements with the people treating your bone.",
+   "id": "q21-is-it-ok-to-take"
+  }
+ ],
+ "healing_stages": [
+  {
+   "stage": "1. Inflammation and emergency care",
+   "typical_timing": "Days 0–7 after the injury. Timings vary from person to person.",
+   "what_happens": "A blood clot forms around the break, and inflammatory cells clean up and signal repair. With an open fracture, this is when urgent antibiotics, surgical cleaning of the wound (debridement) and stabilisation happen. If the fracture needs surgery, it's often fixed with plates and screws, either at the first operation or soon after; otherwise a cast or splint holds it.",
+   "training_implications": "No arm training of any kind. Only gentle walking, if your team advised it."
+  },
+  {
+   "stage": "2. Repair: soft callus and wound healing",
+   "typical_timing": "About weeks 1–6. Timings vary from person to person.",
+   "what_happens": "New blood vessels and cartilage-like tissue begin to bridge the break. If plates hold the bone very rigidly, it may heal directly with little visible callus. Any skin wound heals over these weeks.",
+   "training_implications": "The arm does only what the fracture team prescribes, often finger, elbow and shoulder movement. Low-fall-risk, arm-free leg, cardio and core work fits here (available now, no clearance needed). Weights for your other arm wait for Good arm OK."
+  },
+  {
+   "stage": "3. Repair: hard callus and bony bridging",
+   "typical_timing": "About weeks 6–16, and often longer after open fractures. Timings vary from person to person.",
+   "what_happens": "The soft callus turns into woven bone. On X-ray, callus starts to bridge the gaps or the fracture lines start to fade. The bone is getting stronger but isn't at full strength yet.",
+   "training_implications": "This usually matches Phases 0–1 of the hub: legs, engine and arm-free core. Clinics often allow light use and refer to physio at this stage. Good arm OK adds other-arm weights, the good-arm sessions and good-hand grip readings. Light use / rehab started unlocks all of that as well, because the gates build on each other, so set it only if the clinic also OK'd training your other arm. On top, it allows a light day pack and the couch stretch, and the daily 'Your physio's programme' slot appears once you've entered your physio's exercises on the Your arm page: do them exactly as prescribed, within the arm pain rule. Still no gripping weights, no weight through the hand, no hanging and no impact."
+  },
+  {
+   "stage": "4. Union: healing on X-ray and in clinic",
+   "typical_timing": "Commonly about 3–6 months for adult forearm shaft fractures fixed with plates. Open fractures, infection or smoking can push it later. The X-ray at your next fracture-clinic appointment shows where you are. Timings vary from person to person.",
+   "what_happens": "The broken bone (or each broken bone) shows bridging across most of its cortices (the outer walls of the bone) on two X-ray views, and the fracture site is no longer tender. The bone keeps getting stronger after this point.",
+   "training_implications": "Physio usually progresses grip and strength now (Grip cleared). In the hub that opens Phase 2a, two weeks of machines and cables with both hands, then free weights in Phases 2–3, plus physio-graded wall presses and injured-hand grip readings on the Your arm page. Light holds and carries begin once your injured hand is at least 70% of your other hand and your physio agrees, and moderate farmer's carries follow from 80%. Floor push-ups and planks, hanging and impact still wait for Full clearance."
+  },
+  {
+   "stage": "5. Consolidation and return to loading",
+   "typical_timing": "About 4–12 months after the injury. Timings vary from person to person.",
+   "what_happens": "Woven bone is replaced by stronger, organised (lamellar) bone, while muscle, tendon and grip strength rebuild. Grip and rotation strength often lag behind the other arm for months. In one study, adults averaged 68–75% of the other side's grip and rotation strength about 5 years after plating, which is why structured strength work matters.",
+   "training_implications": "Once you're fully cleared (Full clearance), the hub finishes Phases 2a–3 and then runs the 4-week Phase 4a bridge: push-up and plank progressions, feet-supported hangs, loaded rucking and rough terrain, all started small. Heavy carries and hanging also need grip of at least 90% of the good hand, which, if the injured hand is your weaker one, is close to a full recovery. Progress one variable at a time."
+  },
+  {
+   "stage": "6. Remodelling",
+   "typical_timing": "Months to 1–2 years or more. Timings vary from person to person.",
+   "what_happens": "The bone slowly reshapes itself to the loads you put through it. Scars mature and fade, which can take two years or more. Plates, if you have them, usually stay in for life.",
+   "training_implications": "Long-term farmer strength and hiking progression. If a plate is ever removed, the bone is weaker for a while: in older studies most re-fractures came in the first few months after removal, and none after about 40 weeks. Follow your surgeon's protection advice, and remove the higher gate dates in the hub until they clear you again."
+  }
+ ],
+ "measurements": [
+  {
+   "id": "pain_rest",
+   "name": "Arm pain at rest",
+   "unit": "/10",
+   "how": "Each morning before training: sit still for a minute, then rate the injured arm 0–10. Same time and position daily.",
+   "reference": "The trend should be flat or falling. Your morning check-in's arm pain score drives readiness: 4/10 or more makes the day AMBER (easy day), and 7/10 or more makes it RED (no training; call the clinic today). A score 2 or more points above its 7-day average (once there are 3 earlier readings) also makes it AMBER, because rising pain can be the red flag 'pain getting worse': if it keeps rising, or you're unsure, call your fracture clinic today. New pain at rest or at night means ticking that red flag. Source: NHS, Broken arm or wrist; chapter 18."
+  },
+  {
+   "id": "pain_activity",
+   "name": "Arm pain with daily use or physio exercises",
+   "unit": "/10",
+   "how": "Each evening: the highest injured-arm pain today from daily tasks or physio exercises, 0–10. Note the cause.",
+   "reference": "The arm pain rule: follow your physio's limit. If you weren't given one, keep pain at 2/10 or below during the exercise, back to your usual level by the next morning. Never train through pain that's increasing. If something breaks the rule, stop it and tell your physio. Expert opinion."
+  },
+  {
+   "id": "pain_night",
+   "name": "Night pain (injured arm)",
+   "unit": "/10",
+   "how": "On waking: the worst arm pain that disturbed last night's sleep, 0–10. Enter 0 if none.",
+   "reference": "Night pain that's new or getting worse can be a sign of infection, slow healing or an irritated nerve. Treat it as the 'pain getting worse' red flag and phone the clinic. Expert opinion."
+  },
+  {
+   "id": "swelling_score",
+   "name": "Swelling (hand and forearm)",
+   "unit": "0–3",
+   "how": "Both hands side by side: 0 none, 1 slight (creases clear), 2 moderate (creases faint), 3 marked or spreading.",
+   "reference": "Use good light. Mild swelling after a busy day that settles overnight with the arm raised is common. Swelling that's new or increasing means ticking the new-swelling red flag, and same-day advice if it comes with warmth or redness. Expert opinion; NHS, Broken arm or wrist."
+  },
+  {
+   "id": "grip_injured_kg",
+   "name": "Grip strength (injured hand)",
+   "unit": "kg",
+   "how": "From Grip cleared. Your physio measures it; no max squeezes at home until they say so. Seated, elbow 90° at your side; best of 3.",
+   "reference": "Alternate hands, breathe out as you squeeze. Grip ladder (injured ÷ good hand × 100): 70% light holds and carries (with Grip cleared and your physio's OK); 80% moderate farmer's carries; 90% heavy carries and hanging (with Full clearance). A rule of thumb (expert opinion). In right-handers the dominant hand averaged about 13% stronger (Petersen 1989), so if the injured hand is your weaker one, 90% means close to full recovery. Plateau in the high 80s? Ask your physio, whose judgement overrides the hub. The hub opens this reading at Grip cleared: if your physio measures it before then, write their figure in the appointment outcome. Sources: chapter 18."
+  },
+  {
+   "id": "grip_good_kg",
+   "name": "Grip strength (good hand)",
+   "unit": "kg",
+   "how": "From Good arm OK. Same device and set-up as the injured hand: seated, elbow 90° at your side, breathe out; best of 3.",
+   "reference": "The benchmark for your injured hand. It opens at Good arm OK, because a maximal squeeze is training for that arm. Good-arm training will raise it, so retest every 4 weeks, and test both hands on the same day, not straight after a grip session. UK peak grip norms: about 51 kg for men and 31 kg for women (Dodds 2014). Always the same device and protocol (Roberts 2011). Sources: chapter 18."
+  },
+  {
+   "id": "wrist_flex_deg",
+   "name": "Wrist flexion (bending the hand down, injured side)",
+   "unit": "°",
+   "how": "Physio's figure, or with their OK: forearm on a table, palm down, phone level on the hand; bend down gently.",
+   "reference": "Only as far as is comfortable, never pushed with the other hand; repeat on your other side, your best target. Most daily tasks need about 40° (Ryu 1991). Self-measured smartphone readings were within about 2° of a goniometer (Modest 2019). Sources: chapter 18."
+  },
+  {
+   "id": "wrist_ext_deg",
+   "name": "Wrist extension (bending the hand back, injured side)",
+   "unit": "°",
+   "how": "From Light use / rehab started, or your physio's figure. Set-up as for flexion; lift the hand up gently, fingers relaxed.",
+   "reference": "Repeat on your other side. Most daily tasks need about 40° (Ryu 1991). Push-ups, planks and pushing up from the floor need much more extension under load, one reason they unlock last (expert opinion). Sources: chapter 18."
+  },
+  {
+   "id": "pronation_deg",
+   "name": "Forearm pronation (turning the palm down, injured side)",
+   "unit": "°",
+   "how": "Physio's figure, or: elbow 90° tucked in, thumb up, phone across the wrist; turn the palm down gently.",
+   "reference": "Record the angle from thumb-up. Most daily activities need about 50° (Morrey 1981). Adults averaged about 91% of the other side's range 5 years after both-bone plating (Droll 2007). Self-measured rotation is unreliable (Alford 2021), so trust your physio's numbers for trends. Sources: chapter 18."
+  },
+  {
+   "id": "supination_deg",
+   "name": "Forearm supination (turning the palm up, injured side)",
+   "unit": "°",
+   "how": "Physio's figure, or: elbow 90° tucked in, thumb up, phone across the inner wrist; turn the palm up gently.",
+   "reference": "Record the angle from thumb-up. Most daily activities need about 50° (Morrey 1981): carrying a tray, receiving change, turning a key. Often the slowest movement to return; adults averaged about 90% of the other side long term after plating (Droll 2007). Sources: chapter 18."
+  },
+  {
+   "id": "fingertip_palm_cm",
+   "name": "Fingertip-to-palm gap (loose fist)",
+   "unit": "cm",
+   "how": "Only if your team allows finger movement. Gentle fist, no squeezing: middle fingertip to palm crease. 0 = full fist.",
+   "reference": "Stiff fingers are common after forearm injuries and respond best to early, physio-guided work. A gap that's getting bigger is worth reporting. Expert opinion."
+  },
+  {
+   "id": "wrist_circ_injured_cm",
+   "name": "Wrist circumference (injured side)",
+   "unit": "cm",
+   "how": "Soft tape at the main wrist crease. Same spot, time of day and snug (not tight) tension every time.",
+   "reference": "Measure just above the wrist bones. Compare with your usual reading and your other side. A clear increase matters more than any single number, especially with pain, warmth or redness (the swelling and redness red flags). Expert opinion."
+  },
+  {
+   "id": "wrist_circ_good_cm",
+   "name": "Wrist circumference (good side)",
+   "unit": "cm",
+   "how": "Exactly as for the injured side: same landmark, time of day and tension.",
+   "reference": "The baseline for spotting swelling on the injured side. Expert opinion."
+  },
+  {
+   "id": "forearm_circ_injured_cm",
+   "name": "Forearm girth (injured side)",
+   "unit": "cm",
+   "how": "Arm relaxed on a table: tape round the forearm a fixed distance (e.g. 10 cm) below the elbow crease.",
+   "reference": "Use the same landmark as the forearm measurement on the Progress page. Some muscle loss after an injury is normal: forearm muscle thickness fell in casting studies without training (Farthing 2009). Girth should creep back up during grip and strength rehab. Sources: chapter 18."
+  },
+  {
+   "id": "forearm_circ_good_cm",
+   "name": "Forearm girth (good side)",
+   "unit": "cm",
+   "how": "Exactly as for the injured side: same distance below the elbow crease.",
+   "reference": "Your target for the injured side. Expect it to grow with good-arm training once Good arm OK is set. Expert opinion."
+  },
+  {
+   "id": "prwe_total",
+   "name": "PRWE score (Patient-Rated Wrist Evaluation)",
+   "unit": "/100",
+   "how": "Only if your physio uses the PRWE questionnaire: log the total they give you (0–100, lower is better).",
+   "reference": "15 questions: pain out of 50 plus function out of 50. A reliable wrist pain and disability questionnaire (test–retest ICC above 0.90; MacDermid 1998). Track the trend with your physio rather than chasing a number."
+  }
+ ],
+ "appointments_default": [
+  {
+   "date": null,
+   "type": "Fracture clinic",
+   "notes": "Your next fracture-clinic appointment: set the date, and add the time and place from your letter. Bring the printed questions (top 8 first), your medicines and supplements list, letters and any dated scar photos. Wear a loose sleeve, with no watch or rings on the injured side, and arrive early in case they X-ray you first. Afterwards, use the answers-to-gates table in chapter 18: set Light use / rehab started only if they also OK'd training your other arm, because it unlocks other-arm weights and the good-arm sessions too."
+  }
+ ]
+}
